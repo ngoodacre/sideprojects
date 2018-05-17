@@ -1,0 +1,83 @@
+semi-conserved (#s for wild-type)
+27,28,29,35,40,42,44,46,49,50,51,58,61,64,65,71,72,77,79,80,82,83,91,92,93,96,97
+
+semi-conserved (#s for structure)
+33,34,35,41,46,48,50,52,55,56,57,64,67,70,71,77,78,83,85,86,88,89,97,98,99,102,103
+
+conserved (#s for wild-type)
+30,31,34,37,38,43,47,52,55,56,59,60,62,63,67,69,70,73,74,76,78,81,84,85,86,87,89,95
+
+conserved (#s for structure)
+36,37,40,43,44,49,53,58,61,62,65,66,68,69,73,75,76,79,80,82,84,87,90,91,92,93,95,101
+
+off-set between structure and YhcB wt = structure=wt+6
+
+His-Phe patch (stated to be important in homotetramerization): 61,62,82,83,65
+adjacent Hius-Phe patch ("important" - for homotetramerization?): 86,87,90 (86 H-bonded to 61)
+other conserved, hypothetically involved in interactions: 76,80 (invariant in all E.coli YhcB seqs in-house), 68,69,75
+other conserved, hypothetically involved in transmembrane interactions: 37,44
+
+variants:
+v1: 
+W3A
+G9A
+G13A
+R22A
+
+v2:
+Q31A
+L38A
+R49A
+E51A
+L52A
+
+v3:
+H55A
+F56A
+A57G
+A60G
+L62A
+D64A
+A67G
+
+v4:
+D69A
+Y70A
+R71A
+Q72A
+L73A
+Y74A
+
+v5:
+H76A
+A78G
+S80A
+S81A
+L84A
+P86A
+P94A
+F95A
+
+v6:
+S114A
+H115A
+F116A
+A117A
+R118A
+S122A
+G123A
+
+v7:
+1-21 deletion
+
+Pymol session "YhcB_investigations_09222017":
+green = YhcB homotetramers (chains A, B, D, E)
+yellow= semi-conserved, structure vs wt
+red=conserved, structure vs wt
+red spheres= His-Phe patch
+purple spheres = v4 mutated residues
+blue spheres = v5 mutated residues
+
+consolidating info from variants 4 and 5 and cons between wt and structure, my guess at hypothetical interaction sites with regulators:
+69-86 esp 70,71,74,75,76,80
+87-101 esp 87,90,91,92,93,95,101

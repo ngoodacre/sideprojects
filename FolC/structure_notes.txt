@@ -1,0 +1,3 @@
+1W78 - E.coli FolC in complex with DHPP and ADP - 1.82 ang res
+1W7K - E.coli FolC in complex with ADP, without folate substrate - 2.10 ang res
+3PID - The apo-form UDP-glucose 6-dehydrogenase with a C-terminal six-histidine tag (organism = Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044) - 83% seq id with E. coli Ugd - 1.4 ang res

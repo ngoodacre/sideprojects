@@ -1,0 +1,28 @@
+		Total
+		TCGA (n= 200)
+		MSK (n=134)
+
+Viral status
+
+TCGA		
+Hepatitis B	44 (22%)	
+Hepatitis C	35 (18%)	
+		
+		
+MSK		
+Hepatitis B	22(16%)	
+Hepatitis C	50(37.31%)	
+		
+
+Gender		
+		
+TCGA		
+Female 	67 (34%)	
+Male 	129 (66%)	
+		
+		
+		
+MSK		
+Female	31(23%)	
+Male	103(76%)	
+

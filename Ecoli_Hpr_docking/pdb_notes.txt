@@ -1,0 +1,42 @@
+3CCD - structure of P0AA04, Hpr, His15Asp
+The aspartyl replacement of the active site histidine in histidine-containing protein, HPr, of the Escherichia coli Phosphoenolpyruvate:Sugar phosphotransferase system can accept and donate a phosphoryl group.
+
+1E0T - structure of P0AD61, pyruvate kinase, totally inactive, R292D mutant
+
+4YNG - structure of P0AD61, pyruvate kinase, in T-state, twinned
+
+3UMO - structure of P06999, ATP-dependent 6-phosphofructokinase isozyme 2, in complex with potassium
+	3UMO.fixed2 - elemental Mg, K without charge (HETATM) removed, also repeated ATP atoms, for HADDOCK docking
+
+3UMP - structure of P06999, ATP-dependent 6-phosphofructokinase isozyme 2, in complex with cesium and ATP
+
+3CQD - structure of P06999, ATP-dependent 6-phosphofructokinase isozyme 2, tetrameric form in complex with 2 ATP, inhibited
+
+1ANK - structure of P69441, adenylate kinase, closed form in complex with AMP and AMPPNP
+
+1AKE - structure of P69441, adenylate kinase, catalytic transition state, in complex with inhibitor Ap5A which simulates bound AMP/ATP
+	1AKE.fixed2 - removed multiple forms of atom from HETATMs, for HADDOCK docking
+
+1FS5 - structure of P0A759, nGlucosamine-6-phosphate deaminase, 
+
+
+ZDOCK DOCKING
+
+3CCD.fixed:A - 4YNG.fixed:A ZDOCK server Job ID 111614
+3CCD.fixed:A - 3UMO.fixed:A ZDOCK server Job ID 111615
+3CCD.fixed:A - 1AKE.fixed:A ZDOCK server Job ID 111616
+
+HADDOCK DOCKING (using CPORT restraints)
+3CCD.fixed:A - 4YNG.fixed:A HADDOCK server Job ID 509113706/run1
+3CCD.fixed:A - 3UMO.fixed:A HADDOCK server Job ID 509113706/run2 - failed
+3CCD.fixed:A - 1AKE.fixed:A HADDOCK server Job ID 509113706/run3 - failed
+3CCD.fixed:A - 3UMO.fixed:A HADDOCK server Job ID 509113706/run4 - failed
+3CCD.fixed:A - 1AKE.fixed:A HADDOCK server Job ID 509113706/run5
+3CCD.fixed:A - 3UMO.fixed:A HADDOCK server Job ID 509113706/run6
+
+CCMPred
+
+P0AA04 COG family = COG1925
+P0AD61 COG family = COG0469
+P06999 COG family = COG1105
+P69441 COG family = COG0563

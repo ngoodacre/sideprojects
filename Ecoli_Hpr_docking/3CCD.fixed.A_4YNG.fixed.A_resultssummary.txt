@@ -1,0 +1,54 @@
+
+Cluster 1
+
+HADDOCK score 	-45.0 +/- 7.0
+Cluster size 	21
+RMSD from the overall lowest-energy structure 	0.5 +/- 0.3
+Van der Waals energy 	-82.2 +/- 2.6
+Electrostatic energy 	-441.5 +/- 34.5
+Desolvation energy 	4.8 +/- 8.9
+Restraints violation energy 	1206.9 +/- 59.36
+Buried Surface Area 	2338.2 +/- 102.7
+Z-Score 	-2.1
+
+    View the docking solutions in a Jmol structure viewer. Your browser must be Java enabled:
+Nr 1 best structure 	View structure 	Download structure
+Nr 2 best structure 	View structure 	Download structure
+Nr 3 best structure 	View structure 	Download structure
+Nr 4 best structure 	View structure 	Download structure
+
+Cluster 3
+
+HADDOCK score 	11.5 +/- 6.0
+Cluster size 	10
+RMSD from the overall lowest-energy structure 	2.3 +/- 0.1
+Van der Waals energy 	-59.4 +/- 5.4
+Electrostatic energy 	-360.7 +/- 25.9
+Desolvation energy 	-1.6 +/- 12.8
+Restraints violation energy 	1446.3 +/- 115.58
+Buried Surface Area 	1987.1 +/- 102.5
+Z-Score 	-0.1
+
+    View the docking solutions in a Jmol structure viewer. Your browser must be Java enabled:
+Nr 1 best structure 	View structure 	Download structure
+Nr 2 best structure 	View structure 	Download structure
+Nr 3 best structure 	View structure 	Download structure
+Nr 4 best structure 	View structure 	Download structure
+
+Cluster 2
+
+HADDOCK score 	18.8 +/- 8.5
+Cluster size 	13
+RMSD from the overall lowest-energy structure 	5.7 +/- 0.1
+Van der Waals energy 	-68.0 +/- 4.9
+Electrostatic energy 	-251.5 +/- 62.9
+Desolvation energy 	-2.6 +/- 3.1
+Restraints violation energy 	1396.5 +/- 109.46
+Buried Surface Area 	2080.5 +/- 59.4
+Z-Score 	0.2
+
+    View the docking solutions in a Jmol structure viewer. Your browser must be Java enabled:
+Nr 1 best structure 	View structure 	Download structure
+Nr 2 best structure 	View structure 	Download structure
+Nr 3 best structure 	View structure 	Download structure
+Nr 4 best structure 	View structure 	Download structure

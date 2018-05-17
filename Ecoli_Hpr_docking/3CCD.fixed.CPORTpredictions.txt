@@ -1,0 +1,5 @@
+Predicted residues (active residues in HADDOCK):
+1,11,12,15,16,17,20,21,24,25,27,28,30,32,40,41,43,45,46,47,48,49,51,52,54,55,56,57,64,66,67,68,69,72,85
+
+Surrounding residues (passive residues in HADDOCK):
+2,3,4,7,9,34,36,38,39,53,58,59,60,62,70,71,75,76,83,84

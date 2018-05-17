@@ -1,0 +1,16 @@
+Running job CCMpred, 6897066 on bc119
+
+ERROR: ERROR: Not enough memory to allocate variables!
+
+ _____ _____ _____               _ 
+|     |     |     |___ ___ ___ _| |
+|   --|   --| | | | . |  _| -_| . |
+|_____|_____|_|_|_|  _|_| |___|___|
+                  |_|              
+
+using CPU (8 thread(s))
+
+
+real	0m0.119s
+user	0m0.039s
+sys	0m0.018s

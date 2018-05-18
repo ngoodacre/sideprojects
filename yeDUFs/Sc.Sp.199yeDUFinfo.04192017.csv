@@ -1,0 +1,200 @@
+yeDUF,Conservation depth,Sc - present,Sc - essential,Sp - present,SP - essential,inference method,Sc proteins/COGs,Sp proteins/COGs,Sc-specific GOSlims,Sc/SP shared GOSlims,Sp-specific GOSlims
+PF06198,eukaryotic,,,X,X,EM,,Q9HDU8;P0CT98;P0CS86;Q9P3E5;Q9HDU1;Q9HGP8;Q9P3V3;P0CT99;Q9P7U3;P0CS87,,,
+PF06747,eukaryotic,X,X,X,,rule-based,P36046 ();O75012 ();P38824 (),P87059 ();O13973 ();O14056 ();O59799 (),GO:0003735 (structural constituent of ribosome); GO:0005198 (structural molecule activity); GO:0005737 (cytoplasm); GO:0005739 (mitochondrion); GO:0006457 (protein folding); GO:0006605 (protein targeting); GO:0016491 (oxidoreductase activity); GO:0016853 (isomerase activity); GO:0032543 (mitochondrial translation),GO:0007005 (mitochondrion organization); GO:0055085 (transmembrane transport),GO:0006091 (generation of precursor metabolites and energy); GO:0006461 (protein complex assembly)
+PF08427,eukaryotic,,,X,X,EM,,O42972 (),,,
+PF08354,prokaryotic,X,X,X,X,EM,"P07149 (COG4981@NOG,COG0331@NOG,COG2030@NOG)","Q9UUG0 (COG4981@NOG,COG0331@NOG,COG2030@NOG)",GO:0016491 (oxidoreductase activity); GO:0016740 (transferase activity); GO:0016787 (hydrolase activity); GO:0016829 (lyase activity); GO:0032787 (monocarboxylic acid metabolic process),GO:0006629 (lipid metabolic process),
+PF08351,prokaryotic,X,X,X,X,EM,P53914 (COG1444@NOG),P87115 (COG1444@NOG),GO:0005730 (nucleolus); GO:0006364 (rRNA processing); GO:0008033 (tRNA processing); GO:0016740 (transferase activity); GO:0042274 (ribosomal small subunit biogenesis),,GO:0006399 (tRNA metabolic process)
+PF11654,eukaryotic,X,X,X,X,EM,Q02820 (),C6Y4B6,,,GO:0016192 (vesicle-mediated transport)
+PF10350,eukaryotic,X,,X,X,EM,Q03496 (COG5543@NOG),O60081 (COG5543@NOG),GO:0005737 (cytoplasm); GO:0008033 (tRNA processing); GO:0009451 (RNA modification),,GO:0006399 (tRNA metabolic process)
+PF06110,eukaryotic,,,X,X,EM,,Q9P7L1 (),,,
+PF10353,eukaryotic,,,X,X,EM,,Q9HDT7;Q9Y7S1;Q9URW1,,,
+PF10354,eukaryotic,X,X,X,X,EM,P40493 (),O94480 (),GO:0005730 (nucleolus); GO:0005737 (cytoplasm); GO:0006364 (rRNA processing); GO:0008168 (methyltransferase activity); GO:0009451 (RNA modification); GO:0016740 (transferase activity),,GO:0042254 (ribosome biogenesis)
+PF08101,eukaryotic,X,X,X,X,EM,P21339 (),Q10326 (),GO:0030427 (site of polarized growth),,GO:0007163 (establishment or maintenance of cell polarity)
+PF10356,eukaryotic,X,X,X,,EM,Q08774 (),Q9UT40 (),GO:0005739 (mitochondrion),,
+PF08217,eukaryotic,X,X,,,EM,P38273 (),,GO:0005085 (guanyl-nucleotide exchange factor activity); GO:0005773 (vacuole); GO:0006605 (protein targeting); GO:0007033 (vacuole organization); GO:0008289 (lipid binding); GO:0016020 (membrane); GO:0048284 (organelle fusion),,
+PF09811,prokaryotic,X,X,X,X,rule-based/EM,P47118 ();P53846 (),O14045 (COG1859@NOG);Q9Y7Q1 (),GO:0005634 (nucleus); GO:0005737 (cytoplasm); GO:0006413 (translational initiation); GO:0042273 (ribosomal large subunit biogenesis),,GO:0006399 (tRNA metabolic process)
+PF08585,eukaryotic,X,X,X,X,rule-based/EM,Q02685 (),Q10160 (),GO:0003677 (DNA binding); GO:0005737 (cytoplasm); GO:0006974 (cellular response to DNA damage stimulus); GO:0030234 (enzyme regulator activity); GO:0051321 (meiotic cell cycle),,
+PF02656,prokaryotic,X,X,X,,EM,"Q02725 (COG5264@NOG,COG5036@NOG);P43585 (COG5264@NOG,COG5036@NOG);P40046 (COG5264@NOG);P47075 (COG5264@NOG,COG5036@NOG)","P78810 (COG5264@NOG,COG5036@NOG);O13718 (COG5264@NOG,COG5036@NOG);Q9UR17 (COG5264@NOG)",GO:0003723 (RNA binding); GO:0003729 (mRNA binding); GO:0005783 (endoplasmic reticulum); GO:0007033 (vacuole organization); GO:0016020 (membrane); GO:0016301 (kinase activity); GO:0016740 (transferase activity); GO:0048284 (organelle fusion); GO:0061025 (membrane fusion),,GO:0006914 (autophagy); GO:0061024 (membrane organization)
+PF03661,eukaryotic,X,,X,X,EM,Q12144 ();Q12164 (),Q9Y7Z5 (),GO:0005198 (structural molecule activity); GO:0005783 (endoplasmic reticulum); GO:0006997 (nucleus organization); GO:0015931 (nucleobase-containing compound transport); GO:0016020 (membrane),,GO:0006461 (protein complex assembly); GO:0061024 (membrane organization)
+PF01956,prokaryotic,X,X,X,,EM,P36039 (),Q9P787 (),,GO:0006457 (protein folding),
+PF11312,eukaryotic,X,X,,,EM,Q12291 (),,GO:0005634 (nucleus); GO:0005737 (cytoplasm); GO:0006364 (rRNA processing); GO:0008168 (methyltransferase activity); GO:0009451 (RNA modification); GO:0016740 (transferase activity),,
+PF03669,eukaryotic,,,X,X,EM,,Q09714,,,
+PF01930,prokaryotic,,,X,X,EM,,Q9URU2 (COG1112@NOG),,,GO:0006281 (DNA repair); GO:0032200 (telomere organization)
+PF09807,eukaryotic,,,X,X,EM,,O74385 (),,,"GO:0006355 (regulation of transcription, DNA-templated); GO:0006399 (tRNA metabolic process)"
+PF10293,eukaryotic,X,,X,X,EM,Q06179 ();Q06116 (),Q6LA55 (),GO:0005739 (mitochondrion),,
+PF10363,eukaryotic,X,X,X,X,rule-based/EM,Q12751 (),O42977 (),GO:0005737 (cytoplasm); GO:0051169 (nuclear transport),,GO:0006913 (nucleocytoplasmic transport)
+PF09260,eukaryotic,,,X,X,EM,,O14154 (COG0366@NOG);Q09840 (COG0366@NOG);O42918 (COG0366@NOG);Q9Y7S9 (COG0296@NOG);O74922 (),,,GO:0005975 (carbohydrate metabolic process); GO:0071554 (cell wall organization or biogenesis)
+PF01894,prokaryotic,,,X,X,EM,,O14155 (COG0432@NOG),,,
+PF01595,prokaryotic,X,X,X,X,EM,Q12296 (COG1253@NOG),Q9USJ3 (COG1253@NOG),GO:0006873 (cellular ion homeostasis); GO:0016020 (membrane),GO:0007005 (mitochondrion organization),
+PF09347,prokaryotic,,,X,X,EM,,Q10082 (COG3665@NOG),,,
+PF10209,eukaryotic,X,,X,X,rule-based/EM,P36154 (),O14037 (),GO:0005737 (cytoplasm),,
+PF01205,prokaryotic,X,X,X,X,EM,P25637 (COG1739@NOG);Q12257 (COG1739@NOG),O13997 (COG1739@NOG);O60090 (COG1739@NOG),GO:0005634 (nucleus); GO:0005737 (cytoplasm); GO:0006417 (regulation of translation); GO:0008092 (cytoskeletal protein binding); GO:0030234 (enzyme regulator activity); GO:0031399 (regulation of protein modification process); GO:0042594 (response to starvation),,
+PF06916,eukaryotic,X,X,X,X,rule-based/EM,P37293 (),Q9URV4 (),GO:0005737 (cytoplasm); GO:0016740 (transferase activity); GO:0018193 (peptidyl-amino acid modification); GO:0043543 (protein acylation),,
+PF10361,eukaryotic,,,X,X,EM,,Q10260 (),,,
+PF09757,eukaryotic,X,X,X,X,EM,P53973 (COG0123@NOG),P56523 (COG0123@NOG),GO:0003682 (chromatin binding); GO:0016570 (histone modification); GO:0016787 (hydrolase activity),GO:0006325 (chromatin organization),"GO:0006351 (transcription, DNA-templated); GO:0006355 (regulation of transcription, DNA-templated)"
+PF08636,eukaryotic,X,X,X,,EM,Q03880 (),Q9P7Y3 (),,,GO:0006461 (protein complex assembly)
+PF06777,prokaryotic,X,X,X,X,rule-based/EM,P06839 (COG1199@NOG),P26659 (COG1199@NOG),GO:0003677 (DNA binding); GO:0004386 (helicase activity); GO:0006366 (transcription from RNA polymerase II promoter); GO:0006468 (protein phosphorylation); GO:0016787 (hydrolase activity); GO:0016887 (ATPase activity); GO:0043167 (ion binding); GO:0051052 (regulation of DNA metabolic process),,
+PF12842,eukaryotic,X,X,X,,EM,P25655 (COG5103@NOG),P87112 (COG5103@NOG),"GO:0005198 (structural molecule activity); GO:0005634 (nucleus); GO:0005737 (cytoplasm); GO:0006354 (DNA-templated transcription, elongation); GO:0006401 (RNA catabolic process); GO:0006417 (regulation of translation); GO:0007124 (pseudohyphal growth); GO:0042221 (response to chemical); GO:0051726 (regulation of cell cycle)",,"GO:0006355 (regulation of transcription, DNA-templated); GO:0016071 (mRNA metabolic process)"
+PF01883,prokaryotic,X,X,X,X,rule-based/EM,P38829 (COG5133@NOG),Q9UTL0 (COG5133@NOG),GO:0007059 (chromosome segregation),GO:0051186 (cofactor metabolic process),
+PF09324,eukaryotic,X,X,X,X,rule-based/EM,P11075 (COG5307@NOG),Q9P7V5 (COG5307@NOG);Q9UT02 (COG5307@NOG),"GO:0005085 (guanyl-nucleotide exchange factor activity); GO:0005773 (vacuole); GO:0007033 (vacuole organization); GO:0016023 (cytoplasmic, membrane-bounded vesicle); GO:0048193 (Golgi vesicle transport); GO:0070925 (organelle assembly)",,GO:0016192 (vesicle-mediated transport)
+PF03928,prokaryotic,X,X,X,X,EM,P38276 (COG4702@NOG),Q9P7D6 (COG4702@NOG),GO:0005737 (cytoplasm),GO:0006605 (protein targeting),GO:0061024 (membrane organization)
+PF07955,eukaryotic,X,X,X,X,EM,P36141 (),Q9UTA2,GO:0005739 (mitochondrion); GO:0016491 (oxidoreductase activity),,
+PF05832,eukaryotic,X,,X,X,EM,P38962 (),Q9Y7K7 (),,,GO:0016192 (vesicle-mediated transport)
+PF09803,eukaryotic,X,X,,,EM,P38958 (),,GO:0016020 (membrane); GO:0051082 (unfolded protein binding); GO:0070271 (protein complex biogenesis),,
+PF05620,eukaryotic,X,X,X,X,rule-based/EM,Q99382 (),O14193 (),GO:0005773 (vacuole),GO:0051604 (protein maturation),
+PF06102,eukaryotic,X,X,X,X,rule-based/EM,Q12481 (),Q9P6P2 (),GO:0005730 (nucleolus); GO:0006364 (rRNA processing); GO:0009451 (RNA modification); GO:0042274 (ribosomal small subunit biogenesis),,
+PF09369,prokaryotic,X,X,X,X,EM,Q05549 (COG1205@NOG),O13983 (COG1205@NOG),GO:0003677 (DNA binding); GO:0004386 (helicase activity); GO:0005634 (nucleus); GO:0006974 (cellular response to DNA damage stimulus); GO:0016787 (hydrolase activity); GO:0016887 (ATPase activity),GO:0006281 (DNA repair),
+PF09804,eukaryotic,X,X,X,X,EM,P36090 (),O42907 (),,,
+PF08226,eukaryotic,X,X,X,X,rule-based/EM,P32521 (),O13736 ();O74423 ();Q10172 (),"GO:0005634 (nucleus); GO:0005737 (cytoplasm); GO:0005886 (plasma membrane); GO:0006897 (endocytosis); GO:0007010 (cytoskeleton organization); GO:0007114 (cell budding); GO:0016020 (membrane); GO:0030674 (protein binding, bridging); GO:0043167 (ion binding)",,GO:0016192 (vesicle-mediated transport); GO:0030036 (actin cytoskeleton organization)
+PF08589,eukaryotic,,,X,X,EM,,O13709 (),,,
+PF05700,eukaryotic,,,X,X,rule-based/EM,,Q9USV3 (),,,GO:0016071 (mRNA metabolic process)
+PF03657,prokaryotic,X,X,X,X,rule-based/EM,Q08962 (COG1374@NOG),Q1MTQ9 (COG1374@NOG),GO:0003723 (RNA binding); GO:0005634 (nucleus); GO:0005730 (nucleolus); GO:0005737 (cytoplasm); GO:0006364 (rRNA processing); GO:0042255 (ribosome assembly); GO:0042273 (ribosomal large subunit biogenesis); GO:0070925 (organelle assembly),,GO:0042254 (ribosome biogenesis)
+PF12720,eukaryotic,,,X,X,rule-based/EM,,Q9USY8,,,
+PF04950,eukaryotic,X,X,X,X,EM,Q07381 (COG5177@NOG);Q08965 (COG5192@NOG),O13956 (COG5177@NOG);O94653 (COG5192@NOG),GO:0003723 (RNA binding); GO:0003924 (GTPase activity); GO:0005634 (nucleus); GO:0005730 (nucleolus); GO:0005737 (cytoplasm); GO:0006364 (rRNA processing); GO:0009451 (RNA modification); GO:0016787 (hydrolase activity),,GO:0042254 (ribosome biogenesis)
+PF11865,eukaryotic,X,,X,X,EM,P35169 (COG5032@NOG);P32600 (COG5032@NOG),O14356 (COG5032@NOG);Q9Y7K2 (COG5032@NOG),GO:0005634 (nucleus); GO:0005737 (cytoplasm); GO:0005886 (plasma membrane); GO:0006360 (transcription from RNA polymerase I promoter); GO:0006413 (translational initiation); GO:0006468 (protein phosphorylation); GO:0006974 (cellular response to DNA damage stimulus); GO:0007010 (cytoskeleton organization); GO:0016020 (membrane); GO:0016301 (kinase activity); GO:0016740 (transferase activity); GO:0018193 (peptidyl-amino acid modification); GO:0048285 (organelle fission); GO:0051049 (regulation of transport); GO:0051726 (regulation of cell cycle); GO:0071554 (cell wall organization or biogenesis),GO:0006281 (DNA repair),
+PF14610,eukaryotic,X,X,X,,EM,P36081 (),Q9USH0;Q9P7K7,,,
+PF11861,eukaryotic,X,X,X,X,EM,P25582 (COG0293@NOG),O42832 (COG0293@NOG),GO:0005634 (nucleus); GO:0005730 (nucleolus); GO:0006364 (rRNA processing); GO:0008168 (methyltransferase activity); GO:0009451 (RNA modification); GO:0016740 (transferase activity),,
+PF10288,eukaryotic,X,X,X,X,EM,P53923 (),Q9UUC7 (),GO:0001403 (invasive growth in response to glucose limitation); GO:0003723 (RNA binding); GO:0007124 (pseudohyphal growth); GO:0008033 (tRNA processing); GO:0009451 (RNA modification); GO:0016740 (transferase activity); GO:0016779 (nucleotidyltransferase activity),GO:0070647 (protein modification by small protein conjugation or removal),GO:0006399 (tRNA metabolic process)
+PF14616,eukaryotic,X,X,X,,EM,P38246 (),O14220 (),GO:0071554 (cell wall organization or biogenesis),,
+PF08508,eukaryotic,X,X,X,X,EM,Q06104 (),O14175 (),,,GO:0051604 (protein maturation); GO:0070647 (protein modification by small protein conjugation or removal)
+PF14618,eukaryotic,,,X,X,EM,,Q10296 (),,,
+PF13959,eukaryotic,X,X,X,,EM,Q03532 (COG0513@NOG);P25808 ();P36120 ();P20448 (COG0513@NOG),Q09916 (COG0513@NOG);O74764 ();Q9UTP9 (COG0513@NOG);O60173 (),GO:0003723 (RNA binding); GO:0004386 (helicase activity); GO:0005730 (nucleolus); GO:0006364 (rRNA processing); GO:0016787 (hydrolase activity); GO:0016887 (ATPase activity); GO:0042273 (ribosomal large subunit biogenesis); GO:0042274 (ribosomal small subunit biogenesis),,GO:0042254 (ribosome biogenesis)
+PF12074,eukaryotic,X,X,X,X,EM,P33892 (),Q10105 (),GO:0005840 (ribosome); GO:0006417 (regulation of translation); GO:0006979 (response to oxidative stress); GO:0019899 (enzyme binding); GO:0030234 (enzyme regulator activity); GO:0031399 (regulation of protein modification process); GO:0042221 (response to chemical); GO:0042594 (response to starvation),,
+PF11968,eukaryotic,X,X,X,,EM,P38278 (),Q9UUH2 (),GO:0005730 (nucleolus); GO:0008168 (methyltransferase activity); GO:0016740 (transferase activity),,
+PF04068,prokaryotic,X,X,X,X,EM,Q12094 (COG2042@NOG);Q03195 (COG1245@NOG),O60102 (COG1245@NOG);Q10409 (COG2042@NOG),"GO:0000054 (ribosomal subunit export from nucleus); GO:0003723 (RNA binding); GO:0005634 (nucleus); GO:0005737 (cytoplasm); GO:0006364 (rRNA processing); GO:0006413 (translational initiation); GO:0006417 (regulation of translation); GO:0008135 (translation factor activity, RNA binding); GO:0016787 (hydrolase activity); GO:0016887 (ATPase activity); GO:0042273 (ribosomal large subunit biogenesis); GO:0043167 (ion binding); GO:0051169 (nuclear transport)",,GO:0006913 (nucleocytoplasmic transport)
+PF04063,eukaryotic,X,X,X,,EM,P48362 (),Q10498 (),,,
+PF07571,eukaryotic,X,,X,X,EM,P53040 (COG5095@NOG),O74462 (COG5095@NOG),GO:0003682 (chromatin binding); GO:0005198 (structural molecule activity); GO:0005634 (nucleus); GO:0006366 (transcription from RNA polymerase II promoter); GO:0008134 (transcription factor binding); GO:0016570 (histone modification); GO:0018193 (peptidyl-amino acid modification); GO:0043543 (protein acylation),GO:0006325 (chromatin organization),"GO:0006355 (regulation of transcription, DNA-templated)"
+PF04418,eukaryotic,X,X,X,,EM,Q96VH5 (),Q9HFF0 (),,GO:0007005 (mitochondrion organization),GO:0061024 (membrane organization)
+PF04064,eukaryotic,X,,X,X,EM,P48362 (),Q10498 (),,,
+PF04768,prokaryotic,X,X,X,X,EM,"P40360 (COG5630@NOG);Q01217 (COG0002@NOG,COG0548@NOG)","O94330 (COG5630@NOG);P31318 (COG0002@NOG,COG0548@NOG)",GO:0016301 (kinase activity); GO:0016491 (oxidoreductase activity); GO:0016740 (transferase activity); GO:0043167 (ion binding),GO:0006520 (cellular amino acid metabolic process),
+PF08643,eukaryotic,X,X,X,,EM,P32792 (),Q9URV8 (),GO:0016020 (membrane),,
+PF13664,prokaryotic,X,X,,,EM,Q06089 (),,GO:0016020 (membrane),,
+PF06862,eukaryotic,X,X,X,X,rule-based/EM,P40498 (),O74974 (),GO:0003723 (RNA binding); GO:0005634 (nucleus); GO:0005730 (nucleolus); GO:0006364 (rRNA processing); GO:0009451 (RNA modification); GO:0019843 (rRNA binding); GO:0042274 (ribosomal small subunit biogenesis),,
+PF00892,prokaryotic,X,X,,,EM,P0CE11 (COG5070@NOG);Q04835 (COG0697@NOG);Q08980 (COG0697@NOG),,GO:0006486 (protein glycosylation); GO:0008643 (carbohydrate transport); GO:0016020 (membrane); GO:0022857 (transmembrane transporter activity),,
+PF10843,eukaryotic,X,X,,,EM,P40188 ();P40043 (),,GO:0005737 (cytoplasm); GO:0005886 (plasma membrane); GO:0006091 (generation of precursor metabolites and energy); GO:0016020 (membrane),,
+PF09736,eukaryotic,X,X,X,X,rule-based/EM,P46947 (),O94417 (),GO:0005634 (nucleus); GO:0005737 (cytoplasm); GO:0006397 (mRNA processing); GO:0008380 (RNA splicing); GO:0015931 (nucleobase-containing compound transport); GO:0051169 (nuclear transport),,GO:0016071 (mRNA metabolic process)
+PF01871,prokaryotic,X,,X,X,EM,Q12012 (COG2078@NOG),Q9P6M2 (COG2078@NOG),,,
+PF09745,eukaryotic,,,X,X,rule-based/EM,,O14009 (),,,GO:0016071 (mRNA metabolic process)
+PF10176,eukaryotic,X,X,X,X,EM,P38356 (),Q9P3T9 (),GO:0005773 (vacuole); GO:0005783 (endoplasmic reticulum); GO:0006605 (protein targeting); GO:0006811 (ion transport); GO:0016020 (membrane); GO:0051603 (proteolysis involved in cellular protein catabolic process),,
+PF11001,eukaryotic,X,X,,,EM,Q04608 (),,,,
+PF03909,eukaryotic,X,,X,X,EM,P54858 ();P32776 (),O13745 ();O13905 (),GO:0005634 (nucleus); GO:0006281 (DNA repair); GO:0006360 (transcription from RNA polymerase I promoter); GO:0006366 (transcription from RNA polymerase II promoter); GO:0006468 (protein phosphorylation); GO:0006974 (cellular response to DNA damage stimulus); GO:0008289 (lipid binding),,
+PF11779,eukaryotic,,,X,X,rule-based/EM,,O42843,,,GO:0006629 (lipid metabolic process)
+PF08538,eukaryotic,,,X,X,rule-based/EM,,Q9C0Y8 (),,,
+PF00551,prokaryotic,X,,X,X,EM,P32785 (COG0223@NOG);P04161 (COG0299@NOG),Q9UTG6 (COG0223@NOG);Q9UUK7 (COG0299@NOG),GO:0005739 (mitochondrion); GO:0008033 (tRNA processing); GO:0009451 (RNA modification); GO:0016740 (transferase activity),GO:0055086 (nucleobase-containing small molecule metabolic process),GO:0006399 (tRNA metabolic process); GO:1901135 (carbohydrate derivative metabolic process)
+PF11875,eukaryotic,,,X,X,EM,,Q9Y7T0 (COG0484@NOG),,,
+PF14953,eukaryotic,,,X,X,EM,,O60098,,,
+PF12063,eukaryotic,X,X,X,X,rule-based/EM,P53104 (),Q9Y7T4 (),GO:0006468 (protein phosphorylation); GO:0007005 (mitochondrion organization); GO:0007033 (vacuole organization); GO:0016020 (membrane); GO:0016301 (kinase activity); GO:0016740 (transferase activity); GO:0070925 (organelle assembly),GO:0006605 (protein targeting),GO:0006914 (autophagy)
+PF12066,eukaryotic,,,X,X,EM,,O94326 (),,,"GO:0006325 (chromatin organization); GO:0006355 (regulation of transcription, DNA-templated)"
+PF05254,eukaryotic,X,,X,X,rule-based/EM,O60200 (),Q96VG1 (),GO:0005634 (nucleus); GO:0006605 (protein targeting); GO:0006869 (lipid transport); GO:0007005 (mitochondrion organization),,GO:0006461 (protein complex assembly)
+PF03907,eukaryotic,X,X,X,X,EM,P18410 (),Q9USQ0 (),GO:0006470 (protein dephosphorylation); GO:0006629 (lipid metabolic process); GO:0016020 (membrane); GO:0043934 (sporulation),,GO:0030437 (ascospore formation); GO:0061024 (membrane organization)
+PF14934,eukaryotic,,,X,X,EM,,C6Y4A4,,,
+PF08555,eukaryotic,,,X,X,EM,,Q92363 (),,,
+PF01553,prokaryotic,X,,X,X,EM,P32784 (COG0204@NOG);P36148 (COG0204@NOG);P33333 (COG0204@NOG);P38226 (COG0204@NOG);Q06510 ();Q12185 (COG0204@NOG),Q9US27 (COG0204@NOG);O94361 (COG0204@NOG);Q9US20 (COG0204@NOG);Q9P7P0 (COG0204@NOG),GO:0005739 (mitochondrion); GO:0005783 (endoplasmic reticulum); GO:0006091 (generation of precursor metabolites and energy); GO:0006605 (protein targeting); GO:0007005 (mitochondrion organization); GO:0016020 (membrane); GO:0016740 (transferase activity),GO:0006629 (lipid metabolic process),
+PF00034,prokaryotic,X,,X,X,rule-based/EM,P00044 (COG3474@NOG);P00045 (COG3474@NOG),P00046 (COG3474@NOG),GO:0043167 (ion binding),GO:0006091 (generation of precursor metabolites and energy),
+PF08550,eukaryotic,X,,X,X,EM,P43574 (COG5641@NOG);P34072 ();P38232;Q00816 (),Q10280 (COG5641@NOG);Q9UTM5 ();Q9UTC4 (),"GO:0000988 (transcription factor activity, protein binding); GO:0001071 (nucleic acid binding transcription factor activity); GO:0003677 (DNA binding); GO:0003682 (chromatin binding); GO:0005634 (nucleus); GO:0005737 (cytoplasm); GO:0005773 (vacuole); GO:0005975 (carbohydrate metabolic process); GO:0006091 (generation of precursor metabolites and energy); GO:0006325 (chromatin organization); GO:0008134 (transcription factor binding); GO:0030234 (enzyme regulator activity); GO:0042221 (response to chemical); GO:0042594 (response to starvation); GO:0043167 (ion binding)",,"GO:0006355 (regulation of transcription, DNA-templated); GO:0030163 (protein catabolic process)"
+PF14377,eukaryotic,X,X,X,,EM,Q03280 (COG5021@NOG),O13834 (COG5021@NOG),GO:0005730 (nucleolus); GO:0005737 (cytoplasm); GO:0006364 (rRNA processing); GO:0006997 (nucleus organization); GO:0015931 (nucleobase-containing compound transport); GO:0016740 (transferase activity); GO:0016874 (ligase activity); GO:0048285 (organelle fission); GO:0051169 (nuclear transport),GO:0070647 (protein modification by small protein conjugation or removal),GO:0006913 (nucleocytoplasmic transport)
+PF13846,eukaryotic,,,X,X,EM,,O13803 (),,,
+PF12519,eukaryotic,X,X,X,X,rule-based/EM,P18409 (),O13814 (),GO:0006869 (lipid transport),GO:0007005 (mitochondrion organization); GO:0055085 (transmembrane transport),GO:0006461 (protein complex assembly); GO:0061024 (membrane organization)
+PF09435,eukaryotic,X,,X,X,EM,Q8J0M4 (),O14068 (),,,
+PF05768,prokaryotic,X,X,,,EM,Q05530 (COG0526@NOG),,,,
+PF12821,prokaryotic,X,X,X,,EM,"P42946 (COG2966@NOG,COG3610@NOG)","P87293 (COG2966@NOG,COG3610@NOG);O14267 (COG2966@NOG,COG3610@NOG)",,,
+PF09431,eukaryotic,X,X,X,X,EM,Q12342 (),O74771 (),GO:0005737 (cytoplasm); GO:0006897 (endocytosis); GO:0030427 (site of polarized growth),,GO:0016192 (vesicle-mediated transport); GO:0030036 (actin cytoskeleton organization)
+PF02020,eukaryotic,X,,X,X,rule-based/EM,P38431 (COG1601@NOG);P32501 (COG1208@NOG),Q09689 (COG1601@NOG);P56287 (COG1208@NOG),"GO:0003723 (RNA binding); GO:0005085 (guanyl-nucleotide exchange factor activity); GO:0006417 (regulation of translation); GO:0008135 (translation factor activity, RNA binding); GO:0016740 (transferase activity); GO:0016779 (nucleotidyltransferase activity); GO:0030234 (enzyme regulator activity); GO:0042255 (ribosome assembly); GO:0070925 (organelle assembly)",,
+PF12054,eukaryotic,X,X,X,X,rule-based/EM,P32333 (),O43065 (),GO:0003677 (DNA binding); GO:0004386 (helicase activity); GO:0005634 (nucleus); GO:0005694 (chromosome); GO:0005739 (mitochondrion); GO:0006360 (transcription from RNA polymerase I promoter); GO:0006364 (rRNA processing); GO:0008134 (transcription factor binding); GO:0016787 (hydrolase activity); GO:0016887 (ATPase activity),,"GO:0006351 (transcription, DNA-templated); GO:0006355 (regulation of transcription, DNA-templated)"
+PF03733,prokaryotic,X,,X,X,EM,P42839 (COG0387@NOG),Q9P7B3 (COG0387@NOG),GO:0005773 (vacuole); GO:0006811 (ion transport); GO:0016020 (membrane); GO:0022857 (transmembrane transporter activity),,GO:0055085 (transmembrane transport)
+PF11326,eukaryotic,X,X,X,,EM,Q04406 (),Q9UTC2 (),GO:0007005 (mitochondrion organization); GO:0043934 (sporulation); GO:0051321 (meiotic cell cycle),,
+PF10304,eukaryotic,X,X,,,EM,Q12751 (),,GO:0005737 (cytoplasm); GO:0051169 (nuclear transport),,
+PF10303,eukaryotic,X,X,X,X,EM,Q08977 (),Q9P6K3 (),GO:0005634 (nucleus); GO:0005737 (cytoplasm),,
+PF07286,prokaryotic,,,X,X,EM,,Q09674 (COG4336@NOG),,,
+PF01255,prokaryotic,X,X,X,X,rule-based/EM,P35196 (COG0020@NOG);Q03175 (COG0020@NOG),O14171 (COG0020@NOG),GO:0005783 (endoplasmic reticulum); GO:0016020 (membrane); GO:0016740 (transferase activity); GO:0048193 (Golgi vesicle transport),GO:0006486 (protein glycosylation); GO:0006629 (lipid metabolic process),
+PF06127,prokaryotic,X,,X,X,rule-based/EM,P25338 (COG4539@NOG),O13737 (COG4539@NOG),GO:0006629 (lipid metabolic process); GO:0016020 (membrane),,
+PF08991,eukaryotic,X,,X,X,EM,Q3E7A9 (),G2TRJ8 (),,,
+PF10315,eukaryotic,X,X,X,X,EM,P40502 (),Q9UUF4 (),GO:0005739 (mitochondrion); GO:0016020 (membrane),,
+PF08520,eukaryotic,X,,X,X,EM,Q3E7A7 ();Q2V2P4 (),Q10167 (),GO:0005737 (cytoplasm),,
+PF11882,eukaryotic,X,X,X,,EM,P53917 (),O13665 (),GO:0005783 (endoplasmic reticulum); GO:0006974 (cellular response to DNA damage stimulus); GO:0051726 (regulation of cell cycle),,GO:1901990 (regulation of mitotic cell cycle phase transition)
+PF12597,eukaryotic,X,X,X,X,rule-based/EM,Q04935 (),G2TRP9 (),GO:0016020 (membrane); GO:0045333 (cellular respiration); GO:0051082 (unfolded protein binding); GO:0051604 (protein maturation); GO:0070271 (protein complex biogenesis),GO:0006091 (generation of precursor metabolites and energy),GO:0006461 (protein complex assembly)
+PF11022,eukaryotic,X,,X,X,EM,P81451 ();Q3E824,C6Y4A3,GO:0006811 (ion transport),GO:0055085 (transmembrane transport); GO:0055086 (nucleobase-containing small molecule metabolic process),GO:1901135 (carbohydrate derivative metabolic process)
+PF12955,eukaryotic,,,X,X,EM,,O74728 (),,,
+PF11595,eukaryotic,,,X,X,rule-based/EM,,Q9C108,,,
+PF08590,eukaryotic,X,X,X,,EM,Q08954 (),Q9UTP4 (),GO:0005737 (cytoplasm),,GO:0006281 (DNA repair)
+PF11223,eukaryotic,X,X,X,X,rule-based/EM,P38904 (),Q10207 (),GO:0005634 (nucleus),,"GO:0006355 (regulation of transcription, DNA-templated)"
+PF09428,eukaryotic,X,X,X,,EM,P53952 (),Q9UUH6,,,
+PF10153,eukaryotic,X,,X,X,rule-based/EM,Q3E705 (),Q09867 (),GO:0005730 (nucleolus); GO:0006364 (rRNA processing),,
+PF06012,eukaryotic,X,X,X,,EM,Q03280 (COG5021@NOG),O13834 (COG5021@NOG),GO:0005730 (nucleolus); GO:0005737 (cytoplasm); GO:0006364 (rRNA processing); GO:0006997 (nucleus organization); GO:0015931 (nucleobase-containing compound transport); GO:0016740 (transferase activity); GO:0016874 (ligase activity); GO:0048285 (organelle fission); GO:0051169 (nuclear transport),GO:0070647 (protein modification by small protein conjugation or removal),GO:0006913 (nucleocytoplasmic transport)
+PF02453,eukaryotic,X,X,X,X,rule-based/EM,Q04947 ();Q12443 (),P53694 (),GO:0005783 (endoplasmic reticulum); GO:0005794 (Golgi apparatus); GO:0006997 (nucleus organization); GO:0016020 (membrane),,GO:0061024 (membrane organization)
+PF10863,eukaryotic,X,X,,X,rule-based/EM,P53317 (),,GO:0005634 (nucleus); GO:0005730 (nucleolus); GO:0006364 (rRNA processing),,
+PF15496,eukaryotic,,,X,X,EM,,Q9P6I6 (),,,
+PF10329,eukaryotic,X,X,X,,EM,P53925 (COG0596@NOG),O13912 (COG0596@NOG),GO:0016020 (membrane),,
+PF10310,eukaryotic,X,X,X,X,rule-based/EM,P47018 (),O94548 (),"GO:0016023 (cytoplasmic, membrane-bounded vesicle)",,
+PF06650,eukaryotic,X,X,X,X,EM,Q07878 (COG5043@NOG),P87319 (COG5043@NOG);O42926 (COG5043@NOG),GO:0005794 (Golgi apparatus); GO:0016020 (membrane); GO:0016197 (endosomal transport),GO:0006605 (protein targeting),GO:0016192 (vesicle-mediated transport)
+PF10313,eukaryotic,X,,X,X,EM,Q99296 (),P87229 (),,,
+PF07774,eukaryotic,X,X,X,,EM,P25574 (),O13981 (),,GO:0006457 (protein folding),
+PF08490,eukaryotic,X,X,X,X,rule-based/EM,P21951 (COG0417@NOG),P87154 (COG0417@NOG),GO:0003677 (DNA binding); GO:0004518 (nuclease activity); GO:0006310 (DNA recombination); GO:0006974 (cellular response to DNA damage stimulus); GO:0016740 (transferase activity); GO:0016779 (nucleotidyltransferase activity); GO:0016787 (hydrolase activity); GO:0043167 (ion binding); GO:0051726 (regulation of cell cycle),GO:0006260 (DNA replication); GO:0006281 (DNA repair); GO:0006325 (chromatin organization),"GO:0006355 (regulation of transcription, DNA-templated)"
+PF11894,eukaryotic,X,X,X,X,rule-based/EM,P47054 (),P78847 (),GO:0005198 (structural molecule activity); GO:0006997 (nucleus organization); GO:0015931 (nucleobase-containing compound transport); GO:0051049 (regulation of transport),,GO:0006461 (protein complex assembly); GO:0006913 (nucleocytoplasmic transport)
+PF04424,eukaryotic,X,,X,X,EM,P53155 ();Q08930 (),Q09874 (),GO:0005634 (nucleus); GO:0005737 (cytoplasm),,
+PF09994,prokaryotic,X,X,,,EM,P39992 (COG3673@NOG),,,,
+PF08578,eukaryotic,X,,X,X,EM,Q07454 (),O14260 (),GO:0005198 (structural molecule activity); GO:0006970 (response to osmotic stress); GO:0019899 (enzyme binding); GO:0031399 (regulation of protein modification process),,
+PF11935,eukaryotic,X,X,X,X,rule-based/EM,Q01329 (),Q10222 (),"GO:0006353 (DNA-templated transcription, termination); GO:0006397 (mRNA processing); GO:0008033 (tRNA processing)",,GO:0006399 (tRNA metabolic process); GO:0016071 (mRNA metabolic process)
+PF11931,eukaryotic,X,X,X,,EM,P19736 (COG5188@NOG),O59706 (COG5188@NOG),GO:0003723 (RNA binding); GO:0006397 (mRNA processing); GO:0008380 (RNA splicing); GO:0043167 (ion binding),,GO:0016071 (mRNA metabolic process)
+PF05670,prokaryotic,X,,X,X,EM,P40206 ();Q12532 (COG1293@NOG),Q9USN8 (COG1293@NOG),GO:0003723 (RNA binding); GO:0005737 (cytoplasm); GO:0006414 (translational elongation); GO:0006417 (regulation of translation); GO:0051603 (proteolysis involved in cellular protein catabolic process),,GO:0030163 (protein catabolic process)
+PF04366,prokaryotic,X,,X,X,EM,P43603 (COG2930@NOG);P32793 (COG2930@NOG),Q9URW6 (COG2930@NOG),GO:0006897 (endocytosis); GO:0007010 (cytoskeleton organization); GO:0008092 (cytoskeletal protein binding); GO:0008289 (lipid binding); GO:0016020 (membrane),,GO:0016192 (vesicle-mediated transport)
+PF10296,eukaryotic,X,,X,X,rule-based/EM,P41800 ();Q06833 (),O74368 (),GO:0006869 (lipid transport); GO:0008289 (lipid binding); GO:0016020 (membrane),GO:0007005 (mitochondrion organization); GO:0055085 (transmembrane transport),GO:0006461 (protein complex assembly); GO:0061024 (membrane organization)
+PF08574,eukaryotic,X,X,X,,EM,Q07532 (),O13951 (),GO:0005634 (nucleus); GO:0005737 (cytoplasm); GO:0051169 (nuclear transport),,GO:0006913 (nucleocytoplasmic transport)
+PF07798,prokaryotic,X,X,X,X,EM,P43557 ();Q05867 (),O14042 ();O42997 ();Q10073 (),GO:0005739 (mitochondrion); GO:0016020 (membrane); GO:0070271 (protein complex biogenesis),,GO:0055085 (transmembrane transport)
+PF11503,eukaryotic,X,X,,,EM,Q3E830 ();Q3E841 (),,GO:0016020 (membrane),,
+PF05664,eukaryotic,X,X,,,EM,Q08748 (),,GO:0005737 (cytoplasm),,
+PF06025,eukaryotic,X,X,X,X,EM,Q03280 (COG5021@NOG),O13834 (COG5021@NOG),GO:0005730 (nucleolus); GO:0005737 (cytoplasm); GO:0006364 (rRNA processing); GO:0006997 (nucleus organization); GO:0015931 (nucleobase-containing compound transport); GO:0016740 (transferase activity); GO:0016874 (ligase activity); GO:0048285 (organelle fission); GO:0051169 (nuclear transport),GO:0070647 (protein modification by small protein conjugation or removal),GO:0006913 (nucleocytoplasmic transport)
+PF06027,eukaryotic,,,X,X,EM,,O59785 (COG0697@NOG),,,GO:0055085 (transmembrane transport)
+PF08699,eukaryotic,,,X,X,EM,,O74957 (),,,"GO:0006325 (chromatin organization); GO:0006355 (regulation of transcription, DNA-templated)"
+PF09848,prokaryotic,X,X,,,EM,Q12179 (COG3410@NOG),,GO:0005634 (nucleus); GO:0005737 (cytoplasm),,
+PF12239,eukaryotic,X,X,,,EM,Q02754 (),,GO:0005737 (cytoplasm),,
+PF05907,eukaryotic,X,X,X,,EM,P25654 (),O74797 (),,,
+PF01008,prokaryotic,X,X,X,X,rule-based/EM,Q06489 (COG0182@NOG);P14741 (COG1184@NOG);P12754 (COG1184@NOG);P32502 (COG1184@NOG),Q09924 (COG1184@NOG);Q9UT76 (COG1184@NOG);Q9USP0 (COG1184@NOG);O60185 (COG0182@NOG),"GO:0003723 (RNA binding); GO:0005634 (nucleus); GO:0005737 (cytoplasm); GO:0006417 (regulation of translation); GO:0008135 (translation factor activity, RNA binding); GO:0016853 (isomerase activity); GO:0030234 (enzyme regulator activity)",GO:0006520 (cellular amino acid metabolic process); GO:0051186 (cofactor metabolic process),
+PF10058,prokaryotic,X,X,X,X,EM,P38878 (),O94414 (),GO:0016020 (membrane); GO:0043167 (ion binding),,GO:0061024 (membrane organization)
+PF09495,eukaryotic,X,X,X,X,EM,Q3E747 (),Q9P7I8,GO:0005634 (nucleus),,
+PF01933,prokaryotic,X,X,,,EM,P53980 (COG0391@NOG),,,,
+PF07896,prokaryotic,X,,X,X,EM,P38345 (),C6Y4C4 (),GO:0070271 (protein complex biogenesis),,GO:0006461 (protein complex assembly)
+PF01841,prokaryotic,,,X,X,EM,,O74739 (),,,GO:0030163 (protein catabolic process); GO:1901135 (carbohydrate derivative metabolic process)
+PF01169,prokaryotic,X,X,X,,EM,P38301 (COG2119@NOG),Q9P7Q0 (COG2119@NOG);Q10320 (COG2119@NOG),GO:0005773 (vacuole); GO:0005794 (Golgi apparatus); GO:0006811 (ion transport); GO:0006873 (cellular ion homeostasis); GO:0016020 (membrane); GO:0022857 (transmembrane transporter activity); GO:0055085 (transmembrane transport),,
+PF10307,eukaryotic,X,,X,X,EM,Q03508 (),Q9USS8 (),,,
+PF06417,eukaryotic,X,X,X,X,EM,P53073 (),O94520 (),,GO:0006457 (protein folding),
+PF04574,eukaryotic,X,,X,X,EM,P06700 (COG0846@NOG);P53685 (COG0846@NOG),O94640 (COG0846@NOG),GO:0005730 (nucleolus); GO:0006974 (cellular response to DNA damage stimulus); GO:0016570 (histone modification); GO:0016787 (hydrolase activity); GO:0043167 (ion binding); GO:0043934 (sporulation); GO:0051052 (regulation of DNA metabolic process),GO:0006281 (DNA repair); GO:0006325 (chromatin organization),"GO:0006351 (transcription, DNA-templated); GO:0006355 (regulation of transcription, DNA-templated)"
+PF12927,eukaryotic,X,X,X,,EM,P43573 (),O74953 (),"GO:0000988 (transcription factor activity, protein binding); GO:0005737 (cytoplasm)",,GO:0006461 (protein complex assembly)
+PF13915,eukaryotic,,,X,X,EM,,Q10140 (),,,
+PF01868,prokaryotic,X,X,X,X,rule-based/EM,P38336 (),Q9P7W9 (),GO:0003723 (RNA binding); GO:0004518 (nuclease activity); GO:0006364 (rRNA processing); GO:0006401 (RNA catabolic process); GO:0008033 (tRNA processing); GO:0016787 (hydrolase activity); GO:0019843 (rRNA binding); GO:0043144 (snoRNA processing),,GO:0006399 (tRNA metabolic process); GO:0016071 (mRNA metabolic process)
+PF10937,eukaryotic,X,,X,X,EM,P19955 (),G2TRP3,GO:0003735 (structural constituent of ribosome); GO:0005198 (structural molecule activity); GO:0005840 (ribosome); GO:0032543 (mitochondrial translation),GO:0007005 (mitochondrion organization),GO:0042254 (ribosome biogenesis)
+PF10336,eukaryotic,X,X,X,X,EM,P53060 (),O94577 (),GO:0005634 (nucleus); GO:0005737 (cytoplasm),GO:0006310 (DNA recombination),
+PF13422,eukaryotic,X,X,,,EM,Q08979 (),,,,
+PF10334,eukaryotic,X,,X,X,EM,Q07660 (),P87136 (),GO:0006897 (endocytosis); GO:0016020 (membrane); GO:0022857 (transmembrane transporter activity),,
+PF01937,prokaryotic,X,X,X,,EM,Q04371 (),O94725 ();Q9UT55 (),GO:0008168 (methyltransferase activity); GO:0008213 (protein alkylation); GO:0016740 (transferase activity),,
+PF06131,prokaryotic,,,X,X,EM,,Q96WV6 (),,,GO:0007155 (cell adhesion)
+PF10445,eukaryotic,X,,X,X,EM,P38740 (),O74505 (),,,
+PF08438,prokaryotic,X,,X,X,EM,P42942 (COG0012@NOG),O94362 (COG0012@NOG),,,
+PF10338,eukaryotic,X,,X,X,EM,P38202 (),Q96WW3,,,
+PF04190,eukaryotic,X,X,X,,EM,Q12125 (),O74432 (),GO:0006605 (protein targeting),,GO:0016192 (vesicle-mediated transport)
+PF13259,eukaryotic,X,X,X,,EM,Q06070 (),C6Y4B4,GO:0005737 (cytoplasm); GO:0005938 (cell cortex),,
+PF02475,prokaryotic,X,X,X,,rule-based/EM,P38793 (COG2520@NOG);Q04235 (COG2520@NOG),Q8TFG7 (COG2520@NOG);Q09832 (COG2520@NOG),GO:0005737 (cytoplasm); GO:0007005 (mitochondrion organization); GO:0008033 (tRNA processing); GO:0008168 (methyltransferase activity); GO:0009451 (RNA modification); GO:0016740 (transferase activity),,GO:0006399 (tRNA metabolic process); GO:1901135 (carbohydrate derivative metabolic process)
+PF02714,eukaryotic,X,,X,X,EM,Q12252 (COG5594@NOG);Q07798 (COG5594@NOG);Q06538 (COG5594@NOG);Q03516 (COG5594@NOG),Q09809 (COG5594@NOG);Q09766 (COG5594@NOG);O43022 (COG5594@NOG),GO:0005886 (plasma membrane); GO:0006811 (ion transport); GO:0016020 (membrane); GO:0022857 (transmembrane transporter activity); GO:0043934 (sporulation); GO:0048193 (Golgi vesicle transport); GO:0071554 (cell wall organization or biogenesis),,GO:0016192 (vesicle-mediated transport); GO:0055085 (transmembrane transport)
+PF13821,eukaryotic,X,X,X,X,EM,Q06152 (),C6Y4A5 (),GO:0005634 (nucleus); GO:0005737 (cytoplasm),,
+PF10806,eukaryotic,X,X,,X,rule-based/EM,P14693 (),,GO:0006605 (protein targeting); GO:0007005 (mitochondrion organization); GO:0016020 (membrane); GO:0055085 (transmembrane transport),,
+PF13907,eukaryotic,X,,X,X,EM,P32657 (COG0553@NOG),O14139 (),"GO:0003677 (DNA binding); GO:0003682 (chromatin binding); GO:0004386 (helicase activity); GO:0006353 (DNA-templated transcription, termination); GO:0006354 (DNA-templated transcription, elongation); GO:0016570 (histone modification); GO:0016787 (hydrolase activity); GO:0016887 (ATPase activity); GO:0031399 (regulation of protein modification process); GO:0042393 (histone binding); GO:0051052 (regulation of DNA metabolic process); GO:0070647 (protein modification by small protein conjugation or removal)",GO:0006325 (chromatin organization),"GO:0006351 (transcription, DNA-templated); GO:0006355 (regulation of transcription, DNA-templated)"
+PF04034,prokaryotic,X,,X,X,EM,Q12094 (COG2042@NOG),Q10409 (COG2042@NOG),GO:0005634 (nucleus); GO:0005737 (cytoplasm); GO:0006364 (rRNA processing),,
+PF04037,eukaryotic,X,X,X,X,EM,Q02554 (COG5182@NOG),Q9UUI3 (COG5182@NOG),GO:0003723 (RNA binding); GO:0006397 (mRNA processing); GO:0008380 (RNA splicing),,GO:0016071 (mRNA metabolic process)
+PF06201,eukaryotic,,,X,X,EM,,Q9P7A1 ();Q9USR1 (),,,"GO:0006355 (regulation of transcription, DNA-templated); GO:0006457 (protein folding); GO:0030163 (protein catabolic process)"
+PF11919,eukaryotic,X,X,,,EM,P43583 (),,GO:0005634 (nucleus); GO:0006281 (DNA repair); GO:0006325 (chromatin organization); GO:0006974 (cellular response to DNA damage stimulus); GO:0030234 (enzyme regulator activity); GO:0042393 (histone binding); GO:0051169 (nuclear transport); GO:0051603 (proteolysis involved in cellular protein catabolic process),,
+PF04502,eukaryotic,X,X,X,X,rule-based/EM,P28320 (COG5134@NOG),Q9P7C5 (COG5134@NOG);O60141 (COG5134@NOG),,,GO:0016071 (mRNA metabolic process)
+PF10343,eukaryotic,,,X,X,EM,,Q9HDZ9 (),,,GO:0006399 (tRNA metabolic process)
+PF13300,eukaryotic,,,X,X,EM,,Q9P7B7 (),,,
+PF10340,eukaryotic,X,X,X,X,EM,P53324 (COG0657@NOG),Q9HDV1 (COG0657@NOG),GO:0005783 (endoplasmic reticulum); GO:0006629 (lipid metabolic process); GO:0016020 (membrane); GO:0016787 (hydrolase activity); GO:0042221 (response to chemical),,
+PF12257,eukaryotic,X,X,X,X,EM,P47170 (),O74788 (),GO:0030234 (enzyme regulator activity); GO:0033043 (regulation of organelle organization),,
+PF10348,eukaryotic,X,X,X,X,EM,P25639 (),O59714 (),,,
+PF10355,eukaryotic,X,,X,X,EM,P25639 ();P53584 (),O59714 (),GO:0016020 (membrane),,
+PF08617,prokaryotic,X,X,X,X,EM,Q03705 (),Q9P7J3 (),GO:0006310 (DNA recombination); GO:0008033 (tRNA processing); GO:0009451 (RNA modification); GO:0032200 (telomere organization),,"GO:0006351 (transcription, DNA-templated); GO:0006355 (regulation of transcription, DNA-templated); GO:0006399 (tRNA metabolic process)"
+PF06842,eukaryotic,X,X,X,X,rule-based/EM,Q8TGJ3 (),G2TRS3 (),GO:0016020 (membrane),,GO:0016192 (vesicle-mediated transport)
+PF15375,eukaryotic,,,X,X,rule-based/EM,,Q10183 (),,,
+PF10180,eukaryotic,X,X,,,EM,P25617 (),,,,
+PF09949,prokaryotic,X,X,X,,EM,P53933 (COG4850@NOG),Q9HGP1 (COG4850@NOG),GO:0005856 (cytoskeleton); GO:0007010 (cytoskeleton organization); GO:0016787 (hydrolase activity); GO:0016791 (phosphatase activity),GO:0006629 (lipid metabolic process),GO:0030036 (actin cytoskeleton organization)
+PF10224,eukaryotic,X,X,X,X,EM,Q3E784 (),G2TRT5,,,GO:0016192 (vesicle-mediated transport)
+PF15251,eukaryotic,X,X,,,EM,P47115 (),,,,
+PF01133,eukaryotic,,,X,X,EM,,G2TRN4 (),,,GO:0055086 (nucleobase-containing small molecule metabolic process)
+PF12157,eukaryotic,X,X,X,X,rule-based/EM,P46677 (COG5179@NOG),Q09813 (COG5179@NOG),GO:0003682 (chromatin binding); GO:0005198 (structural molecule activity); GO:0005634 (nucleus); GO:0006366 (transcription from RNA polymerase II promoter); GO:0008134 (transcription factor binding); GO:0016740 (transferase activity),,

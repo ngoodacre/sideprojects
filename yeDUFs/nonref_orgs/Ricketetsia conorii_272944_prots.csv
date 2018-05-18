@@ -1,0 +1,1373 @@
+Entry,Entry name,Status,Protein names,Organism,Length,Organism ID
+Q92JE7,AAT_RICCN,reviewed,Aspartate aminotransferase (AspAT) (EC 2.6.1.1) (Transaminase A),Rickettsia conorii (strain ATCC VR-613 / Malish 7),401,272944
+Q92GD8,ACP_RICCN,reviewed,Acyl carrier protein (ACP),Rickettsia conorii (strain ATCC VR-613 / Malish 7),86,272944
+Q92IE0,3MGH_RICCN,reviewed,Putative 3-methyladenine DNA glycosylase (EC 3.2.2.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),183,272944
+P0A3N4,17KD_RICCN,reviewed,17 kDa surface antigen,Rickettsia conorii (strain ATCC VR-613 / Malish 7),159,272944
+Q92G90,ACNA_RICCN,reviewed,"Aconitate hydratase A (ACN) (Aconitase) (EC 4.2.1.3) ((2R,3S)-2-methylisocitrate dehydratase) ((2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate dehydratase) (Iron-responsive protein-like) (IRP-like) (Probable 2-methyl-cis-aconitate hydratase) (EC 4.2.1.99) (RNA-binding protein)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),878,272944
+Q92H90,ACPS_RICCN,reviewed,Holo-[acyl-carrier-protein] synthase (Holo-ACP synthase) (EC 2.7.8.7) (4'-phosphopantetheinyl transferase AcpS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),131,272944
+Q92JD9,ALR_RICCN,reviewed,Alanine racemase (EC 5.1.1.1),Rickettsia conorii (strain ATCC VR-613 / Malish 7),355,272944
+Q92GF9,AK_RICCN,reviewed,Aspartokinase (EC 2.7.2.4) (Aspartate kinase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),401,272944
+Q92GA9,AMPG3_RICCN,reviewed,Putative transporter AmpG 3,Rickettsia conorii (strain ATCC VR-613 / Malish 7),432,272944
+Q92J85,AMPA_RICCN,reviewed,Probable cytosol aminopeptidase (EC 3.4.11.1) (Leucine aminopeptidase) (LAP) (EC 3.4.11.10) (Leucyl aminopeptidase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),500,272944
+Q92GV3,AMPG2_RICCN,reviewed,Putative transporter AmpG 2,Rickettsia conorii (strain ATCC VR-613 / Malish 7),408,272944
+Q92HQ3,AMPG1_RICCN,reviewed,Putative transporter AmpG 1,Rickettsia conorii (strain ATCC VR-613 / Malish 7),417,272944
+Q92I85,AMPG4_RICCN,reviewed,Putative transporter AmpG 4,Rickettsia conorii (strain ATCC VR-613 / Malish 7),414,272944
+Q92JA4,APBC_RICCN,reviewed,Iron-sulfur cluster carrier protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),319,272944
+Q92G88,ATPB_RICCN,reviewed,ATP synthase subunit beta (EC 3.6.3.14) (ATP synthase F1 sector subunit beta) (F-ATPase subunit beta),Rickettsia conorii (strain ATCC VR-613 / Malish 7),473,272944
+Q92JP0,ATP6_RICCN,reviewed,ATP synthase subunit a (ATP synthase F0 sector subunit a) (F-ATPase subunit 6),Rickettsia conorii (strain ATCC VR-613 / Malish 7),242,272944
+Q92G87,ATPG_RICCN,reviewed,ATP synthase gamma chain (ATP synthase F1 sector gamma subunit) (F-ATPase gamma subunit),Rickettsia conorii (strain ATCC VR-613 / Malish 7),323,272944
+Q92G85,ATPD_RICCN,reviewed,ATP synthase subunit delta (ATP synthase F(1) sector subunit delta) (F-type ATPase subunit delta) (F-ATPase subunit delta),Rickettsia conorii (strain ATCC VR-613 / Malish 7),184,272944
+Q92G89,ATPE_RICCN,reviewed,ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit) (F-ATPase epsilon subunit),Rickettsia conorii (strain ATCC VR-613 / Malish 7),112,272944
+Q92JP3,ATPF_RICCN,reviewed,ATP synthase subunit b (ATP synthase F(0) sector subunit b) (ATPase subunit I) (F-type ATPase subunit b) (F-ATPase subunit b),Rickettsia conorii (strain ATCC VR-613 / Malish 7),164,272944
+Q92G86,ATPA_RICCN,reviewed,ATP synthase subunit alpha (EC 3.6.3.14) (ATP synthase F1 sector subunit alpha) (F-ATPase subunit alpha),Rickettsia conorii (strain ATCC VR-613 / Malish 7),510,272944
+Q92JP1,ATPL_RICCN,reviewed,ATP synthase subunit c (ATP synthase F(0) sector subunit c) (F-type ATPase subunit c) (F-ATPase subunit c) (Lipid-binding protein),Rickettsia conorii (strain ATCC VR-613 / Malish 7),74,272944
+Q92IG3,CAPD_RICCN,reviewed,UDP-glucose 4-epimerase (EC 5.1.3.2) (Galactowaldenase) (UDP-galactose 4-epimerase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),341,272944
+Q92G95,CCMA_RICCN,reviewed,Cytochrome c biogenesis ATP-binding export protein CcmA (EC 3.6.3.41) (Heme exporter protein A),Rickettsia conorii (strain ATCC VR-613 / Malish 7),191,272944
+Q92H75,CCME_RICCN,reviewed,Cytochrome c-type biogenesis protein CcmE (Cytochrome c maturation protein E) (Heme chaperone CcmE),Rickettsia conorii (strain ATCC VR-613 / Malish 7),128,272944
+Q92I31,CDSA_RICCN,reviewed,Phosphatidate cytidylyltransferase (EC 2.7.7.41) (CDP-DAG synthase) (CDP-DG synthase) (CDP-diacylglycerol synthase) (CDS) (CDP-diglyceride pyrophosphorylase) (CDP-diglyceride synthase) (CTP:phosphatidate cytidylyltransferase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),230,272944
+Q92H04,CH60_RICCN,reviewed,60 kDa chaperonin (GroEL protein) (Protein Cpn60),Rickettsia conorii (strain ATCC VR-613 / Malish 7),548,272944
+Q92HM5,CLPP_RICCN,reviewed,ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92) (Endopeptidase Clp),Rickettsia conorii (strain ATCC VR-613 / Malish 7),201,272944
+Q92GQ4,CLPX_RICCN,reviewed,ATP-dependent Clp protease ATP-binding subunit ClpX,Rickettsia conorii (strain ATCC VR-613 / Malish 7),425,272944
+Q92JK8,CLPB_RICCN,reviewed,Chaperone protein ClpB,Rickettsia conorii (strain ATCC VR-613 / Malish 7),857,272944
+Q92H03,CH10_RICCN,reviewed,10 kDa chaperonin (GroES protein) (Protein Cpn10),Rickettsia conorii (strain ATCC VR-613 / Malish 7),95,272944
+Q92IF1,COXX_RICCN,reviewed,Protoheme IX farnesyltransferase (EC 2.5.1.-) (Heme B farnesyltransferase) (Heme O synthase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),305,272944
+P51042,CISY_RICCN,reviewed,Citrate synthase (EC 2.3.3.16),Rickettsia conorii (strain ATCC VR-613 / Malish 7),435,272944
+Q92GL2,COAE_RICCN,reviewed,Dephospho-CoA kinase (EC 2.7.1.24) (Dephosphocoenzyme A kinase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),191,272944
+Q92I67,COX1_RICCN,reviewed,Probable cytochrome c oxidase subunit 1 (EC 1.9.3.1) (Cytochrome aa3 subunit 1) (Cytochrome c oxidase polypeptide I),Rickettsia conorii (strain ATCC VR-613 / Malish 7),532,272944
+Q92J29,COX3_RICCN,reviewed,Probable cytochrome c oxidase subunit 3 (EC 1.9.3.1) (Cytochrome aa3 subunit 3) (Cytochrome c oxidase polypeptide III),Rickettsia conorii (strain ATCC VR-613 / Malish 7),283,272944
+Q92IL2,COXZ_RICCN,reviewed,Cytochrome c oxidase assembly protein CtaG,Rickettsia conorii (strain ATCC VR-613 / Malish 7),188,272944
+Q92I65,COX2_RICCN,reviewed,Probable cytochrome c oxidase subunit 2 (EC 1.9.3.1) (Cytochrome aa3 subunit 2) (Cytochrome c oxidase polypeptide II),Rickettsia conorii (strain ATCC VR-613 / Malish 7),315,272944
+Q92GV1,CSPA_RICCN,reviewed,Cold shock-like protein CspA,Rickettsia conorii (strain ATCC VR-613 / Malish 7),70,272944
+Q92IS7,CTAA_RICCN,reviewed,Heme A synthase (HAS) (EC 1.3.-.-) (Cytochrome aa3-controlling protein),Rickettsia conorii (strain ATCC VR-613 / Malish 7),337,272944
+Q92J57,DBH_RICCN,reviewed,DNA-binding protein HU,Rickettsia conorii (strain ATCC VR-613 / Malish 7),99,272944
+Q92IH7,CYAY_RICCN,reviewed,Protein CyaY,Rickettsia conorii (strain ATCC VR-613 / Malish 7),103,272944
+Q92I25,DAPA_RICCN,reviewed,4-hydroxy-tetrahydrodipicolinate synthase (HTPA synthase) (EC 4.3.3.7),Rickettsia conorii (strain ATCC VR-613 / Malish 7),294,272944
+Q92J26,DAPD_RICCN,reviewed,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117) (Tetrahydrodipicolinate N-succinyltransferase) (THDP succinyltransferase) (THP succinyltransferase) (Tetrahydropicolinate succinylase)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),274,272944
+Q92HL4,DBHL_RICCN,reviewed,DNA-binding protein HU-like,Rickettsia conorii (strain ATCC VR-613 / Malish 7),80,272944
+Q92JG8,DCD_RICCN,reviewed,dCTP deaminase (EC 3.5.4.13) (Deoxycytidine triphosphate deaminase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),188,272944
+Q92IR1,CYB_RICCN,reviewed,Cytochrome b,Rickettsia conorii (strain ATCC VR-613 / Malish 7),398,272944
+Q92IT3,CYCM_RICCN,reviewed,Cytochrome c homolog,Rickettsia conorii (strain ATCC VR-613 / Malish 7),175,272944
+Q92J99,DHSC_RICCN,reviewed,Succinate dehydrogenase cytochrome b556 subunit (Cytochrome b-556),Rickettsia conorii (strain ATCC VR-613 / Malish 7),124,272944
+Q92J98,DHSD_RICCN,reviewed,Succinate dehydrogenase hydrophobic membrane anchor subunit,Rickettsia conorii (strain ATCC VR-613 / Malish 7),126,272944
+Q92HG8,DNAB_RICCN,reviewed,Replicative DNA helicase (EC 3.6.4.12),Rickettsia conorii (strain ATCC VR-613 / Malish 7),494,272944
+Q92I41,DAPF_RICCN,reviewed,Diaminopimelate epimerase (DAP epimerase) (EC 5.1.1.7) (PLP-independent amino acid racemase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),270,272944
+Q92JH3,DGTL1_RICCN,reviewed,Deoxyguanosinetriphosphate triphosphohydrolase-like protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),384,272944
+Q92HU7,DEFL_RICCN,reviewed,Peptide deformylase-like (Polypeptide deformylase-like),Rickettsia conorii (strain ATCC VR-613 / Malish 7),183,272944
+Q92FV3,DCUP_RICCN,reviewed,Uroporphyrinogen decarboxylase (UPD) (URO-D) (EC 4.1.1.37),Rickettsia conorii (strain ATCC VR-613 / Malish 7),346,272944
+Q92J79,DAPB_RICCN,reviewed,4-hydroxy-tetrahydrodipicolinate reductase (HTPA reductase) (EC 1.17.1.8),Rickettsia conorii (strain ATCC VR-613 / Malish 7),239,272944
+Q92FY0,DAPE_RICCN,reviewed,"Succinyl-diaminopimelate desuccinylase (SDAP desuccinylase) (EC 3.5.1.18) (N-succinyl-LL-2,6-diaminoheptanedioate amidohydrolase)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),381,272944
+Q92IT7,DDL_RICCN,reviewed,D-alanine--D-alanine ligase (EC 6.3.2.4) (D-Ala-D-Ala ligase) (D-alanylalanine synthetase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),321,272944
+Q92GM7,DNLJ_RICCN,reviewed,DNA ligase (EC 6.5.1.2) (Polydeoxyribonucleotide synthase [NAD(+)]),Rickettsia conorii (strain ATCC VR-613 / Malish 7),689,272944
+Q92GL1,DPO3E_RICCN,reviewed,DNA polymerase III subunit epsilon (EC 2.7.7.7),Rickettsia conorii (strain ATCC VR-613 / Malish 7),230,272944
+Q92JA1,DEGPL_RICCN,reviewed,Probable periplasmic serine endoprotease DegP-like (EC 3.4.21.107) (Protease Do),Rickettsia conorii (strain ATCC VR-613 / Malish 7),508,272944
+Q92GB7,DPO1_RICCN,reviewed,DNA polymerase I (POL I) (EC 2.7.7.7),Rickettsia conorii (strain ATCC VR-613 / Malish 7),875,272944
+Q92J36,DNAK_RICCN,reviewed,Chaperone protein DnaK (HSP70) (Heat shock 70 kDa protein) (Heat shock protein 70),Rickettsia conorii (strain ATCC VR-613 / Malish 7),627,272944
+Q92IZ1,DEF1_RICCN,reviewed,Peptide deformylase 1 (PDF 1) (EC 3.5.1.88) (Polypeptide deformylase 1),Rickettsia conorii (strain ATCC VR-613 / Malish 7),175,272944
+Q92JI7,DEF2_RICCN,reviewed,Peptide deformylase 2 (PDF 2) (EC 3.5.1.88) (Polypeptide deformylase 2),Rickettsia conorii (strain ATCC VR-613 / Malish 7),202,272944
+Q92GU2,DER_RICCN,reviewed,GTPase Der (GTP-binding protein EngA),Rickettsia conorii (strain ATCC VR-613 / Malish 7),447,272944
+Q92FZ7,DNAG_RICCN,reviewed,DNA primase (EC 2.7.7.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),595,272944
+Q92IJ0,DHAS_RICCN,reviewed,Aspartate-semialdehyde dehydrogenase (ASA dehydrogenase) (ASADH) (EC 1.2.1.11) (Aspartate-beta-semialdehyde dehydrogenase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),338,272944
+Q92H56,DNAA_RICCN,reviewed,Chromosomal replication initiator protein DnaA,Rickettsia conorii (strain ATCC VR-613 / Malish 7),463,272944
+Q92JN8,DSB_RICCN,reviewed,Putative protein-disulfide oxidoreductase RC0029 (EC 1.8.-.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),277,272944
+Q92JQ6,DUS_RICCN,reviewed,Probable tRNA-dihydrouridine synthase (EC 1.3.1.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),331,272944
+Q92J37,DNAJ_RICCN,reviewed,Chaperone protein DnaJ,Rickettsia conorii (strain ATCC VR-613 / Malish 7),373,272944
+Q92GB2,DPO3A_RICCN,reviewed,DNA polymerase III subunit alpha (EC 2.7.7.7),Rickettsia conorii (strain ATCC VR-613 / Malish 7),1181,272944
+Q92I74,DUT_RICCN,reviewed,Deoxyuridine 5'-triphosphate nucleotidohydrolase (dUTPase) (EC 3.6.1.23) (dUTP pyrophosphatase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),148,272944
+Q92I37,DPO3B_RICCN,reviewed,DNA polymerase III subunit beta (EC 2.7.7.7),Rickettsia conorii (strain ATCC VR-613 / Malish 7),379,272944
+Q92IU8,EFP_RICCN,reviewed,Elongation factor P (EF-P),Rickettsia conorii (strain ATCC VR-613 / Malish 7),188,272944
+Q92JF4,EFTS_RICCN,reviewed,Elongation factor Ts (EF-Ts),Rickettsia conorii (strain ATCC VR-613 / Malish 7),309,272944
+Q92GW4,EFTU_RICCN,reviewed,Elongation factor Tu (EF-Tu),Rickettsia conorii (strain ATCC VR-613 / Malish 7),394,272944
+Q92GV5,ECOTL_RICCN,reviewed,Putative ecotin-like protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),68,272944
+Q92J93,EFG_RICCN,reviewed,Elongation factor G (EF-G),Rickettsia conorii (strain ATCC VR-613 / Malish 7),699,272944
+Q92IZ6,GYRA_RICCN,reviewed,DNA gyrase subunit A (EC 5.99.1.3),Rickettsia conorii (strain ATCC VR-613 / Malish 7),905,272944
+Q92J02,GLRX1_RICCN,reviewed,Glutaredoxin 1,Rickettsia conorii (strain ATCC VR-613 / Malish 7),102,272944
+Q92GZ5,GRPE_RICCN,reviewed,Protein GrpE (HSP-70 cofactor),Rickettsia conorii (strain ATCC VR-613 / Malish 7),178,272944
+Q92FZ5,GREA_RICCN,reviewed,Transcription elongation factor GreA (Transcript cleavage factor GreA),Rickettsia conorii (strain ATCC VR-613 / Malish 7),162,272944
+Q92H87,GYRB_RICCN,reviewed,DNA gyrase subunit B (EC 5.99.1.3),Rickettsia conorii (strain ATCC VR-613 / Malish 7),807,272944
+Q92FV8,HEM6_RICCN,reviewed,Oxygen-dependent coproporphyrinogen-III oxidase (CPO) (Coprogen oxidase) (Coproporphyrinogenase) (EC 1.3.3.3),Rickettsia conorii (strain ATCC VR-613 / Malish 7),279,272944
+Q92G23,HEM1_RICCN,reviewed,5-aminolevulinate synthase (EC 2.3.1.37) (5-aminolevulinic acid synthase) (Delta-ALA synthase) (Delta-aminolevulinate synthase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),414,272944
+Q92JA9,ERA_RICCN,reviewed,GTPase Era,Rickettsia conorii (strain ATCC VR-613 / Malish 7),339,272944
+Q92GH4,END3_RICCN,reviewed,Endonuclease III (EC 4.2.99.18) (DNA-(apurinic or apyrimidinic site) lyase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),210,272944
+Q92JC9,ENGB_RICCN,reviewed,Probable GTP-binding protein EngB,Rickettsia conorii (strain ATCC VR-613 / Malish 7),212,272944
+Q92GE0,FABG_RICCN,reviewed,3-oxoacyl-[acyl-carrier-protein] reductase FabG (EC 1.1.1.100) (3-ketoacyl-acyl carrier protein reductase) (Beta-Ketoacyl-acyl carrier protein reductase) (Beta-ketoacyl-ACP reductase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),241,272944
+Q92JQ8,FABZ_RICCN,reviewed,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ (EC 4.2.1.59) ((3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase) ((3R)-hydroxymyristoyl-ACP dehydrase) (Beta-hydroxyacyl-ACP dehydratase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),145,272944
+Q92GU6,EX7L_RICCN,reviewed,Exodeoxyribonuclease 7 large subunit (EC 3.1.11.6) (Exodeoxyribonuclease VII large subunit) (Exonuclease VII large subunit),Rickettsia conorii (strain ATCC VR-613 / Malish 7),444,272944
+Q92IE5,EX7S_RICCN,reviewed,Exodeoxyribonuclease 7 small subunit (EC 3.1.11.6) (Exodeoxyribonuclease VII small subunit) (Exonuclease VII small subunit),Rickettsia conorii (strain ATCC VR-613 / Malish 7),80,272944
+Q92GC1,FABH_RICCN,reviewed,3-oxoacyl-[acyl-carrier-protein] synthase 3 (EC 2.3.1.180) (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III) (KAS III),Rickettsia conorii (strain ATCC VR-613 / Malish 7),318,272944
+Q92HY3,FENR_RICCN,reviewed,Ferredoxin--NADP reductase (FNR) (Fd-NADP(+) reductase) (EC 1.18.1.2),Rickettsia conorii (strain ATCC VR-613 / Malish 7),340,272944
+Q92IC6,FABI_RICCN,reviewed,Enoyl-[acyl-carrier-protein] reductase [NADH] FabI (ENR) (EC 1.3.1.9) (NADH-dependent enoyl-ACP reductase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),260,272944
+O33519,FMT_RICCN,reviewed,Methionyl-tRNA formyltransferase (EC 2.1.2.9),Rickettsia conorii (strain ATCC VR-613 / Malish 7),303,272944
+Q92IT6,FTSQ_RICCN,reviewed,Cell division protein FtsQ,Rickettsia conorii (strain ATCC VR-613 / Malish 7),267,272944
+Q92GV7,FTSZ_RICCN,reviewed,Cell division protein FtsZ,Rickettsia conorii (strain ATCC VR-613 / Malish 7),452,272944
+Q92GB8,FTSY_RICCN,reviewed,Signal recognition particle receptor FtsY (SRP receptor),Rickettsia conorii (strain ATCC VR-613 / Malish 7),303,272944
+Q92JJ9,FTSH_RICCN,reviewed,ATP-dependent zinc metalloprotease FtsH (EC 3.4.24.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),637,272944
+Q92G50,FTSK_RICCN,reviewed,DNA translocase FtsK,Rickettsia conorii (strain ATCC VR-613 / Malish 7),744,272944
+Q92J08,FER2_RICCN,reviewed,2Fe-2S ferredoxin (Adrenodoxin-like protein),Rickettsia conorii (strain ATCC VR-613 / Malish 7),112,272944
+Q92G41,FER_RICCN,reviewed,Ferredoxin,Rickettsia conorii (strain ATCC VR-613 / Malish 7),116,272944
+Q92HY4,FOLD_RICCN,reviewed,Bifunctional protein FolD [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)],Rickettsia conorii (strain ATCC VR-613 / Malish 7),288,272944
+Q92J74,GATC_RICCN,reviewed,Glutamyl-tRNA(Gln) amidotransferase subunit C (Glu-ADT subunit C) (EC 6.3.5.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),100,272944
+Q92GW0,FUMC_RICCN,reviewed,Fumarate hydratase class II (Fumarase C) (EC 4.2.1.2) (Aerobic fumarase) (Iron-independent fumarase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),463,272944
+Q92GT4,FPG_RICCN,reviewed,Formamidopyrimidine-DNA glycosylase (Fapy-DNA glycosylase) (EC 3.2.2.23) (DNA-(apurinic or apyrimidinic site) lyase MutM) (AP lyase MutM) (EC 4.2.99.18),Rickettsia conorii (strain ATCC VR-613 / Malish 7),273,272944
+Q92J76,GATB_RICCN,reviewed,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (Asp/Glu-ADT subunit B) (EC 6.3.5.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),483,272944
+Q92J96,GLNP_RICCN,reviewed,Putative glutamine transport system permease protein GlnP,Rickettsia conorii (strain ATCC VR-613 / Malish 7),218,272944
+Q92I93,GCH1_RICCN,reviewed,GTP cyclohydrolase 1 (EC 3.5.4.16) (GTP cyclohydrolase I) (GTP-CH-I),Rickettsia conorii (strain ATCC VR-613 / Malish 7),189,272944
+Q92J75,GATA_RICCN,reviewed,Glutamyl-tRNA(Gln) amidotransferase subunit A (Glu-ADT subunit A) (EC 6.3.5.7),Rickettsia conorii (strain ATCC VR-613 / Malish 7),493,272944
+Q92GH7,GLYA_RICCN,reviewed,Serine hydroxymethyltransferase (SHMT) (Serine methylase) (EC 2.1.2.1),Rickettsia conorii (strain ATCC VR-613 / Malish 7),420,272944
+Q92I05,GPDA_RICCN,reviewed,Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94) (NAD(P)H-dependent glycerol-3-phosphate dehydrogenase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),325,272944
+Q92GH5,GLRX2_RICCN,reviewed,Probable monothiol glutaredoxin 2,Rickettsia conorii (strain ATCC VR-613 / Malish 7),107,272944
+Q92HR5,HEM3_RICCN,reviewed,Porphobilinogen deaminase (PBG) (EC 2.5.1.61) (Hydroxymethylbilane synthase) (HMBS) (Pre-uroporphyrinogen synthase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),351,272944
+Q92FV4,HEMH_RICCN,reviewed,Ferrochelatase (EC 4.99.1.1) (Heme synthase) (Protoheme ferro-lyase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),342,272944
+Q92GN5,HLP_RICCN,reviewed,Histone-like DNA-binding protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),95,272944
+Q92II6,HSLU_RICCN,reviewed,ATP-dependent protease ATPase subunit HslU (Unfoldase HslU),Rickettsia conorii (strain ATCC VR-613 / Malish 7),450,272944
+Q92II7,HSLV_RICCN,reviewed,ATP-dependent protease subunit HslV (EC 3.4.25.2),Rickettsia conorii (strain ATCC VR-613 / Malish 7),182,272944
+Q92IR7,IDH_RICCN,reviewed,Isocitrate dehydrogenase [NADP] (IDH) (EC 1.1.1.42) (IDP) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),483,272944
+Q92IQ7,HSPC1_RICCN,reviewed,Small heat shock protein C1,Rickettsia conorii (strain ATCC VR-613 / Malish 7),167,272944
+P58478,HTPG_RICCN,reviewed,Chaperone protein HtpG (Heat shock protein HtpG) (High temperature protein G),Rickettsia conorii (strain ATCC VR-613 / Malish 7),621,272944
+Q92J06,HSCB_RICCN,reviewed,Co-chaperone protein HscB homolog,Rickettsia conorii (strain ATCC VR-613 / Malish 7),166,272944
+Q92GI2,HLYC_RICCN,reviewed,Hemolysin C homolog,Rickettsia conorii (strain ATCC VR-613 / Malish 7),299,272944
+Q92G58,IF1_RICCN,reviewed,Translation initiation factor IF-1,Rickettsia conorii (strain ATCC VR-613 / Malish 7),71,272944
+Q92HF5,IF2_RICCN,reviewed,Translation initiation factor IF-2,Rickettsia conorii (strain ATCC VR-613 / Malish 7),831,272944
+Q92J07,HSCA_RICCN,reviewed,Chaperone protein HscA homolog,Rickettsia conorii (strain ATCC VR-613 / Malish 7),595,272944
+Q92HM7,IDI2_RICCN,reviewed,Isopentenyl-diphosphate delta-isomerase (IPP isomerase) (EC 5.3.3.2) (Isopentenyl diphosphate:dimethylallyl diphosphate isomerase) (Isopentenyl pyrophosphate isomerase) (Type 2 isopentenyl diphosphate isomerase) (IDI-2),Rickettsia conorii (strain ATCC VR-613 / Malish 7),342,272944
+Q92HK6,IF3_RICCN,reviewed,Translation initiation factor IF-3,Rickettsia conorii (strain ATCC VR-613 / Malish 7),186,272944
+Q92I26,ILVE_RICCN,reviewed,Probable branched-chain-amino-acid aminotransferase (BCAT) (EC 2.6.1.42),Rickettsia conorii (strain ATCC VR-613 / Malish 7),290,272944
+Q92HP1,ISCS_RICCN,reviewed,Cysteine desulfurase IscS (EC 2.8.1.7),Rickettsia conorii (strain ATCC VR-613 / Malish 7),410,272944
+Q92JB1,LEP_RICCN,reviewed,Signal peptidase I (SPase I) (EC 3.4.21.89) (Leader peptidase I),Rickettsia conorii (strain ATCC VR-613 / Malish 7),266,272944
+Q92IQ1,LEPA_RICCN,reviewed,Elongation factor 4 (EF-4) (EC 3.6.5.n1) (Ribosomal back-translocase LepA),Rickettsia conorii (strain ATCC VR-613 / Malish 7),600,272944
+Q92I08,NADK_RICCN,reviewed,NAD kinase (EC 2.7.1.23) (ATP-dependent NAD kinase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),255,272944
+Q92JI4,NDK_RICCN,reviewed,Nucleoside diphosphate kinase (NDK) (NDP kinase) (EC 2.7.4.6) (Nucleoside-2-P kinase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),140,272944
+Q92FX2,NHAA_RICCN,reviewed,Putative Na(+)/H(+) antiporter NhaA homolog,Rickettsia conorii (strain ATCC VR-613 / Malish 7),146,272944
+Q92IX6,PUR7_RICCN,reviewed,Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6) (SAICAR synthetase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),236,272944
+Q92H41,PTH_RICCN,reviewed,Peptidyl-tRNA hydrolase (PTH) (EC 3.1.1.29),Rickettsia conorii (strain ATCC VR-613 / Malish 7),185,272944
+Q92GW9,RL2_RICCN,reviewed,50S ribosomal protein L2,Rickettsia conorii (strain ATCC VR-613 / Malish 7),273,272944
+Q92FW7,RL33_RICCN,reviewed,50S ribosomal protein L33,Rickettsia conorii (strain ATCC VR-613 / Malish 7),56,272944
+Q92J64,RLME_RICCN,reviewed,Ribosomal RNA large subunit methyltransferase E (EC 2.1.1.166) (23S rRNA Um2552 methyltransferase) (rRNA (uridine-2'-O-)-methyltransferase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),227,272944
+Q92GL5,RNH_RICCN,reviewed,Ribonuclease HI (RNase HI) (EC 3.1.26.4),Rickettsia conorii (strain ATCC VR-613 / Malish 7),152,272944
+Q92GX4,RL29_RICCN,reviewed,50S ribosomal protein L29,Rickettsia conorii (strain ATCC VR-613 / Malish 7),71,272944
+Q92JD0,RL31_RICCN,reviewed,50S ribosomal protein L31,Rickettsia conorii (strain ATCC VR-613 / Malish 7),78,272944
+Q92HT9,RL36_RICCN,reviewed,50S ribosomal protein L36,Rickettsia conorii (strain ATCC VR-613 / Malish 7),41,272944
+Q92GZ7,RNPH_RICCN,reviewed,Ribonuclease PH (RNase PH) (EC 2.7.7.56) (tRNA nucleotidyltransferase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),239,272944
+Q92GX8,RL5_RICCN,reviewed,50S ribosomal protein L5,Rickettsia conorii (strain ATCC VR-613 / Malish 7),179,272944
+Q92GY1,RL6_RICCN,reviewed,50S ribosomal protein L6,Rickettsia conorii (strain ATCC VR-613 / Malish 7),177,272944
+Q92JK1,RL9_RICCN,reviewed,50S ribosomal protein L9,Rickettsia conorii (strain ATCC VR-613 / Malish 7),171,272944
+Q92I83,RLPA_RICCN,reviewed,Endolytic peptidoglycan transglycosylase RlpA (EC 4.2.2.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),320,272944
+Q92H38,RL35_RICCN,reviewed,50S ribosomal protein L35,Rickettsia conorii (strain ATCC VR-613 / Malish 7),68,272944
+Q92IS6,RLUC_RICCN,reviewed,Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.24) (23S rRNA pseudouridine(955/2504/2580) synthase) (rRNA pseudouridylate synthase C) (rRNA-uridine isomerase C),Rickettsia conorii (strain ATCC VR-613 / Malish 7),303,272944
+Q92GW6,RL3_RICCN,reviewed,50S ribosomal protein L3,Rickettsia conorii (strain ATCC VR-613 / Malish 7),215,272944
+Q92GZ0,RPOA_RICCN,reviewed,DNA-directed RNA polymerase subunit alpha (RNAP subunit alpha) (EC 2.7.7.6) (RNA polymerase subunit alpha) (Transcriptase subunit alpha),Rickettsia conorii (strain ATCC VR-613 / Malish 7),340,272944
+Q92FZ8,RPOD_RICCN,reviewed,RNA polymerase sigma factor RpoD (Sigma-70),Rickettsia conorii (strain ATCC VR-613 / Malish 7),634,272944
+Q92JB0,RNC_RICCN,reviewed,Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III),Rickettsia conorii (strain ATCC VR-613 / Malish 7),227,272944
+Q9RH40,RPOC_RICCN,reviewed,DNA-directed RNA polymerase subunit beta' (RNAP subunit beta') (EC 2.7.7.6) (RNA polymerase subunit beta') (Transcriptase subunit beta'),Rickettsia conorii (strain ATCC VR-613 / Malish 7),1372,272944
+Q92J87,RL7_RICCN,reviewed,50S ribosomal protein L7/L12,Rickettsia conorii (strain ATCC VR-613 / Malish 7),125,272944
+Q92GR5,RMUC_RICCN,reviewed,DNA recombination protein RmuC homolog,Rickettsia conorii (strain ATCC VR-613 / Malish 7),428,272944
+Q92H35,RNPA_RICCN,reviewed,Ribonuclease P protein component (RNase P protein) (RNaseP protein) (EC 3.1.26.5) (Protein C5),Rickettsia conorii (strain ATCC VR-613 / Malish 7),118,272944
+Q92J05,RNH2_RICCN,reviewed,Ribonuclease HII (RNase HII) (EC 3.1.26.4),Rickettsia conorii (strain ATCC VR-613 / Malish 7),193,272944
+Q92H89,RPOZ_RICCN,reviewed,DNA-directed RNA polymerase subunit omega (RNAP omega subunit) (EC 2.7.7.6) (RNA polymerase omega subunit) (Transcriptase subunit omega),Rickettsia conorii (strain ATCC VR-613 / Malish 7),127,272944
+Q92GX0,RS19_RICCN,reviewed,30S ribosomal protein S19,Rickettsia conorii (strain ATCC VR-613 / Malish 7),92,272944
+Q9RH41,RPOB_RICCN,reviewed,DNA-directed RNA polymerase subunit beta (RNAP subunit beta) (EC 2.7.7.6) (RNA polymerase subunit beta) (Transcriptase subunit beta),Rickettsia conorii (strain ATCC VR-613 / Malish 7),1373,272944
+Q92GW5,RS10_RICCN,reviewed,30S ribosomal protein S10,Rickettsia conorii (strain ATCC VR-613 / Malish 7),105,272944
+Q92GX9,RS14_RICCN,reviewed,30S ribosomal protein S14,Rickettsia conorii (strain ATCC VR-613 / Malish 7),101,272944
+Q92IV0,RPPH_RICCN,reviewed,RNA pyrophosphohydrolase (EC 3.6.1.-) ((Di)nucleoside polyphosphate hydrolase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),161,272944
+Q92FW8,RS16_RICCN,reviewed,30S ribosomal protein S16,Rickettsia conorii (strain ATCC VR-613 / Malish 7),111,272944
+Q92JK2,RS18_RICCN,reviewed,30S ribosomal protein S18,Rickettsia conorii (strain ATCC VR-613 / Malish 7),95,272944
+Q92J94,RS7_RICCN,reviewed,30S ribosomal protein S7,Rickettsia conorii (strain ATCC VR-613 / Malish 7),160,272944
+Q92IV4,RS9_RICCN,reviewed,30S ribosomal protein S9,Rickettsia conorii (strain ATCC VR-613 / Malish 7),159,272944
+Q92HB4,RSMH_RICCN,reviewed,Ribosomal RNA small subunit methyltransferase H (EC 2.1.1.199) (16S rRNA m(4)C1402 methyltransferase) (rRNA (cytosine-N(4)-)-methyltransferase RsmH),Rickettsia conorii (strain ATCC VR-613 / Malish 7),307,272944
+Q92GY3,RS5_RICCN,reviewed,30S ribosomal protein S5,Rickettsia conorii (strain ATCC VR-613 / Malish 7),176,272944
+Q92JK3,RS6_RICCN,reviewed,30S ribosomal protein S6,Rickettsia conorii (strain ATCC VR-613 / Malish 7),121,272944
+Q92I87,RUVB_RICCN,reviewed,Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12),Rickettsia conorii (strain ATCC VR-613 / Malish 7),342,272944
+Q92IF2,RS4_RICCN,reviewed,30S ribosomal protein S4,Rickettsia conorii (strain ATCC VR-613 / Malish 7),205,272944
+Q92I89,RUVA_RICCN,reviewed,Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12),Rickettsia conorii (strain ATCC VR-613 / Malish 7),203,272944
+Q92JA8,RUVC_RICCN,reviewed,Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4) (Holliday junction nuclease RuvC) (Holliday junction resolvase RuvC),Rickettsia conorii (strain ATCC VR-613 / Malish 7),157,272944
+Q92JI2,RSMG_RICCN,reviewed,Ribosomal RNA small subunit methyltransferase G (EC 2.1.1.170) (16S rRNA 7-methylguanosine methyltransferase) (16S rRNA m7G methyltransferase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),192,272944
+Q92JG1,SAM_RICCN,reviewed,S-adenosylmethionine uptake transporter,Rickettsia conorii (strain ATCC VR-613 / Malish 7),294,272944
+Q92JP8,SCA1_RICCN,reviewed,Putative surface cell antigen sca1,Rickettsia conorii (strain ATCC VR-613 / Malish 7),1902,272944
+Q92JF7,SCA2_RICCN,reviewed,Putative surface cell antigen sca2,Rickettsia conorii (strain ATCC VR-613 / Malish 7),1795,272944
+Q92J97,SDHA_RICCN,reviewed,Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1),Rickettsia conorii (strain ATCC VR-613 / Malish 7),596,272944
+Q92JJ8,SDHB_RICCN,reviewed,Succinate dehydrogenase iron-sulfur subunit (EC 1.3.5.1),Rickettsia conorii (strain ATCC VR-613 / Malish 7),261,272944
+Q92JM5,SCO21_RICCN,reviewed,SCO2-like protein RC0042,Rickettsia conorii (strain ATCC VR-613 / Malish 7),199,272944
+Q52658,SCA4_RICCN,reviewed,Antigenic heat-stable 120 kDa protein (120 kDa antigen) (Protein PS 120) (PS120) (RCA),Rickettsia conorii (strain ATCC VR-613 / Malish 7),1022,272944
+Q92JG7,SECB_RICCN,reviewed,Protein-export protein SecB,Rickettsia conorii (strain ATCC VR-613 / Malish 7),152,272944
+Q92J92,SECE_RICCN,reviewed,Protein translocase subunit SecE,Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92H76,SCO22_RICCN,reviewed,SCO2-like protein RC0895,Rickettsia conorii (strain ATCC VR-613 / Malish 7),205,272944
+Q92H92,SECA_RICCN,reviewed,Protein translocase subunit SecA,Rickettsia conorii (strain ATCC VR-613 / Malish 7),906,272944
+Q92H77,SECD_RICCN,reviewed,Protein translocase subunit SecD,Rickettsia conorii (strain ATCC VR-613 / Malish 7),518,272944
+Q92JF8,SECG_RICCN,reviewed,Protein-export membrane protein SecG,Rickettsia conorii (strain ATCC VR-613 / Malish 7),100,272944
+Q92GY6,SECY_RICCN,reviewed,Protein translocase subunit SecY,Rickettsia conorii (strain ATCC VR-613 / Malish 7),433,272944
+Q92HJ3,SODF_RICCN,reviewed,Superoxide dismutase [Mn/Fe] (EC 1.15.1.1),Rickettsia conorii (strain ATCC VR-613 / Malish 7),209,272944
+Q92JB3,SECF_RICCN,reviewed,Protein translocase subunit SecF,Rickettsia conorii (strain ATCC VR-613 / Malish 7),308,272944
+Q92J82,SYDND_RICCN,reviewed,Aspartate--tRNA(Asp/Asn) ligase (EC 6.1.1.23) (Aspartyl-tRNA synthetase) (AspRS) (Non-discriminating aspartyl-tRNA synthetase) (ND-AspRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),602,272944
+Q92G10,SYGA_RICCN,reviewed,Glycine--tRNA ligase alpha subunit (EC 6.1.1.14) (Glycyl-tRNA synthetase alpha subunit) (GlyRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),288,272944
+Q92IK8,SYH_RICCN,reviewed,Histidine--tRNA ligase (EC 6.1.1.21) (Histidyl-tRNA synthetase) (HisRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),414,272944
+Q92G30,SSB_RICCN,reviewed,Single-stranded DNA-binding protein (SSB),Rickettsia conorii (strain ATCC VR-613 / Malish 7),152,272944
+Q92GL0,SURF1_RICCN,reviewed,SURF1-like protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),240,272944
+Q92I22,SUCD_RICCN,reviewed,Succinate--CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha),Rickettsia conorii (strain ATCC VR-613 / Malish 7),292,272944
+Q92JK0,TILS_RICCN,reviewed,tRNA(Ile)-lysidine synthase (EC 6.3.4.19) (tRNA(Ile)-2-lysyl-cytidine synthase) (tRNA(Ile)-lysidine synthetase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),478,272944
+Q92I98,TLCB_RICCN,reviewed,"ADP,ATP carrier protein 2 (ADP/ATP translocase 2)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),507,272944
+Q92JI6,TLCA_RICCN,reviewed,"ADP,ATP carrier protein 1 (ADP/ATP translocase 1)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),498,272944
+Q92HP9,TLCC_RICCN,reviewed,"ADP,ATP carrier protein 3 (ADP/ATP translocase 3)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),501,272944
+Q92GI5,TLCE_RICCN,reviewed,"ADP,ATP carrier protein 5 (ADP/ATP translocase 5)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),499,272944
+Q92IL5,THYX_RICCN,reviewed,Flavin-dependent thymidylate synthase (FDTS) (EC 2.1.1.148) (FAD-dependent thymidylate synthase) (Thymidylate synthase ThyX) (TS) (TSase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),294,272944
+Q92IL4,TOLB_RICCN,reviewed,Protein TolB,Rickettsia conorii (strain ATCC VR-613 / Malish 7),444,272944
+Q92IH1,TOP1_RICCN,reviewed,DNA topoisomerase 1 (EC 5.99.1.2) (DNA topoisomerase I) (Omega-protein) (Relaxing enzyme) (Swivelase) (Untwisting enzyme),Rickettsia conorii (strain ATCC VR-613 / Malish 7),776,272944
+Q92HV4,TLCD_RICCN,reviewed,"ADP,ATP carrier protein 4 (ADP/ATP translocase 4)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),511,272944
+Q92JB6,TRMD_RICCN,reviewed,tRNA (guanine-N(1)-)-methyltransferase (EC 2.1.1.228) (M1G-methyltransferase) (tRNA [GM37] methyltransferase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),234,272944
+Q92JK6,TSAD_RICCN,reviewed,tRNA N6-adenosine threonylcarbamoyltransferase (EC 2.3.1.234) (N6-L-threonylcarbamoyladenine synthase) (t(6)A synthase) (t(6)A37 threonylcarbamoyladenosine biosynthesis protein TsaD) (tRNA threonylcarbamoyladenosine biosynthesis protein TsaD),Rickettsia conorii (strain ATCC VR-613 / Malish 7),344,272944
+Q92H07,UBIG_RICCN,reviewed,Ubiquinone biosynthesis O-methyltransferase (2-polyprenyl-6-hydroxyphenol methylase) (EC 2.1.1.222) (3-demethylubiquinone 3-O-methyltransferase) (EC 2.1.1.64),Rickettsia conorii (strain ATCC VR-613 / Malish 7),289,272944
+Q92HV5,TRUB_RICCN,reviewed,tRNA pseudouridine synthase B (EC 5.4.99.25) (tRNA pseudouridine(55) synthase) (Psi55 synthase) (tRNA pseudouridylate synthase) (tRNA-uridine isomerase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),345,272944
+Q92I02,TRXB_RICCN,reviewed,Thioredoxin reductase (TRXR) (EC 1.8.1.9),Rickettsia conorii (strain ATCC VR-613 / Malish 7),310,272944
+Q92FZ9,TRUA_RICCN,reviewed,tRNA pseudouridine synthase A (EC 5.4.99.12) (tRNA pseudouridine(38-40) synthase) (tRNA pseudouridylate synthase I) (tRNA-uridine isomerase I),Rickettsia conorii (strain ATCC VR-613 / Malish 7),245,272944
+Q92JQ4,TSAE_RICCN,reviewed,tRNA threonylcarbamoyladenosine biosynthesis protein TsaE (t(6)A37 threonylcarbamoyladenosine biosynthesis protein TsaE),Rickettsia conorii (strain ATCC VR-613 / Malish 7),175,272944
+Q92IR2,UCRI_RICCN,reviewed,Ubiquinol-cytochrome c reductase iron-sulfur subunit (EC 1.10.2.2) (Rieske iron-sulfur protein) (RISP),Rickettsia conorii (strain ATCC VR-613 / Malish 7),177,272944
+Q92GB1,UDG_RICCN,reviewed,UDP-glucose 6-dehydrogenase (UDP-Glc dehydrogenase) (UDP-GlcDH) (UDPGDH) (EC 1.1.1.22),Rickettsia conorii (strain ATCC VR-613 / Malish 7),432,272944
+Q92GT5,UBIE_RICCN,reviewed,"Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE (EC 2.1.1.163) (EC 2.1.1.201) (2-methoxy-6-polyprenyl-1,4-benzoquinol methylase) (Demethylmenaquinone methyltransferase)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),248,272944
+Q92HZ6,UVRD_RICCN,reviewed,Probable DNA helicase II homolog (EC 3.6.4.12),Rickettsia conorii (strain ATCC VR-613 / Malish 7),653,272944
+Q92IC9,XERD_RICCN,reviewed,Tyrosine recombinase XerD,Rickettsia conorii (strain ATCC VR-613 / Malish 7),306,272944
+Q92JM4,Y043_RICCN,reviewed,UPF0301 protein RC0043,Rickettsia conorii (strain ATCC VR-613 / Malish 7),189,272944
+Q92GP9,Y1073_RICCN,reviewed,Putative export ATP-binding/permease protein RC1073 (EC 3.6.3.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),576,272944
+Q92JQ5,Y012_RICCN,reviewed,Uncharacterized protein RC0012,Rickettsia conorii (strain ATCC VR-613 / Malish 7),307,272944
+Q92JP4,Y023_RICCN,reviewed,Uncharacterized protein RC0023,Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92GC8,Y1195_RICCN,reviewed,Uncharacterized HTH-type transcriptional regulator RC1195,Rickettsia conorii (strain ATCC VR-613 / Malish 7),109,272944
+Q92GA4,Y1219_RICCN,reviewed,Uncharacterized membrane protein RC1219,Rickettsia conorii (strain ATCC VR-613 / Malish 7),301,272944
+Q92G42,Y1282_RICCN,reviewed,Uncharacterized protein RC1282,Rickettsia conorii (strain ATCC VR-613 / Malish 7),227,272944
+Q92FX1,Y1356_RICCN,reviewed,Uncharacterized protein RC1356,Rickettsia conorii (strain ATCC VR-613 / Malish 7),171,272944
+Q92JR0,Y007_RICCN,reviewed,Uncharacterized protein RC0007,Rickettsia conorii (strain ATCC VR-613 / Malish 7),93,272944
+Q92JM6,Y041_RICCN,reviewed,Uncharacterized protein RC0041,Rickettsia conorii (strain ATCC VR-613 / Malish 7),89,272944
+Q92JL5,Y052_RICCN,reviewed,Uncharacterized protein RC0052,Rickettsia conorii (strain ATCC VR-613 / Malish 7),65,272944
+Q92JJ1,Y076_RICCN,reviewed,Uncharacterized protein RC0076,Rickettsia conorii (strain ATCC VR-613 / Malish 7),186,272944
+Q92JJ0,Y077_RICCN,reviewed,Uncharacterized lipoprotein RC0077,Rickettsia conorii (strain ATCC VR-613 / Malish 7),127,272944
+Q92JI8,Y079_RICCN,reviewed,Uncharacterized protein RC0079,Rickettsia conorii (strain ATCC VR-613 / Malish 7),282,272944
+Q92JL6,Y051_RICCN,reviewed,Uncharacterized protein RC0051,Rickettsia conorii (strain ATCC VR-613 / Malish 7),117,272944
+Q92GH6,Y1147_RICCN,reviewed,Uncharacterized hydrolase RC1147 (EC 3.1.-.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),216,272944
+Q92G57,Y1266_RICCN,reviewed,Maf-like protein RC1266,Rickettsia conorii (strain ATCC VR-613 / Malish 7),215,272944
+Q92JH6,Y091_RICCN,reviewed,Uncharacterized protein RC0091,Rickettsia conorii (strain ATCC VR-613 / Malish 7),179,272944
+Q92JG2,Y105_RICCN,reviewed,Putative outer membrane protein RC0105,Rickettsia conorii (strain ATCC VR-613 / Malish 7),244,272944
+Q92JM2,Y045_RICCN,reviewed,Uncharacterized protein RC0045,Rickettsia conorii (strain ATCC VR-613 / Malish 7),108,272944
+Q92JG9,Y098_RICCN,reviewed,Uncharacterized protein RC0098,Rickettsia conorii (strain ATCC VR-613 / Malish 7),438,272944
+Q92JF2,Y115_RICCN,reviewed,Uncharacterized protein RC0115,Rickettsia conorii (strain ATCC VR-613 / Malish 7),62,272944
+Q92JM8,Y039_RICCN,reviewed,Uncharacterized protein RC0039,Rickettsia conorii (strain ATCC VR-613 / Malish 7),222,272944
+Q92JL7,Y050_RICCN,reviewed,Uncharacterized protein RC0050,Rickettsia conorii (strain ATCC VR-613 / Malish 7),133,272944
+Q92JL0,Y057_RICCN,reviewed,Uncharacterized protein RC0057,Rickettsia conorii (strain ATCC VR-613 / Malish 7),91,272944
+Q92JF9,Y108_RICCN,reviewed,Uncharacterized protein RC0108,Rickettsia conorii (strain ATCC VR-613 / Malish 7),61,272944
+Q92JF1,Y116_RICCN,reviewed,Uncharacterized protein RC0116,Rickettsia conorii (strain ATCC VR-613 / Malish 7),63,272944
+Q92FZ0,Y1337_RICCN,reviewed,Nucleoid-associated protein RC1337,Rickettsia conorii (strain ATCC VR-613 / Malish 7),107,272944
+Q92G55,XERC_RICCN,reviewed,Tyrosine recombinase XerC,Rickettsia conorii (strain ATCC VR-613 / Malish 7),305,272944
+Q92JM0,Y047_RICCN,reviewed,Uncharacterized protein RC0047,Rickettsia conorii (strain ATCC VR-613 / Malish 7),59,272944
+Q92JL8,Y049_RICCN,reviewed,Uncharacterized protein RC0049,Rickettsia conorii (strain ATCC VR-613 / Malish 7),174,272944
+Q92JL2,Y055_RICCN,reviewed,Uncharacterized protein RC0055,Rickettsia conorii (strain ATCC VR-613 / Malish 7),95,272944
+Q92JA0,Y167_RICCN,reviewed,UPF0176 protein RC0167,Rickettsia conorii (strain ATCC VR-613 / Malish 7),247,272944
+Q92GU9,Y1023_RICCN,reviewed,Uncharacterized protein RC1023,Rickettsia conorii (strain ATCC VR-613 / Malish 7),295,272944
+Q92IR6,Y354_RICCN,reviewed,UPF0091 protein RC0354,Rickettsia conorii (strain ATCC VR-613 / Malish 7),106,272944
+Q92J66,Y203_RICCN,reviewed,Putative zinc metalloprotease RC0203 (EC 3.4.24.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),358,272944
+Q92J60,Y209_RICCN,reviewed,UPF0369 protein RC0209,Rickettsia conorii (strain ATCC VR-613 / Malish 7),93,272944
+Q92JQ1,Y016_RICCN,reviewed,Uncharacterized protein RC0016,Rickettsia conorii (strain ATCC VR-613 / Malish 7),74,272944
+Q92JL9,Y048_RICCN,reviewed,Uncharacterized protein RC0048,Rickettsia conorii (strain ATCC VR-613 / Malish 7),440,272944
+Q92JL4,Y053_RICCN,reviewed,Uncharacterized protein RC0053,Rickettsia conorii (strain ATCC VR-613 / Malish 7),72,272944
+Q92JK9,Y058_RICCN,reviewed,Uncharacterized protein RC0058,Rickettsia conorii (strain ATCC VR-613 / Malish 7),131,272944
+Q92JK7,Y060_RICCN,reviewed,Uncharacterized protein RC0060,Rickettsia conorii (strain ATCC VR-613 / Malish 7),163,272944
+Q92JH8,Y089_RICCN,reviewed,Uncharacterized protein RC0089,Rickettsia conorii (strain ATCC VR-613 / Malish 7),105,272944
+Q92JH1,Y096_RICCN,reviewed,Uncharacterized protein RC0096,Rickettsia conorii (strain ATCC VR-613 / Malish 7),224,272944
+Q92JE4,Y123_RICCN,reviewed,Uncharacterized protein RC0123,Rickettsia conorii (strain ATCC VR-613 / Malish 7),251,272944
+Q92JD2,Y135_RICCN,reviewed,Uncharacterized protein RC0135,Rickettsia conorii (strain ATCC VR-613 / Malish 7),127,272944
+Q92JC3,Y144_RICCN,reviewed,Uncharacterized protein RC0144,Rickettsia conorii (strain ATCC VR-613 / Malish 7),966,272944
+Q92J81,Y188_RICCN,reviewed,Uncharacterized protein RC0188,Rickettsia conorii (strain ATCC VR-613 / Malish 7),704,272944
+Q92JB4,Y153_RICCN,reviewed,UPF0335 protein RC0153,Rickettsia conorii (strain ATCC VR-613 / Malish 7),78,272944
+Q92JP5,Y022_RICCN,reviewed,Uncharacterized protein RC0022,Rickettsia conorii (strain ATCC VR-613 / Malish 7),60,272944
+Q92JD6,Y131_RICCN,reviewed,Uncharacterized protein RC0131,Rickettsia conorii (strain ATCC VR-613 / Malish 7),82,272944
+Q92JD5,Y132_RICCN,reviewed,Uncharacterized protein RC0132,Rickettsia conorii (strain ATCC VR-613 / Malish 7),75,272944
+Q92JC2,Y145_RICCN,reviewed,Uncharacterized protein RC0145,Rickettsia conorii (strain ATCC VR-613 / Malish 7),891,272944
+Q92JD4,Y133_RICCN,reviewed,Uncharacterized protein RC0133,Rickettsia conorii (strain ATCC VR-613 / Malish 7),98,272944
+Q92JD3,Y134_RICCN,reviewed,Uncharacterized protein RC0134,Rickettsia conorii (strain ATCC VR-613 / Malish 7),165,272944
+Q92JC5,Y142_RICCN,reviewed,Uncharacterized protein RC0142,Rickettsia conorii (strain ATCC VR-613 / Malish 7),993,272944
+Q92JC1,Y146_RICCN,reviewed,Uncharacterized lipoprotein RC0146,Rickettsia conorii (strain ATCC VR-613 / Malish 7),1153,272944
+Q92IL8,Y402_RICCN,reviewed,Putative sugar phosphate isomerase RC0402 (EC 5.3.1.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),144,272944
+Q92JM7,Y040_RICCN,reviewed,Uncharacterized protein RC0040,Rickettsia conorii (strain ATCC VR-613 / Malish 7),105,272944
+Q92JJ7,Y070_RICCN,reviewed,Uncharacterized protein RC0070,Rickettsia conorii (strain ATCC VR-613 / Malish 7),51,272944
+Q92G43,Y1281_RICCN,reviewed,Putative adhesin RC1281,Rickettsia conorii (strain ATCC VR-613 / Malish 7),249,272944
+Q92JC4,Y143_RICCN,reviewed,Uncharacterized protein RC0143,Rickettsia conorii (strain ATCC VR-613 / Malish 7),661,272944
+Q92G24,Y1301_RICCN,reviewed,UPF0235 protein RC1301,Rickettsia conorii (strain ATCC VR-613 / Malish 7),105,272944
+Q92IX7,Y293_RICCN,reviewed,Uncharacterized zinc protease RC0293 (EC 3.4.24.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),412,272944
+Q92IU6,Y324_RICCN,reviewed,Uncharacterized protein RC0324,Rickettsia conorii (strain ATCC VR-613 / Malish 7),107,272944
+Q92JD8,Y129_RICCN,reviewed,Probable ABC transporter permease protein RC0129,Rickettsia conorii (strain ATCC VR-613 / Malish 7),259,272944
+Q92I71,Y549_RICCN,reviewed,Putative carboxypeptidase RC0549 (EC 3.4.16.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),315,272944
+Q92I70,Y550_RICCN,reviewed,Uncharacterized protein RC0550,Rickettsia conorii (strain ATCC VR-613 / Malish 7),838,272944
+Q92HD0,Y841_RICCN,reviewed,Putative uncharacterized protein RC0841,Rickettsia conorii (strain ATCC VR-613 / Malish 7),161,272944
+Q92HB1,Y860_RICCN,reviewed,Putative ankyrin repeat protein RC0860,Rickettsia conorii (strain ATCC VR-613 / Malish 7),79,272944
+Q92IM4,Y396_RICCN,reviewed,Putative uncharacterized protein RC0396,Rickettsia conorii (strain ATCC VR-613 / Malish 7),94,272944
+Q92IC3,Y497_RICCN,reviewed,Putative N-acetylmuramoyl-L-alanine amidase RC0497 (EC 3.5.1.28),Rickettsia conorii (strain ATCC VR-613 / Malish 7),267,272944
+Q92HW0,Y660_RICCN,reviewed,Uncharacterized protein RC0660,Rickettsia conorii (strain ATCC VR-613 / Malish 7),198,272944
+Q92HU9,Y672_RICCN,reviewed,Laccase domain protein RC0672,Rickettsia conorii (strain ATCC VR-613 / Malish 7),240,272944
+Q92HU0,Y681_RICCN,reviewed,Probable transcriptional regulatory protein RC0681,Rickettsia conorii (strain ATCC VR-613 / Malish 7),253,272944
+Q92IR4,Y356_RICCN,reviewed,Uncharacterized protein RC0356,Rickettsia conorii (strain ATCC VR-613 / Malish 7),215,272944
+Q92HD2,Y839_RICCN,reviewed,Putative uncharacterized protein RC0839,Rickettsia conorii (strain ATCC VR-613 / Malish 7),70,272944
+Q92GI1,YBEY_RICCN,reviewed,Endoribonuclease YbeY (EC 3.1.-.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),167,272944
+Q92IB8,Y502_RICCN,reviewed,Putative ankyrin repeat protein RC0502,Rickettsia conorii (strain ATCC VR-613 / Malish 7),70,272944
+Q92HD4,Y837_RICCN,reviewed,Putative uncharacterized protein RC0837,Rickettsia conorii (strain ATCC VR-613 / Malish 7),53,272944
+Q92HC9,Y842_RICCN,reviewed,Putative uncharacterized protein RC0842,Rickettsia conorii (strain ATCC VR-613 / Malish 7),154,272944
+Q92IV6,Y314_RICCN,reviewed,Uncharacterized protein RC0314,Rickettsia conorii (strain ATCC VR-613 / Malish 7),414,272944
+Q92IM3,Y397_RICCN,reviewed,Putative uncharacterized protein RC0397,Rickettsia conorii (strain ATCC VR-613 / Malish 7),72,272944
+Q92IM2,Y398_RICCN,reviewed,Uncharacterized protein RC0398,Rickettsia conorii (strain ATCC VR-613 / Malish 7),295,272944
+Q92IF9,Y461_RICCN,reviewed,Uncharacterized glycosyltransferase RC0461 (EC 2.4.-.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),604,272944
+Q92IX8,Y292_RICCN,reviewed,Uncharacterized glycosyltransferase RC0292 (EC 2.4.-.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),282,272944
+Q92I78,Y542_RICCN,reviewed,Putative peptidyl-prolyl cis-trans isomerase RC0542 (PPIase RC0542) (EC 5.2.1.8) (Rotamase RC0542),Rickettsia conorii (strain ATCC VR-613 / Malish 7),331,272944
+Q92I77,Y543_RICCN,reviewed,Putative dioxygenase RC0543 (EC 1.13.11.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),208,272944
+Q92HD3,Y838_RICCN,reviewed,Putative uncharacterized protein RC0838,Rickettsia conorii (strain ATCC VR-613 / Malish 7),98,272944
+Q92H49,Y923_RICCN,reviewed,Putative uncharacterized protein RC0923,Rickettsia conorii (strain ATCC VR-613 / Malish 7),122,272944
+Q92H48,Y924_RICCN,reviewed,Putative uncharacterized protein RC0924,Rickettsia conorii (strain ATCC VR-613 / Malish 7),106,272944
+Q92I57,Y563_RICCN,reviewed,Uncharacterized lipoprotein RC0563,Rickettsia conorii (strain ATCC VR-613 / Malish 7),216,272944
+Q92HI5,Y786_RICCN,reviewed,Uncharacterized protein RC0786,Rickettsia conorii (strain ATCC VR-613 / Malish 7),83,272944
+Q92HE5,Y826_RICCN,reviewed,UPF0416 protein RC0826,Rickettsia conorii (strain ATCC VR-613 / Malish 7),97,272944
+Q92HD5,Y836_RICCN,reviewed,Putative uncharacterized protein RC0836,Rickettsia conorii (strain ATCC VR-613 / Malish 7),112,272944
+Q92HS0,Y701_RICCN,reviewed,Putative ankyrin repeat protein RC0701,Rickettsia conorii (strain ATCC VR-613 / Malish 7),54,272944
+Q92ID4,Y486_RICCN,reviewed,Putative polysaccharide polymerase RC0486,Rickettsia conorii (strain ATCC VR-613 / Malish 7),411,272944
+P0A3K2,Y915_RICCN,reviewed,Uncharacterized protein RC0915,Rickettsia conorii (strain ATCC VR-613 / Malish 7),123,272944
+Q92HL7,Y754_RICCN,reviewed,UPF0246 protein RC0754,Rickettsia conorii (strain ATCC VR-613 / Malish 7),248,272944
+Q92HD6,Y835_RICCN,reviewed,UPF0192 protein RC0835,Rickettsia conorii (strain ATCC VR-613 / Malish 7),1892,272944
+Q92H94,Y877_RICCN,reviewed,Putative ankyrin repeat protein RC0877,Rickettsia conorii (strain ATCC VR-613 / Malish 7),80,272944
+Q92H16,Y956_RICCN,reviewed,Putative ankyrin repeat protein RC0956,Rickettsia conorii (strain ATCC VR-613 / Malish 7),77,272944
+Q92G36,ZNUC_RICCN,reviewed,Zinc import ATP-binding protein ZnuC (EC 3.6.3.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),233,272944
+Q92I30,ISPT_RICCN,reviewed,Isoprenyl transferase (EC 2.5.1.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),235,272944
+Q92HM3,KCY_RICCN,reviewed,Cytidylate kinase (CK) (EC 2.7.4.25) (Cytidine monophosphate kinase) (CMP kinase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),219,272944
+Q92I96,KDSB_RICCN,reviewed,3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38) (CMP-2-keto-3-deoxyoctulosonic acid synthase) (CKS) (CMP-KDO synthase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),246,272944
+Q92H74,IPYR_RICCN,reviewed,Inorganic pyrophosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase) (PPase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),173,272944
+Q92GY7,KAD_RICCN,reviewed,Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),212,272944
+Q92JH7,KDSA_RICCN,reviewed,2-dehydro-3-deoxyphosphooctonate aldolase (EC 2.5.1.55) (3-deoxy-D-manno-octulosonic acid 8-phosphate synthase) (KDO-8-phosphate synthase) (KDO 8-P synthase) (KDOPS) (Phospho-2-dehydro-3-deoxyoctonate aldolase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),274,272944
+Q92JE9,KDTA_RICCN,reviewed,3-deoxy-D-manno-octulosonic acid transferase (Kdo transferase) (EC 2.4.99.12) (Lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),464,272944
+Q92GS5,KTHY_RICCN,reviewed,Thymidylate kinase (EC 2.7.4.9) (dTMP kinase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),203,272944
+Q92GC9,KGUA_RICCN,reviewed,Guanylate kinase (EC 2.7.4.8) (GMP kinase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),229,272944
+Q92GP5,LOLD_RICCN,reviewed,Lipoprotein-releasing system ATP-binding protein LolD (EC 3.6.3.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),221,272944
+Q92GH8,LIPA_RICCN,reviewed,Lipoyl synthase (EC 2.8.1.8) (Lip-syn) (LS) (Lipoate synthase) (Lipoic acid synthase) (Sulfur insertion protein LipA),Rickettsia conorii (strain ATCC VR-613 / Malish 7),296,272944
+Q92JQ9,LPXA_RICCN,reviewed,Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (UDP-N-acetylglucosamine acyltransferase) (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),264,272944
+Q92FX0,LIPB_RICCN,reviewed,Octanoyltransferase (EC 2.3.1.181) (Lipoate-protein ligase B) (Lipoyl/octanoyl transferase) (Octanoyl-[acyl-carrier-protein]-protein N-octanoyltransferase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),209,272944
+Q92JJ5,LGT_RICCN,reviewed,Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),259,272944
+Q92I62,LSPA_RICCN,reviewed,Lipoprotein signal peptidase (EC 3.4.23.36) (Prolipoprotein signal peptidase) (Signal peptidase II) (SPase II),Rickettsia conorii (strain ATCC VR-613 / Malish 7),201,272944
+Q92HZ1,LON_RICCN,reviewed,Lon protease (EC 3.4.21.53) (ATP-dependent protease La),Rickettsia conorii (strain ATCC VR-613 / Malish 7),778,272944
+Q92II0,LPXB_RICCN,reviewed,Lipid-A-disaccharide synthase (EC 2.4.1.182),Rickettsia conorii (strain ATCC VR-613 / Malish 7),446,272944
+Q92IT1,LPXC_RICCN,reviewed,UDP-3-O-acyl-N-acetylglucosamine deacetylase (UDP-3-O-acyl-GlcNAc deacetylase) (EC 3.5.1.108) (UDP-3-O-[R-3-hydroxymyristoyl]-N-acetylglucosamine deacetylase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),288,272944
+Q92IC5,LNT_RICCN,reviewed,Apolipoprotein N-acyltransferase (ALP N-acyltransferase) (EC 2.3.1.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),499,272944
+Q92JQ7,LPXD_RICCN,reviewed,UDP-3-O-acylglucosamine N-acyltransferase (EC 2.3.1.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),346,272944
+Q92GN1,LPXK_RICCN,reviewed,Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130) (Lipid A 4'-kinase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),321,272944
+Q92IA0,MDH_RICCN,reviewed,Malate dehydrogenase (EC 1.1.1.37),Rickettsia conorii (strain ATCC VR-613 / Malish 7),314,272944
+Q92H58,MFD_RICCN,reviewed,Transcription-repair-coupling factor (TRCF) (EC 3.6.4.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),1122,272944
+Q92G77,MIAB_RICCN,reviewed,tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase (EC 2.8.4.3) ((Dimethylallyl)adenosine tRNA methylthiotransferase MiaB) (tRNA-i(6)A37 methylthiotransferase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),445,272944
+Q92GE8,MNME_RICCN,reviewed,tRNA modification GTPase MnmE (EC 3.6.-.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),445,272944
+Q92HW4,MIAA_RICCN,reviewed,tRNA dimethylallyltransferase (EC 2.5.1.75) (Dimethylallyl diphosphate:tRNA dimethylallyltransferase) (DMAPP:tRNA dimethylallyltransferase) (DMATase) (Isopentenyl-diphosphate:tRNA isopentenyltransferase) (IPP transferase) (IPPT) (IPTase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),363,272944
+Q92JI3,MNMG_RICCN,reviewed,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG (Glucose-inhibited division protein A),Rickettsia conorii (strain ATCC VR-613 / Malish 7),622,272944
+Q92H61,MRAY_RICCN,reviewed,Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) (UDP-MurNAc-pentapeptide phosphotransferase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),361,272944
+Q92IL0,MNMA_RICCN,reviewed,tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13),Rickettsia conorii (strain ATCC VR-613 / Malish 7),370,272944
+Q92H88,MURA_RICCN,reviewed,UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7) (Enoylpyruvate transferase) (UDP-N-acetylglucosamine enolpyruvyl transferase) (EPT),Rickettsia conorii (strain ATCC VR-613 / Malish 7),419,272944
+Q92IT8,MURB_RICCN,reviewed,UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98) (UDP-N-acetylmuramate dehydrogenase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),295,272944
+Q92HB3,MRAZ_RICCN,reviewed,Transcriptional regulator MraZ,Rickettsia conorii (strain ATCC VR-613 / Malish 7),149,272944
+Q92I60,MURD_RICCN,reviewed,UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9) (D-glutamic acid-adding enzyme) (UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),500,272944
+Q92I58,MURG_RICCN,reviewed,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227) (Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),376,272944
+Q92H60,MURF_RICCN,reviewed,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10) (D-alanyl-D-alanine-adding enzyme) (UDP-MurNAc-pentapeptide synthetase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),449,272944
+Q92IT9,MURC_RICCN,reviewed,UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8) (UDP-N-acetylmuramoyl-L-alanine synthetase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),485,272944
+Q92H59,MURE_RICCN,reviewed,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13) (Meso-A2pm-adding enzyme) (Meso-diaminopimelate-adding enzyme) (UDP-MurNAc-L-Ala-D-Glu:meso-diaminopimelate ligase) (UDP-MurNAc-tripeptide synthetase) (UDP-N-acetylmuramyl-tripeptide synthetase)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),479,272944
+Q92IL9,MUTS_RICCN,reviewed,DNA mismatch repair protein MutS,Rickettsia conorii (strain ATCC VR-613 / Malish 7),890,272944
+Q92FW6,MUTL_RICCN,reviewed,DNA mismatch repair protein MutL,Rickettsia conorii (strain ATCC VR-613 / Malish 7),610,272944
+Q92JR6,PDRP_RICCN,reviewed,"Putative pyruvate, phosphate dikinase regulatory protein (PPDK regulatory protein) (EC 2.7.11.32) (EC 2.7.4.27)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),273,272944
+Q92JJ2,PGSA_RICCN,reviewed,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5) (Phosphatidylglycerophosphate synthase) (PGP synthase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),181,272944
+Q92HC2,NTRXL_RICCN,reviewed,Putative response regulator NtrX-like,Rickettsia conorii (strain ATCC VR-613 / Malish 7),474,272944
+Q92H24,NTRYL_RICCN,reviewed,Putative sensor histidine kinase NtrY-like (EC 2.7.13.3),Rickettsia conorii (strain ATCC VR-613 / Malish 7),599,272944
+Q92G97,NUOL_RICCN,reviewed,NADH-quinone oxidoreductase subunit L (EC 1.6.5.11) (NADH dehydrogenase I subunit L) (NDH-1 subunit L),Rickettsia conorii (strain ATCC VR-613 / Malish 7),657,272944
+Q92JB2,NUOF_RICCN,reviewed,NADH-quinone oxidoreductase subunit F (EC 1.6.5.11) (NADH dehydrogenase I subunit F) (NDH-1 subunit F),Rickettsia conorii (strain ATCC VR-613 / Malish 7),421,272944
+Q92ID7,NUOC_RICCN,reviewed,NADH-quinone oxidoreductase subunit C (EC 1.6.5.11) (NADH dehydrogenase I subunit C) (NDH-1 subunit C),Rickettsia conorii (strain ATCC VR-613 / Malish 7),242,272944
+Q92ID5,NUOA_RICCN,reviewed,NADH-quinone oxidoreductase subunit A (EC 1.6.5.11) (NADH dehydrogenase I subunit A) (NDH-1 subunit A) (NUO1),Rickettsia conorii (strain ATCC VR-613 / Malish 7),123,272944
+Q92G98,NUOK_RICCN,reviewed,NADH-quinone oxidoreductase subunit K (EC 1.6.5.11) (NADH dehydrogenase I subunit K) (NDH-1 subunit K),Rickettsia conorii (strain ATCC VR-613 / Malish 7),110,272944
+Q92HH5,NUON_RICCN,reviewed,NADH-quinone oxidoreductase subunit N (EC 1.6.5.11) (NADH dehydrogenase I subunit N) (NDH-1 subunit N),Rickettsia conorii (strain ATCC VR-613 / Malish 7),458,272944
+Q92J65,NUSB_RICCN,reviewed,N utilization substance protein B homolog (Protein NusB),Rickettsia conorii (strain ATCC VR-613 / Malish 7),156,272944
+Q92J43,ODO2_RICCN,reviewed,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) (2-oxoglutarate dehydrogenase complex component E2) (OGDC-E2) (Dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase complex),Rickettsia conorii (strain ATCC VR-613 / Malish 7),395,272944
+Q92G92,NUOG_RICCN,reviewed,NADH-quinone oxidoreductase subunit G (EC 1.6.5.11) (NADH dehydrogenase I subunit G) (NDH-1 subunit G),Rickettsia conorii (strain ATCC VR-613 / Malish 7),671,272944
+Q92IS2,ODPB_RICCN,reviewed,Pyruvate dehydrogenase E1 component subunit beta (EC 1.2.4.1),Rickettsia conorii (strain ATCC VR-613 / Malish 7),326,272944
+Q52657,OMPA_RICCN,reviewed,Outer membrane protein A (190 kDa antigen) (Cell surface antigen) (rOmp A) (rOmpA) [Cleaved into: 120 kDa surface-exposed protein (120 kDa outer membrane protein OmpA); 32 kDa beta peptide],Rickettsia conorii (strain ATCC VR-613 / Malish 7),2021,272944
+Q92ID9,NUOE_RICCN,reviewed,NADH-quinone oxidoreductase subunit E (EC 1.6.5.11) (NADH dehydrogenase I subunit E) (NDH-1 subunit E),Rickettsia conorii (strain ATCC VR-613 / Malish 7),167,272944
+Q92G94,NUOI_RICCN,reviewed,NADH-quinone oxidoreductase subunit I (EC 1.6.5.11) (NADH dehydrogenase I subunit I) (NDH-1 subunit I),Rickettsia conorii (strain ATCC VR-613 / Malish 7),159,272944
+Q92ID6,NUOB_RICCN,reviewed,NADH-quinone oxidoreductase subunit B (EC 1.6.5.11) (NADH dehydrogenase I subunit B) (NDH-1 subunit B),Rickettsia conorii (strain ATCC VR-613 / Malish 7),174,272944
+Q92G93,NUOH_RICCN,reviewed,NADH-quinone oxidoreductase subunit H (EC 1.6.5.11) (NADH dehydrogenase I subunit H) (NDH-1 subunit H),Rickettsia conorii (strain ATCC VR-613 / Malish 7),339,272944
+Q92ID8,NUOD_RICCN,reviewed,NADH-quinone oxidoreductase subunit D (EC 1.6.5.11) (NADH dehydrogenase I subunit D) (NDH-1 subunit D),Rickettsia conorii (strain ATCC VR-613 / Malish 7),391,272944
+Q92G19,OBG_RICCN,reviewed,GTPase Obg (EC 3.6.5.-) (GTP-binding protein Obg),Rickettsia conorii (strain ATCC VR-613 / Malish 7),330,272944
+Q92J91,NUSG_RICCN,reviewed,Transcription termination/antitermination protein NusG,Rickettsia conorii (strain ATCC VR-613 / Malish 7),192,272944
+Q92G96,NUOM_RICCN,reviewed,NADH-quinone oxidoreductase subunit M (EC 1.6.5.11) (NADH dehydrogenase I subunit M) (NDH-1 subunit M),Rickettsia conorii (strain ATCC VR-613 / Malish 7),493,272944
+Q92J42,ODO1_RICCN,reviewed,2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2) (Alpha-ketoglutarate dehydrogenase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),928,272944
+Q92G99,NUOJ_RICCN,reviewed,NADH-quinone oxidoreductase subunit J (EC 1.6.5.11) (NADH dehydrogenase I subunit J) (NDH-1 subunit J),Rickettsia conorii (strain ATCC VR-613 / Malish 7),205,272944
+Q92HF4,NUSA_RICCN,reviewed,Transcription termination/antitermination protein NusA,Rickettsia conorii (strain ATCC VR-613 / Malish 7),503,272944
+Q92HK7,ODP2_RICCN,reviewed,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12) (Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex) (E2),Rickettsia conorii (strain ATCC VR-613 / Malish 7),412,272944
+Q9KKA3,OMPB_RICCN,reviewed,Outer membrane protein B (168 kDa surface-layer protein) (Cell surface antigen 5) (Sca5) (Surface protein antigen) (rOmp B) (rOmpB) [Cleaved into: 120 kDa surface-exposed protein (120 kDa outer membrane protein OmpB) (Surface protein antigen) (p120); 32 kDa beta peptide],Rickettsia conorii (strain ATCC VR-613 / Malish 7),1655,272944
+Q92IS3,ODPA_RICCN,reviewed,Pyruvate dehydrogenase E1 component subunit alpha (EC 1.2.4.1),Rickettsia conorii (strain ATCC VR-613 / Malish 7),326,272944
+Q92JI0,PARB_RICCN,reviewed,Probable chromosome-partitioning protein ParB,Rickettsia conorii (strain ATCC VR-613 / Malish 7),286,272944
+Q92IW1,PARE_RICCN,reviewed,DNA topoisomerase 4 subunit B (EC 5.99.1.3) (Topoisomerase IV subunit B),Rickettsia conorii (strain ATCC VR-613 / Malish 7),662,272944
+Q92G78,PBPA_RICCN,reviewed,Penicillin-binding protein 1A (PBP-1a) (PBP1a) [Includes: Penicillin-insensitive transglycosylase (EC 2.4.1.129) (Peptidoglycan TGase); Penicillin-sensitive transpeptidase (EC 3.4.16.4) (DD-transpeptidase)],Rickettsia conorii (strain ATCC VR-613 / Malish 7),790,272944
+Q92JH0,PARC_RICCN,reviewed,DNA topoisomerase 4 subunit A (EC 5.99.1.3) (Topoisomerase IV subunit A),Rickettsia conorii (strain ATCC VR-613 / Malish 7),738,272944
+Q92G53,PLD_RICCN,reviewed,Phospholipase D (PLD) (EC 3.1.4.4) (Choline phosphatase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),200,272944
+Q92H91,PLP_RICCN,reviewed,Parvulin-like PPIase (EC 5.2.1.8) (Peptidyl-prolyl cis-trans isomerase plp) (Rotamase plp),Rickettsia conorii (strain ATCC VR-613 / Malish 7),282,272944
+Q92HV7,PNP_RICCN,reviewed,Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) (Polynucleotide phosphorylase) (PNPase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),749,272944
+Q92HI8,PPDK_RICCN,reviewed,"Pyruvate, phosphate dikinase (EC 2.7.9.1) (Pyruvate, orthophosphate dikinase)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),878,272944
+Q92HH1,PRIA_RICCN,reviewed,Primosomal protein N' (EC 3.6.4.-) (ATP-dependent helicase PriA),Rickettsia conorii (strain ATCC VR-613 / Malish 7),648,272944
+Q92GQ2,QUEC_RICCN,reviewed,7-cyano-7-deazaguanine synthase (EC 6.3.4.20) (7-cyano-7-carbaguanine synthase) (PreQ(0) synthase) (Queuosine biosynthesis protein QueC),Rickettsia conorii (strain ATCC VR-613 / Malish 7),228,272944
+Q92J71,PYRH_RICCN,reviewed,Uridylate kinase (UK) (EC 2.7.4.22) (Uridine monophosphate kinase) (UMP kinase) (UMPK),Rickettsia conorii (strain ATCC VR-613 / Malish 7),242,272944
+Q92I97,PYRG_RICCN,reviewed,CTP synthase (EC 6.3.4.2) (Cytidine 5'-triphosphate synthase) (Cytidine triphosphate synthetase) (CTP synthetase) (CTPS) (UTP--ammonia ligase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),537,272944
+Q92HG1,RADA_RICCN,reviewed,DNA repair protein RadA (EC 3.6.4.-) (Branch migration protein RadA),Rickettsia conorii (strain ATCC VR-613 / Malish 7),444,272944
+Q92IU5,PSD_RICCN,reviewed,Phosphatidylserine decarboxylase proenzyme (EC 4.1.1.65) [Cleaved into: Phosphatidylserine decarboxylase alpha chain; Phosphatidylserine decarboxylase beta chain],Rickettsia conorii (strain ATCC VR-613 / Malish 7),231,272944
+Q92IY7,QUEA_RICCN,reviewed,S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17) (Queuosine biosynthesis protein QueA),Rickettsia conorii (strain ATCC VR-613 / Malish 7),365,272944
+Q92J44,QUED_RICCN,reviewed,"6-carboxy-5,6,7,8-tetrahydropterin synthase (CPH4 synthase) (EC 4.1.2.50) (Queuosine biosynthesis protein QueD)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),138,272944
+Q92JG5,QUEF_RICCN,reviewed,NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13) (7-cyano-7-carbaguanine reductase) (NADPH-dependent nitrile oxidoreductase) (PreQ(0) reductase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),273,272944
+Q92HF9,RECO_RICCN,reviewed,DNA repair protein RecO (Recombination protein O),Rickettsia conorii (strain ATCC VR-613 / Malish 7),237,272944
+Q92GE1,RECA_RICCN,reviewed,Protein RecA (Recombinase A),Rickettsia conorii (strain ATCC VR-613 / Malish 7),343,272944
+Q92I11,RECR_RICCN,reviewed,Recombination protein RecR,Rickettsia conorii (strain ATCC VR-613 / Malish 7),201,272944
+Q92I14,RBFA_RICCN,reviewed,Ribosome-binding factor A,Rickettsia conorii (strain ATCC VR-613 / Malish 7),120,272944
+Q92JN5,RECF_RICCN,reviewed,DNA replication and repair protein RecF,Rickettsia conorii (strain ATCC VR-613 / Malish 7),360,272944
+Q92J40,RECN_RICCN,reviewed,DNA repair protein RecN (Recombination protein N),Rickettsia conorii (strain ATCC VR-613 / Malish 7),545,272944
+Q92IE7,RIMM_RICCN,reviewed,Ribosome maturation factor RimM,Rickettsia conorii (strain ATCC VR-613 / Malish 7),165,272944
+Q92IQ2,RF2_RICCN,reviewed,Peptide chain release factor 2 (RF-2),Rickettsia conorii (strain ATCC VR-613 / Malish 7),368,272944
+Q92HL2,RHO_RICCN,reviewed,Transcription termination factor Rho (EC 3.6.4.-) (ATP-dependent helicase Rho),Rickettsia conorii (strain ATCC VR-613 / Malish 7),458,272944
+Q92G13,RFTRM_RICCN,reviewed,Bifunctional methyltransferase [Includes: Release factor glutamine methyltransferase (RF MTase) (EC 2.1.1.297) (M.RcoHemKP) (N5-glutamine methyltransferase PrmC) (Protein-(glutamine-N5) MTase PrmC) (Protein-glutamine N-methyltransferase PrmC); tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33) (tRNA (guanine(46)-N(7))-methyltransferase) (tRNA(m7G46)-methyltransferase)],Rickettsia conorii (strain ATCC VR-613 / Malish 7),524,272944
+Q92HK9,RF1_RICCN,reviewed,Peptide chain release factor 1 (RF-1),Rickettsia conorii (strain ATCC VR-613 / Malish 7),355,272944
+Q92HF3,RIMP_RICCN,reviewed,Ribosome maturation factor RimP,Rickettsia conorii (strain ATCC VR-613 / Malish 7),161,272944
+Q92GX1,RL22_RICCN,reviewed,50S ribosomal protein L22,Rickettsia conorii (strain ATCC VR-613 / Malish 7),119,272944
+Q92J88,RL10_RICCN,reviewed,50S ribosomal protein L10,Rickettsia conorii (strain ATCC VR-613 / Malish 7),169,272944
+Q92H62,RICKA_RICCN,reviewed,Arp2/3 complex-activating protein rickA (Actin polymerization protein rickA),Rickettsia conorii (strain ATCC VR-613 / Malish 7),517,272944
+Q92GX3,RL16_RICCN,reviewed,50S ribosomal protein L16,Rickettsia conorii (strain ATCC VR-613 / Malish 7),136,272944
+Q92GZ1,RL17_RICCN,reviewed,50S ribosomal protein L17,Rickettsia conorii (strain ATCC VR-613 / Malish 7),136,272944
+Q92GY4,RL30_RICCN,reviewed,50S ribosomal protein L30,Rickettsia conorii (strain ATCC VR-613 / Malish 7),63,272944
+Q92J90,RL11_RICCN,reviewed,50S ribosomal protein L11,Rickettsia conorii (strain ATCC VR-613 / Malish 7),145,272944
+Q92GY5,RL15_RICCN,reviewed,50S ribosomal protein L15,Rickettsia conorii (strain ATCC VR-613 / Malish 7),153,272944
+Q92GX6,RL14_RICCN,reviewed,50S ribosomal protein L14,Rickettsia conorii (strain ATCC VR-613 / Malish 7),122,272944
+Q92JB5,RL19_RICCN,reviewed,50S ribosomal protein L19,Rickettsia conorii (strain ATCC VR-613 / Malish 7),138,272944
+Q92IV5,RL13_RICCN,reviewed,50S ribosomal protein L13,Rickettsia conorii (strain ATCC VR-613 / Malish 7),155,272944
+Q92H40,RL25_RICCN,reviewed,50S ribosomal protein L25 (General stress protein CTC),Rickettsia conorii (strain ATCC VR-613 / Malish 7),203,272944
+Q92J89,RL1_RICCN,reviewed,50S ribosomal protein L1,Rickettsia conorii (strain ATCC VR-613 / Malish 7),239,272944
+Q92GY2,RL18_RICCN,reviewed,50S ribosomal protein L18,Rickettsia conorii (strain ATCC VR-613 / Malish 7),118,272944
+Q92GG0,RL27_RICCN,reviewed,50S ribosomal protein L27,Rickettsia conorii (strain ATCC VR-613 / Malish 7),86,272944
+Q92GW8,RL23_RICCN,reviewed,50S ribosomal protein L23,Rickettsia conorii (strain ATCC VR-613 / Malish 7),98,272944
+Q92GW7,RL4_RICCN,reviewed,50S ribosomal protein L4,Rickettsia conorii (strain ATCC VR-613 / Malish 7),207,272944
+Q92GX7,RL24_RICCN,reviewed,50S ribosomal protein L24,Rickettsia conorii (strain ATCC VR-613 / Malish 7),109,272944
+Q92H37,RL20_RICCN,reviewed,50S ribosomal protein L20,Rickettsia conorii (strain ATCC VR-613 / Malish 7),117,272944
+Q92GG1,RL21_RICCN,reviewed,50S ribosomal protein L21,Rickettsia conorii (strain ATCC VR-613 / Malish 7),105,272944
+Q92JD1,RL28_RICCN,reviewed,50S ribosomal protein L28,Rickettsia conorii (strain ATCC VR-613 / Malish 7),97,272944
+Q92GC0,RL32_RICCN,reviewed,50S ribosomal protein L32,Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92H36,RL34_RICCN,reviewed,50S ribosomal protein L34,Rickettsia conorii (strain ATCC VR-613 / Malish 7),44,272944
+Q92GY8,RS13_RICCN,reviewed,30S ribosomal protein S13,Rickettsia conorii (strain ATCC VR-613 / Malish 7),125,272944
+Q92GX2,RS3_RICCN,reviewed,30S ribosomal protein S3,Rickettsia conorii (strain ATCC VR-613 / Malish 7),217,272944
+Q92HM4,RS1_RICCN,reviewed,30S ribosomal protein S1,Rickettsia conorii (strain ATCC VR-613 / Malish 7),568,272944
+Q92GZ2,RS20_RICCN,reviewed,30S ribosomal protein S20,Rickettsia conorii (strain ATCC VR-613 / Malish 7),92,272944
+Q92J95,RS12_RICCN,reviewed,30S ribosomal protein S12,Rickettsia conorii (strain ATCC VR-613 / Malish 7),129,272944
+Q92JF5,RS2_RICCN,reviewed,30S ribosomal protein S2,Rickettsia conorii (strain ATCC VR-613 / Malish 7),295,272944
+Q92GX5,RS17_RICCN,reviewed,30S ribosomal protein S17,Rickettsia conorii (strain ATCC VR-613 / Malish 7),77,272944
+Q92GY9,RS11_RICCN,reviewed,30S ribosomal protein S11,Rickettsia conorii (strain ATCC VR-613 / Malish 7),127,272944
+Q92J72,RRF_RICCN,reviewed,Ribosome-recycling factor (RRF) (Ribosome-releasing factor),Rickettsia conorii (strain ATCC VR-613 / Malish 7),186,272944
+Q92HV6,RS15_RICCN,reviewed,30S ribosomal protein S15,Rickettsia conorii (strain ATCC VR-613 / Malish 7),91,272944
+Q92H23,RS21_RICCN,reviewed,30S ribosomal protein S21,Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92GY0,RS8_RICCN,reviewed,30S ribosomal protein S8,Rickettsia conorii (strain ATCC VR-613 / Malish 7),132,272944
+Q92GV0,RSMA_RICCN,reviewed,"Ribosomal RNA small subunit methyltransferase A (EC 2.1.1.182) (16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase) (16S rRNA dimethyladenosine transferase) (16S rRNA dimethylase) (S-adenosylmethionine-6-N', N'-adenosyl(rRNA) dimethyltransferase)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),301,272944
+Q92J59,RSME_RICCN,reviewed,Ribosomal RNA small subunit methyltransferase E (EC 2.1.1.193) (16S rRNA m3U1498 methyltransferase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),244,272944
+Q92J55,SRP54_RICCN,reviewed,Signal recognition particle protein (Fifty-four homolog),Rickettsia conorii (strain ATCC VR-613 / Malish 7),449,272944
+Q92I24,SSRP_RICCN,reviewed,SsrA-binding protein (Small protein B),Rickettsia conorii (strain ATCC VR-613 / Malish 7),152,272944
+Q92JF6,SYC_RICCN,reviewed,Cysteine--tRNA ligase (EC 6.1.1.16) (Cysteinyl-tRNA synthetase) (CysRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),459,272944
+Q92H06,SYE2_RICCN,reviewed,Glutamate--tRNA ligase 2 (EC 6.1.1.17) (Glutamyl-tRNA synthetase 2) (GluRS 2),Rickettsia conorii (strain ATCC VR-613 / Malish 7),513,272944
+Q92I39,SYFA_RICCN,reviewed,Phenylalanine--tRNA ligase alpha subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase alpha subunit) (PheRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),349,272944
+Q92G00,SYA_RICCN,reviewed,Alanine--tRNA ligase (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),878,272944
+Q92IH2,SYE1_RICCN,reviewed,Glutamate--tRNA ligase 1 (EC 6.1.1.17) (Glutamyl-tRNA synthetase 1) (GluRS 1),Rickettsia conorii (strain ATCC VR-613 / Malish 7),447,272944
+Q92I38,SYFB_RICCN,reviewed,Phenylalanine--tRNA ligase beta subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase beta subunit) (PheRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),818,272944
+Q92H19,SYI_RICCN,reviewed,Isoleucine--tRNA ligase (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (IleRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),1092,272944
+Q92GS6,SYM_RICCN,reviewed,Methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),508,272944
+Q92JH2,SYR_RICCN,reviewed,Arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),576,272944
+Q92GA7,SYS_RICCN,reviewed,Serine--tRNA ligase (EC 6.1.1.11) (Seryl-tRNA synthetase) (SerRS) (Seryl-tRNA(Ser/Sec) synthetase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),425,272944
+Q92I35,SYL_RICCN,reviewed,Leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase) (LeuRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),835,272944
+Q92IX4,SYT_RICCN,reviewed,Threonine--tRNA ligase (EC 6.1.1.3) (Threonyl-tRNA synthetase) (ThrRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),635,272944
+Q92I21,SUCC_RICCN,reviewed,Succinate--CoA ligase [ADP-forming] subunit beta (EC 6.2.1.5) (Succinyl-CoA synthetase subunit beta) (SCS-beta),Rickettsia conorii (strain ATCC VR-613 / Malish 7),386,272944
+Q92GR9,SYV_RICCN,reviewed,Valine--tRNA ligase (EC 6.1.1.9) (Valyl-tRNA synthetase) (ValRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),812,272944
+Q92G11,SYGB_RICCN,reviewed,Glycine--tRNA ligase beta subunit (EC 6.1.1.14) (Glycyl-tRNA synthetase beta subunit) (GlyRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),664,272944
+Q92HR1,SYW_RICCN,reviewed,Tryptophan--tRNA ligase (EC 6.1.1.2) (Tryptophanyl-tRNA synthetase) (TrpRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),330,272944
+Q92I92,SYP_RICCN,reviewed,Proline--tRNA ligase (EC 6.1.1.15) (Prolyl-tRNA synthetase) (ProRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),426,272944
+Q92IB5,SYK_RICCN,reviewed,Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),522,272944
+Q92GG3,TATA_RICCN,reviewed,Sec-independent protein translocase protein TatA,Rickettsia conorii (strain ATCC VR-613 / Malish 7),53,272944
+Q92GM6,TGT_RICCN,reviewed,Queuine tRNA-ribosyltransferase (EC 2.4.2.29) (Guanine insertion enzyme) (tRNA-guanine transglycosylase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),361,272944
+Q92JR5,THIO_RICCN,reviewed,Thioredoxin (Trx),Rickettsia conorii (strain ATCC VR-613 / Malish 7),105,272944
+Q92G39,TADA_RICCN,reviewed,tRNA-specific adenosine deaminase (EC 3.5.4.33),Rickettsia conorii (strain ATCC VR-613 / Malish 7),153,272944
+Q92HE8,SYY_RICCN,reviewed,Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase) (TyrRS),Rickettsia conorii (strain ATCC VR-613 / Malish 7),411,272944
+Q92G20,TIG_RICCN,reviewed,Trigger factor (TF) (EC 5.2.1.8) (PPIase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),445,272944
+Q92G31,UVRA_RICCN,reviewed,UvrABC system protein A (UvrA protein) (Excinuclease ABC subunit A),Rickettsia conorii (strain ATCC VR-613 / Malish 7),955,272944
+Q92J03,UVRB_RICCN,reviewed,UvrABC system protein B (Protein UvrB) (Excinuclease ABC subunit B),Rickettsia conorii (strain ATCC VR-613 / Malish 7),661,272944
+Q92HA7,UVRC_RICCN,reviewed,UvrABC system protein C (Protein UvrC) (Excinuclease ABC subunit C),Rickettsia conorii (strain ATCC VR-613 / Malish 7),639,272944
+Q92JJ3,YIDC_RICCN,reviewed,Membrane protein insertase YidC (Foldase YidC) (Membrane integrase YidC) (Membrane protein YidC),Rickettsia conorii (strain ATCC VR-613 / Malish 7),560,272944
+Q92IG5,YQGF_RICCN,reviewed,Putative pre-16S rRNA nuclease (EC 3.1.-.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),154,272944
+Q92HV3,Y668_RICCN,reviewed,Uncharacterized HTH-type transcriptional regulator RC0668,Rickettsia conorii (strain ATCC VR-613 / Malish 7),125,272944
+Q92HG4,Y807_RICCN,reviewed,Uncharacterized RNA pseudouridine synthase RC0807 (EC 5.4.99.-) (RNA pseudouridylate synthase) (RNA-uridine isomerase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),230,272944
+Q92HD1,Y840_RICCN,reviewed,Putative uncharacterized protein RC0840,Rickettsia conorii (strain ATCC VR-613 / Malish 7),52,272944
+Q92H78,Y893_RICCN,reviewed,UPF0092 membrane protein RC0893,Rickettsia conorii (strain ATCC VR-613 / Malish 7),141,272944
+Q92I81,YCIB_RICCN,reviewed,Probable intracellular septation protein A,Rickettsia conorii (strain ATCC VR-613 / Malish 7),180,272944
+Q92JN1,Q92JN1_RICCN,unreviewed,Folate synthesis bifunctional protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),89,272944
+Q92JE2,Q92JE2_RICCN,unreviewed,Ribose-phosphate pyrophosphokinase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),116,272944
+Q92IK7,Q92IK7_RICCN,unreviewed,ABC transporter ATP-binding protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),65,272944
+Q92FY4,Q92FY4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),215,272944
+Q92HN9,Q92HN9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),139,272944
+Q92I49,Q92I49_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),72,272944
+Q92I03,Q92I03_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),290,272944
+Q92IA9,Q92IA9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),82,272944
+Q92IT5,Q92IT5_RICCN,unreviewed,Cell division protein FtsA,Rickettsia conorii (strain ATCC VR-613 / Malish 7),411,272944
+Q92GS0,Q92GS0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),78,272944
+Q92GK2,Q92GK2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),82,272944
+Q92G33,Q92G33_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),98,272944
+Q92IH3,Q92IH3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92GF4,Q92GF4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),86,272944
+Q92H13,Q92H13_RICCN,unreviewed,Propionyl-CoA carboxylase alpha chain (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),665,272944
+Q92GR6,Q92GR6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),59,272944
+Q92GR7,Q92GR7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),266,272944
+Q92HX9,Q92HX9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),144,272944
+Q92FZ3,Q92FZ3_RICCN,unreviewed,NAD(P) transhydrogenase subunit alpha (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),374,272944
+Q92HQ9,Q92HQ9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),146,272944
+Q92IY2,Q92IY2_RICCN,unreviewed,Cytochrome d ubiquinol oxidase subunit I (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),456,272944
+Q92GU4,Q92GU4_RICCN,unreviewed,Exodeoxyribonuclease III (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),260,272944
+Q92I68,Q92I68_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),242,272944
+Q92HA9,Q92HA9_RICCN,unreviewed,Sodium/pantothenate symporter (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),464,272944
+Q92IR3,Q92IR3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),152,272944
+Q92HG9,Q92HG9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),101,272944
+Q92HS8,Q92HS8_RICCN,unreviewed,Dihydrolipoyl dehydrogenase (EC 1.8.1.4),Rickettsia conorii (strain ATCC VR-613 / Malish 7),459,272944
+Q92IR8,Q92IR8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),184,272944
+Q92H09,Q92H09_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),94,272944
+Q92HP3,Q92HP3_RICCN,unreviewed,HesB protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),110,272944
+Q92HN3,Q92HN3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),81,272944
+Q92G17,Q92G17_RICCN,unreviewed,Pseudouridine synthase (EC 5.4.99.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),313,272944
+Q92HL3,Q92HL3_RICCN,unreviewed,Protease IV (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),304,272944
+Q92GM9,Q92GM9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),117,272944
+Q92H64,Q92H64_RICCN,unreviewed,Tryptophan repressor binding protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),57,272944
+Q92GK4,Q92GK4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),121,272944
+Q92IK9,Q92IK9_RICCN,unreviewed,Cationic amino acid transporter-1 (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),465,272944
+Q92JN6,Q92JN6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),534,272944
+Q92J61,Q92J61_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),146,272944
+Q92GC2,Q92GC2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),80,272944
+Q92HG3,Q92HG3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),957,272944
+Q92IH9,Q92IH9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),90,272944
+Q92H05,Q92H05_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),178,272944
+Q92IA4,Q92IA4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),172,272944
+Q92HW2,Q92HW2_RICCN,unreviewed,ABC transporter ATP-binding protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),240,272944
+Q92IS8,Q92IS8_RICCN,unreviewed,Ribonuclease E (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),690,272944
+Q92G07,Q92G07_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),209,272944
+Q92HX1,Q92HX1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),60,272944
+Q92IW2,Q92IW2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),570,272944
+Q92IJ2,Q92IJ2_RICCN,unreviewed,Alkaline protease secretion protein AprE (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),511,272944
+Q92HB5,Q92HB5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),132,272944
+Q92IM5,Q92IM5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),98,272944
+Q92JH4,Q92JH4_RICCN,unreviewed,HesB protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),110,272944
+Q92IU9,Q92IU9_RICCN,unreviewed,Regulatory components of sensory transduction system (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),450,272944
+Q92FX3,Q92FX3_RICCN,unreviewed,Na(+)/H(+) antiporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),65,272944
+Q92G01,Q92G01_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),523,272944
+Q92HB9,Q92HB9_RICCN,unreviewed,Penicillin-binding protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),593,272944
+Q92GS3,Q92GS3_RICCN,unreviewed,4-hydroxybenzoate octaprenyltransferase (EC 2.5.1.-),Rickettsia conorii (strain ATCC VR-613 / Malish 7),282,272944
+Q92IG8,Q92IG8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),312,272944
+Q92GD7,Q92GD7_RICCN,unreviewed,3-oxoacyl-[acyl-carrier-protein] synthase 2 (EC 2.3.1.179),Rickettsia conorii (strain ATCC VR-613 / Malish 7),428,272944
+Q92GL4,Q92GL4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),157,272944
+Q92IA1,Q92IA1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),306,272944
+Q92IV1,Q92IV1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),97,272944
+Q92GW1,Q92GW1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),150,272944
+Q92GL8,Q92GL8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),96,272944
+Q92HE7,Q92HE7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),93,272944
+Q92H99,Q92H99_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),72,272944
+Q92IK6,Q92IK6_RICCN,unreviewed,ABC transporter ATP-binding protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),69,272944
+Q92GD4,Q92GD4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),76,272944
+Q92H42,Q92H42_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),76,272944
+Q92HT7,Q92HT7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),69,272944
+Q92G16,Q92G16_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),91,272944
+Q92IG2,Q92IG2_RICCN,unreviewed,Putative UDP-N-acetylglucosamine 2-epimerase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),377,272944
+Q92JR3,Q92JR3_RICCN,unreviewed,Transport permease protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),258,272944
+Q92IW0,Q92IW0_RICCN,unreviewed,Tail-specific protease (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),469,272944
+Q92HB2,Q92HB2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),109,272944
+Q92GV4,Q92GV4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),190,272944
+Q92GF0,Q92GF0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),117,272944
+Q92I80,Q92I80_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),282,272944
+Q92HC4,Q92HC4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),80,272944
+Q92H50,Q92H50_RICCN,unreviewed,Patatin b1 (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),490,272944
+Q92I13,Q92I13_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),144,272944
+Q92JR2,Q92JR2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),1033,272944
+Q92IM7,Q92IM7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),103,272944
+Q92JF0,Q92JF0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),72,272944
+Q92JA2,Q92JA2_RICCN,unreviewed,Protein HflC,Rickettsia conorii (strain ATCC VR-613 / Malish 7),286,272944
+Q92GQ0,Q92GQ0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),55,272944
+Q92I44,Q92I44_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),94,272944
+Q92JQ3,Q92JQ3_RICCN,unreviewed,Zinc/manganese ABC transporter substrate binding protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),317,272944
+Q92I32,Q92I32_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),101,272944
+Q92I69,Q92I69_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),132,272944
+Q92IE4,Q92IE4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),100,272944
+Q92GC5,Q92GC5_RICCN,unreviewed,Rod shape-determining protein mreB (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),346,272944
+Q92IG7,Q92IG7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),75,272944
+Q92J51,Q92J51_RICCN,unreviewed,Prolyl endopeptidase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),194,272944
+Q92HU1,Q92HU1_RICCN,unreviewed,UDP-N-acetylglucosamine pyrophosphorylase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),248,272944
+Q92JD7,Q92JD7_RICCN,unreviewed,Ribonucleotide ABC transporter ATP-binding protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),251,272944
+Q92IM6,Q92IM6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),87,272944
+Q92GB6,Q92GB6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),92,272944
+Q92HD9,Q92HD9_RICCN,unreviewed,Proline/betaine transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),75,272944
+Q92IN0,Q92IN0_RICCN,unreviewed,VirB11 protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),334,272944
+Q92JR4,Q92JR4_RICCN,unreviewed,O-antigen export system ATP-binding protein RfbE (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),249,272944
+Q92G02,Q92G02_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),211,272944
+Q92GL7,Q92GL7_RICCN,unreviewed,ABC transporter substrate binding protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),149,272944
+Q92HW1,Q92HW1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),194,272944
+Q92IP3,Q92IP3_RICCN,unreviewed,Protease II (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),729,272944
+Q92HI3,Q92HI3_RICCN,unreviewed,MazG-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),102,272944
+Q92J16,Q92J16_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),89,272944
+Q92HX7,Q92HX7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),73,272944
+Q92JC6,Q92JC6_RICCN,unreviewed,VirB4 protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),805,272944
+Q92IN4,Q92IN4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),59,272944
+Q92JJ6,Q92JJ6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),406,272944
+Q92I12,Q92I12_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),173,272944
+Q92IG0,Q92IG0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),98,272944
+Q92II5,Q92II5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),162,272944
+Q92G46,Q92G46_RICCN,unreviewed,DNA repair protein (RadC)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),122,272944
+Q92JP2,Q92JP2_RICCN,unreviewed,ATP synthase B chain (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),157,272944
+Q92GD6,Q92GD6_RICCN,unreviewed,ABC transporter ATP-binding protein Uup (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),593,272944
+Q92GA2,Q92GA2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),554,272944
+Q92GT2,Q92GT2_RICCN,unreviewed,Mannose-1-phosphate guanylyltransferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),175,272944
+Q92I59,Q92I59_RICCN,unreviewed,Cell division protein ftsW (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),382,272944
+Q92HT3,Q92HT3_RICCN,unreviewed,Putative transposable insertion element (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),175,272944
+Q92IH6,Q92IH6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),116,272944
+Q92GJ8,Q92GJ8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),63,272944
+Q92GT9,Q92GT9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),82,272944
+Q92H02,Q92H02_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),98,272944
+Q92GN9,Q92GN9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),135,272944
+Q92GR3,Q92GR3_RICCN,unreviewed,"Alpha-(1,3)-fucosyltransferase-like protein (EC 2.3.1.129)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),183,272944
+Q92HN2,Q92HN2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),65,272944
+Q92IQ8,Q92IQ8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92H54,Q92H54_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),104,272944
+Q92H31,Q92H31_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),77,272944
+Q92H80,Q92H80_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),52,272944
+Q92G64,Q92G64_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),154,272944
+Q92H20,Q92H20_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92I43,Q92I43_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),91,272944
+Q92GL9,Q92GL9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),73,272944
+Q92HY9,Q92HY9_RICCN,unreviewed,Cell surface antigen-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),256,272944
+Q92G68,Q92G68_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),135,272944
+Q92IZ5,Q92IZ5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),106,272944
+Q92IG1,Q92IG1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),448,272944
+Q92HP8,Q92HP8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),600,272944
+Q92GW2,Q92GW2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),50,272944
+Q92IB7,Q92IB7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),50,272944
+Q92HM8,Q92HM8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),92,272944
+Q92GK6,Q92GK6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),90,272944
+Q92H14,Q92H14_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),50,272944
+Q92JM9,Q92JM9_RICCN,unreviewed,Folate synthesis bifunctional protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),79,272944
+Q92II9,Q92II9_RICCN,unreviewed,Protein kinase C inhibitor 1 (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),120,272944
+Q92I48,Q92I48_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),125,272944
+Q92HN4,Q92HN4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),55,272944
+Q92HR6,Q92HR6_RICCN,unreviewed,Microcin C7 self-immunity protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),360,272944
+Q92H96,Q92H96_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),63,272944
+Q92JL1,Q92JL1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),196,272944
+Q92H68,Q92H68_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),102,272944
+Q92GT1,Q92GT1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),86,272944
+Q92HC5,Q92HC5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),116,272944
+Q92HE0,Q92HE0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),91,272944
+Q92HI0,Q92HI0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),60,272944
+Q92IH0,Q92IH0_RICCN,unreviewed,DNA processing protein Smf-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),111,272944
+Q92GV8,Q92GV8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),107,272944
+Q92IE2,Q92IE2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),136,272944
+Q92IQ4,Q92IQ4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),124,272944
+Q92J23,Q92J23_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),99,272944
+Q92HF1,Q92HF1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),52,272944
+Q92JC0,Q92JC0_RICCN,unreviewed,Phosphate acetyltransferase (Pta)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),155,272944
+Q92G76,Q92G76_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),71,272944
+Q92IF3,Q92IF3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),57,272944
+Q92H67,Q92H67_RICCN,unreviewed,Succinyl-CoA:3-ketoacid-coenzyme A transferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),75,272944
+Q92G21,Q92G21_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92G60,Q92G60_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),118,272944
+Q92JB9,Q92JB9_RICCN,unreviewed,Acetate kinase (AckA)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),77,272944
+Q92G49,Q92G49_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),107,272944
+Q92IY5,Q92IY5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),130,272944
+Q92H51,Q92H51_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),50,272944
+Q92IS4,Q92IS4_RICCN,unreviewed,Exodeoxyribonuclease III (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),286,272944
+Q92IP7,Q92IP7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),182,272944
+Q92HK2,Q92HK2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),51,272944
+Q92H86,Q92H86_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),314,272944
+Q92HJ5,Q92HJ5_RICCN,unreviewed,RP534-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),91,272944
+Q92FW2,Q92FW2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),74,272944
+Q92GI7,Q92GI7_RICCN,unreviewed,Poly-beta-hydroxybutyrate polymerase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),151,272944
+Q92IZ8,Q92IZ8_RICCN,unreviewed,Multidrug resistance protein (Atm1)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),75,272944
+Q92JE0,Q92JE0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),74,272944
+Q92I52,Q92I52_RICCN,unreviewed,Probable RND efflux transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),169,272944
+Q92J10,Q92J10_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),330,272944
+Q92HY0,Q92HY0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),148,272944
+Q92GJ1,Q92GJ1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),60,272944
+Q92H26,Q92H26_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),55,272944
+Q92IY9,Q92IY9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),225,272944
+Q92HQ5,Q92HQ5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),234,272944
+Q92FY7,Q92FY7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),100,272944
+Q92G62,Q92G62_RICCN,unreviewed,Cell surface antigen-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),652,272944
+Q92HJ9,Q92HJ9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),62,272944
+Q92J12,Q92J12_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),90,272944
+Q92IP0,Q92IP0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),99,272944
+Q92H71,Q92H71_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),205,272944
+Q92IQ9,Q92IQ9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),75,272944
+Q92HK4,Q92HK4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),57,272944
+Q92GN7,Q92GN7_RICCN,unreviewed,Beta-glucosidase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),327,272944
+Q92GH2,Q92GH2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),102,272944
+Q92HM6,Q92HM6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),63,272944
+Q92GD1,Q92GD1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),60,272944
+Q92IE8,Q92IE8_RICCN,unreviewed,Outer membrane assembly protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),839,272944
+Q92GU5,Q92GU5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),105,272944
+Q92IW8,Q92IW8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92GS9,Q92GS9_RICCN,unreviewed,RP681-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),197,272944
+Q92HW6,Q92HW6_RICCN,unreviewed,RP511-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),70,272944
+Q92J19,Q92J19_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),98,272944
+Q92GE5,Q92GE5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),109,272944
+Q92GM2,Q92GM2_RICCN,unreviewed,Proline/betaine transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),77,272944
+Q92IF8,Q92IF8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),332,272944
+Q92HU2,Q92HU2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),602,272944
+Q92G35,Q92G35_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),255,272944
+Q92I54,Q92I54_RICCN,unreviewed,Probable RND efflux transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),154,272944
+Q92H63,Q92H63_RICCN,unreviewed,Tryptophan repressor binding protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),75,272944
+Q92GM8,Q92GM8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),50,272944
+Q92IK0,Q92IK0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),94,272944
+Q92JN9,Q92JN9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),98,272944
+Q92IB6,Q92IB6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),197,272944
+Q92GH0,Q92GH0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),158,272944
+Q92IK3,Q92IK3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),112,272944
+Q92J22,Q92J22_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),52,272944
+Q92HI1,Q92HI1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92GF5,Q92GF5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92FY9,Q92FY9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92IA3,Q92IA3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),62,272944
+Q92JR1,Q92JR1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),80,272944
+Q92HG5,Q92HG5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),65,272944
+Q92HC1,Q92HC1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),589,272944
+Q92J13,Q92J13_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),307,272944
+Q92GH3,Q92GH3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),57,272944
+Q92HC3,Q92HC3_RICCN,unreviewed,UbiH protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),431,272944
+Q92H47,Q92H47_RICCN,unreviewed,Bicyclomycin resistance protein (Bcr1)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92HN6,Q92HN6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),271,272944
+Q92IZ7,Q92IZ7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),83,272944
+Q92GD2,Q92GD2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),100,272944
+Q92HY2,Q92HY2_RICCN,unreviewed,Late-developmental spore coat protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),122,272944
+Q92HI6,Q92HI6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),135,272944
+Q92H25,Q92H25_RICCN,unreviewed,Aminoglycoside 3'-phosphotransferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),192,272944
+Q92IK5,Q92IK5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),72,272944
+Q92I36,Q92I36_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),169,272944
+Q92J25,Q92J25_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),107,272944
+Q92J01,Q92J01_RICCN,unreviewed,Multidrug resistance protein (Atm1)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),118,272944
+Q92GM4,Q92GM4_RICCN,unreviewed,(P)ppGpp 3-pyrophosphohydrolase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),57,272944
+Q92GF7,Q92GF7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),83,272944
+Q92GS1,Q92GS1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),82,272944
+Q92GG9,Q92GG9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92GE6,Q92GE6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),79,272944
+Q92HV8,Q92HV8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),58,272944
+Q92IF0,Q92IF0_RICCN,unreviewed,Spore photoproduct lyase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),187,272944
+Q92H84,Q92H84_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),58,272944
+Q92G18,Q92G18_RICCN,unreviewed,N-terminus of bacteriophage-type DNA polymerase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),279,272944
+Q92GR1,Q92GR1_RICCN,unreviewed,RP691-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),113,272944
+Q92II1,Q92II1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),192,272944
+Q92IV9,Q92IV9_RICCN,unreviewed,Histidine kinase sensor protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),497,272944
+Q92GE9,Q92GE9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),1583,272944
+Q92I45,Q92I45_RICCN,unreviewed,CapM protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),338,272944
+Q92HT6,Q92HT6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),79,272944
+Q92IX5,Q92IX5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),528,272944
+Q92HF0,Q92HF0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),142,272944
+Q92IF5,Q92IF5_RICCN,unreviewed,CapM protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),390,272944
+Q92J20,Q92J20_RICCN,unreviewed,Bifunctional penicillin-binding protein 1C (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),796,272944
+Q92JC7,Q92JC7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),95,272944
+Q92GG4,Q92GG4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),372,272944
+Q92HM2,Q92HM2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),58,272944
+Q92I99,Q92I99_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),112,272944
+Q92J67,Q92J67_RICCN,unreviewed,Outer membrane protein assembly factor BamA,Rickettsia conorii (strain ATCC VR-613 / Malish 7),768,272944
+Q92I84,Q92I84_RICCN,unreviewed,Penicillin-binding protein dacF (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),306,272944
+Q92H70,Q92H70_RICCN,unreviewed,ATP-dependent DNA helicase RecG (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),713,272944
+Q92IR9,Q92IR9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),115,272944
+Q92FY6,Q92FY6_RICCN,unreviewed,Glutamine ABC transporter ATP-binding protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),240,272944
+Q92ID0,Q92ID0_RICCN,unreviewed,Phage-related protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),184,272944
+Q92G08,Q92G08_RICCN,unreviewed,Antitoxin,Rickettsia conorii (strain ATCC VR-613 / Malish 7),81,272944
+Q92HQ6,Q92HQ6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),251,272944
+Q92IG4,Q92IG4_RICCN,unreviewed,Putative dTDP-4-dehydrorhamnose reductase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),284,272944
+Q92H28,Q92H28_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),69,272944
+Q92IZ0,Q92IZ0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),138,272944
+Q92J24,Q92J24_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),65,272944
+Q92I72,Q92I72_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),319,272944
+Q92JG4,Q92JG4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),186,272944
+Q92I94,Q92I94_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),507,272944
+Q92IG6,Q92IG6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),522,272944
+Q92IQ3,Q92IQ3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),159,272944
+Q92I75,Q92I75_RICCN,unreviewed,Possible protease sohB (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),304,272944
+Q92IF4,Q92IF4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92JE5,Q92JE5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),334,272944
+Q92HQ1,Q92HQ1_RICCN,unreviewed,"Lipopolysaccharide 1,2-glucosyltransferase (RfaJ)-like protein (EC 2.3.1.129)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92H18,Q92H18_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),74,272944
+Q92H53,Q92H53_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),138,272944
+Q92HM9,Q92HM9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),71,272944
+Q92GJ0,Q92GJ0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),91,272944
+Q92HA8,Q92HA8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),71,272944
+Q92GK7,Q92GK7_RICCN,unreviewed,Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39),Rickettsia conorii (strain ATCC VR-613 / Malish 7),314,272944
+Q92J69,Q92J69_RICCN,unreviewed,Multidrug resistance protein B (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),519,272944
+Q92J49,Q92J49_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92GU0,Q92GU0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),99,272944
+Q92G73,Q92G73_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),81,272944
+Q92IC2,Q92IC2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),305,272944
+Q92GA5,Q92GA5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),1162,272944
+Q92GP2,Q92GP2_RICCN,unreviewed,Cytochrome c-type biogenesis protein ccmF (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),662,272944
+Q92HE9,Q92HE9_RICCN,unreviewed,Hemolysin (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),251,272944
+Q92HZ5,Q92HZ5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),174,272944
+Q92IA5,Q92IA5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),71,272944
+Q92J14,Q92J14_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),71,272944
+Q92HP6,Q92HP6_RICCN,unreviewed,Aminopeptidase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),612,272944
+Q92HP0,Q92HP0_RICCN,unreviewed,Nifs protein homolog (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),372,272944
+Q92JK4,Q92JK4_RICCN,unreviewed,Transcriptional regulator-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),123,272944
+Q92GC3,Q92GC3_RICCN,unreviewed,Peptidoglycan-associated lipoprotein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),155,272944
+Q92FX9,Q92FX9_RICCN,unreviewed,Type I restriction enzyme S subunit-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),216,272944
+Q92IN1,Q92IN1_RICCN,unreviewed,VirB10 protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),482,272944
+Q92I95,Q92I95_RICCN,unreviewed,Mutator protein MutT-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),96,272944
+Q92G44,Q92G44_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),107,272944
+Q92HU4,Q92HU4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),102,272944
+Q92GI0,Q92GI0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92GE7,Q92GE7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),433,272944
+Q92HX5,Q92HX5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),78,272944
+Q92IY1,Q92IY1_RICCN,unreviewed,Cytochrome d ubiquinol oxidase subunit II (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),339,272944
+Q92IG9,Q92IG9_RICCN,unreviewed,Thioredoxin peroxidase 1 (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),202,272944
+Q92HR0,Q92HR0_RICCN,unreviewed,Possible 1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),241,272944
+Q92GG6,Q92GG6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),78,272944
+Q92HG0,Q92HG0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),104,272944
+Q92J30,Q92J30_RICCN,unreviewed,Ubiquinone biosynthesis protein coq7 (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),179,272944
+Q92HV0,Q92HV0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),277,272944
+Q92JK5,Q92JK5_RICCN,unreviewed,Acyl-CoA desaturase 1 (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),397,272944
+Q92HY1,Q92HY1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),103,272944
+Q92IZ3,Q92IZ3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),61,272944
+Q92HL6,Q92HL6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),63,272944
+Q92IY4,Q92IY4_RICCN,unreviewed,Multidrug resistance ABC transporter ATP-binding protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),589,272944
+Q92GZ9,Q92GZ9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),130,272944
+Q92GF1,Q92GF1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),115,272944
+Q92FY5,Q92FY5_RICCN,unreviewed,PhnP protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),254,272944
+Q92HB6,Q92HB6_RICCN,unreviewed,Penicillin-binding protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),561,272944
+Q92II3,Q92II3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),168,272944
+Q92G51,Q92G51_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),524,272944
+Q92IS1,Q92IS1_RICCN,unreviewed,GTP-binding protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),609,272944
+Q92HS2,Q92HS2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),112,272944
+Q92J11,Q92J11_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),148,272944
+Q92HM0,Q92HM0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),105,272944
+Q92HT8,Q92HT8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),59,272944
+Q92HP5,Q92HP5_RICCN,unreviewed,Putrescine-ornithine antiporter (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),427,272944
+Q92IP9,Q92IP9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),129,272944
+Q92FZ6,Q92FZ6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),204,272944
+Q92FW5,Q92FW5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),54,272944
+Q92G48,Q92G48_RICCN,unreviewed,Methionine aminopeptidase (MAP) (MetAP) (EC 3.4.11.18) (Peptidase M),Rickettsia conorii (strain ATCC VR-613 / Malish 7),259,272944
+Q92J33,Q92J33_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),115,272944
+Q92HS3,Q92HS3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),334,272944
+Q92HK0,Q92HK0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),87,272944
+Q92IJ7,Q92IJ7_RICCN,unreviewed,TolR protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),143,272944
+Q92J77,Q92J77_RICCN,unreviewed,Amino acid ABC transporter substrate binding protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),241,272944
+Q92JA3,Q92JA3_RICCN,unreviewed,Protease activity modulator HflK (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),346,272944
+Q92HD7,Q92HD7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),74,272944
+Q92FZ4,Q92FZ4_RICCN,unreviewed,NAD(P) transhydrogenase subunit alpha (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),132,272944
+Q92GF6,Q92GF6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),53,272944
+Q92GU7,Q92GU7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),69,272944
+Q92J58,Q92J58_RICCN,unreviewed,Acriflavin resistance protein D (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),1008,272944
+Q92HC0,Q92HC0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),319,272944
+Q92H32,Q92H32_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),85,272944
+Q92GF8,Q92GF8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),164,272944
+Q92GA8,Q92GA8_RICCN,unreviewed,Sec-independent protein translocase protein TatC,Rickettsia conorii (strain ATCC VR-613 / Malish 7),252,272944
+Q92H08,Q92H08_RICCN,unreviewed,Zinc/manganese ABC transporter permease protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),253,272944
+Q92IN6,Q92IN6_RICCN,unreviewed,Probable conjugal transfer protein trbG (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),250,272944
+Q92H57,Q92H57_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),87,272944
+Q92ID1,Q92ID1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),101,272944
+Q92J41,Q92J41_RICCN,unreviewed,Carboxypeptidase 1 (EC 3.4.17.19),Rickettsia conorii (strain ATCC VR-613 / Malish 7),496,272944
+Q92G25,Q92G25_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92HW9,Q92HW9_RICCN,unreviewed,Ribonucleoside-diphosphate reductase subunit beta (EC 1.17.4.1),Rickettsia conorii (strain ATCC VR-613 / Malish 7),328,272944
+Q92I46,Q92I46_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),59,272944
+Q92I17,Q92I17_RICCN,unreviewed,Acylamino-acid-releasing enzyme (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),676,272944
+Q92I86,Q92I86_RICCN,unreviewed,Multidrug resistance protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),587,272944
+Q92FW4,Q92FW4_RICCN,unreviewed,Oxidoreductase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92G54,Q92G54_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),93,272944
+Q92J45,Q92J45_RICCN,unreviewed,Periplasmic divalent cation tolerance protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),104,272944
+Q92FY1,Q92FY1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),154,272944
+Q92HX8,Q92HX8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),73,272944
+Q92JG6,Q92JG6_RICCN,unreviewed,Transcriptional activator protein czcR (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),237,272944
+Q92HH4,Q92HH4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),513,272944
+Q92HJ1,Q92HJ1_RICCN,unreviewed,BioY protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),180,272944
+Q92HU5,Q92HU5_RICCN,unreviewed,Antitoxin,Rickettsia conorii (strain ATCC VR-613 / Malish 7),84,272944
+Q92IB3,Q92IB3_RICCN,unreviewed,Malate oxidoreductase and phosphate acetyltransferase (EC 2.3.1.129) (EC 2.3.1.8),Rickettsia conorii (strain ATCC VR-613 / Malish 7),767,272944
+Q92GR8,Q92GR8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),250,272944
+Q92FW1,Q92FW1_RICCN,unreviewed,O-linked GlcNAc transferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),99,272944
+Q92J28,Q92J28_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),119,272944
+Q92JC8,Q92JC8_RICCN,unreviewed,Acetylglutamate kinase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),307,272944
+Q92G32,Q92G32_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92HC6,Q92HC6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),92,272944
+Q92I61,Q92I61_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),82,272944
+Q92FW3,Q92FW3_RICCN,unreviewed,Oxidoreductase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),86,272944
+Q92IM0,Q92IM0_RICCN,unreviewed,CysQ protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),258,272944
+Q92HQ0,Q92HQ0_RICCN,unreviewed,"Lipopolysaccharide 1,2-glucosyltransferase (RfaJ)-like protein (EC 2.3.1.129)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92IC1,Q92IC1_RICCN,unreviewed,ABC transporter permease protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),305,272944
+Q92HN1,Q92HN1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),111,272944
+Q92GA0,Q92GA0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),142,272944
+Q92H52,Q92H52_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),108,272944
+Q92GA6,Q92GA6_RICCN,unreviewed,VirB4 protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),810,272944
+Q92GF2,Q92GF2_RICCN,unreviewed,Cell division protein ZapA,Rickettsia conorii (strain ATCC VR-613 / Malish 7),105,272944
+Q92HW3,Q92HW3_RICCN,unreviewed,Phosphomannomutase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),462,272944
+Q92GB3,Q92GB3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),101,272944
+Q92IX1,Q92IX1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),90,272944
+Q92I33,Q92I33_RICCN,unreviewed,Ribonuclease D (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),203,272944
+Q92H30,Q92H30_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),105,272944
+Q92I88,Q92I88_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),95,272944
+Q92G12,Q92G12_RICCN,unreviewed,Threonylcarbamoyl-AMP synthase (TC-AMP synthase) (EC 2.7.7.87) (L-threonylcarbamoyladenylate synthase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),312,272944
+Q92I66,Q92I66_RICCN,unreviewed,Acetyltransferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),127,272944
+Q92IN9,Q92IN9_RICCN,unreviewed,NADH dehydrogenase I chain L (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),487,272944
+Q92JN3,Q92JN3_RICCN,unreviewed,Dihydrofolate reductase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),164,272944
+Q92I27,Q92I27_RICCN,unreviewed,PetR protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),226,272944
+Q92JP6,Q92JP6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),208,272944
+Q92GA3,Q92GA3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),237,272944
+Q92HS7,Q92HS7_RICCN,unreviewed,5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2),Rickettsia conorii (strain ATCC VR-613 / Malish 7),196,272944
+Q92IU4,Q92IU4_RICCN,unreviewed,CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),254,272944
+Q92J50,Q92J50_RICCN,unreviewed,Probable oxygen-independent coproporphyrinogen III oxidase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),400,272944
+Q92I19,Q92I19_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),83,272944
+Q92G81,Q92G81_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),97,272944
+Q92JN2,Q92JN2_RICCN,unreviewed,Folate synthesis bifunctional protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),101,272944
+Q92G45,Q92G45_RICCN,unreviewed,Undecaprenyl-phosphate alpha-N-acetylglucosaminyltransferase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),327,272944
+Q92HU3,Q92HU3_RICCN,unreviewed,Erythrocyte adducin alpha subunit (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),231,272944
+Q92IS5,Q92IS5_RICCN,unreviewed,Penicillin-binding protein 4 (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),402,272944
+Q92IP8,Q92IP8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),182,272944
+Q92GS4,Q92GS4_RICCN,unreviewed,Proline/betaine transporter (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),455,272944
+Q92GB0,Q92GB0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),836,272944
+Q92GH9,Q92GH9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),76,272944
+Q92I76,Q92I76_RICCN,unreviewed,Thiol:disulfide interchange protein tlpA,Rickettsia conorii (strain ATCC VR-613 / Malish 7),214,272944
+Q92G65,Q92G65_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),95,272944
+Q92H97,Q92H97_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),92,272944
+Q92G59,Q92G59_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),80,272944
+Q92GC4,Q92GC4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),362,272944
+Q92HT1,Q92HT1_RICCN,unreviewed,DNA adenine methyltransferases (MboA)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),182,272944
+Q92HY6,Q92HY6_RICCN,unreviewed,Probable sigma(54) modulation protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),192,272944
+Q92IX9,Q92IX9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),86,272944
+Q92IV2,Q92IV2_RICCN,unreviewed,D-alanyl-D-alanine dipeptidase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),53,272944
+Q92IS9,Q92IS9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),382,272944
+Q92IU1,Q92IU1_RICCN,unreviewed,BolA protein homolog (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),80,272944
+Q92IJ3,Q92IJ3_RICCN,unreviewed,Proline/betaine transporter (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),438,272944
+Q92GB4,Q92GB4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),68,272944
+Q92G71,Q92G71_RICCN,unreviewed,Glutathione-regulated potassium-efflux system protein kefB (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),578,272944
+Q92HJ8,Q92HJ8_RICCN,unreviewed,Biotin-protein ligase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),270,272944
+Q92ID3,Q92ID3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),157,272944
+Q92G47,Q92G47_RICCN,unreviewed,DNA repair protein (RadC)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),103,272944
+Q92HZ9,Q92HZ9_RICCN,unreviewed,Succinate semialdehyde dehydrogenase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),475,272944
+Q92HH8,Q92HH8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),75,272944
+Q92I47,Q92I47_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),80,272944
+Q92G37,Q92G37_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),154,272944
+Q92GV9,Q92GV9_RICCN,unreviewed,Antitoxin,Rickettsia conorii (strain ATCC VR-613 / Malish 7),82,272944
+Q92IJ4,Q92IJ4_RICCN,unreviewed,(P)ppGpp 3-pyrophosphohydrolase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),235,272944
+Q92J15,Q92J15_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),93,272944
+Q92GV2,Q92GV2_RICCN,unreviewed,ATP-dependent RNA helicase RhlE (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),414,272944
+Q92H43,Q92H43_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),56,272944
+Q92HS5,Q92HS5_RICCN,unreviewed,Ribonuclease D (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),281,272944
+Q92IZ2,Q92IZ2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),71,272944
+Q92I09,Q92I09_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),73,272944
+Q92G56,Q92G56_RICCN,unreviewed,RNA polymerase-binding transcription factor DksA,Rickettsia conorii (strain ATCC VR-613 / Malish 7),143,272944
+Q92HP2,Q92HP2_RICCN,unreviewed,Iron-sulfur cluster assembly scaffold protein IscU,Rickettsia conorii (strain ATCC VR-613 / Malish 7),131,272944
+Q92GG5,Q92GG5_RICCN,unreviewed,Ribosomal RNA small subunit methyltransferase I (EC 2.1.1.198) (16S rRNA 2'-O-ribose C1402 methyltransferase) (rRNA (cytidine-2'-O-)-methyltransferase RsmI),Rickettsia conorii (strain ATCC VR-613 / Malish 7),281,272944
+Q92J86,Q92J86_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),386,272944
+Q92G05,Q92G05_RICCN,unreviewed,Proline/betaine transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),152,272944
+Q92JE8,Q92JE8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),218,272944
+Q92JE6,Q92JE6_RICCN,unreviewed,Antitoxin,Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92I07,Q92I07_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),560,272944
+Q92HW7,Q92HW7_RICCN,unreviewed,RP511-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),82,272944
+Q92HQ2,Q92HQ2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),59,272944
+Q92GS7,Q92GS7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),306,272944
+Q92IU0,Q92IU0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),408,272944
+Q92I04,Q92I04_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),309,272944
+Q92HC7,Q92HC7_RICCN,unreviewed,Competence protein F-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),115,272944
+Q92G06,Q92G06_RICCN,unreviewed,Proline/betaine transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),163,272944
+Q92HF8,Q92HF8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),78,272944
+Q92IL1,Q92IL1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),326,272944
+Q92J27,Q92J27_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),210,272944
+Q92HR8,Q92HR8_RICCN,unreviewed,Alkaline phosphatase synthesis sensor protein (PhoR)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),132,272944
+Q92H29,Q92H29_RICCN,unreviewed,Magnesium and cobalt transport protein CorA (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),319,272944
+Q92J35,Q92J35_RICCN,unreviewed,Heat shock protease (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),497,272944
+Q92HQ8,Q92HQ8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),239,272944
+Q92FX5,Q92FX5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),96,272944
+Q92J63,Q92J63_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),353,272944
+Q92G14,Q92G14_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),61,272944
+Q92H79,Q92H79_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),79,272944
+Q92IN8,Q92IN8_RICCN,unreviewed,NADH dehydrogenase I chain N (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),433,272944
+Q92IK2,Q92IK2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),246,272944
+Q92G63,Q92G63_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),120,272944
+Q92JG0,Q92JG0_RICCN,unreviewed,Proline/betaine transporter (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),418,272944
+Q92HB8,Q92HB8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),173,272944
+Q92IJ8,Q92IJ8_RICCN,unreviewed,TolQ protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),241,272944
+Q92HH0,Q92HH0_RICCN,unreviewed,Flavin prenyltransferase UbiX (EC 2.5.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),191,272944
+Q92JN7,Q92JN7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),173,272944
+Q92HL0,Q92HL0_RICCN,unreviewed,Single-stranded-DNA-specific exonuclease RecJ (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),587,272944
+Q92GB5,Q92GB5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),86,272944
+Q92GP3,Q92GP3_RICCN,unreviewed,Hemolysin homolog (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),424,272944
+Q92I00,Q92I00_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),69,272944
+Q92GZ8,Q92GZ8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),89,272944
+Q92GN3,Q92GN3_RICCN,unreviewed,Bacterioferritin comigratory protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),156,272944
+Q92I40,Q92I40_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),421,272944
+Q92JQ0,Q92JQ0_RICCN,unreviewed,Competence locus E protein 3-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),244,272944
+Q92I63,Q92I63_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),476,272944
+Q92HX6,Q92HX6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),86,272944
+Q92IH4,Q92IH4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),96,272944
+Q92HX3,Q92HX3_RICCN,unreviewed,Ribonucleoside-diphosphate reductase (EC 1.17.4.1),Rickettsia conorii (strain ATCC VR-613 / Malish 7),607,272944
+Q92IW9,Q92IW9_RICCN,unreviewed,Multidrug resistance ABC transporter ATP-binding protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),131,272944
+Q92HB7,Q92HB7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92HV9,Q92HV9_RICCN,unreviewed,KpsF protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),319,272944
+Q92HE2,Q92HE2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),115,272944
+Q92I73,Q92I73_RICCN,unreviewed,Putative soluble lytic murein transglycosylase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),653,272944
+Q92GP7,Q92GP7_RICCN,unreviewed,Bicyclomycin resistance protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),391,272944
+Q92GE2,Q92GE2_RICCN,unreviewed,Multidrug resistance protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),136,272944
+Q92H12,Q92H12_RICCN,unreviewed,Propionyl-CoA carboxylase beta chain (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),514,272944
+Q92JI1,Q92JI1_RICCN,unreviewed,Soj protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),255,272944
+Q92HI2,Q92HI2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),95,272944
+Q92FW9,Q92FW9_RICCN,unreviewed,AmpD protein homolog (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),247,272944
+Q92IP4,Q92IP4_RICCN,unreviewed,Rod shape-determining protein rodA (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),366,272944
+Q92H55,Q92H55_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),80,272944
+Q92HT4,Q92HT4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),161,272944
+Q92IR0,Q92IR0_RICCN,unreviewed,"Cytochrome c1, heme protein (EC 2.3.1.129)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),251,272944
+Q92J17,Q92J17_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92HL1,Q92HL1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),440,272944
+Q92HT5,Q92HT5_RICCN,unreviewed,Invasion protein homolog (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),280,272944
+Q92IF7,Q92IF7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),264,272944
+Q92HA5,Q92HA5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),139,272944
+Q92II8,Q92II8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),117,272944
+Q92IL3,Q92IL3_RICCN,unreviewed,RNA polymerase sigma factor RpoH (RNA polymerase sigma-32 factor),Rickettsia conorii (strain ATCC VR-613 / Malish 7),293,272944
+Q92HK3,Q92HK3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),56,272944
+Q92H15,Q92H15_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),75,272944
+Q92J62,Q92J62_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),317,272944
+Q92JL3,Q92JL3_RICCN,unreviewed,Acetoacetyl-CoA reductase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),241,272944
+Q92H72,Q92H72_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),250,272944
+Q92HE1,Q92HE1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),183,272944
+Q92J80,Q92J80_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),236,272944
+Q92IS0,Q92IS0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),79,272944
+Q92HC8,Q92HC8_RICCN,unreviewed,Competence protein F-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),121,272944
+Q92FZ2,Q92FZ2_RICCN,unreviewed,Outer-membrane lipoprotein carrier protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),212,272944
+Q92JA5,Q92JA5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),348,272944
+Q92IL6,Q92IL6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),230,272944
+Q92GG2,Q92GG2_RICCN,unreviewed,Phosphatidylglycerophosphatase A (EC 3.1.3.27) (Phosphatidylglycerolphosphate phosphatase A),Rickettsia conorii (strain ATCC VR-613 / Malish 7),199,272944
+Q92J04,Q92J04_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),59,272944
+Q92G38,Q92G38_RICCN,unreviewed,Protein p34 (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),306,272944
+Q92FX4,Q92FX4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),76,272944
+Q92GP1,Q92GP1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),96,272944
+Q92G03,Q92G03_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),316,272944
+Q92IC8,Q92IC8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),344,272944
+Q92HW8,Q92HW8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),949,272944
+Q92GQ9,Q92GQ9_RICCN,unreviewed,RP691-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),190,272944
+Q92JI9,Q92JI9_RICCN,unreviewed,BioC-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),90,272944
+Q92HF6,Q92HF6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),420,272944
+Q92IY8,Q92IY8_RICCN,unreviewed,Putative ATPase n2B (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),350,272944
+Q92G84,Q92G84_RICCN,unreviewed,Dihydrolipoyl dehydrogenase (EC 1.8.1.4),Rickettsia conorii (strain ATCC VR-613 / Malish 7),459,272944
+Q92IE3,Q92IE3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),94,272944
+Q92G66,Q92G66_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),175,272944
+Q92FW0,Q92FW0_RICCN,unreviewed,O-linked GlcNAc transferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),91,272944
+Q92HN5,Q92HN5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),290,272944
+Q92IB2,Q92IB2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),181,272944
+Q92IF6,Q92IF6_RICCN,unreviewed,Hydrolase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),255,272944
+Q92JE3,Q92JE3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),235,272944
+Q92HF7,Q92HF7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),232,272944
+Q92G09,Q92G09_RICCN,unreviewed,Plasmid stability protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),135,272944
+Q92GZ3,Q92GZ3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),222,272944
+Q92GQ6,Q92GQ6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),105,272944
+Q92JH9,Q92JH9_RICCN,unreviewed,ABC transporter ATP-binding protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),555,272944
+Q92JM3,Q92JM3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),222,272944
+Q92FV9,Q92FV9_RICCN,unreviewed,Proline/betaine transporter (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),424,272944
+Q92H65,Q92H65_RICCN,unreviewed,Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),215,272944
+Q92JJ4,Q92JJ4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),387,272944
+Q92G29,Q92G29_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),276,272944
+Q92IW7,Q92IW7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),68,272944
+Q92IU2,Q92IU2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92H39,Q92H39_RICCN,unreviewed,7-carboxy-7-deazaguanine synthase (CDG synthase) (EC 4.3.99.3) (Queuosine biosynthesis protein QueE),Rickettsia conorii (strain ATCC VR-613 / Malish 7),225,272944
+Q92HN7,Q92HN7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),87,272944
+Q92HK5,Q92HK5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),109,272944
+Q92FV5,Q92FV5_RICCN,unreviewed,Putative integral membrane protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),145,272944
+Q92I16,Q92I16_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),211,272944
+Q92GB9,Q92GB9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),157,272944
+Q92G82,Q92G82_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),101,272944
+Q92FY3,Q92FY3_RICCN,unreviewed,DNA-damage-inducible protein J (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),87,272944
+Q92GP4,Q92GP4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),633,272944
+Q92G79,Q92G79_RICCN,unreviewed,Beta-lactamase (EC 3.5.2.6),Rickettsia conorii (strain ATCC VR-613 / Malish 7),90,272944
+Q92I55,Q92I55_RICCN,unreviewed,Probable RND efflux transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),239,272944
+Q92I91,Q92I91_RICCN,unreviewed,Cell filamentation proteins (Fic)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),322,272944
+Q92G52,Q92G52_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),492,272944
+Q92J84,Q92J84_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),266,272944
+Q92GQ3,Q92GQ3_RICCN,unreviewed,Ribosomal-protein-alanine acetyltransferase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),183,272944
+Q92HA1,Q92HA1_RICCN,unreviewed,Methylated-DNA--protein-cysteine methyltransferase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),168,272944
+Q92IW6,Q92IW6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),138,272944
+Q92J83,Q92J83_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),144,272944
+Q92GT7,Q92GT7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),79,272944
+Q92G34,Q92G34_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),96,272944
+Q92HJ2,Q92HJ2_RICCN,unreviewed,Folylpolyglutamate synthase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),426,272944
+Q92G91,Q92G91_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),118,272944
+Q92IR5,Q92IR5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),357,272944
+Q92HE6,Q92HE6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),81,272944
+Q92JP9,Q92JP9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),82,272944
+Q92HR9,Q92HR9_RICCN,unreviewed,Sodium/pantothenate symporter (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),643,272944
+Q92FZ1,Q92FZ1_RICCN,unreviewed,DNA polymerase III gamma and tau chains (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),509,272944
+Q92J31,Q92J31_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),324,272944
+Q92HJ0,Q92HJ0_RICCN,unreviewed,N-terminal of biotin-protein ligase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),250,272944
+Q92IJ1,Q92IJ1_RICCN,unreviewed,Alkaline protease secretion ATP-binding protein AprD (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),584,272944
+Q92J68,Q92J68_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92J78,Q92J78_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),159,272944
+Q92G70,Q92G70_RICCN,unreviewed,Ribosomal silencing factor RsfS,Rickettsia conorii (strain ATCC VR-613 / Malish 7),108,272944
+Q92HN0,Q92HN0_RICCN,unreviewed,Histon and other protein acetyltransferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),149,272944
+Q92J32,Q92J32_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),157,272944
+Q92GK3,Q92GK3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),62,272944
+Q92HS9,Q92HS9_RICCN,unreviewed,Biotin synthesis protein BioC (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),226,272944
+Q92IV7,Q92IV7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),220,272944
+Q92HZ2,Q92HZ2_RICCN,unreviewed,Threonine dehydratase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),343,272944
+Q92HI4,Q92HI4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),100,272944
+Q92GW3,Q92GW3_RICCN,unreviewed,tRNA/rRNA methyltransferase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),240,272944
+Q92HQ7,Q92HQ7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),334,272944
+Q92IV8,Q92IV8_RICCN,unreviewed,Cell division coordinator CpoB,Rickettsia conorii (strain ATCC VR-613 / Malish 7),245,272944
+Q92IT4,Q92IT4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),158,272944
+Q92II4,Q92II4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92GC6,Q92GC6_RICCN,unreviewed,Cell shape-determining protein MreC (Cell shape protein MreC),Rickettsia conorii (strain ATCC VR-613 / Malish 7),279,272944
+Q92GE4,Q92GE4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),62,272944
+Q92HZ7,Q92HZ7_RICCN,unreviewed,Glycosyl transferase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),281,272944
+Q92G40,Q92G40_RICCN,unreviewed,Heme exporter protein C (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),230,272944
+Q92ID2,Q92ID2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),183,272944
+Q92GR0,Q92GR0_RICCN,unreviewed,RP691-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),147,272944
+Q92IU7,Q92IU7_RICCN,unreviewed,Extragenic suppressor protein suhB (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),248,272944
+Q92HN8,Q92HN8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),81,272944
+Q92I42,Q92I42_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92IP2,Q92IP2_RICCN,unreviewed,NADH dehydrogenase I chain N (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),505,272944
+Q92J46,Q92J46_RICCN,unreviewed,Proton/sodium-glutamate symport protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),399,272944
+Q92I28,Q92I28_RICCN,unreviewed,Osmolarity sensor protein envZ (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),479,272944
+Q92IH8,Q92IH8_RICCN,unreviewed,Endolytic murein transglycosylase (EC 4.2.2.-) (Peptidoglycan polymerization terminase),Rickettsia conorii (strain ATCC VR-613 / Malish 7),339,272944
+Q92HP4,Q92HP4_RICCN,unreviewed,Lysozyme-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),59,272944
+Q92GN2,Q92GN2_RICCN,unreviewed,Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),290,272944
+Q92IW4,Q92IW4_RICCN,unreviewed,Outer membrane protein tolC,Rickettsia conorii (strain ATCC VR-613 / Malish 7),453,272944
+Q92HA6,Q92HA6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),176,272944
+Q92IV3,Q92IV3_RICCN,unreviewed,D-alanyl-D-alanine dipeptidase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92IN3,Q92IN3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),243,272944
+Q92IA7,Q92IA7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),61,272944
+Q92IC4,Q92IC4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),161,272944
+Q92H45,Q92H45_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92GK9,Q92GK9_RICCN,unreviewed,DNA helicase (EC 3.6.4.12),Rickettsia conorii (strain ATCC VR-613 / Malish 7),822,272944
+Q92H73,Q92H73_RICCN,unreviewed,Probable lipid II flippase MurJ,Rickettsia conorii (strain ATCC VR-613 / Malish 7),555,272944
+Q92HQ4,Q92HQ4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),213,272944
+Q92GP8,Q92GP8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),82,272944
+Q92H10,Q92H10_RICCN,unreviewed,2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),1140,272944
+Q92HV1,Q92HV1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),275,272944
+Q92G80,Q92G80_RICCN,unreviewed,Beta-lactamase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),100,272944
+Q92JG3,Q92JG3_RICCN,unreviewed,NAD(P) transhydrogenase subunit beta (EC 1.6.1.2) (Nicotinamide nucleotide transhydrogenase subunit beta),Rickettsia conorii (strain ATCC VR-613 / Malish 7),465,272944
+Q92GI4,Q92GI4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),124,272944
+Q92H34,Q92H34_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),674,272944
+Q92GT6,Q92GT6_RICCN,unreviewed,Ubiquinone biosynthesis protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),478,272944
+Q92H11,Q92H11_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),82,272944
+Q92IW3,Q92IW3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),132,272944
+Q92H93,Q92H93_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),68,272944
+Q92GL6,Q92GL6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),99,272944
+Q92HF2,Q92HF2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),104,272944
+Q92HA3,Q92HA3_RICCN,unreviewed,Methylated-DNA--protein-cysteine methyltransferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),193,272944
+Q92H85,Q92H85_RICCN,unreviewed,Magnesium transporter MgtE,Rickettsia conorii (strain ATCC VR-613 / Malish 7),456,272944
+Q92IT2,Q92IT2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),356,272944
+Q92GK1,Q92GK1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),60,272944
+Q92H33,Q92H33_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92GG8,Q92GG8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),115,272944
+Q92GU1,Q92GU1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),380,272944
+Q92J52,Q92J52_RICCN,unreviewed,Prolyl endopeptidase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),53,272944
+Q92IX2,Q92IX2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),128,272944
+Q92GU3,Q92GU3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),88,272944
+Q92HM1,Q92HM1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),76,272944
+Q92GK8,Q92GK8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),189,272944
+Q92IA6,Q92IA6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),115,272944
+Q92HU6,Q92HU6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),75,272944
+Q92IP1,Q92IP1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),134,272944
+Q92IN5,Q92IN5_RICCN,unreviewed,VirB8 protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),232,272944
+Q92HB0,Q92HB0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),84,272944
+Q92GL3,Q92GL3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),270,272944
+Q92IY3,Q92IY3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),90,272944
+Q92J70,Q92J70_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),107,272944
+Q92JN0,Q92JN0_RICCN,unreviewed,Folate synthesis bifunctional protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),140,272944
+Q92FX7,Q92FX7_RICCN,unreviewed,Type I restriction enzyme M subunit-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),131,272944
+Q92JQ2,Q92JQ2_RICCN,unreviewed,Poly(A) polymerase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),436,272944
+Q92FY8,Q92FY8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),231,272944
+Q92IM9,Q92IM9_RICCN,unreviewed,VirD4 protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),591,272944
+Q92J18,Q92J18_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92GT3,Q92GT3_RICCN,unreviewed,Mannose-1-phosphate guanylyltransferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),209,272944
+Q92IB4,Q92IB4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),310,272944
+Q92I82,Q92I82_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),205,272944
+Q92HY7,Q92HY7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),102,272944
+Q92I23,Q92I23_RICCN,unreviewed,Thiol:disulfide interchange protein dsbA-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),263,272944
+Q92J54,Q92J54_RICCN,unreviewed,Prolyl endopeptidase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),98,272944
+Q92GN0,Q92GN0_RICCN,unreviewed,Putative periplasmic protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),284,272944
+Q92IX3,Q92IX3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),74,272944
+Q92HI9,Q92HI9_RICCN,unreviewed,Glutathione S-transferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),222,272944
+Q92HR3,Q92HR3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92IB9,Q92IB9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),138,272944
+Q92GP0,Q92GP0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),117,272944
+Q92IN7,Q92IN7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),111,272944
+Q92JI5,Q92JI5_RICCN,unreviewed,Glycerol-3-phosphate transporter (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),431,272944
+Q92HL5,Q92HL5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92G69,Q92G69_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),79,272944
+Q92IN2,Q92IN2_RICCN,unreviewed,VirB9 protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),157,272944
+Q92HG2,Q92HG2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),245,272944
+Q92HA2,Q92HA2_RICCN,unreviewed,Methylated-DNA--protein-cysteine methyltransferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),77,272944
+Q92IM1,Q92IM1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),281,272944
+Q92HZ3,Q92HZ3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),450,272944
+Q92J09,Q92J09_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),356,272944
+Q92I15,Q92I15_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),169,272944
+Q92GK5,Q92GK5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),104,272944
+Q92GU8,Q92GU8_RICCN,unreviewed,LPS-assembly protein LptD,Rickettsia conorii (strain ATCC VR-613 / Malish 7),713,272944
+Q92IC0,Q92IC0_RICCN,unreviewed,Putative ABC transporter ATP-binding protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),240,272944
+Q92I79,Q92I79_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),126,272944
+Q92HJ4,Q92HJ4_RICCN,unreviewed,RP534-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),53,272944
+Q92J53,Q92J53_RICCN,unreviewed,Prolyl endopeptidase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),121,272944
+Q92G67,Q92G67_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),91,272944
+Q92I01,Q92I01_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),98,272944
+Q92G27,Q92G27_RICCN,unreviewed,Lysozyme (EC 3.2.1.17),Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92JA7,Q92JA7_RICCN,unreviewed,tRNA/rRNA methyltransferase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),221,272944
+Q92HE4,Q92HE4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),104,272944
+Q92GM3,Q92GM3_RICCN,unreviewed,Proline/betaine transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),58,272944
+Q92GJ5,Q92GJ5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),93,272944
+Q92HX2,Q92HX2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),131,272944
+Q92HT0,Q92HT0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),73,272944
+Q92HL9,Q92HL9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),52,272944
+Q92GJ3,Q92GJ3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),88,272944
+Q92H95,Q92H95_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),69,272944
+Q92HX0,Q92HX0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),114,272944
+Q92GI3,Q92GI3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),58,272944
+Q92GJ2,Q92GJ2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),73,272944
+Q92HS6,Q92HS6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),75,272944
+Q92HH9,Q92HH9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),50,272944
+Q92IL7,Q92IL7_RICCN,unreviewed,Outer membrane antigenic lipoprotein B (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),224,272944
+Q92JF3,Q92JF3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),108,272944
+Q92GR2,Q92GR2_RICCN,unreviewed,Lipopolysaccharide biosynthesis protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),105,272944
+Q92H00,Q92H00_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),162,272944
+Q92GM5,Q92GM5_RICCN,unreviewed,(P)ppGpp 3-pyrophosphohydrolase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),99,272944
+Q92G74,Q92G74_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),117,272944
+Q92HY8,Q92HY8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),87,272944
+Q92GM1,Q92GM1_RICCN,unreviewed,Proline/betaine transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),75,272944
+Q92JN4,Q92JN4_RICCN,unreviewed,Coenzyme PQQ synthesis protein c-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),100,272944
+Q92IP5,Q92IP5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),70,272944
+Q92J48,Q92J48_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),106,272944
+Q92FV7,Q92FV7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),68,272944
+Q92IY6,Q92IY6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92IE6,Q92IE6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),891,272944
+Q92HA4,Q92HA4_RICCN,unreviewed,Methylated-DNA--protein-cysteine methyltransferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),58,272944
+Q92J39,Q92J39_RICCN,unreviewed,Outer membrane protein assembly factor BamD,Rickettsia conorii (strain ATCC VR-613 / Malish 7),251,272944
+Q92IZ4,Q92IZ4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),96,272944
+Q92GE3,Q92GE3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),54,272944
+Q92IU3,Q92IU3_RICCN,unreviewed,Multidrug resistance protein A (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),355,272944
+Q92IK4,Q92IK4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),117,272944
+Q92JB8,Q92JB8_RICCN,unreviewed,Acetate kinase (AckA)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),83,272944
+Q92GT8,Q92GT8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),107,272944
+Q92IJ6,Q92IJ6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),150,272944
+Q92FX6,Q92FX6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),58,272944
+Q92I10,Q92I10_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),168,272944
+Q92G28,Q92G28_RICCN,unreviewed,Proline/betaine transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),55,272944
+Q92GC7,Q92GC7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),60,272944
+Q92GD9,Q92GD9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),57,272944
+Q92GQ8,Q92GQ8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),70,272944
+Q92FX8,Q92FX8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92G26,Q92G26_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),54,272944
+Q92H01,Q92H01_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),110,272944
+Q92HR7,Q92HR7_RICCN,unreviewed,Alkaline phosphatase synthesis sensor protein (PhoR)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),82,272944
+Q92H83,Q92H83_RICCN,unreviewed,(P)ppGpp 3-pyrophosphohydrolase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),150,272944
+Q92IZ9,Q92IZ9_RICCN,unreviewed,Multidrug resistance protein (Atm1)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),185,272944
+Q92GN6,Q92GN6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),107,272944
+Q92GJ6,Q92GJ6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),117,272944
+Q92IM8,Q92IM8_RICCN,unreviewed,Guanosine pentaphosphate phosphohydrolase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),473,272944
+Q92G04,Q92G04_RICCN,unreviewed,Proline/betaine transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),62,272944
+Q92IJ5,Q92IJ5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),124,272944
+Q92HD8,Q92HD8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92I34,Q92I34_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),52,272944
+Q92IC7,Q92IC7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),393,272944
+Q92G75,Q92G75_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),50,272944
+Q92I20,Q92I20_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),139,272944
+Q92GI9,Q92GI9_RICCN,unreviewed,Acetyl-CoA acetyltransferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),254,272944
+Q92JB7,Q92JB7_RICCN,unreviewed,Acetate kinase (AckA)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),122,272944
+Q92GD0,Q92GD0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),84,272944
+Q92I06,Q92I06_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),129,272944
+Q92HK8,Q92HK8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),221,272944
+Q92I64,Q92I64_RICCN,unreviewed,Glycerol-3-phosphate cytidyltransferase (TagD)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),100,272944
+Q92GM0,Q92GM0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),80,272944
+Q92GQ5,Q92GQ5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),62,272944
+Q92I18,Q92I18_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),102,272944
+Q92GI6,Q92GI6_RICCN,unreviewed,Poly-beta-hydroxybutyrate polymerase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),87,272944
+Q92IY0,Q92IY0_RICCN,unreviewed,Antitoxin,Rickettsia conorii (strain ATCC VR-613 / Malish 7),102,272944
+Q92H27,Q92H27_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),71,272944
+Q92HW5,Q92HW5_RICCN,unreviewed,RP511-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),52,272944
+Q92GF3,Q92GF3_RICCN,unreviewed,Proline/betaine transporter (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),435,272944
+Q92J38,Q92J38_RICCN,unreviewed,Cation transport regulator ChaB-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),56,272944
+Q92IE1,Q92IE1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),104,272944
+Q92IA2,Q92IA2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),71,272944
+Q92I53,Q92I53_RICCN,unreviewed,Probable RND efflux transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),170,272944
+Q92GI8,Q92GI8_RICCN,unreviewed,Acetyl-CoA acetyltransferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),106,272944
+Q92G15,Q92G15_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),225,272944
+Q92HR2,Q92HR2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),102,272944
+Q92HH6,Q92HH6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),70,272944
+Q92GD5,Q92GD5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),365,272944
+Q92I56,Q92I56_RICCN,unreviewed,Probable RND efflux transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),64,272944
+Q92HH7,Q92HH7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),190,272944
+Q92IH5,Q92IH5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),171,272944
+Q92GQ1,Q92GQ1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),120,272944
+Q92HT2,Q92HT2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92HA0,Q92HA0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),71,272944
+Q92J00,Q92J00_RICCN,unreviewed,Multidrug resistance protein (Atm1)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92H46,Q92H46_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),79,272944
+Q92HE3,Q92HE3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),60,272944
+Q92J34,Q92J34_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),66,272944
+Q92HX4,Q92HX4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),97,272944
+Q92HL8,Q92HL8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),70,272944
+Q92IE9,Q92IE9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),82,272944
+Q92H17,Q92H17_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),93,272944
+Q92FV6,Q92FV6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),124,272944
+Q92G22,Q92G22_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),107,272944
+Q92IP6,Q92IP6_RICCN,unreviewed,(P)ppGpp 3-pyrophosphohydrolase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),177,272944
+Q92H82,Q92H82_RICCN,unreviewed,Proline/betaine transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),113,272944
+Q92HR4,Q92HR4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),58,272944
+Q92IW5,Q92IW5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),160,272944
+Q92IQ6,Q92IQ6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92HZ4,Q92HZ4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),56,272944
+Q92GJ7,Q92GJ7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),133,272944
+Q92HG6,Q92HG6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),80,272944
+Q92H81,Q92H81_RICCN,unreviewed,Proline/betaine transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),170,272944
+Q92HZ8,Q92HZ8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),70,272944
+Q92II2,Q92II2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),61,272944
+Q92GZ6,Q92GZ6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),107,272944
+Q92JP7,Q92JP7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),88,272944
+Q92HV2,Q92HV2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),52,272944
+Q92JA6,Q92JA6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),202,272944
+Q92GR4,Q92GR4_RICCN,unreviewed,"Alpha-(1,3)-fucosyltransferase-like protein (EC 2.3.1.129)",Rickettsia conorii (strain ATCC VR-613 / Malish 7),97,272944
+Q92IJ9,Q92IJ9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),142,272944
+Q92GN8,Q92GN8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),92,272944
+Q92GH1,Q92GH1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),121,272944
+Q92HG7,Q92HG7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),103,272944
+Q92JM1,Q92JM1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),275,272944
+Q92HS4,Q92HS4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),276,272944
+Q92GJ4,Q92GJ4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),156,272944
+Q92IT0,Q92IT0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),57,272944
+Q92HU8,Q92HU8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),54,272944
+Q92HJ7,Q92HJ7_RICCN,unreviewed,RP534-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),160,272944
+Q92HZ0,Q92HZ0_RICCN,unreviewed,Cell surface antigen-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),50,272944
+Q92IB0,Q92IB0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),137,272944
+Q92H21,Q92H21_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),58,272944
+Q92IK1,Q92IK1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),54,272944
+Q92HS1,Q92HS1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),162,272944
+Q92H22,Q92H22_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),221,272944
+Q92IQ5,Q92IQ5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),69,272944
+Q92GK0,Q92GK0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),57,272944
+Q92H44,Q92H44_RICCN,unreviewed,Ribosome-binding ATPase YchF,Rickettsia conorii (strain ATCC VR-613 / Malish 7),379,272944
+Q92GD3,Q92GD3_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),63,272944
+Q92GG7,Q92GG7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),102,272944
+Q92HJ6,Q92HJ6_RICCN,unreviewed,RP534-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),206,272944
+Q92I29,Q92I29_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),53,272944
+Q92I50,Q92I50_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),98,272944
+Q92IQ0,Q92IQ0_RICCN,unreviewed,ATP-dependent protease subunit C (ClpC)-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),312,272944
+Q92I90,Q92I90_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),111,272944
+Q92GP6,Q92GP6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),452,272944
+Q92GQ7,Q92GQ7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),100,272944
+Q92FY2,Q92FY2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),378,272944
+Q92GN4,Q92GN4_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),159,272944
+Q92J21,Q92J21_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),50,272944
+Q92GZ4,Q92GZ4_RICCN,unreviewed,Putative permease perM homolog (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),356,272944
+Q92GJ9,Q92GJ9_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),121,272944
+Q92H66,Q92H66_RICCN,unreviewed,Succinyl-CoA:3-ketoacid-coenzyme A transferase-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),120,272944
+Q92H69,Q92H69_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),190,272944
+Q92JH5,Q92JH5_RICCN,unreviewed,Cation efflux system protein-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),72,272944
+Q92GS8,Q92GS8_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),51,272944
+Q92H98,Q92H98_RICCN,unreviewed,Type I restriction enzyme restriction subunit-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),164,272944
+Q92IB1,Q92IB1_RICCN,unreviewed,Protein transport protein sec7 (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),76,272944
+Q92GT0,Q92GT0_RICCN,unreviewed,RP681-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),67,272944
+Q92GA1,Q92GA1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),78,272944
+Q92HP7,Q92HP7_RICCN,unreviewed,Octaprenyl-diphosphate synthase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),371,272944
+Q92J56,Q92J56_RICCN,unreviewed,DNA polymerase III delta subunit (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),269,272944
+Q92GS2,Q92GS2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),56,272944
+Q92J47,Q92J47_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),62,272944
+Q92GV6,Q92GV6_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),212,272944
+Q92HY5,Q92HY5_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),130,272944
+Q92HI7,Q92HI7_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),74,272944
+Q92IA8,Q92IA8_RICCN,unreviewed,Proline/betaine transporter (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),418,272944
+Q92G61,Q92G61_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),190,272944
+Q92HH2,Q92HH2_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),296,272944
+Q92I51,Q92I51_RICCN,unreviewed,Probable RND efflux transporter-like protein (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),72,272944
+Q92G72,Q92G72_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),167,272944
+Q92HH3,Q92HH3_RICCN,unreviewed,Delta-aminolevulinic acid dehydratase (EC 2.3.1.129),Rickettsia conorii (strain ATCC VR-613 / Malish 7),333,272944
+Q92J73,Q92J73_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),57,272944
+Q92HK1,Q92HK1_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),188,272944
+Q92IX0,Q92IX0_RICCN,unreviewed,Uncharacterized protein,Rickettsia conorii (strain ATCC VR-613 / Malish 7),58,272944

@@ -1,0 +1,916 @@
+Entry,Entry name,Status,Protein names,Organism,Length,Organism ID
+Q9PK22,AAXA_CHLMU,reviewed,Porin AaxA (Outer membrane protein AaxA),Chlamydia muridarum (strain MoPn / Nigg),461,243161
+Q9PK21,AAXB_CHLMU,reviewed,Pyruvoyl-dependent arginine decarboxylase AaxB (PvlArgDC) (EC 4.1.1.19) (Biodegradative arginine decarboxylase) [Cleaved into: Pyruvoyl-dependent arginine decarboxylase subunit beta; Pyruvoyl-dependent arginine decarboxylase subunit alpha],Chlamydia muridarum (strain MoPn / Nigg),195,243161
+Q9PKF8,ACP_CHLMU,reviewed,Acyl carrier protein (ACP),Chlamydia muridarum (strain MoPn / Nigg),77,243161
+Q9PKK7,6PGL_CHLMU,reviewed,6-phosphogluconolactonase (6PGL) (EC 3.1.1.31),Chlamydia muridarum (strain MoPn / Nigg),256,243161
+Q9PKX7,6PGD_CHLMU,reviewed,"6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)",Chlamydia muridarum (strain MoPn / Nigg),479,243161
+Q9PK20,AAXC_CHLMU,reviewed,Arginine/agmatine antiporter,Chlamydia muridarum (strain MoPn / Nigg),483,243161
+Q9PKC9,ACCA_CHLMU,reviewed,Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha (ACCase subunit alpha) (Acetyl-CoA carboxylase carboxyltransferase subunit alpha) (EC 6.4.1.2),Chlamydia muridarum (strain MoPn / Nigg),324,243161
+Q9PKT6,ACPS_CHLMU,reviewed,Holo-[acyl-carrier-protein] synthase (Holo-ACP synthase) (EC 2.7.8.7) (4'-phosphopantetheinyl transferase AcpS),Chlamydia muridarum (strain MoPn / Nigg),125,243161
+Q9PK32,AK_CHLMU,reviewed,Aspartokinase (EC 2.7.2.4) (Aspartate kinase),Chlamydia muridarum (strain MoPn / Nigg),437,243161
+Q9PKH8,ALF1_CHLMU,reviewed,Probable fructose-bisphosphate aldolase class 1 (EC 4.1.2.13) (Probable fructose-bisphosphate aldolase class I) (FBP aldolase),Chlamydia muridarum (strain MoPn / Nigg),349,243161
+P38019,AMPA_CHLMU,reviewed,Probable cytosol aminopeptidase (EC 3.4.11.1) (Leucine aminopeptidase) (LAP) (EC 3.4.11.10) (Leucyl aminopeptidase),Chlamydia muridarum (strain MoPn / Nigg),499,243161
+Q9PK28,AROA_CHLMU,reviewed,3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS),Chlamydia muridarum (strain MoPn / Nigg),441,243161
+Q9PKW2,APBE_CHLMU,reviewed,FAD:protein FMN transferase (EC 2.7.1.180) (Flavin transferase),Chlamydia muridarum (strain MoPn / Nigg),316,243161
+P56961,ARODE_CHLMU,reviewed,Shikimate biosynthesis protein AroDE [Includes: 3-dehydroquinate dehydratase (3-dehydroquinase) (EC 4.2.1.10) (Type I DHQase) (Type I dehydroquinase) (DHQ1); Shikimate dehydrogenase (NADP(+)) (SDH) (EC 1.1.1.25)],Chlamydia muridarum (strain MoPn / Nigg),478,243161
+Q9PK27,AROK_CHLMU,reviewed,Shikimate kinase (SK) (EC 2.7.1.71),Chlamydia muridarum (strain MoPn / Nigg),184,243161
+Q9PK26,AROC_CHLMU,reviewed,Chorismate synthase (CS) (EC 4.2.3.5) (5-enolpyruvylshikimate-3-phosphate phospholyase),Chlamydia muridarum (strain MoPn / Nigg),357,243161
+Q9PK25,AROB_CHLMU,reviewed,3-dehydroquinate synthase (EC 4.2.3.4),Chlamydia muridarum (strain MoPn / Nigg),373,243161
+Q9PKR5,BCCP_CHLMU,reviewed,Biotin carboxyl carrier protein of acetyl-CoA carboxylase (BCCP),Chlamydia muridarum (strain MoPn / Nigg),163,243161
+Q9PKL7,BDBC_CHLMU,reviewed,Probable disulfide formation protein (Disulfide oxidoreductase) (Thiol-disulfide oxidoreductase),Chlamydia muridarum (strain MoPn / Nigg),135,243161
+P17204,CH10_CHLMU,reviewed,10 kDa chaperonin (11.2 kDa stress response protein) (GroES protein) (Heat shock protein 10) (HSP10) (Protein Cpn10),Chlamydia muridarum (strain MoPn / Nigg),102,243161
+Q9PLM0,CLPP2_CHLMU,reviewed,ATP-dependent Clp protease proteolytic subunit 2 (EC 3.4.21.92) (Endopeptidase Clp 2),Chlamydia muridarum (strain MoPn / Nigg),203,243161
+Q9PKS5,CLPB_CHLMU,reviewed,Chaperone protein ClpB,Chlamydia muridarum (strain MoPn / Nigg),867,243161
+Q9PJU1,CDSA_CHLMU,reviewed,Phosphatidate cytidylyltransferase (EC 2.7.7.41) (CDP-DAG synthase) (CDP-DG synthase) (CDP-diacylglycerol synthase) (CDS) (CDP-diglyceride pyrophosphorylase) (CDP-diglyceride synthase) (CTP:phosphatidate cytidylyltransferase),Chlamydia muridarum (strain MoPn / Nigg),305,243161
+Q59322,CH60_CHLMU,reviewed,60 kDa chaperonin (GroEL protein) (Heat shock protein 60) (HSP60) (Protein Cpn60),Chlamydia muridarum (strain MoPn / Nigg),544,243161
+Q9PJP9,COAE_CHLMU,reviewed,Dephospho-CoA kinase (EC 2.7.1.24) (Dephosphocoenzyme A kinase),Chlamydia muridarum (strain MoPn / Nigg),202,243161
+Q9PLM1,CLPX_CHLMU,reviewed,ATP-dependent Clp protease ATP-binding subunit ClpX,Chlamydia muridarum (strain MoPn / Nigg),419,243161
+Q9PKA8,CLPC_CHLMU,reviewed,Probable ATP-dependent Clp protease ATP-binding subunit,Chlamydia muridarum (strain MoPn / Nigg),870,243161
+Q9PJW1,CLPP1_CHLMU,reviewed,ATP-dependent Clp protease proteolytic subunit 1 (EC 3.4.21.92) (Endopeptidase Clp 1),Chlamydia muridarum (strain MoPn / Nigg),192,243161
+Q9PLP0,CSD_CHLMU,reviewed,Probable cysteine desulfurase (EC 2.8.1.7),Chlamydia muridarum (strain MoPn / Nigg),400,243161
+Q9PK04,DAPAT_CHLMU,reviewed,LL-diaminopimelate aminotransferase (DAP-AT) (DAP-aminotransferase) (LL-DAP-aminotransferase) (EC 2.6.1.83),Chlamydia muridarum (strain MoPn / Nigg),393,243161
+Q9PK30,DAPB_CHLMU,reviewed,4-hydroxy-tetrahydrodipicolinate reductase (HTPA reductase) (EC 1.17.1.8),Chlamydia muridarum (strain MoPn / Nigg),246,243161
+Q9PKZ9,DCD_CHLMU,reviewed,dCTP deaminase (EC 3.5.4.13) (Deoxycytidine triphosphate deaminase),Chlamydia muridarum (strain MoPn / Nigg),190,243161
+Q9PLH7,DCUP_CHLMU,reviewed,Uroporphyrinogen decarboxylase (UPD) (URO-D) (EC 4.1.1.37),Chlamydia muridarum (strain MoPn / Nigg),334,243161
+Q9PJW2,DAPF_CHLMU,reviewed,Diaminopimelate epimerase (DAP epimerase) (EC 5.1.1.7) (PLP-independent amino acid racemase),Chlamydia muridarum (strain MoPn / Nigg),269,243161
+Q9PK41,DEF_CHLMU,reviewed,Peptide deformylase (PDF) (EC 3.5.1.88) (Polypeptide deformylase),Chlamydia muridarum (strain MoPn / Nigg),181,243161
+Q9PLC9,DNAG_CHLMU,reviewed,DNA primase (EC 2.7.7.-),Chlamydia muridarum (strain MoPn / Nigg),600,243161
+Q9PLM3,DER_CHLMU,reviewed,GTPase Der (GTP-binding protein EngA),Chlamydia muridarum (strain MoPn / Nigg),490,243161
+Q9PL97,DEGPL_CHLMU,reviewed,Probable periplasmic serine endoprotease DegP-like (EC 3.4.21.107) (Protease Do),Chlamydia muridarum (strain MoPn / Nigg),497,243161
+Q9PK33,DAPA_CHLMU,reviewed,4-hydroxy-tetrahydrodipicolinate synthase (HTPA synthase) (EC 4.3.3.7),Chlamydia muridarum (strain MoPn / Nigg),286,243161
+P64387,DBH_CHLMU,reviewed,Probable DNA-binding protein HU,Chlamydia muridarum (strain MoPn / Nigg),100,243161
+Q9PKE4,DNAA1_CHLMU,reviewed,Chromosomal replication initiator protein DnaA 1,Chlamydia muridarum (strain MoPn / Nigg),456,243161
+Q9PKB9,DNAA2_CHLMU,reviewed,Chromosomal replication initiator protein DnaA 2,Chlamydia muridarum (strain MoPn / Nigg),455,243161
+Q9PKP2,DNLJ_CHLMU,reviewed,DNA ligase (EC 6.5.1.2) (Polydeoxyribonucleotide synthase [NAD(+)]),Chlamydia muridarum (strain MoPn / Nigg),660,243161
+Q9PJI3,DLDH_CHLMU,reviewed,Dihydrolipoyl dehydrogenase (EC 1.8.1.4) (Dihydrolipoamide dehydrogenase) (E3 component of 2-oxoglutarate dehydrogenase complex),Chlamydia muridarum (strain MoPn / Nigg),465,243161
+Q9PK53,DNAJ_CHLMU,reviewed,Chaperone protein DnaJ,Chlamydia muridarum (strain MoPn / Nigg),392,243161
+P56836,DNAK_CHLMU,reviewed,Chaperone protein DnaK (75 kDa membrane protein) (HSP70) (Heat shock 70 kDa protein) (Heat shock protein 70),Chlamydia muridarum (strain MoPn / Nigg),655,243161
+Q9PKW8,DXR_CHLMU,reviewed,1-deoxy-D-xylulose 5-phosphate reductoisomerase (DXP reductoisomerase) (EC 1.1.1.267) (1-deoxyxylulose-5-phosphate reductoisomerase) (2-C-methyl-D-erythritol 4-phosphate synthase),Chlamydia muridarum (strain MoPn / Nigg),379,243161
+Q9PJJ7,DPO3A_CHLMU,reviewed,DNA polymerase III subunit alpha (EC 2.7.7.7),Chlamydia muridarum (strain MoPn / Nigg),1237,243161
+Q9PKA2,DUT_CHLMU,reviewed,Deoxyuridine 5'-triphosphate nucleotidohydrolase (dUTPase) (EC 3.6.1.23) (dUTP pyrophosphatase),Chlamydia muridarum (strain MoPn / Nigg),145,243161
+Q9PKW4,DPO3B_CHLMU,reviewed,DNA polymerase III subunit beta (EC 2.7.7.7),Chlamydia muridarum (strain MoPn / Nigg),366,243161
+Q9PK62,DXS_CHLMU,reviewed,1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7) (1-deoxyxylulose-5-phosphate synthase) (DXP synthase) (DXPS),Chlamydia muridarum (strain MoPn / Nigg),632,243161
+Q9PJV6,EFG_CHLMU,reviewed,Elongation factor G (EF-G),Chlamydia muridarum (strain MoPn / Nigg),694,243161
+Q9PKR6,EFP1_CHLMU,reviewed,Elongation factor P 1 (EF-P 1),Chlamydia muridarum (strain MoPn / Nigg),185,243161
+Q9PK73,EFTU_CHLMU,reviewed,Elongation factor Tu (EF-Tu),Chlamydia muridarum (strain MoPn / Nigg),394,243161
+Q9PJB8,END4_CHLMU,reviewed,Probable endonuclease 4 (EC 3.1.21.2) (Endodeoxyribonuclease IV) (Endonuclease IV),Chlamydia muridarum (strain MoPn / Nigg),288,243161
+Q9PLH1,EFP2_CHLMU,reviewed,Elongation factor P 2 (EF-P 2),Chlamydia muridarum (strain MoPn / Nigg),190,243161
+Q9PLK4,GPMA_CHLMU,reviewed,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (BPG-dependent PGAM) (PGAM) (Phosphoglyceromutase) (dPGM) (EC 5.4.2.11)",Chlamydia muridarum (strain MoPn / Nigg),226,243161
+Q9PKM3,GUAA_CHLMU,reviewed,GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2) (GMP synthetase) (Glutamine amidotransferase),Chlamydia muridarum (strain MoPn / Nigg),512,243161
+Q9PKK3,GYRB_CHLMU,reviewed,DNA gyrase subunit B (EC 5.99.1.3),Chlamydia muridarum (strain MoPn / Nigg),804,243161
+Q9PKK4,GYRA_CHLMU,reviewed,DNA gyrase subunit A (EC 5.99.1.3),Chlamydia muridarum (strain MoPn / Nigg),833,243161
+Q46439,GP3D_CHLMU,reviewed,Virulence plasmid protein pGP3-D,Chlamydia muridarum (strain MoPn / Nigg),264,243161
+Q46441,GP5D_CHLMU,reviewed,Virulence plasmid ParA family protein pGP5-D,Chlamydia muridarum (strain MoPn / Nigg),268,243161
+Q9PJF7,GP6R_CHLMU,reviewed,Virulence plasmid protein pGP6-D-related protein,Chlamydia muridarum (strain MoPn / Nigg),262,243161
+Q9PKI3,GSA_CHLMU,reviewed,"Glutamate-1-semialdehyde 2,1-aminomutase (GSA) (EC 5.4.3.8) (Glutamate-1-semialdehyde aminotransferase) (GSA-AT)",Chlamydia muridarum (strain MoPn / Nigg),422,243161
+Q46442,GP6D_CHLMU,reviewed,Virulence plasmid protein pGP6-D,Chlamydia muridarum (strain MoPn / Nigg),246,243161
+Q9PLU4,HEM2_CHLMU,reviewed,Delta-aminolevulinic acid dehydratase (ALAD) (ALADH) (EC 4.2.1.24) (Porphobilinogen synthase),Chlamydia muridarum (strain MoPn / Nigg),333,243161
+P23575,GRPE_CHLMU,reviewed,Protein GrpE (HSP-70 cofactor),Chlamydia muridarum (strain MoPn / Nigg),190,243161
+P38020,HCT2_CHLMU,reviewed,Histone H1-like protein HC2 (HC2 nucleoprotein) (Histone H1-like protein KARP),Chlamydia muridarum (strain MoPn / Nigg),207,243161
+Q9PK95,HEM3_CHLMU,reviewed,Probable porphobilinogen deaminase (PBG) (EC 2.5.1.61) (Hydroxymethylbilane synthase) (HMBS) (Pre-uroporphyrinogen synthase),Chlamydia muridarum (strain MoPn / Nigg),242,243161
+P71146,EFTS_CHLMU,reviewed,Elongation factor Ts (EF-Ts),Chlamydia muridarum (strain MoPn / Nigg),282,243161
+Q9PJF3,ENO_CHLMU,reviewed,Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase),Chlamydia muridarum (strain MoPn / Nigg),424,243161
+Q9PKF7,FABG_CHLMU,reviewed,3-oxoacyl-[acyl-carrier-protein] reductase FabG (EC 1.1.1.100) (3-ketoacyl-acyl carrier protein reductase) (Beta-Ketoacyl-acyl carrier protein reductase) (Beta-ketoacyl-ACP reductase),Chlamydia muridarum (strain MoPn / Nigg),248,243161
+Q9PK64,EX7S_CHLMU,reviewed,Exodeoxyribonuclease 7 small subunit (EC 3.1.11.6) (Exodeoxyribonuclease VII small subunit) (Exonuclease VII small subunit),Chlamydia muridarum (strain MoPn / Nigg),72,243161
+Q9PKF5,FABH_CHLMU,reviewed,3-oxoacyl-[acyl-carrier-protein] synthase 3 (EC 2.3.1.180) (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III) (KAS III),Chlamydia muridarum (strain MoPn / Nigg),327,243161
+Q9PJL0,FABZ_CHLMU,reviewed,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ (EC 4.2.1.59) ((3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase) ((3R)-hydroxymyristoyl-ACP dehydrase) (Beta-hydroxyacyl-ACP dehydratase),Chlamydia muridarum (strain MoPn / Nigg),153,243161
+Q9PK65,EX7L_CHLMU,reviewed,Exodeoxyribonuclease 7 large subunit (EC 3.1.11.6) (Exodeoxyribonuclease VII large subunit) (Exonuclease VII large subunit),Chlamydia muridarum (strain MoPn / Nigg),516,243161
+Q9PKW1,FOLD_CHLMU,reviewed,Bifunctional protein FolD [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)],Chlamydia muridarum (strain MoPn / Nigg),287,243161
+Q9PLI7,FTSK_CHLMU,reviewed,DNA translocase FtsK,Chlamydia muridarum (strain MoPn / Nigg),794,243161
+Q9PL64,FUMC_CHLMU,reviewed,Fumarate hydratase class II (Fumarase C) (EC 4.2.1.2) (Aerobic fumarase) (Iron-independent fumarase),Chlamydia muridarum (strain MoPn / Nigg),463,243161
+Q9PJC6,FOLB_CHLMU,reviewed,"Probable dihydroneopterin aldolase (DHNA) (EC 4.1.2.25) (7,8-dihydroneopterin aldolase)",Chlamydia muridarum (strain MoPn / Nigg),122,243161
+Q9PJL2,FMT_CHLMU,reviewed,Methionyl-tRNA formyltransferase (EC 2.1.2.9),Chlamydia muridarum (strain MoPn / Nigg),316,243161
+P82602,FOLKP_CHLMU,reviewed,"Folate synthesis bifunctional protein [Includes: 6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase (HPPK) (EC 2.7.6.3) (2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase) (7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase) (PPPK); Dihydropteroate synthase (DHPS) (EC 2.5.1.15) (Dihydropteroate pyrophosphorylase)]",Chlamydia muridarum (strain MoPn / Nigg),450,243161
+Q9PL36,GATB_CHLMU,reviewed,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (Asp/Glu-ADT subunit B) (EC 6.3.5.-),Chlamydia muridarum (strain MoPn / Nigg),488,243161
+Q9PKK8,G6PD_CHLMU,reviewed,Glucose-6-phosphate 1-dehydrogenase (G6PD) (EC 1.1.1.49),Chlamydia muridarum (strain MoPn / Nigg),507,243161
+Q9PK16,G6PI_CHLMU,reviewed,Glucose-6-phosphate isomerase (GPI) (EC 5.3.1.9) (Phosphoglucose isomerase) (PGI) (Phosphohexose isomerase) (PHI),Chlamydia muridarum (strain MoPn / Nigg),524,243161
+Q9PL38,GATC_CHLMU,reviewed,Glutamyl-tRNA(Gln) amidotransferase subunit C (Glu-ADT subunit C) (EC 6.3.5.-),Chlamydia muridarum (strain MoPn / Nigg),100,243161
+Q9PL37,GATA_CHLMU,reviewed,Glutamyl-tRNA(Gln) amidotransferase subunit A (Glu-ADT subunit A) (EC 6.3.5.7),Chlamydia muridarum (strain MoPn / Nigg),491,243161
+Q9PJN6,G3P_CHLMU,reviewed,Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (EC 1.2.1.12) (NAD-dependent glyceraldehyde-3-phosphate dehydrogenase),Chlamydia muridarum (strain MoPn / Nigg),335,243161
+Q9PKB2,GCSHL_CHLMU,reviewed,Glycine cleavage system H-like protein,Chlamydia muridarum (strain MoPn / Nigg),117,243161
+Q9PKS8,GCH1L_CHLMU,reviewed,GTP cyclohydrolase 1 type 2 homolog,Chlamydia muridarum (strain MoPn / Nigg),251,243161
+Q9PLC3,GLGA_CHLMU,reviewed,Glycogen synthase (EC 2.4.1.21) (Starch [bacterial glycogen] synthase),Chlamydia muridarum (strain MoPn / Nigg),474,243161
+Q9PLA4,GLMS_CHLMU,reviewed,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16) (D-fructose-6-phosphate amidotransferase) (GFAT) (Glucosamine-6-phosphate synthase) (Hexosephosphate aminotransferase) (L-glutamine--D-fructose-6-phosphate amidotransferase),Chlamydia muridarum (strain MoPn / Nigg),606,243161
+Q9PLU1,GREA_CHLMU,reviewed,Transcription elongation factor GreA (Transcript cleavage factor GreA),Chlamydia muridarum (strain MoPn / Nigg),714,243161
+Q46437,GP1D_CHLMU,reviewed,Probable plasmid replicative DNA helicase (EC 3.6.4.12) (DnaB-like protein) (Virulence plasmid protein pGP1-D),Chlamydia muridarum (strain MoPn / Nigg),451,243161
+Q46440,GP4D_CHLMU,reviewed,Virulence plasmid protein pGP4-D,Chlamydia muridarum (strain MoPn / Nigg),102,243161
+Q9PJW0,GLYA_CHLMU,reviewed,Serine hydroxymethyltransferase (SHMT) (Serine methylase) (EC 2.1.2.1),Chlamydia muridarum (strain MoPn / Nigg),497,243161
+Q46438,GP2D_CHLMU,reviewed,Virulence plasmid protein pGP2-D,Chlamydia muridarum (strain MoPn / Nigg),353,243161
+Q9PLL2,GPDA_CHLMU,reviewed,Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94) (NAD(P)H-dependent glycerol-3-phosphate dehydrogenase),Chlamydia muridarum (strain MoPn / Nigg),334,243161
+Q46435,GP7D_CHLMU,reviewed,Virulence plasmid integrase pGP7-D,Chlamydia muridarum (strain MoPn / Nigg),305,243161
+Q46436,GP8D_CHLMU,reviewed,Virulence plasmid integrase pGP8-D,Chlamydia muridarum (strain MoPn / Nigg),330,243161
+Q9PL51,GLGB_CHLMU,reviewed,"1,4-alpha-glucan branching enzyme GlgB (EC 2.4.1.18) (1,4-alpha-D-glucan:1,4-alpha-D-glucan 6-glucosyl-transferase) (Alpha-(1->4)-glucan branching enzyme) (Glycogen branching enzyme) (BE)",Chlamydia muridarum (strain MoPn / Nigg),737,243161
+Q9PLA5,GLMM_CHLMU,reviewed,Phosphoglucosamine mutase (EC 5.4.2.10),Chlamydia muridarum (strain MoPn / Nigg),459,243161
+Q9PLI1,HCT1_CHLMU,reviewed,Histone H1-like protein HC1,Chlamydia muridarum (strain MoPn / Nigg),125,243161
+Q9PJQ6,HEMH_CHLMU,reviewed,Ferrochelatase (EC 4.99.1.1) (Heme synthase) (Protoheme ferro-lyase),Chlamydia muridarum (strain MoPn / Nigg),317,243161
+Q9PLR2,HEM1_CHLMU,reviewed,Glutamyl-tRNA reductase (GluTR) (EC 1.2.1.70),Chlamydia muridarum (strain MoPn / Nigg),333,243161
+P54306,HRCA_CHLMU,reviewed,Heat-inducible transcription repressor HrcA,Chlamydia muridarum (strain MoPn / Nigg),392,243161
+Q9PKU0,IF2_CHLMU,reviewed,Translation initiation factor IF-2,Chlamydia muridarum (strain MoPn / Nigg),896,243161
+Q9PL86,IF3_CHLMU,reviewed,Translation initiation factor IF-3,Chlamydia muridarum (strain MoPn / Nigg),186,243161
+Q9PLF1,IPYR_CHLMU,reviewed,Inorganic pyrophosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase) (PPase),Chlamydia muridarum (strain MoPn / Nigg),209,243161
+P65107,IF1_CHLMU,reviewed,Translation initiation factor IF-1,Chlamydia muridarum (strain MoPn / Nigg),73,243161
+Q9PKY3,ISPG_CHLMU,reviewed,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin) (EC 1.17.7.3) (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase),Chlamydia muridarum (strain MoPn / Nigg),601,243161
+Q9PK61,KPYK_CHLMU,reviewed,Pyruvate kinase (PK) (EC 2.7.1.40),Chlamydia muridarum (strain MoPn / Nigg),481,243161
+Q9PJP1,NDK_CHLMU,reviewed,Nucleoside diphosphate kinase (NDK) (NDP kinase) (EC 2.7.4.6) (Nucleoside-2-P kinase),Chlamydia muridarum (strain MoPn / Nigg),141,243161
+Q9PJG5,MUTL_CHLMU,reviewed,DNA mismatch repair protein MutL,Chlamydia muridarum (strain MoPn / Nigg),576,243161
+Q9PK57,PT1_CHLMU,reviewed,"Phosphoenolpyruvate-protein phosphotransferase (EC 2.7.3.9) (Phosphotransferase system, enzyme I)",Chlamydia muridarum (strain MoPn / Nigg),567,243161
+Q9PLE5,PRIA_CHLMU,reviewed,Primosomal protein N' (EC 3.6.4.-) (ATP-dependent helicase PriA),Chlamydia muridarum (strain MoPn / Nigg),753,243161
+Q9PLM7,PSD_CHLMU,reviewed,Phosphatidylserine decarboxylase proenzyme (EC 4.1.1.65) [Cleaved into: Phosphatidylserine decarboxylase alpha chain; Phosphatidylserine decarboxylase beta chain],Chlamydia muridarum (strain MoPn / Nigg),301,243161
+Q9PKL0,PYRG_CHLMU,reviewed,CTP synthase (EC 6.3.4.2) (Cytidine 5'-triphosphate synthase) (Cytidine triphosphate synthetase) (CTP synthetase) (CTPS) (UTP--ammonia ligase),Chlamydia muridarum (strain MoPn / Nigg),536,243161
+Q9PK56,PTHP_CHLMU,reviewed,Phosphocarrier protein HPr (EC 2.7.11.-) (Histidine-containing protein),Chlamydia muridarum (strain MoPn / Nigg),104,243161
+P49607,PTH_CHLMU,reviewed,Peptidyl-tRNA hydrolase (PTH) (EC 3.1.1.29),Chlamydia muridarum (strain MoPn / Nigg),179,243161
+P66268,RL35_CHLMU,reviewed,50S ribosomal protein L35,Chlamydia muridarum (strain MoPn / Nigg),64,243161
+Q9PJM8,RL6_CHLMU,reviewed,50S ribosomal protein L6,Chlamydia muridarum (strain MoPn / Nigg),183,243161
+Q9PJM6,RL5_CHLMU,reviewed,50S ribosomal protein L5,Chlamydia muridarum (strain MoPn / Nigg),180,243161
+Q9PJM2,RL29_CHLMU,reviewed,50S ribosomal protein L29,Chlamydia muridarum (strain MoPn / Nigg),72,243161
+Q9PJL5,RL4_CHLMU,reviewed,50S ribosomal protein L4,Chlamydia muridarum (strain MoPn / Nigg),222,243161
+Q9PL95,RMUC_CHLMU,reviewed,DNA recombination protein RmuC homolog,Chlamydia muridarum (strain MoPn / Nigg),425,243161
+Q9PK97,RNC_CHLMU,reviewed,Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III),Chlamydia muridarum (strain MoPn / Nigg),232,243161
+P66289,RL36_CHLMU,reviewed,50S ribosomal protein L36,Chlamydia muridarum (strain MoPn / Nigg),45,243161
+P38001,RL7_CHLMU,reviewed,50S ribosomal protein L7/L12,Chlamydia muridarum (strain MoPn / Nigg),130,243161
+Q46398,RL9_CHLMU,reviewed,50S ribosomal protein L9,Chlamydia muridarum (strain MoPn / Nigg),167,243161
+Q9PL10,RNH2_CHLMU,reviewed,Ribonuclease HII (RNase HII) (EC 3.1.26.4),Chlamydia muridarum (strain MoPn / Nigg),217,243161
+Q9PJN4,RPOA_CHLMU,reviewed,DNA-directed RNA polymerase subunit alpha (RNAP subunit alpha) (EC 2.7.7.6) (RNA polymerase subunit alpha) (Transcriptase subunit alpha),Chlamydia muridarum (strain MoPn / Nigg),377,243161
+Q9PK00,RNR_CHLMU,reviewed,Ribonuclease R (RNase R) (EC 3.1.13.1) (VacB protein homolog),Chlamydia muridarum (strain MoPn / Nigg),692,243161
+Q9PK79,RPOC_CHLMU,reviewed,DNA-directed RNA polymerase subunit beta' (RNAP subunit beta') (EC 2.7.7.6) (RNA polymerase subunit beta') (Transcriptase subunit beta'),Chlamydia muridarum (strain MoPn / Nigg),1396,243161
+Q9PK48,RNZ_CHLMU,reviewed,Ribonuclease Z (RNase Z) (EC 3.1.26.11) (tRNA 3 endonuclease) (tRNase Z),Chlamydia muridarum (strain MoPn / Nigg),304,243161
+Q9PKI0,RPIA_CHLMU,reviewed,Ribose-5-phosphate isomerase A (EC 5.3.1.6) (Phosphoriboisomerase A) (PRI),Chlamydia muridarum (strain MoPn / Nigg),239,243161
+Q9PL32,RNH3_CHLMU,reviewed,Ribonuclease HIII (RNase HIII) (EC 3.1.26.4),Chlamydia muridarum (strain MoPn / Nigg),301,243161
+Q9PLD7,RNPA_CHLMU,reviewed,Ribonuclease P protein component (RNase P protein) (RNaseP protein) (EC 3.1.26.5) (Protein C5),Chlamydia muridarum (strain MoPn / Nigg),119,243161
+Q9PKR7,RPE_CHLMU,reviewed,Ribulose-phosphate 3-epimerase (EC 5.1.3.1) (Pentose-5-phosphate 3-epimerase) (PPE) (R5P3E),Chlamydia muridarum (strain MoPn / Nigg),228,243161
+P56869,RPOB_CHLMU,reviewed,DNA-directed RNA polymerase subunit beta (RNAP subunit beta) (EC 2.7.7.6) (RNA polymerase subunit beta) (Transcriptase subunit beta),Chlamydia muridarum (strain MoPn / Nigg),1252,243161
+Q9PJN2,RS13_CHLMU,reviewed,30S ribosomal protein S13,Chlamydia muridarum (strain MoPn / Nigg),122,243161
+Q9PL13,RS16_CHLMU,reviewed,30S ribosomal protein S16,Chlamydia muridarum (strain MoPn / Nigg),116,243161
+Q9PJN3,RS11_CHLMU,reviewed,30S ribosomal protein S11,Chlamydia muridarum (strain MoPn / Nigg),132,243161
+P66371,RS12_CHLMU,reviewed,30S ribosomal protein S12,Chlamydia muridarum (strain MoPn / Nigg),123,243161
+Q9PLD4,RS14_CHLMU,reviewed,30S ribosomal protein S14,Chlamydia muridarum (strain MoPn / Nigg),101,243161
+Q9PK40,RSMA_CHLMU,reviewed,"Ribosomal RNA small subunit methyltransferase A (EC 2.1.1.182) (16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase) (16S rRNA dimethyladenosine transferase) (16S rRNA dimethylase) (S-adenosylmethionine-6-N', N'-adenosyl(rRNA) dimethyltransferase)",Chlamydia muridarum (strain MoPn / Nigg),277,243161
+Q9PKC2,RSMH_CHLMU,reviewed,Ribosomal RNA small subunit methyltransferase H (EC 2.1.1.199) (16S rRNA m(4)C1402 methyltransferase) (rRNA (cytosine-N(4)-)-methyltransferase RsmH),Chlamydia muridarum (strain MoPn / Nigg),302,243161
+Q9PJV5,RS7_CHLMU,reviewed,30S ribosomal protein S7,Chlamydia muridarum (strain MoPn / Nigg),157,243161
+Q9PJB7,RS4_CHLMU,reviewed,30S ribosomal protein S4,Chlamydia muridarum (strain MoPn / Nigg),209,243161
+Q9PJM7,RS8_CHLMU,reviewed,30S ribosomal protein S8,Chlamydia muridarum (strain MoPn / Nigg),133,243161
+Q9PJP0,RUVA_CHLMU,reviewed,Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12),Chlamydia muridarum (strain MoPn / Nigg),200,243161
+Q9PJN9,RUVC_CHLMU,reviewed,Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4) (Holliday junction nuclease RuvC) (Holliday junction resolvase RuvC),Chlamydia muridarum (strain MoPn / Nigg),170,243161
+Q9PJG0,SAMHT_CHLMU,reviewed,S-adenosylmethionine/S-adenosylhomocysteine transporter (SAM/SAH transporter) (SAMHT),Chlamydia muridarum (strain MoPn / Nigg),318,243161
+Q9PKZ8,RUVB_CHLMU,reviewed,Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12),Chlamydia muridarum (strain MoPn / Nigg),330,243161
+Q9PLM5,SECA_CHLMU,reviewed,Protein translocase subunit SecA,Chlamydia muridarum (strain MoPn / Nigg),968,243161
+P56835,SIGA_CHLMU,reviewed,RNA polymerase sigma factor SigA (Sigma-66) (Sigma-70) (Sigma-A),Chlamydia muridarum (strain MoPn / Nigg),571,243161
+Q9PJN1,SECY_CHLMU,reviewed,Protein translocase subunit SecY,Chlamydia muridarum (strain MoPn / Nigg),457,243161
+Q9PKA0,SODM_CHLMU,reviewed,Superoxide dismutase [Mn] (EC 1.15.1.1),Chlamydia muridarum (strain MoPn / Nigg),205,243161
+Q9PKF2,SKPL_CHLMU,reviewed,Skp-like protein,Chlamydia muridarum (strain MoPn / Nigg),173,243161
+Q9PLE0,SYC_CHLMU,reviewed,Cysteine--tRNA ligase (EC 6.1.1.16) (Cysteinyl-tRNA synthetase) (CysRS),Chlamydia muridarum (strain MoPn / Nigg),475,243161
+Q9PJU7,SYE_CHLMU,reviewed,Glutamate--tRNA ligase (EC 6.1.1.17) (Glutamyl-tRNA synthetase) (GluRS),Chlamydia muridarum (strain MoPn / Nigg),506,243161
+Q9PKZ4,SSB_CHLMU,reviewed,Single-stranded DNA-binding protein (SSB),Chlamydia muridarum (strain MoPn / Nigg),157,243161
+Q9PLH5,SYA_CHLMU,reviewed,Alanine--tRNA ligase (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS),Chlamydia muridarum (strain MoPn / Nigg),875,243161
+Q9PKW3,SSRP_CHLMU,reviewed,SsrA-binding protein (Small protein B),Chlamydia muridarum (strain MoPn / Nigg),151,243161
+Q9PJR8,SYFB_CHLMU,reviewed,Phenylalanine--tRNA ligase beta subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase beta subunit) (PheRS),Chlamydia muridarum (strain MoPn / Nigg),790,243161
+Q9PJV1,SRP_CHLMU,reviewed,Sulfur-rich protein (Cysteine-rich protein A),Chlamydia muridarum (strain MoPn / Nigg),152,243161
+Q9PJP6,TLC2_CHLMU,reviewed,"ADP,ATP carrier protein 2 (ADP/ATP translocase 2)",Chlamydia muridarum (strain MoPn / Nigg),543,243161
+Q9PKX5,TLC1_CHLMU,reviewed,"ADP,ATP carrier protein 1 (ADP/ATP translocase 1)",Chlamydia muridarum (strain MoPn / Nigg),529,243161
+Q9PJE1,TOLB_CHLMU,reviewed,Protein TolB,Chlamydia muridarum (strain MoPn / Nigg),426,243161
+Q9PLL9,TIG_CHLMU,reviewed,Trigger factor (TF) (EC 5.2.1.8) (PPIase),Chlamydia muridarum (strain MoPn / Nigg),433,243161
+Q9PL79,TILS_CHLMU,reviewed,tRNA(Ile)-lysidine synthase (EC 6.3.4.19) (tRNA(Ile)-2-lysyl-cytidine synthase) (tRNA(Ile)-lysidine synthetase),Chlamydia muridarum (strain MoPn / Nigg),321,243161
+Q9PK66,TPIS_CHLMU,reviewed,Triosephosphate isomerase (TIM) (TPI) (EC 5.3.1.1) (Triose-phosphate isomerase),Chlamydia muridarum (strain MoPn / Nigg),270,243161
+Q9PL12,TRMD_CHLMU,reviewed,tRNA (guanine-N(1)-)-methyltransferase (EC 2.1.1.228) (M1G-methyltransferase) (tRNA [GM37] methyltransferase),Chlamydia muridarum (strain MoPn / Nigg),352,243161
+Q9PK67,TRPF_CHLMU,reviewed,N-(5'-phosphoribosyl)anthranilate isomerase (PRAI) (EC 5.3.1.24),Chlamydia muridarum (strain MoPn / Nigg),208,243161
+Q9PL91,TRMB_CHLMU,reviewed,tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33) (tRNA (guanine(46)-N(7))-methyltransferase) (tRNA(m7G46)-methyltransferase),Chlamydia muridarum (strain MoPn / Nigg),224,243161
+Q9PJT0,TRUA_CHLMU,reviewed,tRNA pseudouridine synthase A (EC 5.4.99.12) (tRNA pseudouridine(38-40) synthase) (tRNA pseudouridylate synthase I) (tRNA-uridine isomerase I),Chlamydia muridarum (strain MoPn / Nigg),267,243161
+Q9PKJ5,TSAD_CHLMU,reviewed,tRNA N6-adenosine threonylcarbamoyltransferase (EC 2.3.1.234) (N6-L-threonylcarbamoyladenine synthase) (t(6)A synthase) (t(6)A37 threonylcarbamoyladenosine biosynthesis protein TsaD) (tRNA threonylcarbamoyladenosine biosynthesis protein TsaD),Chlamydia muridarum (strain MoPn / Nigg),340,243161
+Q9PKT7,TRXB_CHLMU,reviewed,Thioredoxin reductase (TRXR) (EC 1.8.1.9),Chlamydia muridarum (strain MoPn / Nigg),312,243161
+Q9PKU2,TRUB_CHLMU,reviewed,tRNA pseudouridine synthase B (EC 5.4.99.25) (tRNA pseudouridine(55) synthase) (Psi55 synthase) (tRNA pseudouridylate synthase) (tRNA-uridine isomerase),Chlamydia muridarum (strain MoPn / Nigg),241,243161
+Q9PJJ6,UPP_CHLMU,reviewed,Uracil phosphoribosyltransferase (EC 2.4.2.9) (UMP pyrophosphorylase) (UPRTase),Chlamydia muridarum (strain MoPn / Nigg),303,243161
+Q9PJJ8,UHPT_CHLMU,reviewed,Probable hexose phosphate transport protein,Chlamydia muridarum (strain MoPn / Nigg),456,243161
+Q9PKH2,UBIX_CHLMU,reviewed,Flavin prenyltransferase UbiX (EC 2.5.1.129),Chlamydia muridarum (strain MoPn / Nigg),192,243161
+Q9PK88,VATI_CHLMU,reviewed,V-type ATP synthase subunit I (V-ATPase subunit I),Chlamydia muridarum (strain MoPn / Nigg),649,243161
+Q9PK86,VATB_CHLMU,reviewed,V-type ATP synthase beta chain (V-ATPase subunit B),Chlamydia muridarum (strain MoPn / Nigg),438,243161
+Q9PK87,VATD_CHLMU,reviewed,V-type ATP synthase subunit D (V-ATPase subunit D),Chlamydia muridarum (strain MoPn / Nigg),203,243161
+Q9PJF4,UVRB_CHLMU,reviewed,UvrABC system protein B (Protein UvrB) (Excinuclease ABC subunit B),Chlamydia muridarum (strain MoPn / Nigg),676,243161
+Q9PK60,UVRA_CHLMU,reviewed,UvrABC system protein A (UvrA protein) (Excinuclease ABC subunit A),Chlamydia muridarum (strain MoPn / Nigg),1787,243161
+Q9PL53,XERD_CHLMU,reviewed,Tyrosine recombinase XerD,Chlamydia muridarum (strain MoPn / Nigg),301,243161
+Q9PLU2,Y003_CHLMU,reviewed,Uncharacterized protein TC_0003,Chlamydia muridarum (strain MoPn / Nigg),143,243161
+Q9PLR1,Y034_CHLMU,reviewed,Uncharacterized protein TC_0034,Chlamydia muridarum (strain MoPn / Nigg),133,243161
+Q9PLN5,Y064_CHLMU,reviewed,Putative phosphate permease TC_0064,Chlamydia muridarum (strain MoPn / Nigg),426,243161
+Q9PK47,XERC_CHLMU,reviewed,Tyrosine recombinase XerC,Chlamydia muridarum (strain MoPn / Nigg),315,243161
+Q9PLQ8,Y037_CHLMU,reviewed,Uncharacterized protein TC_0037,Chlamydia muridarum (strain MoPn / Nigg),82,243161
+Q9PLN6,Y063_CHLMU,reviewed,UPF0111 protein TC_0063,Chlamydia muridarum (strain MoPn / Nigg),224,243161
+Q9PLN1,Y068_CHLMU,reviewed,Uncharacterized protein TC_0068,Chlamydia muridarum (strain MoPn / Nigg),392,243161
+P58106,Y118_CHLMU,reviewed,Uncharacterized RNA methyltransferase TC_0118 (EC 2.1.1.-),Chlamydia muridarum (strain MoPn / Nigg),397,243161
+Q9PLQ9,Y036_CHLMU,reviewed,Uncharacterized protein TC_0036,Chlamydia muridarum (strain MoPn / Nigg),84,243161
+Q9PLQ3,Y042_CHLMU,reviewed,Uncharacterized protein TC_0042,Chlamydia muridarum (strain MoPn / Nigg),283,243161
+Q9PLA1,Y206_CHLMU,reviewed,Uncharacterized protein TC_0206,Chlamydia muridarum (strain MoPn / Nigg),238,243161
+Q9PKW7,Y344_CHLMU,reviewed,Putative zinc metalloprotease TC_0344 (EC 3.4.24.-),Chlamydia muridarum (strain MoPn / Nigg),619,243161
+Q9PLJ0,Y109_CHLMU,reviewed,UPF0098 protein TC_0109,Chlamydia muridarum (strain MoPn / Nigg),150,243161
+Q9PLJ2,Y107_CHLMU,reviewed,Uncharacterized lipoprotein TC_0107,Chlamydia muridarum (strain MoPn / Nigg),218,243161
+Q9PLI2,Y117_CHLMU,reviewed,UPF0092 membrane protein TC_0117,Chlamydia muridarum (strain MoPn / Nigg),114,243161
+Q9PL35,Y273_CHLMU,reviewed,Uncharacterized protein TC_0273,Chlamydia muridarum (strain MoPn / Nigg),367,243161
+Q9PLR5,Y030_CHLMU,reviewed,UPF0109 protein TC_0030,Chlamydia muridarum (strain MoPn / Nigg),78,243161
+Q9PL60,Y248_CHLMU,reviewed,Uncharacterized protein TC_0248,Chlamydia muridarum (strain MoPn / Nigg),601,243161
+Q9PL34,Y274_CHLMU,reviewed,Uncharacterized protein TC_0274,Chlamydia muridarum (strain MoPn / Nigg),193,243161
+Q9PKJ0,Y475_CHLMU,reviewed,Uncharacterized protein TC_0475,Chlamydia muridarum (strain MoPn / Nigg),249,243161
+Q9PL03,Y305_CHLMU,reviewed,Uncharacterized protein TC_0305,Chlamydia muridarum (strain MoPn / Nigg),259,243161
+Q9PKA6,Y561_CHLMU,reviewed,Uncharacterized protein TC_0561,Chlamydia muridarum (strain MoPn / Nigg),558,243161
+Q9PJN7,Y791_CHLMU,reviewed,Uncharacterized protein TC_0791,Chlamydia muridarum (strain MoPn / Nigg),287,243161
+Q9PL33,Y275_CHLMU,reviewed,Uncharacterized protein TC_0275,Chlamydia muridarum (strain MoPn / Nigg),316,243161
+Q9PJZ7,Y679_CHLMU,reviewed,Uncharacterized protein TC_0679,Chlamydia muridarum (strain MoPn / Nigg),328,243161
+Q9PJX8,Y698_CHLMU,reviewed,Probable metal transport system membrane protein TC_0698,Chlamydia muridarum (strain MoPn / Nigg),293,243161
+Q9PJT2,Y746_CHLMU,reviewed,Uncharacterized metallophosphoesterase TC_0746 (EC 3.1.-.-),Chlamydia muridarum (strain MoPn / Nigg),329,243161
+Q9PJC5,Y906_CHLMU,reviewed,UPF0242 protein TC_0906,Chlamydia muridarum (strain MoPn / Nigg),419,243161
+Q9PL67,Y241_CHLMU,reviewed,UPF0056 membrane protein TC_0241,Chlamydia muridarum (strain MoPn / Nigg),204,243161
+Q9PL40,Y268_CHLMU,reviewed,Uncharacterized protein TC_0268,Chlamydia muridarum (strain MoPn / Nigg),614,243161
+Q9PJT6,Y741_CHLMU,reviewed,Uncharacterized protein TC_0741,Chlamydia muridarum (strain MoPn / Nigg),1007,243161
+Q9PJX1,YBEY_CHLMU,reviewed,Endoribonuclease YbeY (EC 3.1.-.-),Chlamydia muridarum (strain MoPn / Nigg),161,243161
+Q9PKZ7,Y311_CHLMU,reviewed,Uncharacterized protein TC_0311,Chlamydia muridarum (strain MoPn / Nigg),286,243161
+Q9PKX2,Y338_CHLMU,reviewed,Uncharacterized metal-binding lipoprotein TC_0338,Chlamydia muridarum (strain MoPn / Nigg),326,243161
+Q9PKV2,Y359_CHLMU,reviewed,Uncharacterized protein TC_0359,Chlamydia muridarum (strain MoPn / Nigg),579,243161
+Q9PKI2,Y483_CHLMU,reviewed,UPF0301 protein TC_0483,Chlamydia muridarum (strain MoPn / Nigg),190,243161
+Q9PK08,Y665_CHLMU,reviewed,UPF0160 protein TC_0665,Chlamydia muridarum (strain MoPn / Nigg),289,243161
+Q9PK02,Y671_CHLMU,reviewed,Uncharacterized protein TC_0671,Chlamydia muridarum (strain MoPn / Nigg),379,243161
+Q9PJG1,Y868_CHLMU,reviewed,Uncharacterized protein TC_0868,Chlamydia muridarum (strain MoPn / Nigg),436,243161
+Q9PL08,Y300_CHLMU,reviewed,Uncharacterized protein TC_0300,Chlamydia muridarum (strain MoPn / Nigg),100,243161
+Q9PJW3,Y713_CHLMU,reviewed,UPF0158 protein TC_0713,Chlamydia muridarum (strain MoPn / Nigg),332,243161
+Q9PJT5,Y742_CHLMU,reviewed,Probable transcriptional regulatory protein TC_0742,Chlamydia muridarum (strain MoPn / Nigg),238,243161
+Q9PL02,Y306_CHLMU,reviewed,Uncharacterized protein TC_0306,Chlamydia muridarum (strain MoPn / Nigg),398,243161
+Q9PKX1,Y339_CHLMU,reviewed,Probable metal transport system ATP-binding protein TC_0339,Chlamydia muridarum (strain MoPn / Nigg),259,243161
+Q9PKC1,Y545_CHLMU,reviewed,Uncharacterized protein TC_0545,Chlamydia muridarum (strain MoPn / Nigg),186,243161
+Q9PK58,Y612_CHLMU,reviewed,Nucleoid-associated protein TC_0612,Chlamydia muridarum (strain MoPn / Nigg),96,243161
+Q9PJY0,Y696_CHLMU,reviewed,Uncharacterized periplasmic metal-binding protein TC_0696,Chlamydia muridarum (strain MoPn / Nigg),276,243161
+Q9PJK4,Y825_CHLMU,reviewed,Uncharacterized protein TC_0825,Chlamydia muridarum (strain MoPn / Nigg),238,243161
+Q9PJF6,Y873_CHLMU,reviewed,Uncharacterized protein TC_0873,Chlamydia muridarum (strain MoPn / Nigg),183,243161
+Q9PKX0,Y341_CHLMU,reviewed,Probable metal transport system membrane protein TC_0341,Chlamydia muridarum (strain MoPn / Nigg),447,243161
+Q9PKW9,Y342_CHLMU,reviewed,Probable metal transport system membrane protein TC_0342,Chlamydia muridarum (strain MoPn / Nigg),316,243161
+Q9PK45,Y628_CHLMU,reviewed,Maf-like protein TC_0628,Chlamydia muridarum (strain MoPn / Nigg),196,243161
+Q9PK09,Y664_CHLMU,reviewed,Uncharacterized HIT-like protein TC_0664,Chlamydia muridarum (strain MoPn / Nigg),126,243161
+Q9PK06,Y667_CHLMU,reviewed,UPF0235 protein TC_0667,Chlamydia muridarum (strain MoPn / Nigg),100,243161
+Q9PJX9,Y697_CHLMU,reviewed,Probable metal transport system ATP-binding protein TC_0697,Chlamydia muridarum (strain MoPn / Nigg),236,243161
+Q9PJW8,Y708_CHLMU,reviewed,Uncharacterized protein TC_0708,Chlamydia muridarum (strain MoPn / Nigg),621,243161
+Q9PJB1,Y921_CHLMU,reviewed,UPF0159 protein TC_0921,Chlamydia muridarum (strain MoPn / Nigg),529,243161
+Q9PK39,Y634_CHLMU,reviewed,Uncharacterized protein TC_0634,Chlamydia muridarum (strain MoPn / Nigg),353,243161
+Q9PJU6,Y731_CHLMU,reviewed,Uncharacterized protein TC_0731 (EUO),Chlamydia muridarum (strain MoPn / Nigg),185,243161
+Q9PK84,Y583_CHLMU,reviewed,Uncharacterized protein TC_0583,Chlamydia muridarum (strain MoPn / Nigg),266,243161
+Q9PJR9,Y759_CHLMU,reviewed,Uncharacterized protein TC_0759,Chlamydia muridarum (strain MoPn / Nigg),300,243161
+Q9PJK7,Y822_CHLMU,reviewed,Uncharacterized acyl-CoA thioester hydrolase TC_0822 (EC 3.1.2.-),Chlamydia muridarum (strain MoPn / Nigg),159,243161
+Q9PJB6,Y916_CHLMU,reviewed,UPF0176 protein TC_0916,Chlamydia muridarum (strain MoPn / Nigg),328,243161
+Q9PKE3,YIDC_CHLMU,reviewed,Membrane protein insertase YidC (Foldase YidC) (Membrane integrase YidC) (Membrane protein YidC),Chlamydia muridarum (strain MoPn / Nigg),787,243161
+Q9PJD4,IXTPA_CHLMU,reviewed,dITP/XTP pyrophosphatase (EC 3.6.1.66) (Non-canonical purine NTP pyrophosphatase) (Non-standard purine NTP pyrophosphatase) (Nucleoside-triphosphate diphosphatase) (Nucleoside-triphosphate pyrophosphatase) (NTPase),Chlamydia muridarum (strain MoPn / Nigg),209,243161
+Q9PKR0,KAD_CHLMU,reviewed,Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase),Chlamydia muridarum (strain MoPn / Nigg),253,243161
+Q9PJU2,ISPT_CHLMU,reviewed,Isoprenyl transferase (EC 2.5.1.-),Chlamydia muridarum (strain MoPn / Nigg),253,243161
+Q9PL59,ISPH_CHLMU,reviewed,4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4),Chlamydia muridarum (strain MoPn / Nigg),308,243161
+Q9PJT1,ISPD_CHLMU,reviewed,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) (4-diphosphocytidyl-2C-methyl-D-erythritol synthase) (MEP cytidylyltransferase) (MCT),Chlamydia muridarum (strain MoPn / Nigg),218,243161
+Q9PLC0,ISPE_CHLMU,reviewed,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (CMK) (EC 2.7.1.148) (4-(cytidine-5'-diphospho)-2-C-methyl-D-erythritol kinase),Chlamydia muridarum (strain MoPn / Nigg),283,243161
+Q9PJV8,ISPF_CHLMU,reviewed,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (MECDP-synthase) (MECPP-synthase) (MECPS) (EC 4.6.1.12)",Chlamydia muridarum (strain MoPn / Nigg),178,243161
+Q9PJU0,KCY_CHLMU,reviewed,Cytidylate kinase (CK) (EC 2.7.4.25) (Cytidine monophosphate kinase) (CMP kinase),Chlamydia muridarum (strain MoPn / Nigg),216,243161
+Q9PL09,KGUA_CHLMU,reviewed,Guanylate kinase (EC 2.7.4.8) (GMP kinase),Chlamydia muridarum (strain MoPn / Nigg),205,243161
+Q9PLS0,KDSA_CHLMU,reviewed,2-dehydro-3-deoxyphosphooctonate aldolase (EC 2.5.1.55) (3-deoxy-D-manno-octulosonic acid 8-phosphate synthase) (KDO-8-phosphate synthase) (KDO 8-P synthase) (KDOPS) (Phospho-2-dehydro-3-deoxyoctonate aldolase),Chlamydia muridarum (strain MoPn / Nigg),269,243161
+Q9PKL1,KDSB_CHLMU,reviewed,3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38) (CMP-2-keto-3-deoxyoctulosonic acid synthase) (CKS) (CMP-KDO synthase),Chlamydia muridarum (strain MoPn / Nigg),254,243161
+Q9PKI5,KDTA_CHLMU,reviewed,3-deoxy-D-manno-octulosonic acid transferase (Kdo transferase) (EC 2.4.99.12) (EC 2.4.99.13) (EC 2.4.99.14) (Kdo(2)-lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase) (Kdo-lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase) (Lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase),Chlamydia muridarum (strain MoPn / Nigg),430,243161
+Q9PKK5,KTHY_CHLMU,reviewed,Thymidylate kinase (EC 2.7.4.9) (dTMP kinase),Chlamydia muridarum (strain MoPn / Nigg),203,243161
+Q9PKX6,LEPA_CHLMU,reviewed,Elongation factor 4 (EF-4) (EC 3.6.5.n1) (Ribosomal back-translocase LepA),Chlamydia muridarum (strain MoPn / Nigg),602,243161
+Q9PK50,LON_CHLMU,reviewed,Lon protease (EC 3.4.21.53) (ATP-dependent protease La),Chlamydia muridarum (strain MoPn / Nigg),819,243161
+Q9PKE2,LGT_CHLMU,reviewed,Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-),Chlamydia muridarum (strain MoPn / Nigg),274,243161
+Q9PJZ4,LPXK_CHLMU,reviewed,Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130) (Lipid A 4'-kinase),Chlamydia muridarum (strain MoPn / Nigg),369,243161
+Q9PJK8,LNT_CHLMU,reviewed,Apolipoprotein N-acyltransferase (ALP N-acyltransferase) (EC 2.3.1.-),Chlamydia muridarum (strain MoPn / Nigg),542,243161
+Q9PKF1,LPXD_CHLMU,reviewed,UDP-3-O-acylglucosamine N-acyltransferase (EC 2.3.1.-),Chlamydia muridarum (strain MoPn / Nigg),354,243161
+Q9PJI2,LIPA_CHLMU,reviewed,Lipoyl synthase (EC 2.8.1.8) (Lip-syn) (LS) (Lipoate synthase) (Lipoic acid synthase) (Sulfur insertion protein LipA),Chlamydia muridarum (strain MoPn / Nigg),308,243161
+Q9PK17,LTUA_CHLMU,reviewed,Late transcription unit A protein,Chlamydia muridarum (strain MoPn / Nigg),46,243161
+Q9PJY4,LPXB_CHLMU,reviewed,Lipid-A-disaccharide synthase (EC 2.4.1.182),Chlamydia muridarum (strain MoPn / Nigg),607,243161
+Q9PJK9,LPXC_CHLMU,reviewed,UDP-3-O-acyl-N-acetylglucosamine deacetylase (UDP-3-O-acyl-GlcNAc deacetylase) (EC 3.5.1.108) (UDP-3-O-[R-3-hydroxymyristoyl]-N-acetylglucosamine deacetylase),Chlamydia muridarum (strain MoPn / Nigg),286,243161
+Q9PJY8,LSPA_CHLMU,reviewed,Lipoprotein signal peptidase (EC 3.4.23.36) (Prolipoprotein signal peptidase) (Signal peptidase II) (SPase II),Chlamydia muridarum (strain MoPn / Nigg),167,243161
+Q9PJL1,LPXA_CHLMU,reviewed,Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (UDP-N-acetylglucosamine acyltransferase) (EC 2.3.1.129),Chlamydia muridarum (strain MoPn / Nigg),280,243161
+Q9PKV8,LTUB_CHLMU,reviewed,Late transcription unit B protein,Chlamydia muridarum (strain MoPn / Nigg),97,243161
+Q9PKU9,MALQ_CHLMU,reviewed,4-alpha-glucanotransferase (EC 2.4.1.25) (Amylomaltase) (Disproportionating enzyme) (D-enzyme),Chlamydia muridarum (strain MoPn / Nigg),527,243161
+Q9PL68,MAP1_CHLMU,reviewed,Methionine aminopeptidase (MAP) (MetAP) (EC 3.4.11.18) (Peptidase M),Chlamydia muridarum (strain MoPn / Nigg),291,243161
+Q9PLP9,MCSB_CHLMU,reviewed,Protein-arginine kinase (EC 2.7.14.1),Chlamydia muridarum (strain MoPn / Nigg),356,243161
+Q9PK18,MDH_CHLMU,reviewed,Malate dehydrogenase (EC 1.1.1.37),Chlamydia muridarum (strain MoPn / Nigg),326,243161
+Q9PJW4,MENG_CHLMU,reviewed,Demethylmenaquinone methyltransferase (EC 2.1.1.163),Chlamydia muridarum (strain MoPn / Nigg),229,243161
+Q9PJK1,MIP_CHLMU,reviewed,Peptidyl-prolyl cis-trans isomerase Mip (PPIase) (EC 5.2.1.8) (Rotamase),Chlamydia muridarum (strain MoPn / Nigg),243,243161
+Q9PLM9,MNME_CHLMU,reviewed,tRNA modification GTPase MnmE (EC 3.6.-.-),Chlamydia muridarum (strain MoPn / Nigg),444,243161
+P75024,MOMPM_CHLMU,reviewed,Major outer membrane porin (MOMP),Chlamydia muridarum (strain MoPn / Nigg),387,243161
+Q9PLF7,MIAA_CHLMU,reviewed,tRNA dimethylallyltransferase (EC 2.5.1.75) (Dimethylallyl diphosphate:tRNA dimethylallyltransferase) (DMAPP:tRNA dimethylallyltransferase) (DMATase) (Isopentenyl-diphosphate:tRNA isopentenyltransferase) (IPP transferase) (IPPT) (IPTase),Chlamydia muridarum (strain MoPn / Nigg),314,243161
+Q9PKC6,MURE_CHLMU,reviewed,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13) (Meso-A2pm-adding enzyme) (Meso-diaminopimelate-adding enzyme) (UDP-MurNAc-L-Ala-D-Glu:meso-diaminopimelate ligase) (UDP-MurNAc-tripeptide synthetase) (UDP-N-acetylmuramyl-tripeptide synthetase)",Chlamydia muridarum (strain MoPn / Nigg),483,243161
+Q9PLG2,MURG_CHLMU,reviewed,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227) (Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase),Chlamydia muridarum (strain MoPn / Nigg),353,243161
+Q9PKA7,MNMA_CHLMU,reviewed,tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13),Chlamydia muridarum (strain MoPn / Nigg),358,243161
+Q9PJP3,MNMG_CHLMU,reviewed,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG (Glucose-inhibited division protein A),Chlamydia muridarum (strain MoPn / Nigg),610,243161
+Q9PLG6,MRAY_CHLMU,reviewed,Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) (UDP-MurNAc-pentapeptide phosphotransferase),Chlamydia muridarum (strain MoPn / Nigg),335,243161
+Q9PLG1,MUDD_CHLMU,reviewed,Bifunctional enzyme MurC/Ddl [Includes: UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8) (UDP-N-acetylmuramoyl-L-alanine synthetase); D-alanine--D-alanine ligase (EC 6.3.2.4) (D-Ala-D-Ala ligase) (D-alanylalanine synthetase)],Chlamydia muridarum (strain MoPn / Nigg),802,243161
+Q9PL89,MURB_CHLMU,reviewed,UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98) (UDP-N-acetylmuramate dehydrogenase),Chlamydia muridarum (strain MoPn / Nigg),296,243161
+Q9PLD0,MUTS_CHLMU,reviewed,DNA mismatch repair protein MutS,Chlamydia muridarum (strain MoPn / Nigg),820,243161
+Q9PJT7,MURA_CHLMU,reviewed,UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7) (Enoylpyruvate transferase) (UDP-N-acetylglucosamine enolpyruvyl transferase) (EPT),Chlamydia muridarum (strain MoPn / Nigg),442,243161
+Q9PJB9,MURJ_CHLMU,reviewed,Probable lipid II flippase MurJ,Chlamydia muridarum (strain MoPn / Nigg),536,243161
+Q9PLG5,MURD_CHLMU,reviewed,UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9) (D-glutamic acid-adding enzyme) (UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase),Chlamydia muridarum (strain MoPn / Nigg),416,243161
+Q9PLI3,NQRF_CHLMU,reviewed,Na(+)-translocating NADH-quinone reductase subunit F (Na(+)-NQR subunit F) (Na(+)-translocating NQR subunit F) (EC 1.6.5.8) (NQR complex subunit F) (NQR-1 subunit F),Chlamydia muridarum (strain MoPn / Nigg),431,243161
+Q9PJZ0,NRDR_CHLMU,reviewed,Transcriptional repressor NrdR,Chlamydia muridarum (strain MoPn / Nigg),152,243161
+Q9PLN4,PGK_CHLMU,reviewed,Phosphoglycerate kinase (EC 2.7.2.3),Chlamydia muridarum (strain MoPn / Nigg),403,243161
+Q9PKB4,NQRD_CHLMU,reviewed,Na(+)-translocating NADH-quinone reductase subunit D (Na(+)-NQR subunit D) (Na(+)-translocating NQR subunit D) (EC 1.6.5.8) (NQR complex subunit D) (NQR-1 subunit D),Chlamydia muridarum (strain MoPn / Nigg),213,243161
+Q9PLU3,NQRA_CHLMU,reviewed,Na(+)-translocating NADH-quinone reductase subunit A (Na(+)-NQR subunit A) (Na(+)-translocating NQR subunit A) (EC 1.6.5.8) (NQR complex subunit A) (NQR-1 subunit A),Chlamydia muridarum (strain MoPn / Nigg),465,243161
+Q9PKB6,NQRB_CHLMU,reviewed,Na(+)-translocating NADH-quinone reductase subunit B (Na(+)-NQR subunit B) (Na(+)-translocating NQR subunit B) (EC 1.6.5.8) (NQR complex subunit B) (NQR-1 subunit B),Chlamydia muridarum (strain MoPn / Nigg),503,243161
+Q9PKB5,NQRC_CHLMU,reviewed,Na(+)-translocating NADH-quinone reductase subunit C (Na(+)-NQR subunit C) (Na(+)-translocating NQR subunit C) (EC 1.6.5.8) (NQR complex subunit C) (NQR-1 subunit C),Chlamydia muridarum (strain MoPn / Nigg),318,243161
+Q9PKB3,NQRE_CHLMU,reviewed,Na(+)-translocating NADH-quinone reductase subunit E (Na(+)-NQR subunit E) (Na(+)-translocating NQR subunit E) (EC 1.6.5.8) (NQR complex subunit E) (NQR-1 subunit E),Chlamydia muridarum (strain MoPn / Nigg),244,243161
+Q9PK75,NUSG_CHLMU,reviewed,Transcription termination/antitermination protein NusG,Chlamydia muridarum (strain MoPn / Nigg),182,243161
+Q9PJU9,OMCA_CHLMU,reviewed,Small cysteine-rich outer membrane protein OmcA (Small-CRP) (9 kDa cysteine-rich lipoprotein) (9KD-CRP),Chlamydia muridarum (strain MoPn / Nigg),88,243161
+Q9PLL3,OMP2_CHLMU,reviewed,Outer membrane protein B,Chlamydia muridarum (strain MoPn / Nigg),340,243161
+Q9PL88,NUSB_CHLMU,reviewed,N utilization substance protein B homolog (Protein NusB),Chlamydia muridarum (strain MoPn / Nigg),164,243161
+Q9PK23,OMPY_CHLMU,reviewed,Putative outer membrane protein TC_0650,Chlamydia muridarum (strain MoPn / Nigg),261,243161
+Q9PJX7,OBG_CHLMU,reviewed,GTPase Obg (EC 3.6.5.-) (GTP-binding protein Obg),Chlamydia muridarum (strain MoPn / Nigg),335,243161
+Q9PJH1,OMPX_CHLMU,reviewed,Putative outer membrane protein TC_0858,Chlamydia muridarum (strain MoPn / Nigg),124,243161
+Q9PJF8,PARA_CHLMU,reviewed,ParA family protein TC_0871,Chlamydia muridarum (strain MoPn / Nigg),255,243161
+Q9PLN9,PARB_CHLMU,reviewed,Probable chromosome-partitioning protein ParB,Chlamydia muridarum (strain MoPn / Nigg),280,243161
+Q9PLL6,PCKG_CHLMU,reviewed,Phosphoenolpyruvate carboxykinase [GTP] (PEP carboxykinase) (PEPCK) (EC 4.1.1.32),Chlamydia muridarum (strain MoPn / Nigg),599,243161
+Q9PJV0,OMCB_CHLMU,reviewed,Large cysteine-rich periplasmic protein OmcB (Large-CRP) (60 kDa CRP) (60 kDa outer membrane protein) (Cysteine-rich outer membrane protein),Chlamydia muridarum (strain MoPn / Nigg),548,243161
+Q9PL45,PMPG_CHLMU,reviewed,Probable outer membrane protein PmpG (Polymorphic membrane protein G),Chlamydia muridarum (strain MoPn / Nigg),987,243161
+Q9PKE6,PHSG_CHLMU,reviewed,Glycogen phosphorylase (EC 2.4.1.1),Chlamydia muridarum (strain MoPn / Nigg),813,243161
+Q9PKP3,PKN1_CHLMU,reviewed,Serine/threonine-protein kinase pkn1 (EC 2.7.11.1),Chlamydia muridarum (strain MoPn / Nigg),614,243161
+Q9PK92,PKND_CHLMU,reviewed,Serine/threonine-protein kinase PknD (EC 2.7.11.1),Chlamydia muridarum (strain MoPn / Nigg),934,243161
+Q9PL41,PMPI_CHLMU,reviewed,Probable outer membrane protein PmpI (Polymorphic membrane protein I),Chlamydia muridarum (strain MoPn / Nigg),867,243161
+Q9PL46,PMPF_CHLMU,reviewed,Probable outer membrane protein PmpF (Polymorphic membrane protein F),Chlamydia muridarum (strain MoPn / Nigg),1025,243161
+Q9PLB1,PLSX_CHLMU,reviewed,Phosphate acyltransferase (EC 2.3.1.n2) (Acyl-ACP phosphotransacylase) (Acyl-[acyl-carrier-protein]--phosphate acyltransferase) (Phosphate-acyl-ACP acyltransferase),Chlamydia muridarum (strain MoPn / Nigg),319,243161
+Q9PLB0,PMPD_CHLMU,reviewed,Probable outer membrane protein PmpD (Polymorphic membrane protein D),Chlamydia muridarum (strain MoPn / Nigg),1520,243161
+Q9PL47,PMPE_CHLMU,reviewed,Probable outer membrane protein PmpE (Polymorphic membrane protein E),Chlamydia muridarum (strain MoPn / Nigg),976,243161
+Q9PJY3,PMPA_CHLMU,reviewed,Probable outer membrane protein PmpA (Polymorphic membrane protein A),Chlamydia muridarum (strain MoPn / Nigg),976,243161
+Q9PJY2,PMPB_CHLMU,reviewed,Probable outer membrane protein PmpB (Polymorphic membrane protein B),Chlamydia muridarum (strain MoPn / Nigg),1672,243161
+Q9PL77,PNP_CHLMU,reviewed,Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) (Polynucleotide phosphorylase) (PNPase),Chlamydia muridarum (strain MoPn / Nigg),693,243161
+Q9PJY1,PMPC_CHLMU,reviewed,Probable outer membrane protein PmpC (Polymorphic membrane protein C),Chlamydia muridarum (strain MoPn / Nigg),1460,243161
+Q9PL44,PMPH_CHLMU,reviewed,Probable outer membrane protein PmpH (Polymorphic membrane protein H),Chlamydia muridarum (strain MoPn / Nigg),980,243161
+Q9PJC9,PQQCL_CHLMU,reviewed,PqqC-like protein (Chlamydia protein associating with death domains) (CADD),Chlamydia muridarum (strain MoPn / Nigg),236,243161
+P71147,PYRH_CHLMU,reviewed,Uridylate kinase (UK) (EC 2.7.4.22) (Uridine monophosphate kinase) (UMP kinase) (UMPK),Chlamydia muridarum (strain MoPn / Nigg),245,243161
+Q9PL16,RF1_CHLMU,reviewed,Peptide chain release factor 1 (RF-1),Chlamydia muridarum (strain MoPn / Nigg),359,243161
+Q9PLS6,RECA_CHLMU,reviewed,Protein RecA (Recombinase A),Chlamydia muridarum (strain MoPn / Nigg),354,243161
+Q9PK96,RADA_CHLMU,reviewed,DNA repair protein RadA (EC 3.6.4.-) (Branch migration protein RadA),Chlamydia muridarum (strain MoPn / Nigg),455,243161
+Q9PKF4,RECR_CHLMU,reviewed,Recombination protein RecR,Chlamydia muridarum (strain MoPn / Nigg),200,243161
+Q9PKU1,RBFA_CHLMU,reviewed,Ribosome-binding factor A,Chlamydia muridarum (strain MoPn / Nigg),133,243161
+Q9PKW5,RECF_CHLMU,reviewed,DNA replication and repair protein RecF,Chlamydia muridarum (strain MoPn / Nigg),365,243161
+Q9PJS3,RECO_CHLMU,reviewed,DNA repair protein RecO (Recombination protein O),Chlamydia muridarum (strain MoPn / Nigg),234,243161
+Q9PLT8,RECB_CHLMU,reviewed,RecBCD enzyme subunit RecB (EC 3.1.11.5) (Exonuclease V subunit RecB) (ExoV subunit RecB) (Helicase/nuclease RecBCD subunit RecB),Chlamydia muridarum (strain MoPn / Nigg),1026,243161
+P58105,RF2_CHLMU,reviewed,Peptide chain release factor 2 (RF-2),Chlamydia muridarum (strain MoPn / Nigg),369,243161
+Q9PLJ5,RIBBA_CHLMU,reviewed,"Riboflavin biosynthesis protein RibBA [Includes: 3,4-dihydroxy-2-butanone 4-phosphate synthase (DHBP synthase) (EC 4.1.99.12); GTP cyclohydrolase-2 (EC 3.5.4.25) (GTP cyclohydrolase II)]",Chlamydia muridarum (strain MoPn / Nigg),424,243161
+Q9PL92,RIR2_CHLMU,reviewed,Ribonucleoside-diphosphate reductase subunit beta (EC 1.17.4.1) (Ribonucleotide reductase small subunit),Chlamydia muridarum (strain MoPn / Nigg),346,243161
+Q9PJN0,RL15_CHLMU,reviewed,50S ribosomal protein L15,Chlamydia muridarum (strain MoPn / Nigg),144,243161
+Q9PK78,RL10_CHLMU,reviewed,50S ribosomal protein L10,Chlamydia muridarum (strain MoPn / Nigg),172,243161
+Q9PLJ6,RIBD_CHLMU,reviewed,Riboflavin biosynthesis protein RibD [Includes: Diaminohydroxyphosphoribosylaminopyrimidine deaminase (DRAP deaminase) (EC 3.5.4.26) (Riboflavin-specific deaminase); 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193) (HTP reductase)],Chlamydia muridarum (strain MoPn / Nigg),371,243161
+Q9PL11,RL19_CHLMU,reviewed,50S ribosomal protein L19,Chlamydia muridarum (strain MoPn / Nigg),121,243161
+Q9PJX5,RL21_CHLMU,reviewed,50S ribosomal protein L21,Chlamydia muridarum (strain MoPn / Nigg),107,243161
+Q9PJM1,RL16_CHLMU,reviewed,50S ribosomal protein L16,Chlamydia muridarum (strain MoPn / Nigg),138,243161
+Q9PJN5,RL17_CHLMU,reviewed,50S ribosomal protein L17,Chlamydia muridarum (strain MoPn / Nigg),142,243161
+Q9PJZ1,RISA_CHLMU,reviewed,Riboflavin synthase (RS) (EC 2.5.1.9),Chlamydia muridarum (strain MoPn / Nigg),198,243161
+Q9PLJ4,RISB_CHLMU,reviewed,"6,7-dimethyl-8-ribityllumazine synthase (DMRL synthase) (LS) (Lumazine synthase) (EC 2.5.1.78)",Chlamydia muridarum (strain MoPn / Nigg),157,243161
+Q9PJM4,RL14_CHLMU,reviewed,50S ribosomal protein L14,Chlamydia muridarum (strain MoPn / Nigg),122,243161
+Q9PL93,RIR1_CHLMU,reviewed,Ribonucleoside-diphosphate reductase subunit alpha (EC 1.17.4.1) (Ribonucleotide reductase),Chlamydia muridarum (strain MoPn / Nigg),1047,243161
+Q9PK76,RL11_CHLMU,reviewed,50S ribosomal protein L11,Chlamydia muridarum (strain MoPn / Nigg),141,243161
+Q9PKR3,RL13_CHLMU,reviewed,50S ribosomal protein L13,Chlamydia muridarum (strain MoPn / Nigg),150,243161
+Q9PKV0,RL28_CHLMU,reviewed,50S ribosomal protein L28,Chlamydia muridarum (strain MoPn / Nigg),89,243161
+Q9PJL9,RL22_CHLMU,reviewed,50S ribosomal protein L22,Chlamydia muridarum (strain MoPn / Nigg),111,243161
+Q9PJL4,RL3_CHLMU,reviewed,50S ribosomal protein L3,Chlamydia muridarum (strain MoPn / Nigg),221,243161
+Q9PJL6,RL23_CHLMU,reviewed,50S ribosomal protein L23,Chlamydia muridarum (strain MoPn / Nigg),111,243161
+Q9PKN7,RL33_CHLMU,reviewed,50S ribosomal protein L33,Chlamydia muridarum (strain MoPn / Nigg),52,243161
+P66124,RL27_CHLMU,reviewed,50S ribosomal protein L27,Chlamydia muridarum (strain MoPn / Nigg),83,243161
+Q9PJM9,RL18_CHLMU,reviewed,50S ribosomal protein L18,Chlamydia muridarum (strain MoPn / Nigg),123,243161
+Q9PJL7,RL2_CHLMU,reviewed,50S ribosomal protein L2,Chlamydia muridarum (strain MoPn / Nigg),284,243161
+Q9PL17,RL31B_CHLMU,reviewed,50S ribosomal protein L31 type B,Chlamydia muridarum (strain MoPn / Nigg),108,243161
+Q9PLB2,RL32_CHLMU,reviewed,50S ribosomal protein L32,Chlamydia muridarum (strain MoPn / Nigg),59,243161
+Q9PK77,RL1_CHLMU,reviewed,50S ribosomal protein L1,Chlamydia muridarum (strain MoPn / Nigg),232,243161
+Q9PJM5,RL24_CHLMU,reviewed,50S ribosomal protein L24,Chlamydia muridarum (strain MoPn / Nigg),111,243161
+Q9PLC2,RL25_CHLMU,reviewed,50S ribosomal protein L25 (General stress protein CTC),Chlamydia muridarum (strain MoPn / Nigg),185,243161
+Q9PLD6,RL34_CHLMU,reviewed,50S ribosomal protein L34,Chlamydia muridarum (strain MoPn / Nigg),45,243161
+Q9PL84,RL20_CHLMU,reviewed,50S ribosomal protein L20,Chlamydia muridarum (strain MoPn / Nigg),123,243161
+P71148,RRF_CHLMU,reviewed,Ribosome-recycling factor (RRF) (Ribosome-releasing factor),Chlamydia muridarum (strain MoPn / Nigg),179,243161
+P0A4A2,RS10_CHLMU,reviewed,30S ribosomal protein S10,Chlamydia muridarum (strain MoPn / Nigg),105,243161
+P66517,RS21_CHLMU,reviewed,30S ribosomal protein S21,Chlamydia muridarum (strain MoPn / Nigg),58,243161
+P66428,RS15_CHLMU,reviewed,30S ribosomal protein S15,Chlamydia muridarum (strain MoPn / Nigg),89,243161
+Q9PJM3,RS17_CHLMU,reviewed,30S ribosomal protein S17,Chlamydia muridarum (strain MoPn / Nigg),83,243161
+Q9PLC1,RS6_CHLMU,reviewed,30S ribosomal protein S6,Chlamydia muridarum (strain MoPn / Nigg),112,243161
+P66481,RS19_CHLMU,reviewed,30S ribosomal protein S19,Chlamydia muridarum (strain MoPn / Nigg),88,243161
+P0A4C9,RS5_CHLMU,reviewed,30S ribosomal protein S5,Chlamydia muridarum (strain MoPn / Nigg),165,243161
+P24286,RS18_CHLMU,reviewed,30S ribosomal protein S18,Chlamydia muridarum (strain MoPn / Nigg),81,243161
+Q9PJM0,RS3_CHLMU,reviewed,30S ribosomal protein S3,Chlamydia muridarum (strain MoPn / Nigg),224,243161
+P38016,RS1_CHLMU,reviewed,30S ribosomal protein S1 (70 kDa antigen),Chlamydia muridarum (strain MoPn / Nigg),570,243161
+Q9PJC4,RS20_CHLMU,reviewed,30S ribosomal protein S20,Chlamydia muridarum (strain MoPn / Nigg),98,243161
+Q9PKR2,RS9_CHLMU,reviewed,30S ribosomal protein S9,Chlamydia muridarum (strain MoPn / Nigg),133,243161
+P71145,RS2_CHLMU,reviewed,30S ribosomal protein S2,Chlamydia muridarum (strain MoPn / Nigg),281,243161
+Q9PK01,SYP_CHLMU,reviewed,Proline--tRNA ligase (EC 6.1.1.15) (Prolyl-tRNA synthetase) (ProRS),Chlamydia muridarum (strain MoPn / Nigg),579,243161
+Q9PL99,SUCC_CHLMU,reviewed,Succinate--CoA ligase [ADP-forming] subunit beta (EC 6.2.1.5) (Succinyl-CoA synthetase subunit beta) (SCS-beta),Chlamydia muridarum (strain MoPn / Nigg),386,243161
+Q9PKH4,SURE_CHLMU,reviewed,5'-nucleotidase SurE (EC 3.1.3.5) (Nucleoside 5'-monophosphate phosphohydrolase),Chlamydia muridarum (strain MoPn / Nigg),283,243161
+Q9PL83,SYFA_CHLMU,reviewed,Phenylalanine--tRNA ligase alpha subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase alpha subunit) (PheRS),Chlamydia muridarum (strain MoPn / Nigg),341,243161
+Q9PKI4,SYL_CHLMU,reviewed,Leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase) (LeuRS),Chlamydia muridarum (strain MoPn / Nigg),819,243161
+Q9PJK0,SYDND_CHLMU,reviewed,Aspartate--tRNA(Asp/Asn) ligase (EC 6.1.1.23) (Aspartyl-tRNA synthetase) (AspRS) (Non-discriminating aspartyl-tRNA synthetase) (ND-AspRS),Chlamydia muridarum (strain MoPn / Nigg),582,243161
+Q9PLC6,SYG_CHLMU,reviewed,Glycine--tRNA ligase (Glycyl-tRNA synthetase) (GlyRS) (EC 6.1.1.14) [Includes: Glycine--tRNA ligase alpha subunit (Glycyl-tRNA synthetase alpha subunit); Glycine--tRNA ligase beta subunit (Glycyl-tRNA synthetase beta subunit)],Chlamydia muridarum (strain MoPn / Nigg),1003,243161
+Q9PJT8,SYR_CHLMU,reviewed,Arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS),Chlamydia muridarum (strain MoPn / Nigg),563,243161
+Q9PLE1,SYK_CHLMU,reviewed,Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS),Chlamydia muridarum (strain MoPn / Nigg),524,243161
+Q9PLJ7,SYS_CHLMU,reviewed,Serine--tRNA ligase (EC 6.1.1.11) (Seryl-tRNA synthetase) (SerRS) (Seryl-tRNA(Ser/Sec) synthetase),Chlamydia muridarum (strain MoPn / Nigg),428,243161
+Q9PL20,SYI_CHLMU,reviewed,Isoleucine--tRNA ligase (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (IleRS),Chlamydia muridarum (strain MoPn / Nigg),1036,243161
+Q9PL07,SYM_CHLMU,reviewed,Methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS),Chlamydia muridarum (strain MoPn / Nigg),550,243161
+Q9PJJ9,SYH_CHLMU,reviewed,Histidine--tRNA ligase (EC 6.1.1.21) (Histidyl-tRNA synthetase) (HisRS),Chlamydia muridarum (strain MoPn / Nigg),428,243161
+Q9PJF5,SYW_CHLMU,reviewed,Tryptophan--tRNA ligase (EC 6.1.1.2) (Tryptophanyl-tRNA synthetase) (TrpRS),Chlamydia muridarum (strain MoPn / Nigg),346,243161
+Q9PJF9,SYT_CHLMU,reviewed,Threonine--tRNA ligase (EC 6.1.1.3) (Threonyl-tRNA synthetase) (ThrRS),Chlamydia muridarum (strain MoPn / Nigg),635,243161
+Q9PK91,SYV_CHLMU,reviewed,Valine--tRNA ligase (EC 6.1.1.9) (Valyl-tRNA synthetase) (ValRS),Chlamydia muridarum (strain MoPn / Nigg),939,243161
+Q9PK80,TAL_CHLMU,reviewed,Transaldolase (EC 2.2.1.2),Chlamydia muridarum (strain MoPn / Nigg),327,243161
+Q9PKX8,SYY_CHLMU,reviewed,Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase) (TyrRS),Chlamydia muridarum (strain MoPn / Nigg),412,243161
+Q9PJK3,THIO_CHLMU,reviewed,Thioredoxin (Trx),Chlamydia muridarum (strain MoPn / Nigg),102,243161
+Q9PKK0,TGT_CHLMU,reviewed,Queuine tRNA-ribosyltransferase (EC 2.4.2.29) (Guanine insertion enzyme) (tRNA-guanine transglycosylase),Chlamydia muridarum (strain MoPn / Nigg),372,243161
+Q9PK85,VATA_CHLMU,reviewed,V-type ATP synthase alpha chain (EC 3.6.3.14) (V-ATPase subunit A),Chlamydia muridarum (strain MoPn / Nigg),591,243161
+Q9PLD1,UVRC_CHLMU,reviewed,UvrABC system protein C (Protein UvrC) (Excinuclease ABC subunit C),Chlamydia muridarum (strain MoPn / Nigg),598,243161
+Q9PK83,VATE_CHLMU,reviewed,V-type ATP synthase subunit E (V-ATPase subunit E),Chlamydia muridarum (strain MoPn / Nigg),208,243161
+Q9PJD2,UNG_CHLMU,reviewed,Uracil-DNA glycosylase (UDG) (EC 3.2.2.27),Chlamydia muridarum (strain MoPn / Nigg),229,243161
+Q9PKK9,YQGF_CHLMU,reviewed,Putative pre-16S rRNA nuclease (EC 3.1.-.-),Chlamydia muridarum (strain MoPn / Nigg),148,243161
+Q9PJS0,YIDD_CHLMU,reviewed,Putative membrane protein insertion efficiency factor,Chlamydia muridarum (strain MoPn / Nigg),97,243161
+Q9PLF2,Q9PLF2_CHLMU,unreviewed,MutT/Nudix family protein,Chlamydia muridarum (strain MoPn / Nigg),150,243161
+Q9PLG8,Q9PLG8_CHLMU,unreviewed,"60 kDa chaperonin, putative",Chlamydia muridarum (strain MoPn / Nigg),513,243161
+Q9PKN4,Q9PKN4_CHLMU,unreviewed,MAC/perforin family protein,Chlamydia muridarum (strain MoPn / Nigg),809,243161
+Q9PLR3,Q9PLR3_CHLMU,unreviewed,DNA topoisomerase (ATP-hydrolyzing) (EC 5.99.1.3),Chlamydia muridarum (strain MoPn / Nigg),605,243161
+Q9PLD3,Q9PLD3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),166,243161
+Q9PJE2,Q9PJE2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),240,243161
+Q9PJD3,Q9PJD3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),75,243161
+Q9PKM1,Q9PKM1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),120,243161
+Q9PKE1,Q9PKE1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),215,243161
+Q9PLF3,Q9PLF3_CHLMU,unreviewed,3-oxoacyl-[acyl-carrier-protein] synthase 2 (EC 2.3.1.179),Chlamydia muridarum (strain MoPn / Nigg),418,243161
+Q9PJC2,Q9PJC2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),875,243161
+Q9PJZ5,Q9PJZ5_CHLMU,unreviewed,Sodium:dicarboxylate symporter family protein,Chlamydia muridarum (strain MoPn / Nigg),409,243161
+Q9PLR8,Q9PLR8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),95,243161
+Q9PLN3,Q9PLN3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),334,243161
+Q9PK49,Q9PK49_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),121,243161
+Q9PKN3,Q9PKN3_CHLMU,unreviewed,Phospholipase D family protein,Chlamydia muridarum (strain MoPn / Nigg),311,243161
+Q9PKD3,Q9PKD3_CHLMU,unreviewed,"DNA polymerase III, epsilon subunit, putative",Chlamydia muridarum (strain MoPn / Nigg),232,243161
+Q9PJB3,Q9PJB3_CHLMU,unreviewed,Transcriptional regulator,Chlamydia muridarum (strain MoPn / Nigg),227,243161
+Q9PKN8,Q9PKN8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),67,243161
+Q9PJZ2,Q9PJZ2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),275,243161
+Q9PLE7,Q9PLE7_CHLMU,unreviewed,"Aas bifunctional protein, putative",Chlamydia muridarum (strain MoPn / Nigg),537,243161
+Q9PK31,Q9PK31_CHLMU,unreviewed,Aspartate-semialdehyde dehydrogenase,Chlamydia muridarum (strain MoPn / Nigg),334,243161
+Q9PL96,Q9PL96_CHLMU,unreviewed,"Metalloprotease, insulinase family",Chlamydia muridarum (strain MoPn / Nigg),975,243161
+Q9PK68,Q9PK68_CHLMU,unreviewed,"Helicase, putative",Chlamydia muridarum (strain MoPn / Nigg),1004,243161
+Q9PJY6,Q9PJY6_CHLMU,unreviewed,Sodium/alanine symporter family protein,Chlamydia muridarum (strain MoPn / Nigg),453,243161
+Q9PJE9,Q9PJE9_CHLMU,unreviewed,"Succinate dehydrogenase, iron-sulfur protein",Chlamydia muridarum (strain MoPn / Nigg),265,243161
+Q9PLM6,Q9PLM6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),441,243161
+Q9PK44,Q9PK44_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),566,243161
+Q9PLL7,Q9PLL7_CHLMU,unreviewed,Cell shape-determining protein MreB,Chlamydia muridarum (strain MoPn / Nigg),366,243161
+Q9PKP1,Q9PKP1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),1436,243161
+Q9PKP0,Q9PKP0_CHLMU,unreviewed,Monooxygenase-related protein,Chlamydia muridarum (strain MoPn / Nigg),506,243161
+Q9PLA8,Q9PLA8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),215,243161
+Q9PJQ9,Q9PJQ9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),216,243161
+Q9PKY6,Q9PKY6_CHLMU,unreviewed,"2-oxoglutarate dehydrogenase, E1 component",Chlamydia muridarum (strain MoPn / Nigg),905,243161
+Q9PJP5,Q9PJP5_CHLMU,unreviewed,"CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase protein, putative",Chlamydia muridarum (strain MoPn / Nigg),168,243161
+Q9PKM8,Q9PKM8_CHLMU,unreviewed,Adherence factor,Chlamydia muridarum (strain MoPn / Nigg),3255,243161
+Q9PLJ9,Q9PLJ9_CHLMU,unreviewed,"Cation-transporting ATPase, E1-E2 family",Chlamydia muridarum (strain MoPn / Nigg),659,243161
+Q9PKN0,Q9PKN0_CHLMU,unreviewed,Phospholipase D family protein,Chlamydia muridarum (strain MoPn / Nigg),364,243161
+Q9PKS1,Q9PKS1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),94,243161
+Q9PL57,Q9PL57_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),508,243161
+Q9PL30,Q9PL30_CHLMU,unreviewed,"Lipid A biosynthesis lauroyl acyltransferase, putative",Chlamydia muridarum (strain MoPn / Nigg),453,243161
+Q9PKQ1,Q9PKQ1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),280,243161
+Q9PL29,Q9PL29_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),418,243161
+Q9PJK6,Q9PJK6_CHLMU,unreviewed,"DNA polymerase III, epsilon subunit, putative",Chlamydia muridarum (strain MoPn / Nigg),250,243161
+Q9PK63,Q9PK63_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),90,243161
+Q9PK54,Q9PK54_CHLMU,unreviewed,"2-oxoisovalerate dehydrogenase, E1 component, alpha and beta subunit",Chlamydia muridarum (strain MoPn / Nigg),678,243161
+Q9PLL4,Q9PLL4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),390,243161
+Q9PLS7,Q9PLS7_CHLMU,unreviewed,5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2),Chlamydia muridarum (strain MoPn / Nigg),178,243161
+Q9PLK5,Q9PLK5_CHLMU,unreviewed,"NifS protein, putative",Chlamydia muridarum (strain MoPn / Nigg),384,243161
+Q9PKJ1,Q9PKJ1_CHLMU,unreviewed,"Peptide ABC transporter, ATP-binding protein",Chlamydia muridarum (strain MoPn / Nigg),281,243161
+Q9PKE9,Q9PKE9_CHLMU,unreviewed,Pyruvate dehydrogenase E1 component subunit alpha (EC 1.2.4.1),Chlamydia muridarum (strain MoPn / Nigg),340,243161
+Q9PKS9,Q9PKS9_CHLMU,unreviewed,A/G-specific adenine glycosylase,Chlamydia muridarum (strain MoPn / Nigg),371,243161
+Q9PL06,Q9PL06_CHLMU,unreviewed,ATP-dependent RecD-like DNA helicase (EC 3.6.4.12),Chlamydia muridarum (strain MoPn / Nigg),744,243161
+Q9PJS8,Q9PJS8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),212,243161
+Q9PLH3,Q9PLH3_CHLMU,unreviewed,Transketolase,Chlamydia muridarum (strain MoPn / Nigg),666,243161
+Q9PJR5,Q9PJR5_CHLMU,unreviewed,"Peptide ABC transporter, permease protein, putative",Chlamydia muridarum (strain MoPn / Nigg),578,243161
+Q9PLP3,Q9PLP3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),483,243161
+Q9PKT9,Q9PKT9_CHLMU,unreviewed,Transcription termination/antitermination protein NusA,Chlamydia muridarum (strain MoPn / Nigg),434,243161
+Q9PKM2,Q9PKM2_CHLMU,unreviewed,"Inosine-5`-monophosphate dehydrogenase, putative",Chlamydia muridarum (strain MoPn / Nigg),357,243161
+Q9PJP2,Q9PJP2_CHLMU,unreviewed,Lipoate-protein ligase-related protein,Chlamydia muridarum (strain MoPn / Nigg),233,243161
+Q9PJK2,Q9PJK2_CHLMU,unreviewed,Putative tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207) (tRNA (cytidine/uridine-2'-O-)-methyltransferase),Chlamydia muridarum (strain MoPn / Nigg),151,243161
+Q9PLC8,Q9PLC8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),92,243161
+Q9PLK9,Q9PLK9_CHLMU,unreviewed,"Virulence ATPase, putative",Chlamydia muridarum (strain MoPn / Nigg),434,243161
+Q9PLS4,Q9PLS4_CHLMU,unreviewed,"Exodeoxyribonuclease V, alpha subunit, putative",Chlamydia muridarum (strain MoPn / Nigg),497,243161
+Q9PLI8,Q9PLI8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),262,243161
+Q9PKH9,Q9PKH9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),549,243161
+Q9PKH5,Q9PKH5_CHLMU,unreviewed,DNA helicase (EC 3.6.4.12),Chlamydia muridarum (strain MoPn / Nigg),890,243161
+Q9PJE5,Q9PJE5_CHLMU,unreviewed,"Thiol:disulfide interchange protein DsbD, putative",Chlamydia muridarum (strain MoPn / Nigg),692,243161
+Q9PJD9,Q9PJD9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),202,243161
+Q9PKT2,Q9PKT2_CHLMU,unreviewed,Enoyl-(Acyl-carrier protein) reductase,Chlamydia muridarum (strain MoPn / Nigg),298,243161
+Q9PK42,Q9PK42_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),102,243161
+Q9PKG0,Q9PKG0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),918,243161
+Q9PJH5,Q9PJH5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),147,243161
+Q9PLP5,Q9PLP5_CHLMU,unreviewed,"Penicillin-binding protein, putative",Chlamydia muridarum (strain MoPn / Nigg),1080,243161
+Q9PJF1,Q9PJF1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),602,243161
+Q9PKN9,Q9PKN9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),316,243161
+Q9PKZ6,Q9PKZ6_CHLMU,unreviewed,Glycosyl hydrolase family protein,Chlamydia muridarum (strain MoPn / Nigg),666,243161
+Q9PL90,Q9PL90_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),194,243161
+Q9PJU5,Q9PJU5_CHLMU,unreviewed,Single-stranded-DNA-specific exonuclease RecJ,Chlamydia muridarum (strain MoPn / Nigg),582,243161
+Q9PKM7,Q9PKM7_CHLMU,unreviewed,Adherence factor,Chlamydia muridarum (strain MoPn / Nigg),3335,243161
+Q9PKY8,Q9PKY8_CHLMU,unreviewed,"Oxygen-independent coproporphyrinogen III oxidase HemN, putative",Chlamydia muridarum (strain MoPn / Nigg),376,243161
+Q9PLS1,Q9PLS1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),162,243161
+Q9PKE7,Q9PKE7_CHLMU,unreviewed,Acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12),Chlamydia muridarum (strain MoPn / Nigg),428,243161
+Q9PKZ2,Q9PKZ2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),237,243161
+Q9PLE3,Q9PLE3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),165,243161
+Q9PLP4,Q9PLP4_CHLMU,unreviewed,"Type III secretion chaperone, putative",Chlamydia muridarum (strain MoPn / Nigg),335,243161
+Q9PJX0,Q9PJX0_CHLMU,unreviewed,"Hemolysin, putative",Chlamydia muridarum (strain MoPn / Nigg),374,243161
+Q9PLQ1,Q9PLQ1_CHLMU,unreviewed,Serine/threonine-protein kinase,Chlamydia muridarum (strain MoPn / Nigg),489,243161
+Q9PLT6,Q9PLT6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),559,243161
+Q9PKI8,Q9PKI8_CHLMU,unreviewed,Probable ATP-dependent 6-phosphofructokinase (ATP-PFK) (Phosphofructokinase) (EC 2.7.1.11) (Phosphohexokinase),Chlamydia muridarum (strain MoPn / Nigg),553,243161
+Q9PKP9,Q9PKP9_CHLMU,unreviewed,"Peptide ABC transporter, periplasmic peptide-binding protein, putative",Chlamydia muridarum (strain MoPn / Nigg),428,243161
+Q9PKH6,Q9PKH6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),259,243161
+Q9PLB7,Q9PLB7_CHLMU,unreviewed,"Metalloprotease, insulinase family",Chlamydia muridarum (strain MoPn / Nigg),939,243161
+Q9PKI6,Q9PKI6_CHLMU,unreviewed,6-phosphofructokinase (EC 2.7.1.-),Chlamydia muridarum (strain MoPn / Nigg),548,243161
+Q9PLS3,Q9PLS3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),59,243161
+Q9PLN7,Q9PLN7_CHLMU,unreviewed,"Peptide ABC transporter, ATP-binding protein",Chlamydia muridarum (strain MoPn / Nigg),321,243161
+Q9PK55,Q9PK55_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),510,243161
+Q9PKC7,Q9PKC7_CHLMU,unreviewed,"N-acetylmuramoyl-L-alanine amidase, putative",Chlamydia muridarum (strain MoPn / Nigg),268,243161
+Q9PLS8,Q9PLS8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),424,243161
+Q9PJV2,Q9PJV2_CHLMU,unreviewed,"Tail specific protease, putative",Chlamydia muridarum (strain MoPn / Nigg),649,243161
+Q9PK12,Q9PK12_CHLMU,unreviewed,"Phospho-2-dehydro-3-deoxyheptonate aldolase, putative",Chlamydia muridarum (strain MoPn / Nigg),279,243161
+Q9PJT9,Q9PJT9_CHLMU,unreviewed,"1-acyl-sn-glycerol-3-phosphate acyltransferase, putative",Chlamydia muridarum (strain MoPn / Nigg),216,243161
+Q9PL54,Q9PL54_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),105,243161
+Q9PKU5,Q9PKU5_CHLMU,unreviewed,Type III secretion inner membrane protein SctU,Chlamydia muridarum (strain MoPn / Nigg),360,243161
+Q9PJG8,Q9PJG8_CHLMU,unreviewed,General secretion pathway protein D,Chlamydia muridarum (strain MoPn / Nigg),759,243161
+Q9PK14,Q9PK14_CHLMU,unreviewed,"Hydrolase, metal-dependent, putative",Chlamydia muridarum (strain MoPn / Nigg),266,243161
+Q9PJC0,Q9PJC0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),831,243161
+Q9PLH8,Q9PLH8_CHLMU,unreviewed,Coproporphyrinogen-III oxidase (EC 1.3.98.3),Chlamydia muridarum (strain MoPn / Nigg),457,243161
+Q9PL98,Q9PL98_CHLMU,unreviewed,Succinate--CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha),Chlamydia muridarum (strain MoPn / Nigg),291,243161
+Q9PJE4,Q9PJE4_CHLMU,unreviewed,MotA/TolQ/ExbB proton channel family protein,Chlamydia muridarum (strain MoPn / Nigg),232,243161
+Q9PJQ1,Q9PJQ1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),83,243161
+Q9PK10,Q9PK10_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),526,243161
+Q9PLC7,Q9PLC7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),164,243161
+Q9PJD7,Q9PJD7_CHLMU,unreviewed,"Antioxidant, AhpC/Tsa family",Chlamydia muridarum (strain MoPn / Nigg),195,243161
+Q9PK59,Q9PK59_CHLMU,unreviewed,"DNA polymerase III, gamma subunit",Chlamydia muridarum (strain MoPn / Nigg),465,243161
+Q9PLR4,Q9PLR4_CHLMU,unreviewed,"DNA gyrase, subunit A",Chlamydia muridarum (strain MoPn / Nigg),490,243161
+Q9PL63,Q9PL63_CHLMU,unreviewed,Sulfate transporter family protein,Chlamydia muridarum (strain MoPn / Nigg),605,243161
+Q9PLN2,Q9PLN2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),397,243161
+Q9PJT3,Q9PJT3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),86,243161
+Q9PK34,Q9PK34_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),212,243161
+Q9PJW5,Q9PJW5_CHLMU,unreviewed,Chorismate dehydratase (EC 4.2.1.151) (Menaquinone biosynthetic enzyme MqnA),Chlamydia muridarum (strain MoPn / Nigg),266,243161
+Q9PJB5,Q9PJB5_CHLMU,unreviewed,"Geranylgeranyl pyrophosphate synthase, putative",Chlamydia muridarum (strain MoPn / Nigg),292,243161
+Q9PJS7,Q9PJS7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),109,243161
+Q9PKD9,Q9PKD9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),127,243161
+Q9PK29,Q9PK29_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),572,243161
+Q9PL24,Q9PL24_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),242,243161
+Q9PKB0,Q9PKB0_CHLMU,unreviewed,Phospholipase D family protein,Chlamydia muridarum (strain MoPn / Nigg),474,243161
+Q9PKA9,Q9PKA9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),239,243161
+Q9PKU6,Q9PKU6_CHLMU,unreviewed,Type III secretion inner membrane protein SctV,Chlamydia muridarum (strain MoPn / Nigg),708,243161
+Q9PLS9,Q9PLS9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),192,243161
+Q9PL31,Q9PL31_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),151,243161
+Q9PK05,Q9PK05_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),408,243161
+Q9PKN5,Q9PKN5_CHLMU,unreviewed,"ABC transporter, ATP-binding protein",Chlamydia muridarum (strain MoPn / Nigg),244,243161
+Q9PKX4,Q9PKX4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),158,243161
+Q9PKY0,Q9PKY0_CHLMU,unreviewed,"Protein export protein, FHIPEP family",Chlamydia muridarum (strain MoPn / Nigg),578,243161
+Q9PLR0,Q9PLR0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),824,243161
+Q9PKH7,Q9PKH7_CHLMU,unreviewed,Amino acid antiporter,Chlamydia muridarum (strain MoPn / Nigg),466,243161
+Q9PLK0,Q9PLK0_CHLMU,unreviewed,"Cell shape-determining protein MrdB, putative",Chlamydia muridarum (strain MoPn / Nigg),379,243161
+Q9PKB8,Q9PKB8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),195,243161
+Q9PLT5,Q9PLT5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),270,243161
+Q9PJI5,Q9PJI5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),159,243161
+Q9PLT3,Q9PLT3_CHLMU,unreviewed,DNA topoisomerase 1 (EC 5.99.1.2) (DNA topoisomerase I),Chlamydia muridarum (strain MoPn / Nigg),865,243161
+Q9PKS6,Q9PKS6_CHLMU,unreviewed,Oligoendopeptidase F,Chlamydia muridarum (strain MoPn / Nigg),608,243161
+Q9PKQ7,Q9PKQ7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),1138,243161
+Q9PJI1,Q9PJI1_CHLMU,unreviewed,Type III secretion protein SctJ,Chlamydia muridarum (strain MoPn / Nigg),328,243161
+Q9PLC4,Q9PLC4_CHLMU,unreviewed,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,Chlamydia muridarum (strain MoPn / Nigg),202,243161
+Q9PKD4,Q9PKD4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),159,243161
+Q9PLD8,Q9PLD8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),350,243161
+Q9PJH6,Q9PJH6_CHLMU,unreviewed,Type III secretion inner membrane protein SctT,Chlamydia muridarum (strain MoPn / Nigg),289,243161
+Q9PKH1,Q9PKH1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),298,243161
+Q9PK46,Q9PK46_CHLMU,unreviewed,"ABC transporter, ATP-binding protein",Chlamydia muridarum (strain MoPn / Nigg),528,243161
+Q9PKS4,Q9PKS4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),491,243161
+Q9PKY9,Q9PKY9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),445,243161
+Q9PJW9,Q9PJW9_CHLMU,unreviewed,Anti-sigma factor antagonist,Chlamydia muridarum (strain MoPn / Nigg),116,243161
+Q9PKQ0,Q9PKQ0_CHLMU,unreviewed,"Dipeptidase, putative",Chlamydia muridarum (strain MoPn / Nigg),315,243161
+Q9PJV3,Q9PJV3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),111,243161
+Q9PJZ9,Q9PJZ9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),254,243161
+Q9PJD1,Q9PJD1_CHLMU,unreviewed,DNA helicase (EC 3.6.4.12),Chlamydia muridarum (strain MoPn / Nigg),634,243161
+Q9PJV9,Q9PJV9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),224,243161
+Q9PLG4,Q9PLG4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),243,243161
+Q9PKS0,Q9PKS0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),166,243161
+Q9PKL3,Q9PKL3_CHLMU,unreviewed,"ABC transporter, ATP-binding protein",Chlamydia muridarum (strain MoPn / Nigg),230,243161
+Q9PKH0,Q9PKH0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),196,243161
+Q9PLN8,Q9PLN8_CHLMU,unreviewed,"Peptide ABC transporter, ATP-binding protein",Chlamydia muridarum (strain MoPn / Nigg),290,243161
+Q9PK36,Q9PK36_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),170,243161
+Q9PJS1,Q9PJS1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),264,243161
+Q9PKC4,Q9PKC4_CHLMU,unreviewed,Penicillin-binding protein,Chlamydia muridarum (strain MoPn / Nigg),656,243161
+Q9PKA5,Q9PKA5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),384,243161
+Q9PJW6,Q9PJW6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),369,243161
+Q9PLG9,Q9PLG9_CHLMU,unreviewed,Icc-related protein,Chlamydia muridarum (strain MoPn / Nigg),290,243161
+Q9PLK1,Q9PLK1_CHLMU,unreviewed,BirA-related protein,Chlamydia muridarum (strain MoPn / Nigg),184,243161
+Q9PK72,Q9PK72_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),308,243161
+Q9PL65,Q9PL65_CHLMU,unreviewed,"ABC transporter, permease protein, putative",Chlamydia muridarum (strain MoPn / Nigg),587,243161
+Q9PKJ2,Q9PKJ2_CHLMU,unreviewed,"Peptide ABC transporter, permease protein",Chlamydia muridarum (strain MoPn / Nigg),287,243161
+Q9PLP2,Q9PLP2_CHLMU,unreviewed,"ABC transporter, ATP-binding protein",Chlamydia muridarum (strain MoPn / Nigg),255,243161
+Q9PK19,Q9PK19_CHLMU,unreviewed,"Oxidoreductase, DadA family",Chlamydia muridarum (strain MoPn / Nigg),351,243161
+Q9PJG3,Q9PJG3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),119,243161
+Q9PL52,Q9PL52_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),328,243161
+Q9PKP5,Q9PKP5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),279,243161
+Q9PL49,Q9PL49_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),156,243161
+Q9PJR3,Q9PJR3_CHLMU,unreviewed,"Peptide ABC transporter, periplasmic peptide-binding protein, putative",Chlamydia muridarum (strain MoPn / Nigg),696,243161
+Q9PKG8,Q9PKG8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),166,243161
+Q9PKL8,Q9PKL8_CHLMU,unreviewed,Phospholipase D family protein,Chlamydia muridarum (strain MoPn / Nigg),358,243161
+Q9PJV7,Q9PJV7_CHLMU,unreviewed,"Oxidoreductase, FAD-binding",Chlamydia muridarum (strain MoPn / Nigg),350,243161
+Q9PLT0,Q9PLT0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),459,243161
+Q9PKL5,Q9PKL5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),404,243161
+Q9PJP4,Q9PJP4_CHLMU,unreviewed,Replicative DNA helicase (EC 3.6.4.12),Chlamydia muridarum (strain MoPn / Nigg),472,243161
+Q9PLH6,Q9PLH6_CHLMU,unreviewed,Transcription-repair-coupling factor (TRCF) (EC 3.6.4.-),Chlamydia muridarum (strain MoPn / Nigg),1080,243161
+Q9PLF6,Q9PLF6_CHLMU,unreviewed,Cyclic dehypoxanthine futalosine synthase (Cyclic DHFL synthase) (EC 1.21.98.1) (Dehypoxanthine futalosine cyclase) (DHFL cyclase) (Menaquinone biosynthetic enzyme MqnC),Chlamydia muridarum (strain MoPn / Nigg),354,243161
+Q9PLQ7,Q9PLQ7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),149,243161
+Q9PJT4,Q9PJT4_CHLMU,unreviewed,"Acetyltransferase, GNAT family",Chlamydia muridarum (strain MoPn / Nigg),167,243161
+Q9PK70,Q9PK70_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),648,243161
+Q9PKQ8,Q9PKQ8_CHLMU,unreviewed,"Amino acid ABC transporter, ATP-binding protein",Chlamydia muridarum (strain MoPn / Nigg),231,243161
+Q9PKP6,Q9PKP6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),280,243161
+Q9PL27,Q9PL27_CHLMU,unreviewed,"Cytochrome D ubiquinol oxidase, subunit I",Chlamydia muridarum (strain MoPn / Nigg),446,243161
+Q9PKK1,Q9PKK1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),231,243161
+Q9PKU7,Q9PKU7_CHLMU,unreviewed,Type III secreted protein SctW,Chlamydia muridarum (strain MoPn / Nigg),418,243161
+Q9PLM4,Q9PLM4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),177,243161
+Q9PJD6,Q9PJD6_CHLMU,unreviewed,60 kDa chaperonin,Chlamydia muridarum (strain MoPn / Nigg),534,243161
+Q9PJQ8,Q9PJQ8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),118,243161
+Q9PJH4,Q9PJH4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),330,243161
+Q9PL74,Q9PL74_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),234,243161
+Q9PKV4,Q9PKV4_CHLMU,unreviewed,Phospholipase D family protein,Chlamydia muridarum (strain MoPn / Nigg),359,243161
+Q9PJU8,Q9PJU8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),74,243161
+Q9PKQ4,Q9PKQ4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),135,243161
+Q9PJG9,Q9PJG9_CHLMU,unreviewed,General secretion pathway protein E,Chlamydia muridarum (strain MoPn / Nigg),500,243161
+Q9PLI0,Q9PLI0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),823,243161
+Q9PKU3,Q9PKU3_CHLMU,unreviewed,Riboflavin biosynthesis protein (EC 2.7.1.26) (EC 2.7.7.2),Chlamydia muridarum (strain MoPn / Nigg),295,243161
+Q9PL76,Q9PL76_CHLMU,unreviewed,tRNA-specific adenosine deaminase (EC 3.5.4.33),Chlamydia muridarum (strain MoPn / Nigg),157,243161
+Q9PKF3,Q9PKF3_CHLMU,unreviewed,"Outer membrane protein, putative",Chlamydia muridarum (strain MoPn / Nigg),792,243161
+Q9PKM0,Q9PKM0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),79,243161
+Q9PJQ2,Q9PJQ2_CHLMU,unreviewed,Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27),Chlamydia muridarum (strain MoPn / Nigg),441,243161
+Q9PKT4,Q9PKT4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),153,243161
+Q9PJG6,Q9PJG6_CHLMU,unreviewed,Proline dipeptidase,Chlamydia muridarum (strain MoPn / Nigg),356,243161
+Q9PLL0,Q9PLL0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),120,243161
+Q9PKY4,Q9PKY4_CHLMU,unreviewed,Laccase domain protein,Chlamydia muridarum (strain MoPn / Nigg),243,243161
+Q9PL66,Q9PL66_CHLMU,unreviewed,UPF0056 inner membrane protein,Chlamydia muridarum (strain MoPn / Nigg),199,243161
+Q9PLD2,Q9PLD2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),164,243161
+Q9PLF8,Q9PLF8_CHLMU,unreviewed,Anti-sigma factor antagonist,Chlamydia muridarum (strain MoPn / Nigg),110,243161
+Q9PKI7,Q9PKI7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),272,243161
+Q9PKD7,Q9PKD7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),404,243161
+Q9PJU4,Q9PJU4_CHLMU,unreviewed,"SecDF protein, putative",Chlamydia muridarum (strain MoPn / Nigg),1400,243161
+Q9PK52,Q9PK52_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),210,243161
+Q9PKA1,Q9PKA1_CHLMU,unreviewed,Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta (ACCase subunit beta) (Acetyl-CoA carboxylase carboxyltransferase subunit beta) (EC 6.4.1.2),Chlamydia muridarum (strain MoPn / Nigg),283,243161
+Q9PKY1,Q9PKY1_CHLMU,unreviewed,Ferredoxin,Chlamydia muridarum (strain MoPn / Nigg),91,243161
+Q9PLI4,Q9PLI4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),119,243161
+Q9PKG9,Q9PKG9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),238,243161
+Q9PKK2,Q9PKK2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),116,243161
+Q9PJX4,Q9PJX4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),215,243161
+Q9PKQ9,Q9PKQ9_CHLMU,unreviewed,"Amino acid ABC transporter, permease protein",Chlamydia muridarum (strain MoPn / Nigg),214,243161
+Q9PL26,Q9PL26_CHLMU,unreviewed,"Cytochrome D ubiquinol oxidase, subunit II",Chlamydia muridarum (strain MoPn / Nigg),351,243161
+Q9PL69,Q9PL69_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),404,243161
+Q9PLE8,Q9PLE8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),253,243161
+Q9PK11,Q9PK11_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),246,243161
+Q9PKI1,Q9PKI1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),147,243161
+Q9PKL4,Q9PKL4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),211,243161
+Q9PL72,Q9PL72_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),170,243161
+Q9PJE7,Q9PJE7_CHLMU,unreviewed,"Succinate dehydrogenase, cytochrome b558 subunit, putative",Chlamydia muridarum (strain MoPn / Nigg),288,243161
+Q9PKC0,Q9PKC0_CHLMU,unreviewed,"Type III secretion chaperone, putative",Chlamydia muridarum (strain MoPn / Nigg),139,243161
+Q9PKC3,Q9PKC3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),95,243161
+Q9PLQ4,Q9PLQ4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),168,243161
+Q9PKS2,Q9PKS2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),143,243161
+Q9PL48,Q9PL48_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),369,243161
+Q9PJR4,Q9PJR4_CHLMU,unreviewed,"Peptide ABC transporter, permease protein, putative",Chlamydia muridarum (strain MoPn / Nigg),492,243161
+Q9PJE6,Q9PJE6_CHLMU,unreviewed,"MttC protein, putative",Chlamydia muridarum (strain MoPn / Nigg),263,243161
+Q9PL94,Q9PL94_CHLMU,unreviewed,"CDP-diacylglycerol--serine O-phosphatidyltransferase, putative",Chlamydia muridarum (strain MoPn / Nigg),263,243161
+Q9PJP7,Q9PJP7_CHLMU,unreviewed,"Protease IV, putative",Chlamydia muridarum (strain MoPn / Nigg),332,243161
+Q9PJD8,Q9PJD8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),130,243161
+Q9PLL1,Q9PLL1_CHLMU,unreviewed,"UDP-N-acetylglucosamine pyrophosphorylase, putative",Chlamydia muridarum (strain MoPn / Nigg),455,243161
+Q9PKP8,Q9PKP8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),230,243161
+Q9PJE3,Q9PJE3_CHLMU,unreviewed,ExbD/TolR family protein,Chlamydia muridarum (strain MoPn / Nigg),135,243161
+Q9PL14,Q9PL14_CHLMU,unreviewed,Signal recognition particle,Chlamydia muridarum (strain MoPn / Nigg),448,243161
+Q9PL39,Q9PL39_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),89,243161
+Q9PKZ0,Q9PKZ0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),397,243161
+Q9PL56,Q9PL56_CHLMU,unreviewed,Type III secretion chaperone,Chlamydia muridarum (strain MoPn / Nigg),172,243161
+Q9PLK2,Q9PLK2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),174,243161
+Q9PJQ7,Q9PJQ7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),332,243161
+Q9PL42,Q9PL42_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),196,243161
+Q9PJI9,Q9PJI9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),137,243161
+Q9PJH7,Q9PJH7_CHLMU,unreviewed,Type III secretion inner membrane protein SctS,Chlamydia muridarum (strain MoPn / Nigg),94,243161
+Q9PKL6,Q9PKL6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),237,243161
+Q9PLF4,Q9PLF4_CHLMU,unreviewed,Ribosomal silencing factor RsfS,Chlamydia muridarum (strain MoPn / Nigg),119,243161
+Q9PJH2,Q9PJH2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),142,243161
+Q9PKP4,Q9PKP4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),287,243161
+Q9PKZ5,Q9PKZ5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),167,243161
+Q9PKE5,Q9PKE5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),115,243161
+Q9PLK8,Q9PLK8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),174,243161
+Q9PKZ3,Q9PKZ3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),314,243161
+Q9PKC8,Q9PKC8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),393,243161
+Q9PLS5,Q9PLS5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),609,243161
+Q9PL73,Q9PL73_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),172,243161
+Q9PKJ7,Q9PKJ7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),360,243161
+Q9PLB8,Q9PLB8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),450,243161
+Q9PL00,Q9PL00_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),114,243161
+Q9PLJ8,Q9PLJ8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),248,243161
+Q9PL70,Q9PL70_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),62,243161
+Q9PK89,Q9PK89_CHLMU,unreviewed,"ATP synthase, subunit K",Chlamydia muridarum (strain MoPn / Nigg),141,243161
+Q9PL81,Q9PL81_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),366,243161
+Q9PLH9,Q9PLH9_CHLMU,unreviewed,Protoporphyrinogen oxidase,Chlamydia muridarum (strain MoPn / Nigg),424,243161
+Q9PJC3,Q9PJC3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),267,243161
+Q9PL80,Q9PL80_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),354,243161
+Q9PKR1,Q9PKR1_CHLMU,unreviewed,Nlp/P60 family protein,Chlamydia muridarum (strain MoPn / Nigg),281,243161
+Q9PK03,Q9PK03_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),335,243161
+Q9PJL3,Q9PJL3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),293,243161
+Q9PKJ6,Q9PKJ6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),121,243161
+Q9PLB3,Q9PLB3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),146,243161
+Q9PKT1,Q9PKT1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),650,243161
+Q9PLQ2,Q9PLQ2_CHLMU,unreviewed,Type III secretion translocase SctQ,Chlamydia muridarum (strain MoPn / Nigg),373,243161
+Q9PK71,Q9PK71_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),150,243161
+Q9PL28,Q9PL28_CHLMU,unreviewed,Diadenylate cyclase (DAC) (EC 2.7.7.85) (Cyclic-di-AMP synthase) (c-di-AMP synthase),Chlamydia muridarum (strain MoPn / Nigg),264,243161
+Q9PKK6,Q9PKK6_CHLMU,unreviewed,"DNA polymerase III, tau subunit, putative",Chlamydia muridarum (strain MoPn / Nigg),290,243161
+Q9PKI9,Q9PKI9_CHLMU,unreviewed,Sodium:sulfate symporter family protein,Chlamydia muridarum (strain MoPn / Nigg),471,243161
+Q9PLQ5,Q9PLQ5_CHLMU,unreviewed,Type III secretion cytoplasmic ATPase SctN,Chlamydia muridarum (strain MoPn / Nigg),442,243161
+Q9PLA6,Q9PLA6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),120,243161
+Q9PLJ3,Q9PLJ3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),448,243161
+Q9PKJ4,Q9PKJ4_CHLMU,unreviewed,"Peptide ABC transporter, periplasmic peptide-binding protein, putative",Chlamydia muridarum (strain MoPn / Nigg),520,243161
+Q9PKY2,Q9PKY2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),374,243161
+Q9PLA2,Q9PLA2_CHLMU,unreviewed,Mtr/TnaB/TyrO permease family protein,Chlamydia muridarum (strain MoPn / Nigg),395,243161
+Q9PLP1,Q9PLP1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),393,243161
+Q9PLT1,Q9PLT1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),98,243161
+Q9PKH3,Q9PKH3_CHLMU,unreviewed,4-hydroxybenzoate octaprenyltransferase,Chlamydia muridarum (strain MoPn / Nigg),302,243161
+Q9PJJ3,Q9PJJ3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),199,243161
+Q9PK99,Q9PK99_CHLMU,unreviewed,"Phosphoglucomutase/phosphomannomutase, putative",Chlamydia muridarum (strain MoPn / Nigg),593,243161
+Q9PJC8,Q9PJC8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),243,243161
+Q9PJC7,Q9PJC7_CHLMU,unreviewed,Dihydrofolate reductase,Chlamydia muridarum (strain MoPn / Nigg),159,243161
+Q9PJJ0,Q9PJJ0_CHLMU,unreviewed,"D-alanyl-D-alanine carboxypeptidase, putative",Chlamydia muridarum (strain MoPn / Nigg),438,243161
+Q9PKQ2,Q9PKQ2_CHLMU,unreviewed,"Serine esterase, putative",Chlamydia muridarum (strain MoPn / Nigg),239,243161
+Q9PLF5,Q9PLF5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),564,243161
+Q9PKW6,Q9PKW6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),325,243161
+Q9PL71,Q9PL71_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),159,243161
+Q9PL58,Q9PL58_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),497,243161
+Q9PLB4,Q9PLB4_CHLMU,unreviewed,Ribonuclease G,Chlamydia muridarum (strain MoPn / Nigg),512,243161
+Q9PK82,Q9PK82_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),237,243161
+Q9PLG0,Q9PLG0_CHLMU,unreviewed,UPF0109 protein TC_0144,Chlamydia muridarum (strain MoPn / Nigg),137,243161
+Q9PKA3,Q9PKA3_CHLMU,unreviewed,"PTS system, IIA component",Chlamydia muridarum (strain MoPn / Nigg),165,243161
+Q9PKU4,Q9PKU4_CHLMU,unreviewed,Ribosome-binding ATPase YchF,Chlamydia muridarum (strain MoPn / Nigg),364,243161
+Q9PJS2,Q9PJS2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),209,243161
+Q9PJR6,Q9PJR6_CHLMU,unreviewed,DNA methyltransferase,Chlamydia muridarum (strain MoPn / Nigg),173,243161
+Q9PJG4,Q9PJG4_CHLMU,unreviewed,Type III secretion chaperone SycD,Chlamydia muridarum (strain MoPn / Nigg),246,243161
+Q9PLI6,Q9PLI6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),37,243161
+Q9PKT5,Q9PKT5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),40,243161
+Q9PKV3,Q9PKV3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),48,243161
+Q9PLE9,Q9PLE9_CHLMU,unreviewed,"3`(2`),5`-bisphosphate nucleotidase, putative",Chlamydia muridarum (strain MoPn / Nigg),349,243161
+Q9PJR0,Q9PJR0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),53,243161
+Q9PLA9,Q9PLA9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),57,243161
+Q9PKR9,Q9PKR9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),58,243161
+Q9PLQ0,Q9PLQ0_CHLMU,unreviewed,Type III secretion protein SctC,Chlamydia muridarum (strain MoPn / Nigg),672,243161
+Q9PLB6,Q9PLB6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),42,243161
+Q9PKG5,Q9PKG5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),214,243161
+Q9PKJ8,Q9PKJ8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),52,243161
+Q9PL50,Q9PL50_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),335,243161
+Q9PKB7,Q9PKB7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),236,243161
+Q9PJF2,Q9PJF2_CHLMU,unreviewed,"Regulatory protein, putative",Chlamydia muridarum (strain MoPn / Nigg),650,243161
+Q9PJJ5,Q9PJJ5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),291,243161
+Q9PKX3,Q9PKX3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),33,243161
+Q9PL87,Q9PL87_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),45,243161
+Q9PKV9,Q9PKV9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),133,243161
+Q9PKR8,Q9PKR8_CHLMU,unreviewed,Inclusion membrane localised protein IncA,Chlamydia muridarum (strain MoPn / Nigg),276,243161
+Q9PJY7,Q9PJY7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),69,243161
+Q9PKL2,Q9PKL2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),242,243161
+Q9PKN2,Q9PKN2_CHLMU,unreviewed,Phospholipase D family protein,Chlamydia muridarum (strain MoPn / Nigg),448,243161
+Q9PL43,Q9PL43_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),84,243161
+Q9PK93,Q9PK93_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),127,243161
+Q9PLE4,Q9PLE4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),250,243161
+Q9PLG3,Q9PLG3_CHLMU,unreviewed,"Cell division protein, FtsW/RodA/SpovE family",Chlamydia muridarum (strain MoPn / Nigg),407,243161
+Q9PJX2,Q9PJX2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),53,243161
+Q9PJE8,Q9PJE8_CHLMU,unreviewed,"Succinate dehydrogenase, flavoprotein subunit",Chlamydia muridarum (strain MoPn / Nigg),625,243161
+Q9PJI7,Q9PJI7_CHLMU,unreviewed,"Branched-chain amino acid transport system carrier protein, putative",Chlamydia muridarum (strain MoPn / Nigg),413,243161
+Q9PKM6,Q9PKM6_CHLMU,unreviewed,Adherence factor,Chlamydia muridarum (strain MoPn / Nigg),3225,243161
+Q9PJI4,Q9PJI4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),150,243161
+Q9PLP6,Q9PLP6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),36,243161
+Q9PLD9,Q9PLD9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),55,243161
+Q9PKT8,Q9PKT8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),33,243161
+Q9PL78,Q9PL78_CHLMU,unreviewed,ATP-dependent zinc metalloprotease FtsH (EC 3.4.24.-),Chlamydia muridarum (strain MoPn / Nigg),920,243161
+Q9PL04,Q9PL04_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),33,243161
+Q9PJX3,Q9PJX3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),53,243161
+Q9PJE0,Q9PJE0_CHLMU,unreviewed,"Peptidoglycan associated lipoprotein, putative",Chlamydia muridarum (strain MoPn / Nigg),202,243161
+Q9PLT4,Q9PLT4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),100,243161
+Q9PJZ8,Q9PJZ8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),125,243161
+Q9PL05,Q9PL05_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),341,243161
+Q9PK51,Q9PK51_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),45,243161
+Q9PKJ9,Q9PKJ9_CHLMU,unreviewed,Magnesium transporter MgtE,Chlamydia muridarum (strain MoPn / Nigg),490,243161
+Q9PLE2,Q9PLE2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),36,243161
+Q9PL22,Q9PL22_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),172,243161
+Q9PL61,Q9PL61_CHLMU,unreviewed,"Na+/H+ antiporter, putative",Chlamydia muridarum (strain MoPn / Nigg),427,243161
+Q9PJY5,Q9PJY5_CHLMU,unreviewed,Poly(A) polymerase I (PAP I) (EC 2.7.7.19),Chlamydia muridarum (strain MoPn / Nigg),425,243161
+Q9PL21,Q9PL21_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),43,243161
+Q9PLL8,Q9PLL8_CHLMU,unreviewed,"Helicase, Snf2 family",Chlamydia muridarum (strain MoPn / Nigg),1181,243161
+Q9PJS4,Q9PJS4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),189,243161
+Q9PJH9,Q9PJH9_CHLMU,unreviewed,Type III secretion translocase sctL,Chlamydia muridarum (strain MoPn / Nigg),235,243161
+Q9PKV1,Q9PKV1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),43,243161
+Q9PKM9,Q9PKM9_CHLMU,unreviewed,Phospholipase D family protein,Chlamydia muridarum (strain MoPn / Nigg),394,243161
+Q9PKW0,Q9PKW0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),157,243161
+Q9PK94,Q9PK94_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),158,243161
+Q9PLT7,Q9PLT7_CHLMU,unreviewed,"Exodeoxyribonuclease V, gamma subunit, putative",Chlamydia muridarum (strain MoPn / Nigg),1025,243161
+Q9PJY9,Q9PJY9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),134,243161
+Q9PJN8,Q9PJN8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),185,243161
+Q9PKD5,Q9PKD5_CHLMU,unreviewed,"Serine/threonine protein phosphatase, putative",Chlamydia muridarum (strain MoPn / Nigg),249,243161
+Q9PJQ0,Q9PJQ0_CHLMU,unreviewed,Transcription termination factor Rho (EC 3.6.4.-) (ATP-dependent helicase Rho),Chlamydia muridarum (strain MoPn / Nigg),419,243161
+Q9PL23,Q9PL23_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),446,243161
+Q9PLR9,Q9PLR9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),107,243161
+Q9PLT9,Q9PLT9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),345,243161
+Q9PKF0,Q9PKF0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),413,243161
+Q9PKV7,Q9PKV7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),78,243161
+Q9PKG7,Q9PKG7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),138,243161
+Q9PLM8,Q9PLM8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),39,243161
+Q9PKN6,Q9PKN6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),506,243161
+Q9PLB9,Q9PLB9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),47,243161
+Q9PK90,Q9PK90_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),178,243161
+Q9PK07,Q9PK07_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),696,243161
+Q9PJR2,Q9PJR2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),47,243161
+Q9PLH4,Q9PLH4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),36,243161
+Q9PL55,Q9PL55_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),490,243161
+Q9PLF9,Q9PLF9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),259,243161
+Q9PJJ2,Q9PJJ2_CHLMU,unreviewed,"RsbW protein, putative",Chlamydia muridarum (strain MoPn / Nigg),152,243161
+Q9PLB5,Q9PLB5_CHLMU,unreviewed,"Glycerol-3-phosphate acyltransferase, putative",Chlamydia muridarum (strain MoPn / Nigg),338,243161
+Q9PJB4,Q9PJB4_CHLMU,unreviewed,UDP-N-acetylglucosamine pyrophosphorylase GlmU-related enzyme,Chlamydia muridarum (strain MoPn / Nigg),218,243161
+Q9PJW7,Q9PJW7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),71,243161
+Q9PJI6,Q9PJI6_CHLMU,unreviewed,"Helicase, Snf2 family",Chlamydia muridarum (strain MoPn / Nigg),1202,243161
+Q9PKG2,Q9PKG2_CHLMU,unreviewed,Inclusion membrane protein B,Chlamydia muridarum (strain MoPn / Nigg),123,243161
+Q9PK13,Q9PK13_CHLMU,unreviewed,"Amino acid ABC transporter, periplasmic amino acid-binding protein",Chlamydia muridarum (strain MoPn / Nigg),259,243161
+Q9PJH8,Q9PJH8_CHLMU,unreviewed,Type III secretion inner membrane protein SctR,Chlamydia muridarum (strain MoPn / Nigg),311,243161
+Q9PKY7,Q9PKY7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),148,243161
+Q9PKD6,Q9PKD6_CHLMU,unreviewed,"NifS protein, putative",Chlamydia muridarum (strain MoPn / Nigg),374,243161
+Q9PKU8,Q9PKU8_CHLMU,unreviewed,Type III secretion chaperone SycE,Chlamydia muridarum (strain MoPn / Nigg),146,243161
+Q9PJP8,Q9PJP8_CHLMU,unreviewed,DNA polymerase I,Chlamydia muridarum (strain MoPn / Nigg),866,243161
+Q9PLL5,Q9PLL5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),769,243161
+Q9PLG7,Q9PLG7_CHLMU,unreviewed,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10),Chlamydia muridarum (strain MoPn / Nigg),452,243161
+Q9PLK7,Q9PLK7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),332,243161
+Q9PKM5,Q9PKM5_CHLMU,unreviewed,Phospholipase D family protein,Chlamydia muridarum (strain MoPn / Nigg),439,243161
+Q9PJD0,Q9PJD0_CHLMU,unreviewed,"RNA polymerase sigma factor, sigma-54 family",Chlamydia muridarum (strain MoPn / Nigg),426,243161
+Q9PJB2,Q9PJB2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),84,243161
+Q9PKV6,Q9PKV6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),558,243161
+Q9PLA3,Q9PLA3_CHLMU,unreviewed,Mtr/TnaB/TyrO permease family protein,Chlamydia muridarum (strain MoPn / Nigg),398,243161
+Q9PL18,Q9PL18_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),247,243161
+Q9PKB1,Q9PKB1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),690,243161
+Q9PKM4,Q9PKM4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),462,243161
+Q9PKG1,Q9PKG1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),177,243161
+Q9PJR7,Q9PJR7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),321,243161
+Q9PLE6,Q9PLE6_CHLMU,unreviewed,"8-amino-7-oxononanoate synthase, putative",Chlamydia muridarum (strain MoPn / Nigg),375,243161
+Q9PK74,Q9PK74_CHLMU,unreviewed,Protein translocase subunit SecE,Chlamydia muridarum (strain MoPn / Nigg),82,243161
+Q9PKN1,Q9PKN1_CHLMU,unreviewed,Phospholipase D family protein,Chlamydia muridarum (strain MoPn / Nigg),389,243161
+Q9PLH2,Q9PLH2_CHLMU,unreviewed,AMP nucleosidase-related protein,Chlamydia muridarum (strain MoPn / Nigg),289,243161
+Q9PKD1,Q9PKD1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),209,243161
+Q9PKQ3,Q9PKQ3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),365,243161
+Q9PK38,Q9PK38_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),704,243161
+Q9PKE0,Q9PKE0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),255,243161
+Q9PL62,Q9PL62_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),133,243161
+Q9PKC5,Q9PKC5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),107,243161
+Q9PKV5,Q9PKV5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),161,243161
+Q9PKG3,Q9PKG3_CHLMU,unreviewed,"Sodium-dependent transporter, putative",Chlamydia muridarum (strain MoPn / Nigg),490,243161
+Q9PLN0,Q9PLN0_CHLMU,unreviewed,Endonuclease III (EC 4.2.99.18),Chlamydia muridarum (strain MoPn / Nigg),210,243161
+Q9PLA7,Q9PLA7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),99,243161
+Q9PKG4,Q9PKG4_CHLMU,unreviewed,Sodium:dicarboxylate symporter family protein,Chlamydia muridarum (strain MoPn / Nigg),415,243161
+Q9PJQ4,Q9PJQ4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),186,243161
+Q9PK15,Q9PK15_CHLMU,unreviewed,GTPase HflX (GTP-binding protein HflX),Chlamydia muridarum (strain MoPn / Nigg),447,243161
+Q9PJI8,Q9PJI8_CHLMU,unreviewed,Nol1/Nop2/Sun family protein,Chlamydia muridarum (strain MoPn / Nigg),368,243161
+Q9PJR1,Q9PJR1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),243,243161
+Q9PJH3,Q9PJH3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),174,243161
+Q9PL25,Q9PL25_CHLMU,unreviewed,PhoH-related protein,Chlamydia muridarum (strain MoPn / Nigg),434,243161
+Q9PL15,Q9PL15_CHLMU,unreviewed,Release factor glutamine methyltransferase (RF MTase) (EC 2.1.1.297) (N5-glutamine methyltransferase PrmC) (Protein-(glutamine-N5) MTase PrmC) (Protein-glutamine N-methyltransferase PrmC),Chlamydia muridarum (strain MoPn / Nigg),290,243161
+Q9PKF6,Q9PKF6_CHLMU,unreviewed,Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39),Chlamydia muridarum (strain MoPn / Nigg),308,243161
+Q9PJD5,Q9PJD5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),410,243161
+Q9PKR4,Q9PKR4_CHLMU,unreviewed,"Acetyl-coenzyme A carboxylase, biotin carboxylase",Chlamydia muridarum (strain MoPn / Nigg),457,243161
+Q9PK35,Q9PK35_CHLMU,unreviewed,BioY family protein,Chlamydia muridarum (strain MoPn / Nigg),196,243161
+Q9PLI9,Q9PLI9_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),219,243161
+Q9PKJ3,Q9PKJ3_CHLMU,unreviewed,"Peptide ABC transporter, permease protein",Chlamydia muridarum (strain MoPn / Nigg),314,243161
+Q9PKL9,Q9PKL9_CHLMU,unreviewed,"Peptide ABC transporter, periplasmic peptide-binding protein",Chlamydia muridarum (strain MoPn / Nigg),527,243161
+Q9PJG7,Q9PJG7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),410,243161
+Q9PKQ5,Q9PKQ5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),266,243161
+Q9PL19,Q9PL19_CHLMU,unreviewed,Signal peptidase I (EC 3.4.21.89),Chlamydia muridarum (strain MoPn / Nigg),627,243161
+Q9PKT3,Q9PKT3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),298,243161
+Q9PKQ6,Q9PKQ6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),425,243161
+Q9PJH0,Q9PJH0_CHLMU,unreviewed,General secretion pathway protein F,Chlamydia muridarum (strain MoPn / Nigg),391,243161
+Q9PJZ3,Q9PJZ3_CHLMU,unreviewed,SpoU rRNA methylase family protein,Chlamydia muridarum (strain MoPn / Nigg),265,243161
+Q9PKF9,Q9PKF9_CHLMU,unreviewed,"Cyclic nucleotide-binding protein, putative",Chlamydia muridarum (strain MoPn / Nigg),137,243161
+Q9PJG2,Q9PJG2_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),491,243161
+Q9PLS2,Q9PLS2_CHLMU,unreviewed,"ABC transporter, ATP-binding protein",Chlamydia muridarum (strain MoPn / Nigg),239,243161
+Q9PLR7,Q9PLR7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),105,243161
+Q9PJC1,Q9PJC1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),828,243161
+Q9PJK5,Q9PJK5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),157,243161
+Q9PKD2,Q9PKD2_CHLMU,unreviewed,"1,4-dihydroxy-6-naphtoate synthase (EC 4.1.-.-) (Menaquinone biosynthetic enzyme MqnD)",Chlamydia muridarum (strain MoPn / Nigg),256,243161
+Q9PKX9,Q9PKX9_CHLMU,unreviewed,"RNA polymerase sigma factor, sigma-70 family",Chlamydia muridarum (strain MoPn / Nigg),253,243161
+Q9PJF0,Q9PJF0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),956,243161
+Q9PLH0,Q9PLH0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),74,243161
+Q9PLT2,Q9PLT2_CHLMU,unreviewed,tRNA-dihydrouridine synthase (EC 1.3.1.-),Chlamydia muridarum (strain MoPn / Nigg),334,243161
+Q9PKY5,Q9PKY5_CHLMU,unreviewed,"2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase",Chlamydia muridarum (strain MoPn / Nigg),364,243161
+Q9PK43,Q9PK43_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),700,243161
+Q9PKE8,Q9PKE8_CHLMU,unreviewed,"Pyruvate dehydrogenase, E1 component, beta subunit",Chlamydia muridarum (strain MoPn / Nigg),328,243161
+Q9PJZ6,Q9PJZ6_CHLMU,unreviewed,Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.-),Chlamydia muridarum (strain MoPn / Nigg),410,243161
+Q9PKP7,Q9PKP7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),168,243161
+Q9PKA4,Q9PKA4_CHLMU,unreviewed,"PTS system, IIA component",Chlamydia muridarum (strain MoPn / Nigg),223,243161
+Q9PJS6,Q9PJS6_CHLMU,unreviewed,Sensor histidine kinase,Chlamydia muridarum (strain MoPn / Nigg),352,243161
+Q9PLJ1,Q9PLJ1_CHLMU,unreviewed,Sodium/alanine symporter family protein,Chlamydia muridarum (strain MoPn / Nigg),455,243161
+Q9PJS5,Q9PJS5_CHLMU,unreviewed,Sigma-54 dependent response regulator,Chlamydia muridarum (strain MoPn / Nigg),387,243161
+Q9PKD0,Q9PKD0_CHLMU,unreviewed,"ABC transporter, ATP-binding protein",Chlamydia muridarum (strain MoPn / Nigg),647,243161
+Q9PL75,Q9PL75_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),92,243161
+Q9PLF0,Q9PLF0_CHLMU,unreviewed,Glu/Leu/Phe/Val dehydrogenase family protein,Chlamydia muridarum (strain MoPn / Nigg),346,243161
+Q9PKZ1,Q9PKZ1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),434,243161
+Q9PL82,Q9PL82_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),658,243161
+Q9PJS9,Q9PJS9_CHLMU,unreviewed,"Hydrolase, haloacid dehalogenase-like family",Chlamydia muridarum (strain MoPn / Nigg),224,243161
+Q9PKS3,Q9PKS3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),124,243161
+Q9PJI0,Q9PJI0_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),278,243161
+Q9PLA0,Q9PLA0_CHLMU,unreviewed,Signal recognition particle receptor FtsY (SRP receptor),Chlamydia muridarum (strain MoPn / Nigg),284,243161
+Q9PJJ4,Q9PJJ4_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),318,243161
+Q9PLM2,Q9PLM2_CHLMU,unreviewed,Poly(A) polymerase family protein,Chlamydia muridarum (strain MoPn / Nigg),410,243161
+Q9PKD8,Q9PKD8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),412,243161
+Q9PKS7,Q9PKS7_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),263,243161
+Q9PJU3,Q9PJU3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),108,243161
+Q9PLU0,Q9PLU0_CHLMU,unreviewed,Aminotransferase (EC 2.6.1.-),Chlamydia muridarum (strain MoPn / Nigg),400,243161
+Q9PLK6,Q9PLK6_CHLMU,unreviewed,NifU-related protein,Chlamydia muridarum (strain MoPn / Nigg),260,243161
+Q9PJQ3,Q9PJQ3_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),247,243161
+Q9PJQ5,Q9PJQ5_CHLMU,unreviewed,"Amino acid ABC transporter, periplasmic amino acid-binding protein",Chlamydia muridarum (strain MoPn / Nigg),263,243161
+Q9PL01,Q9PL01_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),46,243161
+Q9PLP8,Q9PLP8_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),177,243161
+Q9PKG6,Q9PKG6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),210,243161
+Q9PLC5,Q9PLC5_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),40,243161
+Q9PJJ1,Q9PJJ1_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),140,243161
+Q9PK37,Q9PK37_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),106,243161
+Q9PK98,Q9PK98_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),157,243161
+Q9PK81,Q9PK81_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),128,243161
+Q9PLQ6,Q9PLQ6_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),226,243161
+Q9PK69,Q9PK69_CHLMU,unreviewed,Uncharacterized protein,Chlamydia muridarum (strain MoPn / Nigg),60,243161

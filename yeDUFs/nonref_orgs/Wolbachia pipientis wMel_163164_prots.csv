@@ -1,0 +1,1160 @@
+Entry,Entry name,Status,Protein names,Organism,Length,Organism ID
+Q73G53,3MGH_WOLPM,reviewed,Putative 3-methyladenine DNA glycosylase (EC 3.2.2.-),Wolbachia pipientis wMel,180,163164
+Q73GW5,ACPS_WOLPM,reviewed,Holo-[acyl-carrier-protein] synthase (Holo-ACP synthase) (EC 2.7.8.7) (4'-phosphopantetheinyl transferase AcpS),Wolbachia pipientis wMel,123,163164
+Q73G26,APAG_WOLPM,reviewed,Protein ApaG,Wolbachia pipientis wMel,133,163164
+Q73IU2,AMPA_WOLPM,reviewed,Probable cytosol aminopeptidase (EC 3.4.11.1) (Leucine aminopeptidase) (LAP) (EC 3.4.11.10) (Leucyl aminopeptidase),Wolbachia pipientis wMel,500,163164
+Q73HW3,ATP6_WOLPM,reviewed,ATP synthase subunit a (ATP synthase F0 sector subunit a) (F-ATPase subunit 6),Wolbachia pipientis wMel,241,163164
+Q73FU0,ATPG_WOLPM,reviewed,ATP synthase gamma chain (ATP synthase F1 sector gamma subunit) (F-ATPase gamma subunit),Wolbachia pipientis wMel,290,163164
+Q73IG3,ATPB_WOLPM,reviewed,ATP synthase subunit beta (EC 3.6.3.14) (ATP synthase F1 sector subunit beta) (F-ATPase subunit beta),Wolbachia pipientis wMel,475,163164
+Q73HB2,ATPA_WOLPM,reviewed,ATP synthase subunit alpha (EC 3.6.3.14) (ATP synthase F1 sector subunit alpha) (F-ATPase subunit alpha),Wolbachia pipientis wMel,513,163164
+Q73HB1,ATPD_WOLPM,reviewed,ATP synthase subunit delta (ATP synthase F(1) sector subunit delta) (F-type ATPase subunit delta) (F-ATPase subunit delta),Wolbachia pipientis wMel,186,163164
+Q73HW2,ATPL_WOLPM,reviewed,ATP synthase subunit c (ATP synthase F(0) sector subunit c) (F-type ATPase subunit c) (F-ATPase subunit c) (Lipid-binding protein),Wolbachia pipientis wMel,75,163164
+Q73IG2,ATPE_WOLPM,reviewed,ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit) (F-ATPase epsilon subunit),Wolbachia pipientis wMel,114,163164
+Q73GI2,CCME_WOLPM,reviewed,Cytochrome c-type biogenesis protein CcmE (Cytochrome c maturation protein E) (Heme chaperone CcmE),Wolbachia pipientis wMel,130,163164
+Q73HX8,CCMA_WOLPM,reviewed,Cytochrome c biogenesis ATP-binding export protein CcmA (EC 3.6.3.41) (Heme exporter protein A),Wolbachia pipientis wMel,207,163164
+Q73I70,CH10_WOLPM,reviewed,10 kDa chaperonin (GroES protein) (Protein Cpn10),Wolbachia pipientis wMel,96,163164
+Q73I71,CH60_WOLPM,reviewed,60 kDa chaperonin (GroEL protein) (Protein Cpn60),Wolbachia pipientis wMel,549,163164
+Q73IE4,CLPB_WOLPM,reviewed,Chaperone protein ClpB,Wolbachia pipientis wMel,853,163164
+Q73HM7,COAD_WOLPM,reviewed,Phosphopantetheine adenylyltransferase (EC 2.7.7.3) (Dephospho-CoA pyrophosphorylase) (Pantetheine-phosphate adenylyltransferase) (PPAT),Wolbachia pipientis wMel,168,163164
+Q73IH9,COAE_WOLPM,reviewed,Dephospho-CoA kinase (EC 2.7.1.24) (Dephosphocoenzyme A kinase),Wolbachia pipientis wMel,195,163164
+Q73I59,CLPP_WOLPM,reviewed,ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92) (Endopeptidase Clp),Wolbachia pipientis wMel,208,163164
+Q73I60,CLPX_WOLPM,reviewed,ATP-dependent Clp protease ATP-binding subunit ClpX,Wolbachia pipientis wMel,425,163164
+Q73I75,COXX_WOLPM,reviewed,Protoheme IX farnesyltransferase (EC 2.5.1.-) (Heme B farnesyltransferase) (Heme O synthase),Wolbachia pipientis wMel,295,163164
+Q73H02,DAPA_WOLPM,reviewed,4-hydroxy-tetrahydrodipicolinate synthase (HTPA synthase) (EC 4.3.3.7),Wolbachia pipientis wMel,293,163164
+Q73IQ8,DDL_WOLPM,reviewed,D-alanine--D-alanine ligase (EC 6.3.2.4) (D-Ala-D-Ala ligase) (D-alanylalanine synthetase),Wolbachia pipientis wMel,315,163164
+Q73I07,DCD_WOLPM,reviewed,dCTP deaminase (EC 3.5.4.13) (Deoxycytidine triphosphate deaminase),Wolbachia pipientis wMel,185,163164
+Q73GC9,DCUP_WOLPM,reviewed,Uroporphyrinogen decarboxylase (UPD) (URO-D) (EC 4.1.1.37),Wolbachia pipientis wMel,338,163164
+Q73H59,DAPD_WOLPM,reviewed,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117) (Tetrahydrodipicolinate N-succinyltransferase) (THDP succinyltransferase) (THP succinyltransferase) (Tetrahydropicolinate succinylase)",Wolbachia pipientis wMel,273,163164
+Q73GZ0,DAPE_WOLPM,reviewed,"Succinyl-diaminopimelate desuccinylase (SDAP desuccinylase) (EC 3.5.1.18) (N-succinyl-LL-2,6-diaminoheptanedioate amidohydrolase)",Wolbachia pipientis wMel,398,163164
+Q73HV8,CTAA_WOLPM,reviewed,Heme A synthase (HAS) (EC 1.3.-.-) (Cytochrome aa3-controlling protein),Wolbachia pipientis wMel,350,163164
+Q73IJ6,DEF_WOLPM,reviewed,Peptide deformylase (PDF) (EC 3.5.1.88) (Polypeptide deformylase),Wolbachia pipientis wMel,179,163164
+Q73I13,DAPB_WOLPM,reviewed,4-hydroxy-tetrahydrodipicolinate reductase (HTPA reductase) (EC 1.17.1.8),Wolbachia pipientis wMel,261,163164
+Q73IZ0,DNAA_WOLPM,reviewed,Chromosomal replication initiator protein DnaA,Wolbachia pipientis wMel,460,163164
+Q73IV4,DNAJ_WOLPM,reviewed,Chaperone protein DnaJ,Wolbachia pipientis wMel,372,163164
+Q73GL7,DNAK_WOLPM,reviewed,Chaperone protein DnaK (HSP70) (Heat shock 70 kDa protein) (Heat shock protein 70),Wolbachia pipientis wMel,640,163164
+Q73H01,DNLJ_WOLPM,reviewed,DNA ligase (EC 6.5.1.2) (Polydeoxyribonucleotide synthase [NAD(+)]),Wolbachia pipientis wMel,662,163164
+Q73GG3,DXR_WOLPM,reviewed,1-deoxy-D-xylulose 5-phosphate reductoisomerase (DXP reductoisomerase) (EC 1.1.1.267) (1-deoxyxylulose-5-phosphate reductoisomerase) (2-C-methyl-D-erythritol 4-phosphate synthase),Wolbachia pipientis wMel,387,163164
+P61913,DUT_WOLPM,reviewed,Deoxyuridine 5'-triphosphate nucleotidohydrolase (dUTPase) (EC 3.6.1.23) (dUTP pyrophosphatase),Wolbachia pipientis wMel,153,163164
+Q73IX7,EFG_WOLPM,reviewed,Elongation factor G (EF-G),Wolbachia pipientis wMel,691,163164
+Q73HQ2,ENO_WOLPM,reviewed,Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase),Wolbachia pipientis wMel,424,163164
+Q73IX6,EFTU1_WOLPM,reviewed,Elongation factor Tu 1 (EF-Tu 1),Wolbachia pipientis wMel,390,163164
+Q73H85,EFTU2_WOLPM,reviewed,Elongation factor Tu 2 (EF-Tu 2),Wolbachia pipientis wMel,390,163164
+Q73IH1,GUAA_WOLPM,reviewed,GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2) (GMP synthetase) (Glutamine amidotransferase),Wolbachia pipientis wMel,520,163164
+Q73GC3,GLYA_WOLPM,reviewed,Serine hydroxymethyltransferase (SHMT) (Serine methylase) (EC 2.1.2.1),Wolbachia pipientis wMel,425,163164
+Q73GR4,GPMI_WOLPM,reviewed,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase (BPG-independent PGAM) (Phosphoglyceromutase) (iPGM) (EC 5.4.2.12)",Wolbachia pipientis wMel,506,163164
+P61749,GPDA_WOLPM,reviewed,Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94) (NAD(P)H-dependent glycerol-3-phosphate dehydrogenase),Wolbachia pipientis wMel,327,163164
+Q73FY6,HEMH_WOLPM,reviewed,Ferrochelatase (EC 4.99.1.1) (Heme synthase) (Protoheme ferro-lyase),Wolbachia pipientis wMel,315,163164
+P61340,EFTS_WOLPM,reviewed,Elongation factor Ts (EF-Ts),Wolbachia pipientis wMel,286,163164
+Q73FP5,EFP_WOLPM,reviewed,Elongation factor P (EF-P),Wolbachia pipientis wMel,188,163164
+Q73IC3,ENGB_WOLPM,reviewed,Probable GTP-binding protein EngB,Wolbachia pipientis wMel,197,163164
+P61455,FABZ_WOLPM,reviewed,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ (EC 4.2.1.59) ((3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase) ((3R)-hydroxymyristoyl-ACP dehydrase) (Beta-hydroxyacyl-ACP dehydratase),Wolbachia pipientis wMel,143,163164
+Q73GG9,FABH_WOLPM,reviewed,3-oxoacyl-[acyl-carrier-protein] synthase 3 (EC 2.3.1.180) (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III) (KAS III),Wolbachia pipientis wMel,318,163164
+Q73GH2,FENR_WOLPM,reviewed,Ferredoxin--NADP reductase (FNR) (Fd-NADP(+) reductase) (EC 1.18.1.2),Wolbachia pipientis wMel,338,163164
+Q73GR6,FMT_WOLPM,reviewed,Methionyl-tRNA formyltransferase (EC 2.1.2.9),Wolbachia pipientis wMel,299,163164
+Q73HK3,FOLD_WOLPM,reviewed,Bifunctional protein FolD [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)],Wolbachia pipientis wMel,292,163164
+Q73G10,FPG_WOLPM,reviewed,Formamidopyrimidine-DNA glycosylase (Fapy-DNA glycosylase) (EC 3.2.2.23) (DNA-(apurinic or apyrimidinic site) lyase MutM) (AP lyase MutM) (EC 4.2.99.18),Wolbachia pipientis wMel,271,163164
+P61349,GATB_WOLPM,reviewed,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (Asp/Glu-ADT subunit B) (EC 6.3.5.-),Wolbachia pipientis wMel,474,163164
+Q73HP2,GATA_WOLPM,reviewed,Glutamyl-tRNA(Gln) amidotransferase subunit A (Glu-ADT subunit A) (EC 6.3.5.7),Wolbachia pipientis wMel,489,163164
+Q73IM4,GLMU_WOLPM,reviewed,Bifunctional protein GlmU [Includes: UDP-N-acetylglucosamine pyrophosphorylase (EC 2.7.7.23) (N-acetylglucosamine-1-phosphate uridyltransferase); Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)],Wolbachia pipientis wMel,430,163164
+Q73GX9,GRPE_WOLPM,reviewed,Protein GrpE (HSP-70 cofactor),Wolbachia pipientis wMel,189,163164
+P61479,HSLV_WOLPM,reviewed,ATP-dependent protease subunit HslV (EC 3.4.25.2),Wolbachia pipientis wMel,184,163164
+P61189,HTPG_WOLPM,reviewed,Chaperone protein HtpG (Heat shock protein HtpG) (High temperature protein G),Wolbachia pipientis wMel,635,163164
+Q73FL0,IF2_WOLPM,reviewed,Translation initiation factor IF-2,Wolbachia pipientis wMel,774,163164
+Q73FQ1,ISPH_WOLPM,reviewed,4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4),Wolbachia pipientis wMel,309,163164
+Q73G24,ISPDF_WOLPM,reviewed,"Bifunctional enzyme IspD/IspF [Includes: 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) (4-diphosphocytidyl-2C-methyl-D-erythritol synthase) (MEP cytidylyltransferase) (MCT); 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (MECDP-synthase) (MECPP-synthase) (MECPS) (EC 4.6.1.12)]",Wolbachia pipientis wMel,397,163164
+Q73I23,ISPE_WOLPM,reviewed,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (CMK) (EC 2.7.1.148) (4-(cytidine-5'-diphospho)-2-C-methyl-D-erythritol kinase),Wolbachia pipientis wMel,288,163164
+Q73IP1,ISPG_WOLPM,reviewed,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin) (EC 1.17.7.3) (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase),Wolbachia pipientis wMel,426,163164
+Q73HV1,KGUA_WOLPM,reviewed,Guanylate kinase (EC 2.7.4.8) (GMP kinase),Wolbachia pipientis wMel,201,163164
+Q73FY9,NDK_WOLPM,reviewed,Nucleoside diphosphate kinase (NDK) (NDP kinase) (EC 2.7.4.6) (Nucleoside-2-P kinase),Wolbachia pipientis wMel,139,163164
+P61673,MUTS_WOLPM,reviewed,DNA mismatch repair protein MutS,Wolbachia pipientis wMel,849,163164
+Q73GT3,MURD_WOLPM,reviewed,UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9) (D-glutamic acid-adding enzyme) (UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase),Wolbachia pipientis wMel,509,163164
+Q73GD4,PUR7_WOLPM,reviewed,Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6) (SAICAR synthetase),Wolbachia pipientis wMel,240,163164
+Q73GB0,PSD_WOLPM,reviewed,Phosphatidylserine decarboxylase proenzyme (EC 4.1.1.65) [Cleaved into: Phosphatidylserine decarboxylase alpha chain; Phosphatidylserine decarboxylase beta chain],Wolbachia pipientis wMel,230,163164
+Q73II8,PTH_WOLPM,reviewed,Peptidyl-tRNA hydrolase (PTH) (EC 3.1.1.29),Wolbachia pipientis wMel,182,163164
+Q73I44,PURA_WOLPM,reviewed,Adenylosuccinate synthetase (AMPSase) (AdSS) (EC 6.3.4.4) (IMP--aspartate ligase),Wolbachia pipientis wMel,425,163164
+Q73HM2,PYRH_WOLPM,reviewed,Uridylate kinase (UK) (EC 2.7.4.22) (Uridine monophosphate kinase) (UMP kinase) (UMPK),Wolbachia pipientis wMel,247,163164
+Q73HS5,PYRG_WOLPM,reviewed,CTP synthase (EC 6.3.4.2) (Cytidine 5'-triphosphate synthase) (Cytidine triphosphate synthetase) (CTP synthetase) (CTPS) (UTP--ammonia ligase),Wolbachia pipientis wMel,529,163164
+Q73HZ5,RL28_WOLPM,reviewed,50S ribosomal protein L28,Wolbachia pipientis wMel,104,163164
+Q73H89,RL2_WOLPM,reviewed,50S ribosomal protein L2,Wolbachia pipientis wMel,274,163164
+Q73GZ5,RL9_WOLPM,reviewed,50S ribosomal protein L9,Wolbachia pipientis wMel,184,163164
+Q73GL5,RL33_WOLPM,reviewed,50S ribosomal protein L33,Wolbachia pipientis wMel,66,163164
+Q73I40,RL36_WOLPM,reviewed,50S ribosomal protein L36,Wolbachia pipientis wMel,42,163164
+Q73IS9,RLME_WOLPM,reviewed,Ribosomal RNA large subunit methyltransferase E (EC 2.1.1.166) (23S rRNA Um2552 methyltransferase) (rRNA (uridine-2'-O-)-methyltransferase),Wolbachia pipientis wMel,192,163164
+Q73GG7,RL32_WOLPM,reviewed,50S ribosomal protein L32,Wolbachia pipientis wMel,60,163164
+Q73HA9,RPOA_WOLPM,reviewed,DNA-directed RNA polymerase subunit alpha (RNAP subunit alpha) (EC 2.7.7.6) (RNA polymerase subunit alpha) (Transcriptase subunit alpha),Wolbachia pipientis wMel,355,163164
+Q73G60,RNH2_WOLPM,reviewed,Ribonuclease HII (RNase HII) (EC 3.1.26.4),Wolbachia pipientis wMel,198,163164
+Q73FT3,RNC_WOLPM,reviewed,Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III),Wolbachia pipientis wMel,232,163164
+Q73I74,RNH_WOLPM,reviewed,Ribonuclease H (RNase H) (EC 3.1.26.4),Wolbachia pipientis wMel,145,163164
+Q73FM5,RPOZ_WOLPM,reviewed,DNA-directed RNA polymerase subunit omega (RNAP omega subunit) (EC 2.7.7.6) (RNA polymerase omega subunit) (Transcriptase subunit omega),Wolbachia pipientis wMel,135,163164
+P61311,RRF_WOLPM,reviewed,Ribosome-recycling factor (RRF) (Ribosome-releasing factor),Wolbachia pipientis wMel,185,163164
+Q73IW9,RPOBC_WOLPM,reviewed,Bifunctional DNA-directed RNA polymerase subunit beta-beta' (EC 2.7.7.6) [Includes: DNA-directed RNA polymerase subunit beta (RNA polymerase subunit beta) (Transcriptase subunit beta); DNA-directed RNA polymerase subunit beta' (RNA polymerase beta') (Transcriptase subunit beta')],Wolbachia pipientis wMel,2837,163164
+P62240,RS16_WOLPM,reviewed,30S ribosomal protein S16,Wolbachia pipientis wMel,106,163164
+Q73H86,RS10_WOLPM,reviewed,30S ribosomal protein S10,Wolbachia pipientis wMel,109,163164
+P61787,RPPH_WOLPM,reviewed,RNA pyrophosphohydrolase (EC 3.6.1.-) ((Di)nucleoside polyphosphate hydrolase),Wolbachia pipientis wMel,162,163164
+Q73HZ8,RS4_WOLPM,reviewed,30S ribosomal protein S4,Wolbachia pipientis wMel,204,163164
+Q73IX8,RS7_WOLPM,reviewed,30S ribosomal protein S7,Wolbachia pipientis wMel,159,163164
+Q73H92,RS3_WOLPM,reviewed,30S ribosomal protein S3,Wolbachia pipientis wMel,204,163164
+P62478,RSMH_WOLPM,reviewed,Ribosomal RNA small subunit methyltransferase H (EC 2.1.1.199) (16S rRNA m(4)C1402 methyltransferase) (rRNA (cytosine-N(4)-)-methyltransferase RsmH),Wolbachia pipientis wMel,314,163164
+Q73IL5,RUVC_WOLPM,reviewed,Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4) (Holliday junction nuclease RuvC) (Holliday junction resolvase RuvC),Wolbachia pipientis wMel,162,163164
+Q73IR3,RSMA_WOLPM,reviewed,"Ribosomal RNA small subunit methyltransferase A (EC 2.1.1.182) (16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase) (16S rRNA dimethyladenosine transferase) (16S rRNA dimethylase) (S-adenosylmethionine-6-N', N'-adenosyl(rRNA) dimethyltransferase)",Wolbachia pipientis wMel,286,163164
+Q73G51,RUVA_WOLPM,reviewed,Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12),Wolbachia pipientis wMel,190,163164
+P61539,RUVB_WOLPM,reviewed,Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12),Wolbachia pipientis wMel,326,163164
+Q73IQ0,SECB_WOLPM,reviewed,Protein-export protein SecB,Wolbachia pipientis wMel,167,163164
+Q73HK8,SECA_WOLPM,reviewed,Protein translocase subunit SecA,Wolbachia pipientis wMel,868,163164
+Q73H09,SSRP_WOLPM,reviewed,SsrA-binding protein (Small protein B),Wolbachia pipientis wMel,149,163164
+Q73FW3,SUCC_WOLPM,reviewed,Succinate--CoA ligase [ADP-forming] subunit beta (EC 6.2.1.5) (Succinyl-CoA synthetase subunit beta) (SCS-beta),Wolbachia pipientis wMel,383,163164
+Q73IL1,SYC_WOLPM,reviewed,Cysteine--tRNA ligase (EC 6.1.1.16) (Cysteinyl-tRNA synthetase) (CysRS),Wolbachia pipientis wMel,457,163164
+Q73G84,SURE_WOLPM,reviewed,5'-nucleotidase SurE (EC 3.1.3.5) (Nucleoside 5'-monophosphate phosphohydrolase),Wolbachia pipientis wMel,250,163164
+Q73IR2,TPIS_WOLPM,reviewed,Triosephosphate isomerase (TIM) (TPI) (EC 5.3.1.1) (Triose-phosphate isomerase),Wolbachia pipientis wMel,242,163164
+Q73IV6,TOLB_WOLPM,reviewed,Protein TolB,Wolbachia pipientis wMel,420,163164
+Q73G71,TRMB_WOLPM,reviewed,tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33) (tRNA (guanine(46)-N(7))-methyltransferase) (tRNA(m7G46)-methyltransferase),Wolbachia pipientis wMel,221,163164
+Q73GD5,TRMD_WOLPM,reviewed,tRNA (guanine-N(1)-)-methyltransferase (EC 2.1.1.228) (M1G-methyltransferase) (tRNA [GM37] methyltransferase),Wolbachia pipientis wMel,236,163164
+Q73H71,TSAD_WOLPM,reviewed,tRNA N6-adenosine threonylcarbamoyltransferase (EC 2.3.1.234) (N6-L-threonylcarbamoyladenine synthase) (t(6)A synthase) (t(6)A37 threonylcarbamoyladenosine biosynthesis protein TsaD) (tRNA threonylcarbamoyladenosine biosynthesis protein TsaD),Wolbachia pipientis wMel,335,163164
+Q73G93,TRUA_WOLPM,reviewed,tRNA pseudouridine synthase A (EC 5.4.99.12) (tRNA pseudouridine(38-40) synthase) (tRNA pseudouridylate synthase I) (tRNA-uridine isomerase I),Wolbachia pipientis wMel,245,163164
+Q73HZ4,UBIE_WOLPM,reviewed,"Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE (EC 2.1.1.163) (EC 2.1.1.201) (2-methoxy-6-polyprenyl-1,4-benzoquinol methylase) (Demethylmenaquinone methyltransferase)",Wolbachia pipientis wMel,238,163164
+Q73G32,Y1135_WOLPM,reviewed,UPF0176 protein WD_1135,Wolbachia pipientis wMel,275,163164
+Q73I47,Y333_WOLPM,reviewed,Maf-like protein WD_0333,Wolbachia pipientis wMel,198,163164
+P62043,Y484_WOLPM,reviewed,Probable transcriptional regulatory protein WD_0484,Wolbachia pipientis wMel,246,163164
+Q73HK1,Y557_WOLPM,reviewed,UPF0335 protein WD_0557,Wolbachia pipientis wMel,88,163164
+Q73GK9,ZNUC_WOLPM,reviewed,Zinc import ATP-binding protein ZnuC (EC 3.6.3.-),Wolbachia pipientis wMel,246,163164
+Q73IL4,YQGF_WOLPM,reviewed,Putative pre-16S rRNA nuclease (EC 3.1.-.-),Wolbachia pipientis wMel,155,163164
+Q73HA6,KAD_WOLPM,reviewed,Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase),Wolbachia pipientis wMel,213,163164
+Q73FS2,KTHY_WOLPM,reviewed,Thymidylate kinase (EC 2.7.4.9) (dTMP kinase),Wolbachia pipientis wMel,196,163164
+Q73HR8,LEPA_WOLPM,reviewed,Elongation factor 4 (EF-4) (EC 3.6.5.n1) (Ribosomal back-translocase LepA),Wolbachia pipientis wMel,598,163164
+P61200,LIPA_WOLPM,reviewed,Lipoyl synthase (EC 2.8.1.8) (Lip-syn) (LS) (Lipoate synthase) (Lipoic acid synthase) (Sulfur insertion protein LipA),Wolbachia pipientis wMel,287,163164
+Q73H08,LGT_WOLPM,reviewed,Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-),Wolbachia pipientis wMel,263,163164
+Q73GE2,LIPB_WOLPM,reviewed,Octanoyltransferase (EC 2.3.1.181) (Lipoate-protein ligase B) (Lipoyl/octanoyl transferase) (Octanoyl-[acyl-carrier-protein]-protein N-octanoyltransferase),Wolbachia pipientis wMel,205,163164
+Q73G44,MDH_WOLPM,reviewed,Malate dehydrogenase (EC 1.1.1.37),Wolbachia pipientis wMel,316,163164
+Q73GV7,MIAA_WOLPM,reviewed,tRNA dimethylallyltransferase (EC 2.5.1.75) (Dimethylallyl diphosphate:tRNA dimethylallyltransferase) (DMAPP:tRNA dimethylallyltransferase) (DMATase) (Isopentenyl-diphosphate:tRNA isopentenyltransferase) (IPP transferase) (IPPT) (IPTase),Wolbachia pipientis wMel,297,163164
+Q73GH3,MNME_WOLPM,reviewed,tRNA modification GTPase MnmE (EC 3.6.-.-),Wolbachia pipientis wMel,508,163164
+Q73HW8,MIAB_WOLPM,reviewed,tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase (EC 2.8.4.3) ((Dimethylallyl)adenosine tRNA methylthiotransferase MiaB) (tRNA-i(6)A37 methylthiotransferase),Wolbachia pipientis wMel,439,163164
+Q73FR5,MNMA_WOLPM,reviewed,tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13),Wolbachia pipientis wMel,370,163164
+Q73G61,MRAY_WOLPM,reviewed,Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) (UDP-MurNAc-pentapeptide phosphotransferase),Wolbachia pipientis wMel,326,163164
+Q73GE7,MNMG_WOLPM,reviewed,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG (Glucose-inhibited division protein A),Wolbachia pipientis wMel,644,163164
+Q73HL4,MURB_WOLPM,reviewed,UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98) (UDP-N-acetylmuramate dehydrogenase),Wolbachia pipientis wMel,295,163164
+Q73I55,MURG_WOLPM,reviewed,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227) (Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase),Wolbachia pipientis wMel,343,163164
+Q73FX6,MURA_WOLPM,reviewed,UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7) (Enoylpyruvate transferase) (UDP-N-acetylglucosamine enolpyruvyl transferase) (EPT),Wolbachia pipientis wMel,425,163164
+P61683,MURC_WOLPM,reviewed,UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8) (UDP-N-acetylmuramoyl-L-alanine synthetase),Wolbachia pipientis wMel,498,163164
+Q73G09,PDXH_WOLPM,reviewed,Pyridoxine/pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5) (PNP/PMP oxidase) (PNPOx) (Pyridoxal 5'-phosphate synthase),Wolbachia pipientis wMel,216,163164
+Q3V8B3,PDXJ_WOLPM,reviewed,Pyridoxine 5'-phosphate synthase (PNP synthase) (EC 2.6.99.2),Wolbachia pipientis wMel,235,163164
+Q73I41,PDRP_WOLPM,reviewed,"Putative pyruvate, phosphate dikinase regulatory protein (PPDK regulatory protein) (EC 2.7.11.32) (EC 2.7.4.27)",Wolbachia pipientis wMel,276,163164
+Q73HJ8,NUOD_WOLPM,reviewed,NADH-quinone oxidoreductase subunit D (EC 1.6.5.11) (NADH dehydrogenase I subunit D) (NDH-1 subunit D),Wolbachia pipientis wMel,390,163164
+Q73G42,NUOB_WOLPM,reviewed,NADH-quinone oxidoreductase subunit B (EC 1.6.5.11) (NADH dehydrogenase I subunit B) (NDH-1 subunit B),Wolbachia pipientis wMel,168,163164
+Q73IK1,NUOH_WOLPM,reviewed,NADH-quinone oxidoreductase subunit H (EC 1.6.5.11) (NADH dehydrogenase I subunit H) (NDH-1 subunit H),Wolbachia pipientis wMel,341,163164
+Q73GH4,NUOI_WOLPM,reviewed,NADH-quinone oxidoreductase subunit I (EC 1.6.5.11) (NADH dehydrogenase I subunit I) (NDH-1 subunit I),Wolbachia pipientis wMel,169,163164
+Q73HQ3,OBG_WOLPM,reviewed,GTPase Obg (EC 3.6.5.-) (GTP-binding protein Obg),Wolbachia pipientis wMel,340,163164
+Q73GG8,PLSX_WOLPM,reviewed,Phosphate acyltransferase (EC 2.3.1.n2) (Acyl-ACP phosphotransacylase) (Acyl-[acyl-carrier-protein]--phosphate acyltransferase) (Phosphate-acyl-ACP acyltransferase),Wolbachia pipientis wMel,345,163164
+P62422,PGK_WOLPM,reviewed,Phosphoglycerate kinase (EC 2.7.2.3),Wolbachia pipientis wMel,398,163164
+Q73GB4,PLSY_WOLPM,reviewed,Glycerol-3-phosphate acyltransferase (Acyl-PO4 G3P acyltransferase) (Acyl-phosphate--glycerol-3-phosphate acyltransferase) (G3P acyltransferase) (GPAT) (EC 2.3.1.n3) (Lysophosphatidic acid synthase) (LPA synthase),Wolbachia pipientis wMel,192,163164
+Q73GN4,PNP_WOLPM,reviewed,Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) (Polynucleotide phosphorylase) (PNPase),Wolbachia pipientis wMel,757,163164
+Q73GP1,PYRB_WOLPM,reviewed,Aspartate carbamoyltransferase (EC 2.1.3.2) (Aspartate transcarbamylase) (ATCase),Wolbachia pipientis wMel,295,163164
+P62222,RECA_WOLPM,reviewed,Protein RecA (Recombinase A),Wolbachia pipientis wMel,355,163164
+Q73IC2,RF1_WOLPM,reviewed,Peptide chain release factor 1 (RF-1),Wolbachia pipientis wMel,359,163164
+Q73FZ1,RECR_WOLPM,reviewed,Recombination protein RecR,Wolbachia pipientis wMel,201,163164
+Q73IE9,RECO_WOLPM,reviewed,DNA repair protein RecO (Recombination protein O),Wolbachia pipientis wMel,240,163164
+P62444,RL11_WOLPM,reviewed,50S ribosomal protein L11,Wolbachia pipientis wMel,146,163164
+Q73HB0,RL17_WOLPM,reviewed,50S ribosomal protein L17,Wolbachia pipientis wMel,142,163164
+Q73H91,RL22_WOLPM,reviewed,50S ribosomal protein L22,Wolbachia pipientis wMel,115,163164
+Q73H93,RL16_WOLPM,reviewed,50S ribosomal protein L16,Wolbachia pipientis wMel,137,163164
+Q73H97,RL24_WOLPM,reviewed,50S ribosomal protein L24,Wolbachia pipientis wMel,105,163164
+Q73GD6,RL19_WOLPM,reviewed,50S ribosomal protein L19,Wolbachia pipientis wMel,125,163164
+Q73IT2,RL13_WOLPM,reviewed,50S ribosomal protein L13,Wolbachia pipientis wMel,152,163164
+Q73FP4,RIMM_WOLPM,reviewed,Ribosome maturation factor RimM,Wolbachia pipientis wMel,168,163164
+P61729,RISB_WOLPM,reviewed,"6,7-dimethyl-8-ribityllumazine synthase (DMRL synthase) (LS) (Lumazine synthase) (EC 2.5.1.78)",Wolbachia pipientis wMel,142,163164
+Q73HA4,RL15_WOLPM,reviewed,50S ribosomal protein L15,Wolbachia pipientis wMel,156,163164
+Q73HA2,RL18_WOLPM,reviewed,50S ribosomal protein L18,Wolbachia pipientis wMel,123,163164
+Q73GR7,RL20_WOLPM,reviewed,50S ribosomal protein L20,Wolbachia pipientis wMel,121,163164
+Q73GR8,RL35_WOLPM,reviewed,50S ribosomal protein L35,Wolbachia pipientis wMel,68,163164
+Q73H98,RL5_WOLPM,reviewed,50S ribosomal protein L5,Wolbachia pipientis wMel,177,163164
+Q73H96,RL14_WOLPM,reviewed,50S ribosomal protein L14,Wolbachia pipientis wMel,119,163164
+Q73IG5,RL34_WOLPM,reviewed,50S ribosomal protein L34,Wolbachia pipientis wMel,44,163164
+P61071,RL4_WOLPM,reviewed,50S ribosomal protein L4,Wolbachia pipientis wMel,204,163164
+Q73IM3,RL21_WOLPM,reviewed,50S ribosomal protein L21,Wolbachia pipientis wMel,100,163164
+Q73H94,RL29_WOLPM,reviewed,50S ribosomal protein L29,Wolbachia pipientis wMel,67,163164
+Q73IX2,RL1_WOLPM,reviewed,50S ribosomal protein L1,Wolbachia pipientis wMel,217,163164
+Q73II9,RL25_WOLPM,reviewed,50S ribosomal protein L25 (General stress protein CTC),Wolbachia pipientis wMel,203,163164
+Q73HA8,RS11_WOLPM,reviewed,30S ribosomal protein S11,Wolbachia pipientis wMel,128,163164
+Q73GN5,RS15_WOLPM,reviewed,30S ribosomal protein S15,Wolbachia pipientis wMel,90,163164
+Q73HA3,RS5_WOLPM,reviewed,30S ribosomal protein S5,Wolbachia pipientis wMel,170,163164
+Q73H99,RS14_WOLPM,reviewed,30S ribosomal protein S14,Wolbachia pipientis wMel,102,163164
+Q73GZ6,RS18_WOLPM,reviewed,30S ribosomal protein S18,Wolbachia pipientis wMel,91,163164
+Q73IX9,RS12_WOLPM,reviewed,30S ribosomal protein S12,Wolbachia pipientis wMel,124,163164
+Q73G18,RS20_WOLPM,reviewed,30S ribosomal protein S20,Wolbachia pipientis wMel,89,163164
+Q73HA7,RS13_WOLPM,reviewed,30S ribosomal protein S13,Wolbachia pipientis wMel,122,163164
+Q73HM1,RS2_WOLPM,reviewed,30S ribosomal protein S2,Wolbachia pipientis wMel,282,163164
+Q73H95,RS17_WOLPM,reviewed,30S ribosomal protein S17,Wolbachia pipientis wMel,78,163164
+Q73H90,RS19_WOLPM,reviewed,30S ribosomal protein S19,Wolbachia pipientis wMel,94,163164
+Q73HA0,RS8_WOLPM,reviewed,30S ribosomal protein S8,Wolbachia pipientis wMel,131,163164
+Q73H00,SYE2_WOLPM,reviewed,Glutamate--tRNA ligase 2 (EC 6.1.1.17) (Glutamyl-tRNA synthetase 2) (GluRS 2),Wolbachia pipientis wMel,440,163164
+Q73GW6,SYP_WOLPM,reviewed,Proline--tRNA ligase (EC 6.1.1.15) (Prolyl-tRNA synthetase) (ProRS),Wolbachia pipientis wMel,422,163164
+Q73HX6,SYDND_WOLPM,reviewed,Aspartate--tRNA(Asp/Asn) ligase (EC 6.1.1.23) (Aspartyl-tRNA synthetase) (AspRS) (Non-discriminating aspartyl-tRNA synthetase) (ND-AspRS),Wolbachia pipientis wMel,600,163164
+Q73HV5,SYE1_WOLPM,reviewed,Glutamate--tRNA ligase 1 (EC 6.1.1.17) (Glutamyl-tRNA synthetase 1) (GluRS 1),Wolbachia pipientis wMel,473,163164
+P62351,SYH_WOLPM,reviewed,Histidine--tRNA ligase (EC 6.1.1.21) (Histidyl-tRNA synthetase) (HisRS),Wolbachia pipientis wMel,408,163164
+P61709,SYA_WOLPM,reviewed,Alanine--tRNA ligase (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS),Wolbachia pipientis wMel,877,163164
+Q73HW7,SYI_WOLPM,reviewed,Isoleucine--tRNA ligase (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (IleRS),Wolbachia pipientis wMel,1111,163164
+Q73HW5,SYFB_WOLPM,reviewed,Phenylalanine--tRNA ligase beta subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase beta subunit) (PheRS),Wolbachia pipientis wMel,779,163164
+Q73HY6,SYR_WOLPM,reviewed,Arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS),Wolbachia pipientis wMel,568,163164
+Q73G50,SYY_WOLPM,reviewed,Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase) (TyrRS),Wolbachia pipientis wMel,416,163164
+Q73IT7,SYL_WOLPM,reviewed,Leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase) (LeuRS),Wolbachia pipientis wMel,838,163164
+Q73GH6,SYT_WOLPM,reviewed,Threonine--tRNA ligase (EC 6.1.1.3) (Threonyl-tRNA synthetase) (ThrRS),Wolbachia pipientis wMel,633,163164
+Q73HS9,SYV_WOLPM,reviewed,Valine--tRNA ligase (EC 6.1.1.9) (Valyl-tRNA synthetase) (ValRS),Wolbachia pipientis wMel,864,163164
+Q73IM5,SYFA_WOLPM,reviewed,Phenylalanine--tRNA ligase alpha subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase alpha subunit) (PheRS),Wolbachia pipientis wMel,347,163164
+Q73IW5,SYS_WOLPM,reviewed,Serine--tRNA ligase (EC 6.1.1.11) (Seryl-tRNA synthetase) (SerRS) (Seryl-tRNA(Ser/Sec) synthetase),Wolbachia pipientis wMel,425,163164
+Q73FX5,THYX_WOLPM,reviewed,Flavin-dependent thymidylate synthase (FDTS) (EC 2.1.1.148) (FAD-dependent thymidylate synthase) (Thymidylate synthase ThyX) (TS) (TSase),Wolbachia pipientis wMel,284,163164
+Q73IK8,TATA_WOLPM,reviewed,Sec-independent protein translocase protein TatA,Wolbachia pipientis wMel,55,163164
+Q73I58,TIG_WOLPM,reviewed,Trigger factor (TF) (EC 5.2.1.8) (PPIase),Wolbachia pipientis wMel,444,163164
+Q73FR9,TILS_WOLPM,reviewed,tRNA(Ile)-lysidine synthase (EC 6.3.4.19) (tRNA(Ile)-2-lysyl-cytidine synthase) (tRNA(Ile)-lysidine synthetase),Wolbachia pipientis wMel,431,163164
+Q73IK6,UVRC_WOLPM,reviewed,UvrABC system protein C (Protein UvrC) (Excinuclease ABC subunit C),Wolbachia pipientis wMel,605,163164
+Q73H48,YBEY_WOLPM,reviewed,Endoribonuclease YbeY (EC 3.1.-.-),Wolbachia pipientis wMel,150,163164
+Q73G05,Q73G05_WOLPM,unreviewed,Diacylglycerol kinase (EC 2.7.1.107),Wolbachia pipientis wMel,116,163164
+Q73IR1,Q73IR1_WOLPM,unreviewed,DNA processing chain A,Wolbachia pipientis wMel,362,163164
+Q73HJ2,Q73HJ2_WOLPM,unreviewed,"Prophage P2W3, tail protein D, putative",Wolbachia pipientis wMel,314,163164
+Q73FR7,Q73FR7_WOLPM,unreviewed,"Thermostable carboxypeptidase 1, putative",Wolbachia pipientis wMel,473,163164
+Q73GL3,Q73GL3_WOLPM,unreviewed,"Transposase, IS5 family, interruption-N",Wolbachia pipientis wMel,82,163164
+Q73II5,Q73II5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,174,163164
+Q73GL8,Q73GL8_WOLPM,unreviewed,"BolA protein, putative",Wolbachia pipientis wMel,94,163164
+Q73G43,Q73G43_WOLPM,unreviewed,NADH-quinone oxidoreductase subunit C (EC 1.6.5.11) (NADH dehydrogenase I subunit C) (NDH-1 subunit C),Wolbachia pipientis wMel,190,163164
+Q73G31,Q73G31_WOLPM,unreviewed,"Iron compound ABC transporter, permease protein, putative",Wolbachia pipientis wMel,532,163164
+Q73H24,Q73H24_WOLPM,unreviewed,"Site-specific recombinase, phage integrase family",Wolbachia pipientis wMel,309,163164
+Q73H20,Q73H20_WOLPM,unreviewed,"Antioxidant, AhpC/Tsa family",Wolbachia pipientis wMel,199,163164
+Q73HV3,Q73HV3_WOLPM,unreviewed,Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1),Wolbachia pipientis wMel,599,163164
+Q73H44,Q73H44_WOLPM,unreviewed,Phosphatidylglycerophosphatase A (EC 3.1.3.27) (Phosphatidylglycerolphosphate phosphatase A),Wolbachia pipientis wMel,160,163164
+Q73HD9,Q73HD9_WOLPM,unreviewed,"Transcriptional regulator, putative",Wolbachia pipientis wMel,303,163164
+Q73IF4,Q73IF4_WOLPM,unreviewed,"Lipoprotein, putative",Wolbachia pipientis wMel,112,163164
+Q73HC8,Q73HC8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,386,163164
+Q73FM3,Q73FM3_WOLPM,unreviewed,N5-carboxyaminoimidazole ribonucleotide mutase (N5-CAIR mutase) (EC 5.4.99.18) (5-(carboxyamino)imidazole ribonucleotide mutase),Wolbachia pipientis wMel,166,163164
+Q73H18,Q73H18_WOLPM,unreviewed,Glutaredoxin family protein,Wolbachia pipientis wMel,112,163164
+Q73G19,Q73G19_WOLPM,unreviewed,1-acyl-sn-glycerol-3-phosphate acyltransferase family protein,Wolbachia pipientis wMel,241,163164
+Q73HN9,Q73HN9_WOLPM,unreviewed,DNA mismatch repair protein MutL,Wolbachia pipientis wMel,598,163164
+Q73FZ2,Q73FZ2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,406,163164
+Q73HE3,Q73HE3_WOLPM,unreviewed,"Membrane protein, putative",Wolbachia pipientis wMel,304,163164
+Q73GA0,Q73GA0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,133,163164
+Q73H74,Q73H74_WOLPM,unreviewed,Phosphoglucomutase/phosphomannomutase family protein,Wolbachia pipientis wMel,462,163164
+Q73G91,Q73G91_WOLPM,unreviewed,"Ubiquinol-cytochrome c reductase, cytochrome c1 (EC 1.10.2.2)",Wolbachia pipientis wMel,252,163164
+Q73HP0,Q73HP0_WOLPM,unreviewed,"Transcriptional regulator, putative",Wolbachia pipientis wMel,312,163164
+Q73HV7,Q73HV7_WOLPM,unreviewed,"Propionyl-CoA carboxylase, alpha subunit (EC 6.4.1.3)",Wolbachia pipientis wMel,691,163164
+Q73GB8,Q73GB8_WOLPM,unreviewed,Surface protein-related protein,Wolbachia pipientis wMel,1128,163164
+Q73GZ8,Q73GZ8_WOLPM,unreviewed,DNA-directed DNA polymerase (EC 2.7.7.7),Wolbachia pipientis wMel,1109,163164
+Q73HN7,Q73HN7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,1120,163164
+Q73GQ3,Q73GQ3_WOLPM,unreviewed,"Dihydropteroate synthase, putative",Wolbachia pipientis wMel,198,163164
+Q73HX2,Q73HX2_WOLPM,unreviewed,"Membrane protein, putative",Wolbachia pipientis wMel,142,163164
+Q73GC7,Q73GC7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,162,163164
+Q73GW3,Q73GW3_WOLPM,unreviewed,"Monovalent cation/proton antiporter subunit, putative",Wolbachia pipientis wMel,498,163164
+Q73I06,Q73I06_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,119,163164
+Q73IQ4,Q73IQ4_WOLPM,unreviewed,SugE protein,Wolbachia pipientis wMel,114,163164
+Q73H11,Q73H11_WOLPM,unreviewed,Na+/H+ ion antiporter family protein,Wolbachia pipientis wMel,176,163164
+Q73G65,Q73G65_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,69,163164
+Q73HJ9,Q73HJ9_WOLPM,unreviewed,Acetylornithine aminotransferase (ACOAT) (EC 2.6.1.11),Wolbachia pipientis wMel,392,163164
+Q73GR2,Q73GR2_WOLPM,unreviewed,50S ribosomal protein L31,Wolbachia pipientis wMel,67,163164
+Q73HY1,Q73HY1_WOLPM,unreviewed,"Na+/H+ antiporter, putative",Wolbachia pipientis wMel,431,163164
+Q73I57,Q73I57_WOLPM,unreviewed,"Membrane protein, putative",Wolbachia pipientis wMel,198,163164
+Q73I76,Q73I76_WOLPM,unreviewed,Cytochrome c oxidase subunit 1 (EC 1.9.3.1),Wolbachia pipientis wMel,516,163164
+Q73GQ1,Q73GQ1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,245,163164
+Q73HE6,Q73HE6_WOLPM,unreviewed,"L-allo-threonine aldolase, putative",Wolbachia pipientis wMel,350,163164
+Q73G30,Q73G30_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,256,163164
+Q73GE9,Q73GE9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,116,163164
+Q73GG2,Q73GG2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,147,163164
+Q73FX3,Q73FX3_WOLPM,unreviewed,Primosomal protein N' (EC 3.6.4.-) (ATP-dependent helicase PriA),Wolbachia pipientis wMel,780,163164
+Q73GK8,Q73GK8_WOLPM,unreviewed,Probable protein kinase UbiB (EC 2.7.-.-),Wolbachia pipientis wMel,476,163164
+Q73GL4,Q73GL4_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,91,163164
+Q73GY7,Q73GY7_WOLPM,unreviewed,"Isocitrate dehydrogenase, NAD-dependent (EC 1.1.1.41)",Wolbachia pipientis wMel,472,163164
+Q73GB9,Q73GB9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,474,163164
+Q73GN9,Q73GN9_WOLPM,unreviewed,"Iron compound ABC transporter, periplasmic iron compound-binding protein",Wolbachia pipientis wMel,341,163164
+Q73HZ6,Q73HZ6_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,113,163164
+Q73IY6,Q73IY6_WOLPM,unreviewed,Type IV secretion system protein VirB10,Wolbachia pipientis wMel,486,163164
+Q73FV9,Q73FV9_WOLPM,unreviewed,Coproporphyrinogen oxidase (EC 1.3.3.3),Wolbachia pipientis wMel,256,163164
+Q73H84,Q73H84_WOLPM,unreviewed,Carbamoyl-phosphate synthase small chain (EC 6.3.5.5) (Carbamoyl-phosphate synthetase glutamine chain),Wolbachia pipientis wMel,399,163164
+Q73IJ9,Q73IJ9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,70,163164
+Q73GP5,Q73GP5_WOLPM,unreviewed,Co-chaperone Hsc20,Wolbachia pipientis wMel,152,163164
+Q73IY3,Q73IY3_WOLPM,unreviewed,Surface antigen Wsp paralog,Wolbachia pipientis wMel,282,163164
+Q73GT0,Q73GT0_WOLPM,unreviewed,"Methyltransferase, putative",Wolbachia pipientis wMel,182,163164
+Q73GS5,Q73GS5_WOLPM,unreviewed,Type IV secretion system protein VirB6,Wolbachia pipientis wMel,851,163164
+Q73GM0,Q73GM0_WOLPM,unreviewed,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13) (Meso-A2pm-adding enzyme) (Meso-diaminopimelate-adding enzyme) (UDP-MurNAc-L-Ala-D-Glu:meso-diaminopimelate ligase) (UDP-MurNAc-tripeptide synthetase) (UDP-N-acetylmuramyl-tripeptide synthetase)",Wolbachia pipientis wMel,524,163164
+Q73FX1,Q73FX1_WOLPM,unreviewed,DNA gyrase subunit A (EC 5.99.1.3),Wolbachia pipientis wMel,900,163164
+Q73FM7,Q73FM7_WOLPM,unreviewed,"Monovalent cation/proton antiporter, MnhG/PhaG subunit family",Wolbachia pipientis wMel,95,163164
+Q73GA8,Q73GA8_WOLPM,unreviewed,DnaJ domain protein,Wolbachia pipientis wMel,320,163164
+Q73FS6,Q73FS6_WOLPM,unreviewed,Bacterioferritin (EC 1.16.3.1),Wolbachia pipientis wMel,158,163164
+Q73GS2,Q73GS2_WOLPM,unreviewed,Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS),Wolbachia pipientis wMel,511,163164
+Q73I30,Q73I30_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,394,163164
+Q73I50,Q73I50_WOLPM,unreviewed,"Sodium/alanine symporter family protein, putative",Wolbachia pipientis wMel,447,163164
+Q73IT1,Q73IT1_WOLPM,unreviewed,"Outer membrane protein TolC, putative",Wolbachia pipientis wMel,407,163164
+Q73H36,Q73H36_WOLPM,unreviewed,Superoxide dismutase (EC 1.15.1.1),Wolbachia pipientis wMel,206,163164
+Q73GA6,Q73GA6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,196,163164
+Q73I08,Q73I08_WOLPM,unreviewed,"Phosphate ABC transporter, periplasmic phosphate-binding protein, putative",Wolbachia pipientis wMel,338,163164
+Q73GE4,Q73GE4_WOLPM,unreviewed,"Phage portal protein, HK97 family",Wolbachia pipientis wMel,397,163164
+Q73FU3,Q73FU3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,243,163164
+Q73FW5,Q73FW5_WOLPM,unreviewed,Diaminopimelate epimerase (DAP epimerase) (EC 5.1.1.7) (PLP-independent amino acid racemase),Wolbachia pipientis wMel,263,163164
+Q73GV5,Q73GV5_WOLPM,unreviewed,ATP-dependent DNA helicase RecG (EC 3.6.1.-),Wolbachia pipientis wMel,673,163164
+Q73IV9,Q73IV9_WOLPM,unreviewed,Ankyrin repeat domain protein,Wolbachia pipientis wMel,288,163164
+Q73GK1,Q73GK1_WOLPM,unreviewed,"Membrane protein, putative",Wolbachia pipientis wMel,240,163164
+Q73IA3,Q73IA3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,102,163164
+Q73H38,Q73H38_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,105,163164
+Q73GU8,Q73GU8_WOLPM,unreviewed,HflK protein,Wolbachia pipientis wMel,344,163164
+Q73GA1,Q73GA1_WOLPM,unreviewed,Glutathione S-transferase family protein,Wolbachia pipientis wMel,217,163164
+Q73HQ9,Q73HQ9_WOLPM,unreviewed,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5),Wolbachia pipientis wMel,177,163164
+Q73GE6,Q73GE6_WOLPM,unreviewed,Probable lipid II flippase MurJ,Wolbachia pipientis wMel,495,163164
+Q73GS7,Q73GS7_WOLPM,unreviewed,"Membrane protein, putative",Wolbachia pipientis wMel,992,163164
+Q73IB6,Q73IB6_WOLPM,unreviewed,"Transcriptional regulator, putative",Wolbachia pipientis wMel,215,163164
+Q73IE1,Q73IE1_WOLPM,unreviewed,Elongation factor Tu family protein,Wolbachia pipientis wMel,609,163164
+Q73HH5,Q73HH5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,166,163164
+Q73HW4,Q73HW4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,87,163164
+Q73GG5,Q73GG5_WOLPM,unreviewed,"ABC transporter, ATP-binding protein",Wolbachia pipientis wMel,233,163164
+Q73HF4,Q73HF4_WOLPM,unreviewed,"Helicase, SNF2 family",Wolbachia pipientis wMel,1175,163164
+Q73HY4,Q73HY4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,99,163164
+Q73FP8,Q73FP8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,921,163164
+Q73G08,Q73G08_WOLPM,unreviewed,ComEC/Rec2 family protein,Wolbachia pipientis wMel,720,163164
+Q73G73,Q73G73_WOLPM,unreviewed,Integration host factor subunit beta,Wolbachia pipientis wMel,92,163164
+Q73HD2,Q73HD2_WOLPM,unreviewed,"Prophage LambdaW5, site-specific recombinase, resolvase family",Wolbachia pipientis wMel,489,163164
+Q73HL3,Q73HL3_WOLPM,unreviewed,Hydroxymethylbilane synthase (EC 2.5.1.61),Wolbachia pipientis wMel,292,163164
+Q73H37,Q73H37_WOLPM,unreviewed,"Peptidase, M16 family, putative",Wolbachia pipientis wMel,423,163164
+Q73HS0,Q73HS0_WOLPM,unreviewed,"Pyruvate dehydrogenase complex, E1 component, pyruvate dehydrogenase beta subunit, putative",Wolbachia pipientis wMel,332,163164
+Q73GK6,Q73GK6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,537,163164
+Q73HZ3,Q73HZ3_WOLPM,unreviewed,"Cell division protein FtsW, putative",Wolbachia pipientis wMel,371,163164
+Q73HH0,Q73HH0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,273,163164
+Q73IR5,Q73IR5_WOLPM,unreviewed,Protein translocase subunit SecD,Wolbachia pipientis wMel,501,163164
+Q73FK9,Q73FK9_WOLPM,unreviewed,Transcription termination/antitermination protein NusA,Wolbachia pipientis wMel,520,163164
+Q73HU4,Q73HU4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,122,163164
+Q73IG8,Q73IG8_WOLPM,unreviewed,TPR domain protein,Wolbachia pipientis wMel,358,163164
+Q73FT7,Q73FT7_WOLPM,unreviewed,"ATP-dependent RNA helicase, DeaD/DeaH box family",Wolbachia pipientis wMel,408,163164
+Q73H15,Q73H15_WOLPM,unreviewed,"Protease, insulinase family",Wolbachia pipientis wMel,446,163164
+Q73FR6,Q73FR6_WOLPM,unreviewed,Rod shape-determining protein MreB,Wolbachia pipientis wMel,358,163164
+Q73H46,Q73H46_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,378,163164
+Q73I45,Q73I45_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,825,163164
+Q73IQ5,Q73IQ5_WOLPM,unreviewed,Multidrug resistance protein,Wolbachia pipientis wMel,104,163164
+Q73HN8,Q73HN8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,309,163164
+Q73HE7,Q73HE7_WOLPM,unreviewed,"L-allo-threonine aldolase, putative",Wolbachia pipientis wMel,349,163164
+Q73GA4,Q73GA4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,234,163164
+Q73I61,Q73I61_WOLPM,unreviewed,Lon protease (EC 3.4.21.53) (ATP-dependent protease La),Wolbachia pipientis wMel,817,163164
+Q73FS3,Q73FS3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,190,163164
+Q73GC4,Q73GC4_WOLPM,unreviewed,"Membrane protein, putative",Wolbachia pipientis wMel,406,163164
+Q73HC5,Q73HC5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,84,163164
+Q73IF9,Q73IF9_WOLPM,unreviewed,Class II aldolase/adducin domain protein,Wolbachia pipientis wMel,236,163164
+Q73IS2,Q73IS2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,129,163164
+Q73HM5,Q73HM5_WOLPM,unreviewed,Phosphatidate cytidylyltransferase (EC 2.7.7.41),Wolbachia pipientis wMel,208,163164
+Q73HF9,Q73HF9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,334,163164
+Q73GT2,Q73GT2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,196,163164
+Q73GR1,Q73GR1_WOLPM,unreviewed,NAD kinase (EC 2.7.1.23) (ATP-dependent NAD kinase),Wolbachia pipientis wMel,264,163164
+Q73GY6,Q73GY6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,176,163164
+Q73IJ0,Q73IJ0_WOLPM,unreviewed,"Oxidoreductase, putative",Wolbachia pipientis wMel,99,163164
+Q73I89,Q73I89_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,142,163164
+Q73GF3,Q73GF3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,339,163164
+Q73HG0,Q73HG0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,123,163164
+Q73H39,Q73H39_WOLPM,unreviewed,Queuine tRNA-ribosyltransferase (EC 2.4.2.29) (Guanine insertion enzyme) (tRNA-guanine transglycosylase),Wolbachia pipientis wMel,404,163164
+Q73IP9,Q73IP9_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,216,163164
+Q73IW4,Q73IW4_WOLPM,unreviewed,Phosphoribosylamine--glycine ligase (EC 6.3.4.13) (GARS) (Glycinamide ribonucleotide synthetase) (Phosphoribosylglycinamide synthetase),Wolbachia pipientis wMel,423,163164
+Q73IV5,Q73IV5_WOLPM,unreviewed,Metallo-beta-lactamase family protein,Wolbachia pipientis wMel,544,163164
+Q73H61,Q73H61_WOLPM,unreviewed,Ribulose-phosphate 3-epimerase (EC 5.1.3.1),Wolbachia pipientis wMel,225,163164
+Q73IR9,Q73IR9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,375,163164
+Q73HS7,Q73HS7_WOLPM,unreviewed,Hexapeptide transferase family protein,Wolbachia pipientis wMel,171,163164
+Q73IJ7,Q73IJ7_WOLPM,unreviewed,Phage SPO1 DNA polymerase-related protein,Wolbachia pipientis wMel,273,163164
+Q73H10,Q73H10_WOLPM,unreviewed,Ankyrin repeat domain protein,Wolbachia pipientis wMel,474,163164
+Q73HI4,Q73HI4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,183,163164
+Q73FV2,Q73FV2_WOLPM,unreviewed,"Succinate dehydrogenase, cytochrome b556 subunit",Wolbachia pipientis wMel,125,163164
+Q73IB7,Q73IB7_WOLPM,unreviewed,"Transposase, IS256 family",Wolbachia pipientis wMel,410,163164
+Q73IY7,Q73IY7_WOLPM,unreviewed,Type IV secretion system protein VirB9,Wolbachia pipientis wMel,264,163164
+Q73GX2,Q73GX2_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,143,163164
+Q73II4,Q73II4_WOLPM,unreviewed,Iron-sulfur cluster carrier protein,Wolbachia pipientis wMel,340,163164
+Q73HC3,Q73HC3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,158,163164
+Q73I38,Q73I38_WOLPM,unreviewed,"Efflux transporter, RND family, MFP subunit",Wolbachia pipientis wMel,360,163164
+Q73IA4,Q73IA4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,73,163164
+Q73FV7,Q73FV7_WOLPM,unreviewed,Sensor histidine kinase/response regulator,Wolbachia pipientis wMel,417,163164
+Q73I66,Q73I66_WOLPM,unreviewed,Single-stranded-DNA-specific exonuclease RecJ (EC 3.1.-.-),Wolbachia pipientis wMel,579,163164
+Q73HR9,Q73HR9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,124,163164
+Q73IT6,Q73IT6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,211,163164
+Q73HX5,Q73HX5_WOLPM,unreviewed,Major facilitator family transporter,Wolbachia pipientis wMel,420,163164
+Q73HY7,Q73HY7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,72,163164
+Q73HS6,Q73HS6_WOLPM,unreviewed,"Preprotein translocase, SecG subunit",Wolbachia pipientis wMel,106,163164
+Q73IA7,Q73IA7_WOLPM,unreviewed,"Prophage LambdaW1, terminase large subunit, putative",Wolbachia pipientis wMel,608,163164
+Q73GF5,Q73GF5_WOLPM,unreviewed,"Uroporphyrinogen-III synthase, putative",Wolbachia pipientis wMel,235,163164
+Q73GS6,Q73GS6_WOLPM,unreviewed,"Membrane protein, putative",Wolbachia pipientis wMel,795,163164
+Q73H73,Q73H73_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,562,163164
+Q73HT0,Q73HT0_WOLPM,unreviewed,"ATPase, AAA family",Wolbachia pipientis wMel,404,163164
+Q73H65,Q73H65_WOLPM,unreviewed,"ABC transporter, ATP-binding protein",Wolbachia pipientis wMel,224,163164
+Q73IC9,Q73IC9_WOLPM,unreviewed,N utilization substance protein B homolog,Wolbachia pipientis wMel,160,163164
+Q73G90,Q73G90_WOLPM,unreviewed,Cytochrome b,Wolbachia pipientis wMel,409,163164
+Q73I65,Q73I65_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,77,163164
+Q73G39,Q73G39_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,85,163164
+Q73IF5,Q73IF5_WOLPM,unreviewed,Ribonucleoside-diphosphate reductase subunit beta (EC 1.17.4.1),Wolbachia pipientis wMel,329,163164
+Q73HP4,Q73HP4_WOLPM,unreviewed,MiaB-like tRNA modifying enzyme,Wolbachia pipientis wMel,408,163164
+Q73I48,Q73I48_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,892,163164
+Q73HS1,Q73HS1_WOLPM,unreviewed,"ATPase, AAA family",Wolbachia pipientis wMel,366,163164
+Q73IS7,Q73IS7_WOLPM,unreviewed,Ankyrin repeat domain protein,Wolbachia pipientis wMel,800,163164
+Q73IB2,Q73IB2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,334,163164
+Q73GZ1,Q73GZ1_WOLPM,unreviewed,AraM protein,Wolbachia pipientis wMel,418,163164
+Q73H32,Q73H32_WOLPM,unreviewed,GTPase Era,Wolbachia pipientis wMel,294,163164
+Q73G27,Q73G27_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,147,163164
+Q73IP4,Q73IP4_WOLPM,unreviewed,DNA gyrase subunit B (EC 5.99.1.3),Wolbachia pipientis wMel,795,163164
+Q73HB3,Q73HB3_WOLPM,unreviewed,Transcription elongation factor GreA (Transcript cleavage factor GreA),Wolbachia pipientis wMel,164,163164
+Q73HF5,Q73HF5_WOLPM,unreviewed,"Regulatory protein RepA, putative",Wolbachia pipientis wMel,731,163164
+Q73G01,Q73G01_WOLPM,unreviewed,Enoyl-(Acyl-carrier-protein) reductase II (EC 1.3.1.9),Wolbachia pipientis wMel,342,163164
+Q73G41,Q73G41_WOLPM,unreviewed,NADH-quinone oxidoreductase subunit A (EC 1.6.5.11) (NADH dehydrogenase I subunit A) (NDH-1 subunit A) (NUO1),Wolbachia pipientis wMel,117,163164
+Q73IK0,Q73IK0_WOLPM,unreviewed,NADH-quinone oxidoreductase (EC 1.6.5.11),Wolbachia pipientis wMel,682,163164
+Q73GI4,Q73GI4_WOLPM,unreviewed,"Biotin protein ligase, putative",Wolbachia pipientis wMel,347,163164
+Q73HL8,Q73HL8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,147,163164
+Q73FZ6,Q73FZ6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,161,163164
+Q73I31,Q73I31_WOLPM,unreviewed,Methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS),Wolbachia pipientis wMel,545,163164
+Q73H19,Q73H19_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,290,163164
+Q73GF8,Q73GF8_WOLPM,unreviewed,Cysteine desulfurase IscS (EC 2.8.1.7),Wolbachia pipientis wMel,415,163164
+Q73FV6,Q73FV6_WOLPM,unreviewed,ParA family protein,Wolbachia pipientis wMel,280,163164
+Q73IK9,Q73IK9_WOLPM,unreviewed,Exopolysaccharide synthesis protein ExoD-related protein,Wolbachia pipientis wMel,218,163164
+Q73GP4,Q73GP4_WOLPM,unreviewed,Chaperone protein HscA,Wolbachia pipientis wMel,582,163164
+Q73FQ7,Q73FQ7_WOLPM,unreviewed,5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2),Wolbachia pipientis wMel,183,163164
+Q73FR8,Q73FR8_WOLPM,unreviewed,"Peptidoglycan-associated lipoprotein, putative",Wolbachia pipientis wMel,159,163164
+Q73HG1,Q73HG1_WOLPM,unreviewed,"Prophage LambdaW4, minor capsid protein C, putative",Wolbachia pipientis wMel,353,163164
+Q73HU8,Q73HU8_WOLPM,unreviewed,Ribosome-binding ATPase YchF,Wolbachia pipientis wMel,364,163164
+Q73I95,Q73I95_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,84,163164
+Q73GG4,Q73GG4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,165,163164
+Q73FT6,Q73FT6_WOLPM,unreviewed,"ATP-dependent Clp protease, ATP-binding subunit ClpA",Wolbachia pipientis wMel,768,163164
+Q73H66,Q73H66_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,232,163164
+Q73FS7,Q73FS7_WOLPM,unreviewed,"Hydrolase, haloacid dehalogenase-like family",Wolbachia pipientis wMel,211,163164
+Q73HD7,Q73HD7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,179,163164
+Q73HH8,Q73HH8_WOLPM,unreviewed,"Regulatory protein RepA, putative",Wolbachia pipientis wMel,682,163164
+Q73IK2,Q73IK2_WOLPM,unreviewed,Delta-aminolevulinic acid dehydratase (EC 4.2.1.24),Wolbachia pipientis wMel,331,163164
+Q73IM8,Q73IM8_WOLPM,unreviewed,"Membrane protein CvpA, putative",Wolbachia pipientis wMel,196,163164
+Q73GI6,Q73GI6_WOLPM,unreviewed,"NADH dehydrogenase I, M subunit (EC 1.6.5.3)",Wolbachia pipientis wMel,480,163164
+Q73GT1,Q73GT1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,97,163164
+Q73HT4,Q73HT4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,97,163164
+Q73GV6,Q73GV6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,275,163164
+Q73HL6,Q73HL6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,277,163164
+Q73H56,Q73H56_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,349,163164
+Q73IA0,Q73IA0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,86,163164
+Q73G34,Q73G34_WOLPM,unreviewed,DNA topoisomerase 1 (EC 5.99.1.2) (DNA topoisomerase I),Wolbachia pipientis wMel,816,163164
+Q73IX5,Q73IX5_WOLPM,unreviewed,Protein translocase subunit SecE,Wolbachia pipientis wMel,69,163164
+Q73HE2,Q73HE2_WOLPM,unreviewed,"Transcriptional regulator, putative",Wolbachia pipientis wMel,303,163164
+Q73G95,Q73G95_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,165,163164
+Q73H63,Q73H63_WOLPM,unreviewed,Deoxyguanosinetriphosphate triphosphohydrolase-like protein,Wolbachia pipientis wMel,399,163164
+Q73FS1,Q73FS1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,197,163164
+Q73FZ4,Q73FZ4_WOLPM,unreviewed,Acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12),Wolbachia pipientis wMel,454,163164
+Q73GQ2,Q73GQ2_WOLPM,unreviewed,Dihydrofolate reductase (EC 1.5.1.3),Wolbachia pipientis wMel,159,163164
+Q73GC8,Q73GC8_WOLPM,unreviewed,Aminotransferase (EC 2.6.1.-),Wolbachia pipientis wMel,397,163164
+Q73HQ6,Q73HQ6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,72,163164
+Q73H83,Q73H83_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,164,163164
+Q73GB3,Q73GB3_WOLPM,unreviewed,Sodium/alanine symporter family protein,Wolbachia pipientis wMel,488,163164
+Q73GP6,Q73GP6_WOLPM,unreviewed,HesB/YadR/YfhF family protein,Wolbachia pipientis wMel,137,163164
+Q73HN1,Q73HN1_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,180,163164
+Q73FU5,Q73FU5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,402,163164
+Q73ID7,Q73ID7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,413,163164
+Q73IT3,Q73IT3_WOLPM,unreviewed,30S ribosomal protein S9,Wolbachia pipientis wMel,151,163164
+Q73GJ9,Q73GJ9_WOLPM,unreviewed,Smr domain family protein,Wolbachia pipientis wMel,166,163164
+Q73HI5,Q73HI5_WOLPM,unreviewed,"Prophage P2W3, contractile tail tube protein",Wolbachia pipientis wMel,165,163164
+Q73G58,Q73G58_WOLPM,unreviewed,"ABC transporter, periplasmic substrate-binding protein, putative",Wolbachia pipientis wMel,151,163164
+Q73H54,Q73H54_WOLPM,unreviewed,"Polysaccharide deacetylase, putative",Wolbachia pipientis wMel,279,163164
+Q73IH2,Q73IH2_WOLPM,unreviewed,"Membrane protein, TerC family",Wolbachia pipientis wMel,235,163164
+Q73H55,Q73H55_WOLPM,unreviewed,Penicillin-binding protein,Wolbachia pipientis wMel,524,163164
+Q73I81,Q73I81_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,296,163164
+Q73I53,Q73I53_WOLPM,unreviewed,Dihydrolipoyl dehydrogenase (EC 1.8.1.4),Wolbachia pipientis wMel,457,163164
+Q73H27,Q73H27_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,268,163164
+Q73FZ3,Q73FZ3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,274,163164
+Q73G72,Q73G72_WOLPM,unreviewed,"Ribosomal protein S1, putative",Wolbachia pipientis wMel,550,163164
+Q73IJ1,Q73IJ1_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,103,163164
+Q73HU1,Q73HU1_WOLPM,unreviewed,Glyceraldehyde 3-phosphate dehydrogenase (EC 1.2.1.12),Wolbachia pipientis wMel,365,163164
+Q73FN7,Q73FN7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,117,163164
+Q73HR1,Q73HR1_WOLPM,unreviewed,"Competence lipoprotein ComL, putative",Wolbachia pipientis wMel,235,163164
+Q73HK0,Q73HK0_WOLPM,unreviewed,CBS domain protein,Wolbachia pipientis wMel,427,163164
+Q73I77,Q73I77_WOLPM,unreviewed,Cytochrome c oxidase subunit 2 (EC 1.9.3.1),Wolbachia pipientis wMel,254,163164
+Q73HR0,Q73HR0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,313,163164
+Q73HC4,Q73HC4_WOLPM,unreviewed,"Prophage LambdaW5, baseplate assembly protein V",Wolbachia pipientis wMel,154,163164
+Q73HV2,Q73HV2_WOLPM,unreviewed,Ankyrin repeat domain protein,Wolbachia pipientis wMel,632,163164
+Q73IA6,Q73IA6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,74,163164
+Q73I20,Q73I20_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,59,163164
+Q73HM6,Q73HM6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,63,163164
+Q73GI5,Q73GI5_WOLPM,unreviewed,NADH-quinone oxidoreductase subunit N (EC 1.6.5.11) (NADH dehydrogenase I subunit N) (NDH-1 subunit N),Wolbachia pipientis wMel,454,163164
+Q73IT9,Q73IT9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,108,163164
+Q73IY4,Q73IY4_WOLPM,unreviewed,Type IV secretion system protein VirD4,Wolbachia pipientis wMel,648,163164
+Q73FV3,Q73FV3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,204,163164
+Q73HY8,Q73HY8_WOLPM,unreviewed,"ABC transporter, HlyB/MsbA family, putative",Wolbachia pipientis wMel,568,163164
+Q73GE8,Q73GE8_WOLPM,unreviewed,Aminopeptidase P (EC 3.4.11.9),Wolbachia pipientis wMel,555,163164
+Q73GR5,Q73GR5_WOLPM,unreviewed,Bifunctional purine biosynthesis protein PurH [Includes: IMP cyclohydrolase (EC 3.5.4.10) (IMP synthase) (ATIC) (Inosinicase); Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3) (AICAR transformylase)],Wolbachia pipientis wMel,503,163164
+Q73FW2,Q73FW2_WOLPM,unreviewed,30S ribosomal protein S21,Wolbachia pipientis wMel,66,163164
+Q73IJ3,Q73IJ3_WOLPM,unreviewed,Major facilitator family transporter,Wolbachia pipientis wMel,415,163164
+Q73G81,Q73G81_WOLPM,unreviewed,Signal recognition particle protein (Fifty-four homolog),Wolbachia pipientis wMel,447,163164
+Q73FM8,Q73FM8_WOLPM,unreviewed,"Monovalent cation/proton antiporter, MnhC/PhaC subunit family",Wolbachia pipientis wMel,103,163164
+Q73H58,Q73H58_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,94,163164
+Q73G20,Q73G20_WOLPM,unreviewed,"Site-specific recombinase, phage integrase family",Wolbachia pipientis wMel,328,163164
+Q73ID2,Q73ID2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,171,163164
+Q73HR4,Q73HR4_WOLPM,unreviewed,SPFH domain/Band 7 family protein,Wolbachia pipientis wMel,281,163164
+Q73GY0,Q73GY0_WOLPM,unreviewed,Octaprenyl-diphosphate synthase,Wolbachia pipientis wMel,328,163164
+Q73GE1,Q73GE1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,325,163164
+Q73H51,Q73H51_WOLPM,unreviewed,Cell division protein FtsZ,Wolbachia pipientis wMel,398,163164
+Q73IE7,Q73IE7_WOLPM,unreviewed,Response regulator/GGDEF domain protein,Wolbachia pipientis wMel,460,163164
+Q73I19,Q73I19_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,330,163164
+Q73GX7,Q73GX7_WOLPM,unreviewed,"Hydrolase, alpha/beta fold family",Wolbachia pipientis wMel,253,163164
+Q73HR3,Q73HR3_WOLPM,unreviewed,M23/M37 peptidase domain protein,Wolbachia pipientis wMel,312,163164
+Q73IC1,Q73IC1_WOLPM,unreviewed,Drug resistance transporter,Wolbachia pipientis wMel,387,163164
+Q73HG5,Q73HG5_WOLPM,unreviewed,"Prophage LambdaW4, terminase large subunit, putative",Wolbachia pipientis wMel,607,163164
+Q73I93,Q73I93_WOLPM,unreviewed,"Prophage LambdaW1, baseplate assembly protein J, putative",Wolbachia pipientis wMel,269,163164
+Q73H79,Q73H79_WOLPM,unreviewed,"Pyruvate, phosphate dikinase (EC 2.7.9.1)",Wolbachia pipientis wMel,912,163164
+Q73FK7,Q73FK7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,240,163164
+Q73IT0,Q73IT0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,191,163164
+Q73GA7,Q73GA7_WOLPM,unreviewed,Folylpolyglutamate synthase (EC 6.3.2.17),Wolbachia pipientis wMel,429,163164
+Q73IY9,Q73IY9_WOLPM,unreviewed,GTP cyclohydrolase II,Wolbachia pipientis wMel,360,163164
+Q73HX4,Q73HX4_WOLPM,unreviewed,Pseudouridine synthase (EC 5.4.99.-),Wolbachia pipientis wMel,307,163164
+Q73FY2,Q73FY2_WOLPM,unreviewed,Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8),Wolbachia pipientis wMel,313,163164
+Q73GP8,Q73GP8_WOLPM,unreviewed,Signal recognition particle receptor FtsY (SRP receptor),Wolbachia pipientis wMel,303,163164
+Q73HE0,Q73HE0_WOLPM,unreviewed,"DNA repair protein RadC, putative",Wolbachia pipientis wMel,218,163164
+Q73H62,Q73H62_WOLPM,unreviewed,Riboflavin biosynthesis protein RibD,Wolbachia pipientis wMel,360,163164
+Q73I80,Q73I80_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,303,163164
+Q73HL5,Q73HL5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,63,163164
+Q73IK5,Q73IK5_WOLPM,unreviewed,Glycine--tRNA ligase beta subunit (EC 6.1.1.14) (Glycyl-tRNA synthetase beta subunit) (GlyRS),Wolbachia pipientis wMel,705,163164
+Q73GA5,Q73GA5_WOLPM,unreviewed,Aromatic-rich protein family,Wolbachia pipientis wMel,153,163164
+Q73IX1,Q73IX1_WOLPM,unreviewed,50S ribosomal protein L10,Wolbachia pipientis wMel,172,163164
+Q73GL9,Q73GL9_WOLPM,unreviewed,Cystathionine beta-lyase (EC 4.4.1.8),Wolbachia pipientis wMel,403,163164
+Q73HB7,Q73HB7_WOLPM,unreviewed,3-oxoacyl-(Acyl-carrier-protein) reductase (EC 1.1.1.100),Wolbachia pipientis wMel,244,163164
+Q73HL7,Q73HL7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,77,163164
+Q939B7,Q939B7_WOLPM,unreviewed,"Phage-related tail protein (Prophage P2W3, tail tape measure protein)",Wolbachia pipientis wMel,680,163164
+Q73G67,Q73G67_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,77,163164
+Q73FT1,Q73FT1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,180,163164
+Q73GU2,Q73GU2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,819,163164
+Q73HJ4,Q73HJ4_WOLPM,unreviewed,Patatin family protein,Wolbachia pipientis wMel,302,163164
+Q73I99,Q73I99_WOLPM,unreviewed,"Prophage LambdaW1, transposase, IS110 family",Wolbachia pipientis wMel,340,163164
+Q73I91,Q73I91_WOLPM,unreviewed,"Prophage LambdaW1, ankyrin repeat domain protein",Wolbachia pipientis wMel,200,163164
+Q73FK6,Q73FK6_WOLPM,unreviewed,Glutamine synthetase (EC 6.3.1.2),Wolbachia pipientis wMel,245,163164
+Q73HU7,Q73HU7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,301,163164
+Q73G75,Q73G75_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,92,163164
+Q73II6,Q73II6_WOLPM,unreviewed,Monoxygenase family protein,Wolbachia pipientis wMel,382,163164
+Q73G74,Q73G74_WOLPM,unreviewed,Cell division protein ZapA,Wolbachia pipientis wMel,108,163164
+Q73I97,Q73I97_WOLPM,unreviewed,"Prophage LambdaW1, minor tail protein Z, putative",Wolbachia pipientis wMel,165,163164
+Q73I25,Q73I25_WOLPM,unreviewed,Endo/excinuclease amino terminal domain protein,Wolbachia pipientis wMel,96,163164
+Q73GU3,Q73GU3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,64,163164
+Q73HG9,Q73HG9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,164,163164
+Q73IY8,Q73IY8_WOLPM,unreviewed,Type IV secretion system protein VirB8,Wolbachia pipientis wMel,226,163164
+Q73HK6,Q73HK6_WOLPM,unreviewed,Transaldolase (EC 2.2.1.2),Wolbachia pipientis wMel,213,163164
+Q73I21,Q73I21_WOLPM,unreviewed,"Cation ABC transporter, permease protein, putative",Wolbachia pipientis wMel,266,163164
+Q73G11,Q73G11_WOLPM,unreviewed,"Propionyl-CoA carboxylase, beta subunit (EC 6.4.1.3)",Wolbachia pipientis wMel,508,163164
+Q73GS4,Q73GS4_WOLPM,unreviewed,Type IV secretion system protein VirB4,Wolbachia pipientis wMel,801,163164
+Q73IB5,Q73IB5_WOLPM,unreviewed,"Transcriptional regulator, putative",Wolbachia pipientis wMel,308,163164
+Q73GX8,Q73GX8_WOLPM,unreviewed,Tryptophan--tRNA ligase (EC 6.1.1.2) (Tryptophanyl-tRNA synthetase) (TrpRS),Wolbachia pipientis wMel,332,163164
+Q73IL0,Q73IL0_WOLPM,unreviewed,Exopolysaccharide synthesis protein ExoD-related protein,Wolbachia pipientis wMel,218,163164
+Q73HT2,Q73HT2_WOLPM,unreviewed,Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23),Wolbachia pipientis wMel,224,163164
+Q73GD7,Q73GD7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,60,163164
+Q73H07,Q73H07_WOLPM,unreviewed,Type I secretion system ATPase,Wolbachia pipientis wMel,581,163164
+Q73G17,Q73G17_WOLPM,unreviewed,Citrate synthase,Wolbachia pipientis wMel,416,163164
+Q73H72,Q73H72_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,142,163164
+Q73HK2,Q73HK2_WOLPM,unreviewed,Flavin prenyltransferase UbiX (EC 2.5.1.129),Wolbachia pipientis wMel,191,163164
+Q73I37,Q73I37_WOLPM,unreviewed,Fic family protein,Wolbachia pipientis wMel,360,163164
+Q73I42,Q73I42_WOLPM,unreviewed,Heme exporter protein CcmC,Wolbachia pipientis wMel,236,163164
+Q73GJ4,Q73GJ4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,488,163164
+Q73IG4,Q73IG4_WOLPM,unreviewed,Phosphate transport system permease protein,Wolbachia pipientis wMel,302,163164
+Q73IN5,Q73IN5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,91,163164
+Q73GI0,Q73GI0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,161,163164
+Q73IK7,Q73IK7_WOLPM,unreviewed,"ABC transporter, ATP-binding protein",Wolbachia pipientis wMel,257,163164
+Q73HL9,Q73HL9_WOLPM,unreviewed,Glutamine--fructose-6-phosphate transaminase (isomerizing) (EC 2.6.1.16),Wolbachia pipientis wMel,606,163164
+Q73I33,Q73I33_WOLPM,unreviewed,Ubiquinone biosynthesis O-methyltransferase (2-polyprenyl-6-hydroxyphenol methylase) (EC 2.1.1.222) (3-demethylubiquinone 3-O-methyltransferase) (EC 2.1.1.64),Wolbachia pipientis wMel,391,163164
+Q73HZ0,Q73HZ0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,147,163164
+Q73G62,Q73G62_WOLPM,unreviewed,"2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase (EC 1.14.13.-) (5-demethoxyubiquinone hydroxylase) (DMQ hydroxylase)",Wolbachia pipientis wMel,180,163164
+Q73HW6,Q73HW6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,792,163164
+Q73HN6,Q73HN6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,2843,163164
+Q73IE2,Q73IE2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,147,163164
+Q73I86,Q73I86_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,404,163164
+Q73GT6,Q73GT6_WOLPM,unreviewed,"Ferredoxin, iron-sulfur cluster assembly system",Wolbachia pipientis wMel,119,163164
+Q73FW8,Q73FW8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,129,163164
+Q73HN5,Q73HN5_WOLPM,unreviewed,Ankyrin repeat domain protein,Wolbachia pipientis wMel,469,163164
+Q73G78,Q73G78_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,183,163164
+Q73FT8,Q73FT8_WOLPM,unreviewed,Cold-shock domain family protein,Wolbachia pipientis wMel,83,163164
+Q73HT1,Q73HT1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,440,163164
+Q73II3,Q73II3_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,136,163164
+Q73GF7,Q73GF7_WOLPM,unreviewed,TldD protein,Wolbachia pipientis wMel,472,163164
+Q73IA8,Q73IA8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,163,163164
+Q73IP7,Q73IP7_WOLPM,unreviewed,SCO1/SenC family protein,Wolbachia pipientis wMel,202,163164
+Q73HJ1,Q73HJ1_WOLPM,unreviewed,"Prophage P2W3, tail protein X, putative",Wolbachia pipientis wMel,69,163164
+Q73H64,Q73H64_WOLPM,unreviewed,HesB/YadR/YfhF family protein,Wolbachia pipientis wMel,153,163164
+Q73FN4,Q73FN4_WOLPM,unreviewed,"Ribonuclease, BN family",Wolbachia pipientis wMel,271,163164
+Q73IQ1,Q73IQ1_WOLPM,unreviewed,Aconitate hydratase (Aconitase) (EC 4.2.1.3),Wolbachia pipientis wMel,861,163164
+Q73IG9,Q73IG9_WOLPM,unreviewed,Ribonucleoside-diphosphate reductase (EC 1.17.4.1),Wolbachia pipientis wMel,594,163164
+Q73GR9,Q73GR9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,147,163164
+Q73GJ1,Q73GJ1_WOLPM,unreviewed,DNA helicase (EC 3.6.4.12),Wolbachia pipientis wMel,638,163164
+Q73IL7,Q73IL7_WOLPM,unreviewed,"Transcriptional activator, tenA family, putative",Wolbachia pipientis wMel,219,163164
+Q73FP0,Q73FP0_WOLPM,unreviewed,DNA replication and repair protein RecF,Wolbachia pipientis wMel,365,163164
+Q73IR0,Q73IR0_WOLPM,unreviewed,"Ferredoxin, 4Fe-4S",Wolbachia pipientis wMel,124,163164
+Q73GF0,Q73GF0_WOLPM,unreviewed,Phospholipase/carboxylesterase family protein,Wolbachia pipientis wMel,214,163164
+Q73HR5,Q73HR5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,91,163164
+Q73FT0,Q73FT0_WOLPM,unreviewed,Nuclease-related protein,Wolbachia pipientis wMel,176,163164
+Q73GV2,Q73GV2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,191,163164
+Q73GQ9,Q73GQ9_WOLPM,unreviewed,"Transposase, IS5 family, truncation",Wolbachia pipientis wMel,98,163164
+Q73GB7,Q73GB7_WOLPM,unreviewed,Cation efflux family protein,Wolbachia pipientis wMel,298,163164
+Q73I22,Q73I22_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,121,163164
+Q73G07,Q73G07_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,565,163164
+Q73G38,Q73G38_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,255,163164
+Q73H69,Q73H69_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,245,163164
+Q73G63,Q73G63_WOLPM,unreviewed,"Disulfide bond formation protein, DsbB family",Wolbachia pipientis wMel,173,163164
+Q73IF8,Q73IF8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,207,163164
+Q73GU1,Q73GU1_WOLPM,unreviewed,UvrABC system protein B (Protein UvrB) (Excinuclease ABC subunit B),Wolbachia pipientis wMel,635,163164
+Q73GR0,Q73GR0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,451,163164
+Q73FW6,Q73FW6_WOLPM,unreviewed,Nitroreductase family protein,Wolbachia pipientis wMel,195,163164
+Q73GY3,Q73GY3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,200,163164
+Q73FZ5,Q73FZ5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,163,163164
+Q73I96,Q73I96_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,157,163164
+Q73IM1,Q73IM1_WOLPM,unreviewed,S-adenosylmethionine synthetase (EC 2.5.1.6),Wolbachia pipientis wMel,390,163164
+Q73I28,Q73I28_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,198,163164
+Q73G48,Q73G48_WOLPM,unreviewed,Ribosomal silencing factor RsfS,Wolbachia pipientis wMel,105,163164
+Q73FX4,Q73FX4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,594,163164
+Q73GJ0,Q73GJ0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,142,163164
+Q73HG6,Q73HG6_WOLPM,unreviewed,"Prophage LambdaW4, ankyrin repeat domain protein",Wolbachia pipientis wMel,493,163164
+Q73IR6,Q73IR6_WOLPM,unreviewed,Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9),Wolbachia pipientis wMel,261,163164
+Q73GI1,Q73GI1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,124,163164
+Q73HI0,Q73HI0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,642,163164
+Q73ID9,Q73ID9_WOLPM,unreviewed,"Sodium/glutamate symporter family protein, putative",Wolbachia pipientis wMel,394,163164
+Q73H34,Q73H34_WOLPM,unreviewed,"Cytochrome d ubiquinol oxidase, subunit II (EC 1.10.3.-)",Wolbachia pipientis wMel,340,163164
+Q73H17,Q73H17_WOLPM,unreviewed,Riboflavin biosynthesis protein (EC 2.7.1.26) (EC 2.7.7.2),Wolbachia pipientis wMel,310,163164
+Q73IP3,Q73IP3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,85,163164
+Q73GM8,Q73GM8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,170,163164
+Q73HJ5,Q73HJ5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,111,163164
+Q73ID6,Q73ID6_WOLPM,unreviewed,"Cytochrome c-type biogenesis protein CcmF, putative",Wolbachia pipientis wMel,708,163164
+Q73IX0,Q73IX0_WOLPM,unreviewed,50S ribosomal protein L7/L12,Wolbachia pipientis wMel,133,163164
+Q73FX2,Q73FX2_WOLPM,unreviewed,Ubiquinol-cytochrome c reductase iron-sulfur subunit (EC 1.10.2.2),Wolbachia pipientis wMel,199,163164
+Q73FP3,Q73FP3_WOLPM,unreviewed,Acetylornithine aminotransferase (ACOAT) (EC 2.6.1.11),Wolbachia pipientis wMel,391,163164
+Q73H78,Q73H78_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,147,163164
+Q73HF8,Q73HF8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,101,163164
+Q73H05,Q73H05_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,202,163164
+Q73G88,Q73G88_WOLPM,unreviewed,"N-acetylmuramoyl-L-alanine amidase, family 2",Wolbachia pipientis wMel,497,163164
+Q73GT9,Q73GT9_WOLPM,unreviewed,"Transposase, IS5 family, truncation",Wolbachia pipientis wMel,100,163164
+Q73I84,Q73I84_WOLPM,unreviewed,"Prophage LambdaW1, ankyrin repeat domain protein",Wolbachia pipientis wMel,701,163164
+Q73HV0,Q73HV0_WOLPM,unreviewed,Pentapeptide repeat domain protein,Wolbachia pipientis wMel,601,163164
+Q73IE5,Q73IE5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,1574,163164
+Q73GV9,Q73GV9_WOLPM,unreviewed,Sua5/YciO/YrdC/YwlC family protein,Wolbachia pipientis wMel,195,163164
+Q73IV2,Q73IV2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,136,163164
+Q73GM6,Q73GM6_WOLPM,unreviewed,UvrABC system protein A (UvrA protein) (Excinuclease ABC subunit A),Wolbachia pipientis wMel,931,163164
+Q73FP6,Q73FP6_WOLPM,unreviewed,Inositol monophosphatase family protein,Wolbachia pipientis wMel,231,163164
+Q73FY0,Q73FY0_WOLPM,unreviewed,Acyl carrier protein (ACP),Wolbachia pipientis wMel,86,163164
+Q73GH8,Q73GH8_WOLPM,unreviewed,"NADH dehydrogenase I, F subunit, putative",Wolbachia pipientis wMel,417,163164
+Q73H14,Q73H14_WOLPM,unreviewed,"Peptidase, M16 family, putative",Wolbachia pipientis wMel,439,163164
+Q73HE1,Q73HE1_WOLPM,unreviewed,"Transcriptional regulator, putative",Wolbachia pipientis wMel,302,163164
+Q73HY5,Q73HY5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,74,163164
+Q73IN7,Q73IN7_WOLPM,unreviewed,"Cell division protein FtsK, putative",Wolbachia pipientis wMel,704,163164
+Q73G92,Q73G92_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,50,163164
+Q73GD9,Q73GD9_WOLPM,unreviewed,"Phosphoribosylformylglycinamidine synthase I, putative",Wolbachia pipientis wMel,265,163164
+Q73FY5,Q73FY5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,265,163164
+Q73IF0,Q73IF0_WOLPM,unreviewed,Phage uncharacterized protein,Wolbachia pipientis wMel,343,163164
+Q73G57,Q73G57_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,104,163164
+Q73HQ4,Q73HQ4_WOLPM,unreviewed,Fumarate hydratase class II (Fumarase C) (EC 4.2.1.2) (Aerobic fumarase) (Iron-independent fumarase),Wolbachia pipientis wMel,464,163164
+Q73FM6,Q73FM6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,84,163164
+Q73IN2,Q73IN2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,77,163164
+Q73FV0,Q73FV0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,412,163164
+Q73I69,Q73I69_WOLPM,unreviewed,Aminomethyl transferase family protein,Wolbachia pipientis wMel,268,163164
+Q73G68,Q73G68_WOLPM,unreviewed,"DnaK suppressor protein, putative",Wolbachia pipientis wMel,130,163164
+Q73IQ7,Q73IQ7_WOLPM,unreviewed,Cell division protein FtsQ,Wolbachia pipientis wMel,252,163164
+Q73H16,Q73H16_WOLPM,unreviewed,Lipoprotein signal peptidase (EC 3.4.23.36) (Prolipoprotein signal peptidase) (Signal peptidase II) (SPase II),Wolbachia pipientis wMel,158,163164
+Q73FL3,Q73FL3_WOLPM,unreviewed,3-octaprenyl-4-hydroxybenzoate carboxy-lyase,Wolbachia pipientis wMel,492,163164
+Q73IA1,Q73IA1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,333,163164
+Q73HW1,Q73HW1_WOLPM,unreviewed,"ATP synthase F0, B subunit, putative",Wolbachia pipientis wMel,159,163164
+Q73HT3,Q73HT3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,265,163164
+Q73HU3,Q73HU3_WOLPM,unreviewed,Phage prohead protease,Wolbachia pipientis wMel,177,163164
+Q73HD8,Q73HD8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,298,163164
+Q73GZ2,Q73GZ2_WOLPM,unreviewed,Adenylosuccinate lyase (ASL) (EC 4.3.2.2) (Adenylosuccinase),Wolbachia pipientis wMel,430,163164
+Q73I04,Q73I04_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,1111,163164
+Q73ID1,Q73ID1_WOLPM,unreviewed,Membrane protein insertase YidC (Foldase YidC) (Membrane integrase YidC) (Membrane protein YidC),Wolbachia pipientis wMel,569,163164
+Q73G49,Q73G49_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,79,163164
+Q73HU0,Q73HU0_WOLPM,unreviewed,Sec-independent protein translocase protein TatC,Wolbachia pipientis wMel,253,163164
+Q73GQ6,Q73GQ6_WOLPM,unreviewed,3'-5' exonuclease,Wolbachia pipientis wMel,206,163164
+Q73GL0,Q73GL0_WOLPM,unreviewed,"Cation ABC transporter, periplasmic cation-binding protein, putative",Wolbachia pipientis wMel,293,163164
+Q73FW7,Q73FW7_WOLPM,unreviewed,BioY family protein,Wolbachia pipientis wMel,175,163164
+Q73FL7,Q73FL7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,198,163164
+Q73H13,Q73H13_WOLPM,unreviewed,Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2) (5'-phosphoribosylglycinamide transformylase) (GAR transformylase) (GART),Wolbachia pipientis wMel,186,163164
+Q73H87,Q73H87_WOLPM,unreviewed,50S ribosomal protein L3,Wolbachia pipientis wMel,240,163164
+Q73IM6,Q73IM6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,576,163164
+Q73IM2,Q73IM2_WOLPM,unreviewed,Ribosomal protein L27,Wolbachia pipientis wMel,89,163164
+Q73GF2,Q73GF2_WOLPM,unreviewed,DNA polymerase (EC 2.7.7.7),Wolbachia pipientis wMel,858,163164
+Q73GF4,Q73GF4_WOLPM,unreviewed,Exodeoxyribonuclease III (EC 3.1.11.2),Wolbachia pipientis wMel,259,163164
+Q73FQ2,Q73FQ2_WOLPM,unreviewed,Penicillin-binding protein,Wolbachia pipientis wMel,515,163164
+Q73FP7,Q73FP7_WOLPM,unreviewed,5-aminolevulinate synthase (EC 2.3.1.37) (5-aminolevulinic acid synthase) (Delta-ALA synthase) (Delta-aminolevulinate synthase),Wolbachia pipientis wMel,402,163164
+Q73FM2,Q73FM2_WOLPM,unreviewed,DNA mismatch repair protein MutL,Wolbachia pipientis wMel,608,163164
+Q73GH7,Q73GH7_WOLPM,unreviewed,Translation initiation factor IF-3,Wolbachia pipientis wMel,172,163164
+Q73GY5,Q73GY5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,158,163164
+Q73HD0,Q73HD0_WOLPM,unreviewed,"Prophage LambdaW5, ankyrin repeat domain protein",Wolbachia pipientis wMel,152,163164
+Q73I46,Q73I46_WOLPM,unreviewed,Translation initiation factor IF-1,Wolbachia pipientis wMel,87,163164
+Q73HU5,Q73HU5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,415,163164
+Q73I01,Q73I01_WOLPM,unreviewed,Ankyrin repeat domain protein,Wolbachia pipientis wMel,542,163164
+Q73H30,Q73H30_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,659,163164
+Q73GW2,Q73GW2_WOLPM,unreviewed,"Type IV secretion system protein VirB8, putative",Wolbachia pipientis wMel,220,163164
+Q73GN0,Q73GN0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,890,163164
+Q73FL9,Q73FL9_WOLPM,unreviewed,"2-oxoglutarate dehydrogenase, E1 component (EC 1.2.4.2)",Wolbachia pipientis wMel,884,163164
+Q73GF9,Q73GF9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,266,163164
+Q73IU0,Q73IU0_WOLPM,unreviewed,Integration host factor subunit alpha,Wolbachia pipientis wMel,101,163164
+Q73HT8,Q73HT8_WOLPM,unreviewed,"Amino acid ABC transporter, ATP-binding protein, putative",Wolbachia pipientis wMel,213,163164
+Q73I12,Q73I12_WOLPM,unreviewed,"Phosphate ABC transporter, ATP-binding protein",Wolbachia pipientis wMel,252,163164
+Q73FR1,Q73FR1_WOLPM,unreviewed,Inorganic pyrophosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase) (PPase),Wolbachia pipientis wMel,168,163164
+Q73H04,Q73H04_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,271,163164
+Q73HH9,Q73HH9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,233,163164
+Q73I90,Q73I90_WOLPM,unreviewed,"Prophage LambdaW1, ankyrin repeat domain protein",Wolbachia pipientis wMel,196,163164
+Q73G22,Q73G22_WOLPM,unreviewed,Chromosomal DNA replication initiator-related protein,Wolbachia pipientis wMel,211,163164
+Q73HH4,Q73HH4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,84,163164
+Q73FS5,Q73FS5_WOLPM,unreviewed,SURF1-like protein,Wolbachia pipientis wMel,205,163164
+Q73HS4,Q73HS4_WOLPM,unreviewed,tRNA-specific adenosine deaminase (EC 3.5.4.33),Wolbachia pipientis wMel,135,163164
+Q73HF1,Q73HF1_WOLPM,unreviewed,"Glycosyl transferase, group 1 family protein / moaA/nifB/pqqE family protein",Wolbachia pipientis wMel,778,163164
+Q73FP2,Q73FP2_WOLPM,unreviewed,Sensor histidine kinase (EC 2.7.1.-),Wolbachia pipientis wMel,475,163164
+Q73FL6,Q73FL6_WOLPM,unreviewed,DsbA-like disulfide oxidoreductase,Wolbachia pipientis wMel,252,163164
+Q73G89,Q73G89_WOLPM,unreviewed,DnaJ domain protein,Wolbachia pipientis wMel,56,163164
+Q73GY2,Q73GY2_WOLPM,unreviewed,Peptidylprolyl isomerase (EC 5.2.1.8),Wolbachia pipientis wMel,602,163164
+Q73HD4,Q73HD4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,1166,163164
+Q73IJ8,Q73IJ8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,68,163164
+Q73HK5,Q73HK5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,113,163164
+Q73GH5,Q73GH5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,95,163164
+Q73G77,Q73G77_WOLPM,unreviewed,Outer membrane protein assembly factor BamA,Wolbachia pipientis wMel,778,163164
+Q73IQ2,Q73IQ2_WOLPM,unreviewed,Bifunctional protein PutA,Wolbachia pipientis wMel,1046,163164
+Q73HF3,Q73HF3_WOLPM,unreviewed,UDP-N-acetylglucosamine pyrophosphorylase-related protein,Wolbachia pipientis wMel,253,163164
+Q73GF1,Q73GF1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,268,163164
+Q73HF2,Q73HF2_WOLPM,unreviewed,NAD-dependent epimerase/dehydratase family protein,Wolbachia pipientis wMel,319,163164
+Q73FM4,Q73FM4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,98,163164
+Q73IJ4,Q73IJ4_WOLPM,unreviewed,Methionine aminopeptidase (MAP) (MetAP) (EC 3.4.11.18) (Peptidase M),Wolbachia pipientis wMel,260,163164
+Q73GT7,Q73GT7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,346,163164
+Q73H67,Q73H67_WOLPM,unreviewed,"Aminotransferase, class V",Wolbachia pipientis wMel,378,163164
+Q73HV6,Q73HV6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,251,163164
+Q73H47,Q73H47_WOLPM,unreviewed,Succinate dehydrogenase iron-sulfur subunit (EC 1.3.5.1),Wolbachia pipientis wMel,262,163164
+Q73GD1,Q73GD1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,92,163164
+Q73IF7,Q73IF7_WOLPM,unreviewed,Endopeptidase-related protein,Wolbachia pipientis wMel,191,163164
+Q73GU7,Q73GU7_WOLPM,unreviewed,Protein HflC,Wolbachia pipientis wMel,290,163164
+Q73G55,Q73G55_WOLPM,unreviewed,Rod shape-determining protein RodA,Wolbachia pipientis wMel,367,163164
+Q73HG3,Q73HG3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,89,163164
+Q73GI8,Q73GI8_WOLPM,unreviewed,NADH-quinone oxidoreductase subunit K (EC 1.6.5.11) (NADH dehydrogenase I subunit K) (NDH-1 subunit K),Wolbachia pipientis wMel,102,163164
+Q73HJ7,Q73HJ7_WOLPM,unreviewed,"Transposase, truncation",Wolbachia pipientis wMel,73,163164
+Q73I35,Q73I35_WOLPM,unreviewed,DNA primase (EC 2.7.7.-),Wolbachia pipientis wMel,582,163164
+Q73I24,Q73I24_WOLPM,unreviewed,"Helicase, UvrD/Rep/AddA family",Wolbachia pipientis wMel,1089,163164
+Q73FV5,Q73FV5_WOLPM,unreviewed,ParB family protein,Wolbachia pipientis wMel,283,163164
+Q73HG2,Q73HG2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,93,163164
+Q73GR3,Q73GR3_WOLPM,unreviewed,Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39),Wolbachia pipientis wMel,326,163164
+Q73FS4,Q73FS4_WOLPM,unreviewed,Glutathione-regulated potassium-efflux system protein,Wolbachia pipientis wMel,572,163164
+Q73FW9,Q73FW9_WOLPM,unreviewed,TPR domain protein,Wolbachia pipientis wMel,291,163164
+Q73GW8,Q73GW8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,214,163164
+Q73I62,Q73I62_WOLPM,unreviewed,Na+/H+ antiporter family protein,Wolbachia pipientis wMel,431,163164
+Q73G69,Q73G69_WOLPM,unreviewed,Heme exporter protein CcmB,Wolbachia pipientis wMel,215,163164
+Q73H31,Q73H31_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,273,163164
+Q73G96,Q73G96_WOLPM,unreviewed,Heat shock sigma factor RpoH,Wolbachia pipientis wMel,297,163164
+Q73G54,Q73G54_WOLPM,unreviewed,Amidophosphoribosyltransferase (ATase) (EC 2.4.2.14) (Glutamine phosphoribosylpyrophosphate amidotransferase) (GPATase),Wolbachia pipientis wMel,461,163164
+Q73IH4,Q73IH4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,60,163164
+Q73HX7,Q73HX7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,143,163164
+Q73I88,Q73I88_WOLPM,unreviewed,"Prophage LambdaW1, site-specific recombinase, resolvase family",Wolbachia pipientis wMel,500,163164
+Q73FN2,Q73FN2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,65,163164
+Q73GB2,Q73GB2_WOLPM,unreviewed,Sodium/alanine symporter family protein,Wolbachia pipientis wMel,447,163164
+Q73GD3,Q73GD3_WOLPM,unreviewed,Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1) (AIR synthase) (AIRS) (Phosphoribosyl-aminoimidazole synthetase),Wolbachia pipientis wMel,345,163164
+Q73IL2,Q73IL2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,139,163164
+Q73HE8,Q73HE8_WOLPM,unreviewed,"ABC transporter, permease/ATP-binding protein, putative",Wolbachia pipientis wMel,591,163164
+Q73GE3,Q73GE3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,77,163164
+Q73FW1,Q73FW1_WOLPM,unreviewed,Ribosomal RNA small subunit methyltransferase E (EC 2.1.1.193),Wolbachia pipientis wMel,228,163164
+Q73H45,Q73H45_WOLPM,unreviewed,"Acetyltransferase, GNAT family",Wolbachia pipientis wMel,259,163164
+Q73IV8,Q73IV8_WOLPM,unreviewed,Ribose-phosphate pyrophosphokinase (EC 2.7.6.1),Wolbachia pipientis wMel,308,163164
+Q73IN8,Q73IN8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,162,163164
+Q73HC7,Q73HC7_WOLPM,unreviewed,"Prophage LambdaW5, baseplate assembly protein J, putative",Wolbachia pipientis wMel,263,163164
+Q73IE0,Q73IE0_WOLPM,unreviewed,Orotate phosphoribosyltransferase (OPRT) (OPRTase) (EC 2.4.2.10),Wolbachia pipientis wMel,200,163164
+Q73G45,Q73G45_WOLPM,unreviewed,"Deoxyribonuclease, TatD family",Wolbachia pipientis wMel,255,163164
+Q73ID3,Q73ID3_WOLPM,unreviewed,Protein-export membrane protein SecF,Wolbachia pipientis wMel,291,163164
+Q73GE0,Q73GE0_WOLPM,unreviewed,Phage uncharacterized protein,Wolbachia pipientis wMel,487,163164
+Q73HG4,Q73HG4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,77,163164
+Q73GJ7,Q73GJ7_WOLPM,unreviewed,Aspartate-semialdehyde dehydrogenase (ASA dehydrogenase) (ASADH) (EC 1.2.1.11) (Aspartate-beta-semialdehyde dehydrogenase),Wolbachia pipientis wMel,344,163164
+Q73GA3,Q73GA3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,92,163164
+Q73HQ0,Q73HQ0_WOLPM,unreviewed,Endolytic peptidoglycan transglycosylase RlpA (EC 4.2.2.-),Wolbachia pipientis wMel,224,163164
+Q73HF0,Q73HF0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,564,163164
+Q73HZ7,Q73HZ7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,66,163164
+Q73FL4,Q73FL4_WOLPM,unreviewed,Fic family protein,Wolbachia pipientis wMel,359,163164
+Q73H26,Q73H26_WOLPM,unreviewed,PQQ enzyme repeat family protein,Wolbachia pipientis wMel,353,163164
+Q73HD3,Q73HD3_WOLPM,unreviewed,"Prophage LambdaW5, ankyrin repeat domain protein",Wolbachia pipientis wMel,966,163164
+Q73HZ9,Q73HZ9_WOLPM,unreviewed,Transketolase (EC 2.2.1.1),Wolbachia pipientis wMel,690,163164
+Q73IY2,Q73IY2_WOLPM,unreviewed,"Modification methylase, HemK family",Wolbachia pipientis wMel,279,163164
+Q73FY4,Q73FY4_WOLPM,unreviewed,Glutamate--cysteine ligase-related protein,Wolbachia pipientis wMel,386,163164
+Q73H60,Q73H60_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,142,163164
+Q73FT9,Q73FT9_WOLPM,unreviewed,PmbA protein,Wolbachia pipientis wMel,444,163164
+Q73GP7,Q73GP7_WOLPM,unreviewed,Iron-sulfur cluster assembly scaffold protein IscU,Wolbachia pipientis wMel,127,163164
+Q73IG7,Q73IG7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,87,163164
+Q73G40,Q73G40_WOLPM,unreviewed,HIT family protein,Wolbachia pipientis wMel,122,163164
+Q73HQ5,Q73HQ5_WOLPM,unreviewed,Glutaredoxin,Wolbachia pipientis wMel,107,163164
+Q73H40,Q73H40_WOLPM,unreviewed,"NADH dehydrogenase I, E subunit (EC 1.6.5.3)",Wolbachia pipientis wMel,166,163164
+Q73FW4,Q73FW4_WOLPM,unreviewed,Succinate--CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha),Wolbachia pipientis wMel,291,163164
+Q73G98,Q73G98_WOLPM,unreviewed,Nucleoid-associated protein WD_1061,Wolbachia pipientis wMel,110,163164
+Q73FL8,Q73FL8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,262,163164
+Q73G64,Q73G64_WOLPM,unreviewed,GTPase Der (GTP-binding protein EngA),Wolbachia pipientis wMel,441,163164
+Q73H21,Q73H21_WOLPM,unreviewed,Thioredoxin reductase (EC 1.8.1.9),Wolbachia pipientis wMel,315,163164
+Q73FL2,Q73FL2_WOLPM,unreviewed,4-hydroxybenzoate octaprenyltransferase (EC 2.5.1.-) (4-HB polyprenyltransferase),Wolbachia pipientis wMel,285,163164
+Q73FN3,Q73FN3_WOLPM,unreviewed,"Oxidoreductase, short-chain dehydrogenase/reductase family",Wolbachia pipientis wMel,243,163164
+Q73GA2,Q73GA2_WOLPM,unreviewed,O-methyltransferase family protein,Wolbachia pipientis wMel,215,163164
+Q73HI7,Q73HI7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,85,163164
+Q73G97,Q73G97_WOLPM,unreviewed,Surface antigen Wsp,Wolbachia pipientis wMel,237,163164
+Q73FL1,Q73FL1_WOLPM,unreviewed,Ribosome-binding factor A,Wolbachia pipientis wMel,132,163164
+Q73I32,Q73I32_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,146,163164
+Q73G25,Q73G25_WOLPM,unreviewed,N5-carboxyaminoimidazole ribonucleotide synthase (N5-CAIR synthase) (EC 6.3.4.18) (5-(carboxyamino)imidazole ribonucleotide synthetase),Wolbachia pipientis wMel,354,163164
+Q73IA2,Q73IA2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,123,163164
+Q73H12,Q73H12_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,138,163164
+Q73GW7,Q73GW7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,115,163164
+Q73GB1,Q73GB1_WOLPM,unreviewed,"CDP-diacylglycerol--serine O-phosphatidyltransferase, putative",Wolbachia pipientis wMel,256,163164
+Q73IM7,Q73IM7_WOLPM,unreviewed,"Riboflavin synthase, alpha subunit (EC 2.5.1.9)",Wolbachia pipientis wMel,198,163164
+Q73GV3,Q73GV3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,95,163164
+Q73GK3,Q73GK3_WOLPM,unreviewed,"Quinone oxidoreductase, putative",Wolbachia pipientis wMel,325,163164
+Q73GK4,Q73GK4_WOLPM,unreviewed,"Transposase, IS5 family, truncation",Wolbachia pipientis wMel,135,163164
+Q73G59,Q73G59_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,260,163164
+Q73G99,Q73G99_WOLPM,unreviewed,"DNA polymerase III, gamma and tau subunits (EC 2.7.7.7)",Wolbachia pipientis wMel,533,163164
+Q73H41,Q73H41_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,708,163164
+Q73GK0,Q73GK0_WOLPM,unreviewed,"RNA methyltransferase, TrmH family, group 3",Wolbachia pipientis wMel,254,163164
+Q73GE5,Q73GE5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,847,163164
+Q73HT9,Q73HT9_WOLPM,unreviewed,Arginine repressor,Wolbachia pipientis wMel,151,163164
+Q73FS0,Q73FS0_WOLPM,unreviewed,ATP-dependent zinc metalloprotease FtsH (EC 3.4.24.-),Wolbachia pipientis wMel,613,163164
+Q73GX6,Q73GX6_WOLPM,unreviewed,Cytochrome c family protein,Wolbachia pipientis wMel,158,163164
+Q73HV9,Q73HV9_WOLPM,unreviewed,"Glycosyl transferase, group 2 family protein",Wolbachia pipientis wMel,532,163164
+Q73G37,Q73G37_WOLPM,unreviewed,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10) (D-alanyl-D-alanine-adding enzyme),Wolbachia pipientis wMel,509,163164
+Q73IH8,Q73IH8_WOLPM,unreviewed,"Ribonuclease D, putative",Wolbachia pipientis wMel,392,163164
+Q73GD2,Q73GD2_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,97,163164
+Q73I39,Q73I39_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,104,163164
+Q73G36,Q73G36_WOLPM,unreviewed,"NADH-ubiquinone oxidoreductase, putative",Wolbachia pipientis wMel,316,163164
+Q73GW0,Q73GW0_WOLPM,unreviewed,"DNA polymerase III, subunit, putative",Wolbachia pipientis wMel,273,163164
+Q73GF6,Q73GF6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,165,163164
+Q73IJ5,Q73IJ5_WOLPM,unreviewed,Cell division protein FtsA,Wolbachia pipientis wMel,412,163164
+Q73HM0,Q73HM0_WOLPM,unreviewed,"Preprotein translocase, YajC subunit",Wolbachia pipientis wMel,123,163164
+Q73IM9,Q73IM9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,145,163164
+Q73H35,Q73H35_WOLPM,unreviewed,"Cytochrome d ubiquinol oxidase, subunit I (EC 1.10.3.-)",Wolbachia pipientis wMel,468,163164
+Q73HX3,Q73HX3_WOLPM,unreviewed,Pyruvate dehydrogenase E1 component subunit alpha (EC 1.2.4.1),Wolbachia pipientis wMel,326,163164
+Q73H53,Q73H53_WOLPM,unreviewed,Mg chelatase-related protein,Wolbachia pipientis wMel,502,163164
+Q73GG6,Q73GG6_WOLPM,unreviewed,"Membrane protein, putative",Wolbachia pipientis wMel,260,163164
+Q73I18,Q73I18_WOLPM,unreviewed,Fic family protein,Wolbachia pipientis wMel,348,163164
+Q73FP1,Q73FP1_WOLPM,unreviewed,Bacterioferritin comigratory protein,Wolbachia pipientis wMel,155,163164
+Q73IC4,Q73IC4_WOLPM,unreviewed,Acetylglutamate kinase (EC 2.7.2.8),Wolbachia pipientis wMel,303,163164
+Q73I26,Q73I26_WOLPM,unreviewed,DNA repair protein RadC,Wolbachia pipientis wMel,224,163164
+Q73GU6,Q73GU6_WOLPM,unreviewed,Protease DO (EC 3.4.21.-),Wolbachia pipientis wMel,497,163164
+Q73I56,Q73I56_WOLPM,unreviewed,Glutathione synthetase (EC 6.3.2.3) (GSH synthetase) (GSH-S) (GSHase) (Glutathione synthase),Wolbachia pipientis wMel,309,163164
+Q73H50,Q73H50_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,132,163164
+Q73HB4,Q73HB4_WOLPM,unreviewed,"3,4-dihydroxy-2-butanone 4-phosphate synthase (DHBP synthase) (EC 4.1.99.12)",Wolbachia pipientis wMel,217,163164
+Q73IR8,Q73IR8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,271,163164
+Q73IB9,Q73IB9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,443,163164
+Q73I10,Q73I10_WOLPM,unreviewed,Magnesium transporter MgtE,Wolbachia pipientis wMel,456,163164
+Q73HB5,Q73HB5_WOLPM,unreviewed,"Peptidase, M48 family",Wolbachia pipientis wMel,426,163164
+Q73HL2,Q73HL2_WOLPM,unreviewed,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) (2-oxoglutarate dehydrogenase complex component E2),Wolbachia pipientis wMel,390,163164
+Q73HR6,Q73HR6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,230,163164
+Q73GN6,Q73GN6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,86,163164
+Q73FW0,Q73FW0_WOLPM,unreviewed,"Ankyrin repeat domain protein, putative",Wolbachia pipientis wMel,414,163164
+Q73G56,Q73G56_WOLPM,unreviewed,"Na+/H+ antiporter subunit, putative",Wolbachia pipientis wMel,488,163164
+Q73HU6,Q73HU6_WOLPM,unreviewed,Poly A polymerase family protein,Wolbachia pipientis wMel,391,163164
+Q73GJ2,Q73GJ2_WOLPM,unreviewed,Aspartokinase (EC 2.7.2.4),Wolbachia pipientis wMel,388,163164
+Q73IS3,Q73IS3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,136,163164
+Q73GM9,Q73GM9_WOLPM,unreviewed,Phosphoribosylformylglycinamidine synthase subunit PurL (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit II) (FGAR amidotransferase II) (FGAR-AT II) (Glutamine amidotransferase PurL) (Phosphoribosylformylglycinamidine synthase subunit II),Wolbachia pipientis wMel,1032,163164
+Q73GK2,Q73GK2_WOLPM,unreviewed,Cytochrome c oxidase assembly protein CtaG,Wolbachia pipientis wMel,178,163164
+Q73GD8,Q73GD8_WOLPM,unreviewed,"Phosphate ABC transporter, permease protein, putative",Wolbachia pipientis wMel,416,163164
+Q73HG7,Q73HG7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,159,163164
+Q73HI6,Q73HI6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,66,163164
+Q73H03,Q73H03_WOLPM,unreviewed,Single-stranded DNA-binding protein (SSB),Wolbachia pipientis wMel,160,163164
+Q73HI2,Q73HI2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,64,163164
+Q73IV7,Q73IV7_WOLPM,unreviewed,"Glutamyl-tRNA(Gln) amidotransferase, C subunit, putative",Wolbachia pipientis wMel,117,163164
+Q73FT4,Q73FT4_WOLPM,unreviewed,Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2),Wolbachia pipientis wMel,355,163164
+Q73HM4,Q73HM4_WOLPM,unreviewed,Isoprenyl transferase (EC 2.5.1.-),Wolbachia pipientis wMel,231,163164
+Q73IG0,Q73IG0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,72,163164
+Q73HJ3,Q73HJ3_WOLPM,unreviewed,Ankyrin repeat domain protein,Wolbachia pipientis wMel,173,163164
+Q73HE4,Q73HE4_WOLPM,unreviewed,UDP-glucose 6-dehydrogenase (EC 1.1.1.22),Wolbachia pipientis wMel,435,163164
+Q73H88,Q73H88_WOLPM,unreviewed,50S ribosomal protein L23,Wolbachia pipientis wMel,95,163164
+Q73II7,Q73II7_WOLPM,unreviewed,"Transposase, putative",Wolbachia pipientis wMel,320,163164
+Q73GY9,Q73GY9_WOLPM,unreviewed,Endonuclease III (EC 4.2.99.18) (DNA-(apurinic or apyrimidinic site) lyase),Wolbachia pipientis wMel,212,163164
+Q73IN3,Q73IN3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,103,163164
+Q73G52,Q73G52_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,323,163164
+Q73GS8,Q73GS8_WOLPM,unreviewed,"Membrane protein, putative",Wolbachia pipientis wMel,1242,163164
+Q73G02,Q73G02_WOLPM,unreviewed,"Cytochrome b561, putative",Wolbachia pipientis wMel,173,163164
+Q73HZ2,Q73HZ2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,246,163164
+Q73FX7,Q73FX7_WOLPM,unreviewed,Abortive infection protein family,Wolbachia pipientis wMel,278,163164
+Q73H52,Q73H52_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,149,163164
+Q73IU6,Q73IU6_WOLPM,unreviewed,"Transposase, degenerate",Wolbachia pipientis wMel,85,163164
+Q73HA5,Q73HA5_WOLPM,unreviewed,Protein translocase subunit SecY,Wolbachia pipientis wMel,442,163164
+Q73FU4,Q73FU4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,409,163164
+Q73G79,Q73G79_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,960,163164
+Q73H75,Q73H75_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,242,163164
+Q73HD5,Q73HD5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,474,163164
+Q73FN1,Q73FN1_WOLPM,unreviewed,Carbamoyl-phosphate synthase large chain (EC 6.3.5.5) (Carbamoyl-phosphate synthetase ammonia chain),Wolbachia pipientis wMel,1151,163164
+Q73FK8,Q73FK8_WOLPM,unreviewed,Multidrug resistance protein D,Wolbachia pipientis wMel,1024,163164
+Q73GS3,Q73GS3_WOLPM,unreviewed,"Type IV secretion system protein VirB3, putative",Wolbachia pipientis wMel,98,163164
+Q73IY5,Q73IY5_WOLPM,unreviewed,Type IV secretion system protein VirB11,Wolbachia pipientis wMel,330,163164
+Q73IW8,Q73IW8_WOLPM,unreviewed,tRNA-dihydrouridine synthase (EC 1.3.1.-),Wolbachia pipientis wMel,320,163164
+Q73IV1,Q73IV1_WOLPM,unreviewed,"Reverse transcriptase, interruption-C",Wolbachia pipientis wMel,228,163164
+Q73GT8,Q73GT8_WOLPM,unreviewed,"Cytochrome c-type biogenesis protein CcmH, putative",Wolbachia pipientis wMel,125,163164
+Q73FX9,Q73FX9_WOLPM,unreviewed,3-oxoacyl-[acyl-carrier-protein] synthase 2 (EC 2.3.1.179),Wolbachia pipientis wMel,423,163164
+Q73GV8,Q73GV8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,156,163164
+Q73I43,Q73I43_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,531,163164
+Q73IN0,Q73IN0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,72,163164
+Q73GS9,Q73GS9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,210,163164
+Q73G76,Q73G76_WOLPM,unreviewed,Zinc metalloprotease (EC 3.4.24.-),Wolbachia pipientis wMel,372,163164
+Q73GL6,Q73GL6_WOLPM,unreviewed,"Ribonuclease, Rne/Rng family protein",Wolbachia pipientis wMel,587,163164
+Q73FN0,Q73FN0_WOLPM,unreviewed,"Lipolytic enzyme, GDSL family",Wolbachia pipientis wMel,326,163164
+Q73H42,Q73H42_WOLPM,unreviewed,Cell cycle transcriptional regulator,Wolbachia pipientis wMel,256,163164
+Q73HN4,Q73HN4_WOLPM,unreviewed,"Reverse transcriptase, interruption-C",Wolbachia pipientis wMel,126,163164
+Q73HD1,Q73HD1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,146,163164
+Q73GQ5,Q73GQ5_WOLPM,unreviewed,Thioredoxin,Wolbachia pipientis wMel,107,163164
+Q73G23,Q73G23_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,354,163164
+Q73IC0,Q73IC0_WOLPM,unreviewed,"Membrane protein, putative",Wolbachia pipientis wMel,309,163164
+Q73HQ8,Q73HQ8_WOLPM,unreviewed,NADP-dependent malic enzyme (EC 1.1.1.40),Wolbachia pipientis wMel,440,163164
+Q73HE9,Q73HE9_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,329,163164
+Q73IL8,Q73IL8_WOLPM,unreviewed,"Transcriptional activator, tenA family, putative",Wolbachia pipientis wMel,223,163164
+Q73IQ6,Q73IQ6_WOLPM,unreviewed,D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4),Wolbachia pipientis wMel,368,163164
+Q73GI9,Q73GI9_WOLPM,unreviewed,"NADH dehydrogenase I, J subunit (EC 1.6.5.3)",Wolbachia pipientis wMel,195,163164
+Q73I29,Q73I29_WOLPM,unreviewed,Replicative DNA helicase (EC 3.6.4.12),Wolbachia pipientis wMel,483,163164
+Q73FY1,Q73FY1_WOLPM,unreviewed,Geranyltranstransferase (EC 2.5.1.10),Wolbachia pipientis wMel,335,163164
+Q73GP3,Q73GP3_WOLPM,unreviewed,Signal peptidase I (EC 3.4.21.89),Wolbachia pipientis wMel,248,163164
+Q73IA5,Q73IA5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,137,163164
+Q73IP8,Q73IP8_WOLPM,unreviewed,"DNA polymerase III, epsilon subunit (EC 2.7.7.7)",Wolbachia pipientis wMel,231,163164
+Q73H25,Q73H25_WOLPM,unreviewed,Dihydrolipoyl dehydrogenase (EC 1.8.1.4),Wolbachia pipientis wMel,459,163164
+Q73HW0,Q73HW0_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,158,163164
+Q73IT4,Q73IT4_WOLPM,unreviewed,"DNA-binding protein, HU family",Wolbachia pipientis wMel,103,163164
+Q73IL6,Q73IL6_WOLPM,unreviewed,"Cytochrome c oxidase, subunit III (EC 1.9.3.1)",Wolbachia pipientis wMel,275,163164
+Q73HI1,Q73HI1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,392,163164
+Q73HF7,Q73HF7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,36,163164
+Q73HK4,Q73HK4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,36,163164
+Q73IU3,Q73IU3_WOLPM,unreviewed,"Dioxygenase, putative",Wolbachia pipientis wMel,213,163164
+Q73IN9,Q73IN9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,49,163164
+Q73IS1,Q73IS1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,271,163164
+Q73HR7,Q73HR7_WOLPM,unreviewed,"Malonyl-CoA decarboxylase, putative",Wolbachia pipientis wMel,464,163164
+Q73HT5,Q73HT5_WOLPM,unreviewed,"Phage major capsid protein, HK97 family",Wolbachia pipientis wMel,399,163164
+Q73G35,Q73G35_WOLPM,unreviewed,Phage uncharacterized protein,Wolbachia pipientis wMel,295,163164
+Q73IG1,Q73IG1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,35,163164
+Q73FQ5,Q73FQ5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,48,163164
+Q73I00,Q73I00_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,72,163164
+Q73HH6,Q73HH6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,141,163164
+Q73GC0,Q73GC0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,36,163164
+Q73GQ4,Q73GQ4_WOLPM,unreviewed,"Coenzyme PQQ synthesis protein C, putative",Wolbachia pipientis wMel,219,163164
+Q73HA1,Q73HA1_WOLPM,unreviewed,50S ribosomal protein L6,Wolbachia pipientis wMel,181,163164
+Q73FY7,Q73FY7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,161,163164
+Q73GB6,Q73GB6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,329,163164
+Q73IC5,Q73IC5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,36,163164
+Q73II2,Q73II2_WOLPM,unreviewed,HNH endonuclease family protein,Wolbachia pipientis wMel,168,163164
+Q73FQ9,Q73FQ9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,399,163164
+Q73GU4,Q73GU4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,34,163164
+Q73FS9,Q73FS9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,50,163164
+Q73HI3,Q73HI3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,444,163164
+Q73IE3,Q73IE3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,92,163164
+Q73I27,Q73I27_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,48,163164
+Q73IU8,Q73IU8_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,135,163164
+Q73HK7,Q73HK7_WOLPM,unreviewed,Ankyrin repeat domain protein,Wolbachia pipientis wMel,329,163164
+Q73HP7,Q73HP7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,100,163164
+Q73FT2,Q73FT2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,33,163164
+Q73GV1,Q73GV1_WOLPM,unreviewed,Periplasmic divalent cation tolerance protein,Wolbachia pipientis wMel,111,163164
+Q73I34,Q73I34_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,34,163164
+Q73IW3,Q73IW3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,35,163164
+Q73FQ4,Q73FQ4_WOLPM,unreviewed,"Enhancing lycopene biosynthesis protein 2, putative",Wolbachia pipientis wMel,241,163164
+Q73II0,Q73II0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,69,163164
+Q73GT5,Q73GT5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,35,163164
+Q73IB1,Q73IB1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,46,163164
+Q73HC1,Q73HC1_WOLPM,unreviewed,"Reverse transcriptase, truncation",Wolbachia pipientis wMel,159,163164
+Q73FU9,Q73FU9_WOLPM,unreviewed,"Mannose-1-phosphate guanylyltransferase, interruption-N",Wolbachia pipientis wMel,193,163164
+Q73GH1,Q73GH1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,35,163164
+Q73IS4,Q73IS4_WOLPM,unreviewed,"Uncharacterized phage protein, putative",Wolbachia pipientis wMel,160,163164
+Q73HD6,Q73HD6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,793,163164
+Q73GU5,Q73GU5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,450,163164
+Q73I83,Q73I83_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,48,163164
+Q73I36,Q73I36_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,42,163164
+Q73H23,Q73H23_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,105,163164
+Q73G80,Q73G80_WOLPM,unreviewed,"Oxidoreductase, putative",Wolbachia pipientis wMel,524,163164
+Q73I98,Q73I98_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,47,163164
+Q73IT8,Q73IT8_WOLPM,unreviewed,"Peptidase, M23/M37 family",Wolbachia pipientis wMel,190,163164
+Q73GP9,Q73GP9_WOLPM,unreviewed,DNA repair protein RadA,Wolbachia pipientis wMel,450,163164
+Q73FY8,Q73FY8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,103,163164
+Q73GW1,Q73GW1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,219,163164
+Q73FV8,Q73FV8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,353,163164
+Q73GX1,Q73GX1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,34,163164
+Q73IE8,Q73IE8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,54,163164
+Q73IH7,Q73IH7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,44,163164
+Q73I67,Q73I67_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,30,163164
+Q73IR7,Q73IR7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,34,163164
+Q73IW2,Q73IW2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,91,163164
+Q73HK9,Q73HK9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,311,163164
+Q73FQ3,Q73FQ3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,122,163164
+Q73FY3,Q73FY3_WOLPM,unreviewed,ATP-dependent protease ATPase subunit HslU,Wolbachia pipientis wMel,437,163164
+Q73HV4,Q73HV4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,55,163164
+Q73G86,Q73G86_WOLPM,unreviewed,NifU domain protein,Wolbachia pipientis wMel,191,163164
+Q73FQ6,Q73FQ6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,272,163164
+Q73GX3,Q73GX3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,41,163164
+Q73H29,Q73H29_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,34,163164
+Q73FU2,Q73FU2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,127,163164
+Q73FR4,Q73FR4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,31,163164
+Q73IU4,Q73IU4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,65,163164
+Q73ID5,Q73ID5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,523,163164
+Q73FR0,Q73FR0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,53,163164
+Q73HM8,Q73HM8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,255,163164
+Q73IW7,Q73IW7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,158,163164
+Q73GK7,Q73GK7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,35,163164
+Q73IE6,Q73IE6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,103,163164
+Q73GP2,Q73GP2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,56,163164
+Q73FR3,Q73FR3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,116,163164
+Q73I72,Q73I72_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,52,163164
+Q73I05,Q73I05_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,189,163164
+Q73IY1,Q73IY1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,44,163164
+Q73GJ3,Q73GJ3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,66,163164
+Q73I94,Q73I94_WOLPM,unreviewed,"Prophage LambdaW1, baseplate assembly protein W, putative",Wolbachia pipientis wMel,108,163164
+Q73HN0,Q73HN0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,35,163164
+Q73I03,Q73I03_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,267,163164
+Q73FL5,Q73FL5_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,50,163164
+Q73G47,Q73G47_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,224,163164
+Q73IN4,Q73IN4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,77,163164
+Q73GM7,Q73GM7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,46,163164
+Q73G70,Q73G70_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,37,163164
+Q73HY2,Q73HY2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,72,163164
+Q73IB3,Q73IB3_WOLPM,unreviewed,"DNA repair protein RadC, truncation",Wolbachia pipientis wMel,99,163164
+Q73I68,Q73I68_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,56,163164
+Q73H80,Q73H80_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,108,163164
+Q73GC5,Q73GC5_WOLPM,unreviewed,"Permease, putative",Wolbachia pipientis wMel,409,163164
+Q73FZ7,Q73FZ7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,960,163164
+Q73IR4,Q73IR4_WOLPM,unreviewed,Inosine-5'-monophosphate dehydrogenase (IMP dehydrogenase) (IMPD) (IMPDH) (EC 1.1.1.205),Wolbachia pipientis wMel,494,163164
+Q73GZ9,Q73GZ9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,42,163164
+Q73GU9,Q73GU9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,448,163164
+Q73H22,Q73H22_WOLPM,unreviewed,Ankyrin repeat domain protein,Wolbachia pipientis wMel,433,163164
+Q73HP3,Q73HP3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,31,163164
+Q73HY3,Q73HY3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,33,163164
+Q73HC6,Q73HC6_WOLPM,unreviewed,"Prophage LambdaW5, baseplate assembly protein W, putative",Wolbachia pipientis wMel,108,163164
+Q73G13,Q73G13_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,101,163164
+Q73HS2,Q73HS2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,159,163164
+Q73IX4,Q73IX4_WOLPM,unreviewed,Transcription termination/antitermination protein NusG,Wolbachia pipientis wMel,196,163164
+Q73IH0,Q73IH0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,34,163164
+Q73HX9,Q73HX9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,50,163164
+Q73HC2,Q73HC2_WOLPM,unreviewed,"Prophage LambdaW5, minor tail protein Z, putative",Wolbachia pipientis wMel,149,163164
+Q73HS3,Q73HS3_WOLPM,unreviewed,Major facilitator family transporter,Wolbachia pipientis wMel,420,163164
+Q73IU1,Q73IU1_WOLPM,unreviewed,Major facilitator family transporter,Wolbachia pipientis wMel,395,163164
+Q73I14,Q73I14_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,37,163164
+Q73HS8,Q73HS8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,297,163164
+Q73GN8,Q73GN8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,113,163164
+Q73GB5,Q73GB5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,309,163164
+Q73IS8,Q73IS8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,35,163164
+Q73GK5,Q73GK5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,83,163164
+Q73GJ5,Q73GJ5_WOLPM,unreviewed,Amino acid permease family protein,Wolbachia pipientis wMel,411,163164
+Q73IK3,Q73IK3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,242,163164
+Q73HE5,Q73HE5_WOLPM,unreviewed,GlpT/PgpT/UhpT transporter family protein,Wolbachia pipientis wMel,396,163164
+Q73IH3,Q73IH3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,37,163164
+Q73IC7,Q73IC7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,179,163164
+Q73GY4,Q73GY4_WOLPM,unreviewed,Transcription termination factor Rho (EC 3.6.4.-) (ATP-dependent helicase Rho),Wolbachia pipientis wMel,435,163164
+Q73GV4,Q73GV4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,66,163164
+Q73G83,Q73G83_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,50,163164
+Q73IU5,Q73IU5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,113,163164
+Q73HU9,Q73HU9_WOLPM,unreviewed,Ankyrin repeat domain protein,Wolbachia pipientis wMel,402,163164
+Q73FS8,Q73FS8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,219,163164
+Q73FU6,Q73FU6_WOLPM,unreviewed,"Mannose-1-phosphate guanylyltransferase, interruption-C",Wolbachia pipientis wMel,257,163164
+Q73GQ8,Q73GQ8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,46,163164
+Q73HC9,Q73HC9_WOLPM,unreviewed,"Prophage LambdaW5, ankyrin repeat domain protein",Wolbachia pipientis wMel,208,163164
+Q73FX8,Q73FX8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,42,163164
+Q73I16,Q73I16_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,33,163164
+Q73I87,Q73I87_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,47,163164
+Q73GU0,Q73GU0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,32,163164
+Q73HY9,Q73HY9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,87,163164
+Q73G03,Q73G03_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,31,163164
+Q73HX1,Q73HX1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,111,163164
+Q73IC8,Q73IC8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,56,163164
+Q73GC1,Q73GC1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,43,163164
+Q73GS1,Q73GS1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,53,163164
+Q73FN8,Q73FN8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,59,163164
+Q73H33,Q73H33_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,34,163164
+Q73FP9,Q73FP9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,97,163164
+Q73IN1,Q73IN1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,90,163164
+Q73GW4,Q73GW4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,84,163164
+Q73GM5,Q73GM5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,104,163164
+Q73GI3,Q73GI3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,45,163164
+Q73IN6,Q73IN6_WOLPM,unreviewed,YGGT family protein,Wolbachia pipientis wMel,92,163164
+Q73GY8,Q73GY8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,322,163164
+Q73IU7,Q73IU7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,79,163164
+Q73H68,Q73H68_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,34,163164
+Q73FQ0,Q73FQ0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,37,163164
+Q73GQ7,Q73GQ7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,37,163164
+Q73GP0,Q73GP0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,30,163164
+Q73GX5,Q73GX5_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,158,163164
+Q73H06,Q73H06_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,460,163164
+Q73ID8,Q73ID8_WOLPM,unreviewed,Dihydroorotase (DHOase) (EC 3.5.2.3),Wolbachia pipientis wMel,459,163164
+Q73FZ8,Q73FZ8_WOLPM,unreviewed,"Type IV secretion system protein VirB4, putative",Wolbachia pipientis wMel,788,163164
+Q73I73,Q73I73_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,1040,163164
+Q73I79,Q73I79_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,35,163164
+Q73FM0,Q73FM0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,41,163164
+Q73IB0,Q73IB0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,108,163164
+Q73HY0,Q73HY0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,32,163164
+Q73GC2,Q73GC2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,41,163164
+Q73IP5,Q73IP5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,40,163164
+Q73GH0,Q73GH0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,71,163164
+Q73I63,Q73I63_WOLPM,unreviewed,"Membrane protein, putative",Wolbachia pipientis wMel,419,163164
+Q73HB6,Q73HB6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,107,163164
+Q73FM1,Q73FM1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,30,163164
+Q73IG6,Q73IG6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,45,163164
+Q73HQ7,Q73HQ7_WOLPM,unreviewed,"Surface antigen, Wsp paralog",Wolbachia pipientis wMel,308,163164
+Q73IS6,Q73IS6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,108,163164
+Q73FV4,Q73FV4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,65,163164
+Q73HB8,Q73HB8_WOLPM,unreviewed,"Secretion protein, HlyD family",Wolbachia pipientis wMel,506,163164
+Q73FN5,Q73FN5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,45,163164
+Q73I02,Q73I02_WOLPM,unreviewed,Bicyclomycin resistance protein,Wolbachia pipientis wMel,400,163164
+Q73G21,Q73G21_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,56,163164
+Q73GX0,Q73GX0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,44,163164
+Q73I11,Q73I11_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,33,163164
+Q73FT5,Q73FT5_WOLPM,unreviewed,"Fructose-bisphosphate aldolase, putative",Wolbachia pipientis wMel,299,163164
+Q73HP9,Q73HP9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,45,163164
+Q73FV1,Q73FV1_WOLPM,unreviewed,"Succinate dehydrogenase, hydrophobic membrane anchor protein, putative",Wolbachia pipientis wMel,118,163164
+Q73GW9,Q73GW9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,56,163164
+Q73GZ3,Q73GZ3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,77,163164
+Q73IW6,Q73IW6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,158,163164
+Q73FU1,Q73FU1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,233,163164
+Q73IS5,Q73IS5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,30,163164
+Q73GN7,Q73GN7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,96,163164
+Q73IQ9,Q73IQ9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,215,163164
+Q73FX0,Q73FX0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,33,163164
+Q73HP5,Q73HP5_WOLPM,unreviewed,Surface antigen-related protein,Wolbachia pipientis wMel,293,163164
+Q73HP1,Q73HP1_WOLPM,unreviewed,"DNA repair protein RadC, truncation",Wolbachia pipientis wMel,135,163164
+Q73IW0,Q73IW0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,217,163164
+Q73IS0,Q73IS0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,34,163164
+Q73I15,Q73I15_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,70,163164
+Q73G94,Q73G94_WOLPM,unreviewed,DNA polymerase III subunit beta (EC 2.7.7.7),Wolbachia pipientis wMel,365,163164
+Q73IT5,Q73IT5_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,33,163164
+Q73IW1,Q73IW1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,420,163164
+Q73HW9,Q73HW9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,33,163164
+Q73FR2,Q73FR2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,221,163164
+Q73FQ8,Q73FQ8_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,202,163164
+Q73IP0,Q73IP0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,142,163164
+Q73FN9,Q73FN9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,34,163164
+Q73HJ0,Q73HJ0_WOLPM,unreviewed,"Prophage P2W3, tail protein U, putative",Wolbachia pipientis wMel,116,163164
+Q73G87,Q73G87_WOLPM,unreviewed,DnaJ domain protein,Wolbachia pipientis wMel,102,163164
+Q73GZ7,Q73GZ7_WOLPM,unreviewed,30S ribosomal protein S6,Wolbachia pipientis wMel,120,163164
+Q73I54,Q73I54_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,124,163164
+Q73I09,Q73I09_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,310,163164
+Q73IV3,Q73IV3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,211,163164
+Q73HP8,Q73HP8_WOLPM,unreviewed,Ankyrin repeat domain protein,Wolbachia pipientis wMel,335,163164
+Q73GV0,Q73GV0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,100,163164
+Q73H28,Q73H28_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,37,163164
+Q73GM1,Q73GM1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,99,163164
+Q73GZ4,Q73GZ4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,77,163164
+Q73H70,Q73H70_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,44,163164
+Q73I78,Q73I78_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,42,163164
+Q73IK4,Q73IK4_WOLPM,unreviewed,Glycine--tRNA ligase alpha subunit (EC 6.1.1.14) (Glycyl-tRNA synthetase alpha subunit) (GlyRS),Wolbachia pipientis wMel,279,163164
+Q73IL3,Q73IL3_WOLPM,unreviewed,Ankyrin repeat domain protein,Wolbachia pipientis wMel,954,163164
+Q73I49,Q73I49_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,52,163164
+Q73GM4,Q73GM4_WOLPM,unreviewed,"Competence protein F, interruption-N",Wolbachia pipientis wMel,103,163164
+Q73G33,Q73G33_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,49,163164
+Q73ID4,Q73ID4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,92,163164
+Q73II1,Q73II1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,453,163164
+Q73FM9,Q73FM9_WOLPM,unreviewed,RNA polymerase sigma factor RpoD (Sigma-70),Wolbachia pipientis wMel,642,163164
+Q73H81,Q73H81_WOLPM,unreviewed,"Fructose-1,6-bisphosphatase",Wolbachia pipientis wMel,306,163164
+Q73GJ8,Q73GJ8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,43,163164
+Q73H49,Q73H49_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,121,163164
+Q73FZ0,Q73FZ0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,63,163164
+Q73H57,Q73H57_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,130,163164
+Q73GN3,Q73GN3_WOLPM,unreviewed,"Transposase, degenerate",Wolbachia pipientis wMel,128,163164
+Q73IY0,Q73IY0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,44,163164
+Q73IP6,Q73IP6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,86,163164
+Q73GT4,Q73GT4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,45,163164
+Q73G14,Q73G14_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,47,163164
+Q73HM3,Q73HM3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,87,163164
+Q73IF3,Q73IF3_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,189,163164
+Q73HU2,Q73HU2_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,55,163164
+Q73FN6,Q73FN6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,74,163164
+Q73GJ6,Q73GJ6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,137,163164
+Q73GH9,Q73GH9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,476,163164
+Q73GQ0,Q73GQ0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,45,163164
+Q73GX4,Q73GX4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,39,163164
+Q73G12,Q73G12_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,100,163164
+Q73HP6,Q73HP6_WOLPM,unreviewed,"Type II secretion system protein, putative",Wolbachia pipientis wMel,500,163164
+Q73HI8,Q73HI8_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,70,163164
+Q73G06,Q73G06_WOLPM,unreviewed,Pseudouridine synthase (EC 5.4.99.-),Wolbachia pipientis wMel,276,163164
+Q73FZ9,Q73FZ9_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,125,163164
+Q73H82,Q73H82_WOLPM,unreviewed,Conserved domain protein,Wolbachia pipientis wMel,448,163164
+Q73IF6,Q73IF6_WOLPM,unreviewed,"Membrane protein, putative",Wolbachia pipientis wMel,381,163164
+Q73GC6,Q73GC6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,53,163164
+Q73I64,Q73I64_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,67,163164
+Q73G82,Q73G82_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,73,163164
+Q73HF6,Q73HF6_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,117,163164
+Q73I17,Q73I17_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,32,163164
+Q73I85,Q73I85_WOLPM,unreviewed,"Prophage LambdaW1, ankyrin repeat domain protein",Wolbachia pipientis wMel,224,163164
+Q73GI7,Q73GI7_WOLPM,unreviewed,"NADH dehydrogenase I, L subunit (EC 1.6.5.3)",Wolbachia pipientis wMel,614,163164
+Q73G00,Q73G00_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,394,163164
+Q73HX0,Q73HX0_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,33,163164
+Q73HH1,Q73HH1_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,196,163164
+Q73HH7,Q73HH7_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,225,163164
+Q73IB4,Q73IB4_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,397,163164
+Q73I92,Q73I92_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,402,163164
+Q73GG0,Q73GG0_WOLPM,unreviewed,"Reverse transcriptase (Reverse transcriptase, putative)",Wolbachia pipientis wMel,515,163164
+Q73IB8,Q73IB8_WOLPM,unreviewed,"Transposase, IS4 family",Wolbachia pipientis wMel,442,163164
+Q05HL9,Q05HL9_WOLPM,unreviewed,"DNA methylase (Prophage LambdaW1, DNA methylase)",Wolbachia pipientis wMel,409,163164
+Q73IH5,Q73IH5_WOLPM,unreviewed,Ankyrin domain protein (Ankyrin repeat domain protein),Wolbachia pipientis wMel,268,163164
+A5H0C8,A5H0C8_WOLPM,unreviewed,CBS domain protein (OrpB),Wolbachia pipientis wMel,272,163164
+Q73I82,Q73I82_WOLPM,unreviewed,Ankyrin domain protein (Ankyrin repeat domain protein),Wolbachia pipientis wMel,541,163164
+Q05HL6,Q05HL6_WOLPM,unreviewed,"DNA methylase (Prophage LambdaW4, DNA methylase)",Wolbachia pipientis wMel,408,163164
+Q73IM0,Q73IM0_WOLPM,unreviewed,"Transposase, IS5 family, OrfA",Wolbachia pipientis wMel,126,163164
+Q73IL9,Q73IL9_WOLPM,unreviewed,"Transposase, IS5 family, OrfB",Wolbachia pipientis wMel,113,163164
+Q73G66,Q73G66_WOLPM,unreviewed,Uncharacterized protein,Wolbachia pipientis wMel,94,163164

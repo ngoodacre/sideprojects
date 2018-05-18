@@ -1,0 +1,23 @@
+
+Had no complete proteome, but had a proteome in Uniprot available:
+UP000032709	Shigella flexneri 2a str. 2457T 
+UP000021790	Xanthomonas axonopodis pv. glycines str. 8ra 
+UP000025971	Bordetella bronchiseptica 00-P-2730 
+UP000093393	Bordetella parapertussis 
+UP000008318	Brucella melitensis (strain M5-90) 
+UP000019653	Brucella suis bv. 1 str. S2 
+UP000030904	Bradyrhizobium japonicum 
+UP000000816	Rickettsia conorii
+UP000017172	Wolbachia pipientis wMelPop 
+UP000011299	Mycobacterium bovis BCG str. Korea 1168P 
+
+No proteome exists:
+Gemmeta obscuriglobus
+
+Mapping file from iTOL had wrong taxid:
+Rhodopirellula baltica (had Pirellula sp., taxid 117, instead of 265606)
+
+Taxonomy no longer exists: 
+Agrobacterium tumefaciens Cereon (merged with Agrobacterium tumefaciens WashU)
+
+

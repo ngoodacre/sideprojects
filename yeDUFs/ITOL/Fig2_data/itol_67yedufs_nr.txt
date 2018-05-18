@@ -1,0 +1,216 @@
+DATASET_GRADIENT
+#lines starting with a hash are comments and ignored during parsing
+#select the separator which is used to delimit the data below (TAB SPACE or COMMA).This separator must be used throught this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL	label1_gradient
+
+#dataset color (can be changed later)
+#COLOR #ff0000
+
+#optional settings
+
+#all other optional settings can be set or changed later in the web interface (under 'Datasets' tab)
+
+#width of the gradient strip
+#STRIP_WIDTH 25
+
+#left margin  used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
+#MARGIN 0
+
+#border width; if set above 0  a border of specified width (in pixels) will be drawn around the gradient strip
+#BORDER_WIDTH 0
+
+#border color; used whern BORDER_WIDTH is above 0
+#BORDER_COLOR #0000ff
+
+#define the gradient colors. Values in the dataset will be mapped onto the corresponding color gradient.
+#COLOR_MIN #ff0000
+#COLOR_MAX #0000ff
+
+#you can specify a gradient with three colors (e.g red to yellow to green) by setting 'USE_MID_COLOR' to 1  and specifying the midpoint color
+#USE_MID_COLOR 1
+#COLOR_MID #ffff00
+
+#In gradients  each ID is associated to a single numeric value which is converted to a colored box based on the gradient defined.
+#Internal tree nodes can be specified using IDs directly  or using the 'last common ancestor' method described in iTOL help pages
+#Actual data follows after the "DATA" keyword
+DATA
+#ID1 value1
+#ID2 value2
+#9606 10000
+#LEAF1|LEAF2 11000
+ 
+Schizosaccharomyces_pombe	64
+Eremothecium_gossypii	58
+Danio_rerio	53
+Arabidopsis_thaliana	53
+Drosophila_melanogaster	52
+Mus_musculus	52
+Homo_sapiens	52
+Oryza_sativa	51
+Dictyostelium_discoideum	51
+Rattus_norvegicus	50
+Pan_troglodytes	49
+Caenorhabditis_elegans	49
+Takifugu_rubripes	48
+Anopheles_gambiae	47
+Caenorhabditis_briggsae	47
+Gallus_gallus	40
+Saccharomyces_cerevisiae	37
+Thalassiosira_pseudonana	36
+Cyanidioschyzon_merolae	32
+Plasmodium_falciparum	31
+Leishmania_major	31
+Giardia_lamblia	21
+Pyrococcus_furiosus	11
+Aeropyrum_pernix	9
+Sulfolobus_tokodaii	9
+Pyrobaculum_aerophilum	9
+Sulfolobus_solfataricus	9
+Methanococcus_jannaschii	9
+Methanosarcina_acetivorans	9
+Archaeoglobus_fulgidus	9
+Methanopyrus_kandleri	8
+Leptospira_interrogans_56601	8
+Leptospira_interrogans_L1-130	8
+Thermus_thermophilus	8
+Methanococcus_maripaludis	8
+Methanosarcina_mazei	8
+Methanobacterium_thermautotrophicum	8
+Xanthomonas_campestris	7
+Halobacterium_sp._NRC-1	7
+Thermoplasma_acidophilum	7
+Mycobacterium_tuberculosis_H37Rv	6
+Synechocystis_sp._PCC6803	6
+Mycobacterium_tuberculosis_CDC1551	6
+Corynebacterium_glutamicum_13032	6
+Mycobacterium_paratuberculosis	6
+Pseudomonas_putida	6
+Pseudomonas_aeruginosa	6
+Chromobacterium_violaceum	6
+Bacillus_cereus_ATCC_10987	6
+Bacillus_cereus_ATCC_14579	6
+Nanoarchaeum_equitans	6
+Corynebacterium_efficiens	6
+Corynebacterium_glutamicum	6
+Solibacter_usitatus	6
+Streptomyces_avermitilis	6
+Nostoc_sp._PCC_7120	6
+Rhizobium_loti	6
+Rhizobium_meliloti	6
+Bacillus_subtilis	6
+Bacillus_halodurans	6
+Bacillus_anthracis	6
+Desulfovibrio_vulgaris	6
+Chlorobium_tepidum	6
+Pseudomonas_syringae	6
+Corynebacterium_diphtheriae	6
+Escherichia_coli_O157:H7	5
+Rhodopseudomonas_palustris	5
+Yersinia_pestis_Medievalis	5
+Vibrio_vulnificus_CMCP6	5
+Escherichia_coli_EDL933	5
+Escherichia_coli_O6	5
+Mycobacterium_leprae	5
+Ralstonia_solanacearum	5
+Streptomyces_coelicolor	5
+Shewanella_oneidensis	5
+Acidobacterium_capsulatum	5
+Photobacterium_profundum	5
+Gloeobacter_violaceus	5
+Yersinia_pestis_CO92	5
+Escherichia_coli_K12	5
+Aquifex_aeolicus	5
+Thermoanaerobacter_tengcongensis	5
+Caulobacter_crescentus	5
+Vibrio_vulnificus_YJ016	5
+Bdellovibrio_bacteriovorus	5
+Yersinia_pestis_KIM	5
+Deinococcus_radiodurans	5
+Geobacter_sulfurreducens	5
+Vibrio_parahaemolyticus	5
+Thermotoga_maritima	5
+Helicobacter_pylori_26695	4
+Vibrio_cholerae	4
+Staphylococcus_aureus_MW2	4
+Staphylococcus_aureus_N315	4
+Staphylococcus_aureus_Mu50	4
+Bacteroides_thetaiotaomicron	4
+Streptococcus_pyogenes_M1	4
+Streptococcus_mutans	4
+Nitrosomonas_europaea	4
+Helicobacter_hepaticus	4
+Streptococcus_pyogenes_SSI-1	4
+Helicobacter_pylori_J99	4
+Campylobacter_jejuni	4
+Salmonella_enterica	4
+Porphyromonas_gingivalis	4
+Bordetella_pertussis	4
+Listeria_monocytogenes_F2365	4
+Prochlorococcus_marinus_CCMP1378	4
+Wolinella_succinogenes	4
+Fusobacterium_nucleatum	4
+Listeria_monocytogenes_EGD	4
+Xylella_fastidiosa_9a5c	4
+Xylella_fastidiosa_700964	4
+Oceanobacillus_iheyensis	4
+Salmonella_typhi	4
+Salmonella_typhimurium	4
+Prochlorococcus_marinus_SS120	4
+Streptococcus_pyogenes_MGAS8232	4
+Tropheryma_whipplei_Twist	4
+Synechococcus_sp._WH8102	4
+Streptococcus_pyogenes_MGAS315	4
+Clostridium_tetani	4
+Agrobacterium_tumefaciens_WashU	4
+Tropheryma_whipplei_TW08/27	4
+Prochlorococcus_marinus_MIT9313	4
+Coxiella_burnetii	4
+Synechococcus_elongatus	4
+Bifidobacterium_longum	4
+Neisseria_meningitidis_B	3
+Streptococcus_pneumoniae_TIGR4	3
+Streptococcus_agalactiae_V	3
+Clostridium_acetobutylicum	3
+Lactobacillus_johnsonii	3
+Streptococcus_pneumoniae_R6	3
+Rickettsia_prowazekii	3
+Fibrobacter_succinogenes	3
+Neisseria_meningitidis_A	3
+Lactobacillus_plantarum	3
+Dehalococcoides_ethenogenes	3
+Haemophilus_influenzae	3
+Treponema_denticola	3
+Streptococcus_agalactiae_III	3
+Photorhabdus_luminescens	3
+Enterococcus_faecalis	3
+Staphylococcus_epidermidis	3
+Lactococcus_lactis	3
+Borrelia_burgdorferi	2
+Treponema_pallidum	2
+Chlamydia_trachomatis	2
+Blochmannia_floridanus	2
+Mycoplasma_penetrans	2
+Mycoplasma_mycoides	2
+Clostridium_perfringens	2
+Haemophilus_ducreyi	2
+Wigglesworthia_brevipalpis	2
+Pasteurella_multocida	2
+Ureaplasma_parvum	1
+Mycoplasma_genitalium	1
+Mycoplasma_gallisepticum	1
+Phytoplasma_Onion_yellows	1
+Buchnera_aphidicola_Bp	1
+Mycoplasma_mobile	1
+Mycoplasma_pulmonis	1
+Buchnera_aphidicola_APS	1
+Mycoplasma_pneumoniae	1
+Buchnera_aphidicola_Sg	1
+
+
+	 

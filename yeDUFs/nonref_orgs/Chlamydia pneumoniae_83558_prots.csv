@@ -1,0 +1,1053 @@
+Entry,Entry name,Status,Protein names,Organism,Length,Organism ID
+Q9Z8C9,ACCA_CHLPN,reviewed,Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha (ACCase subunit alpha) (Acetyl-CoA carboxylase carboxyltransferase subunit alpha) (EC 6.4.1.2),Chlamydia pneumoniae (Chlamydophila pneumoniae),324,83558
+Q9Z6M6,AAXA_CHLPN,reviewed,Porin AaxA (Outer membrane protein AaxA),Chlamydia pneumoniae (Chlamydophila pneumoniae),438,83558
+Q9Z8I3,6PGD_CHLPN,reviewed,"6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)",Chlamydia pneumoniae (Chlamydophila pneumoniae),479,83558
+Q9Z6L3,AAAH_CHLPN,reviewed,Probable aromatic amino acid hydroxylase (EC 1.14.16.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),362,83558
+Q9Z847,3MGH_CHLPN,reviewed,Putative 3-methyladenine DNA glycosylase (EC 3.2.2.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),196,83558
+Q9Z8U5,6PGL_CHLPN,reviewed,6-phosphogluconolactonase (6PGL) (EC 3.1.1.31),Chlamydia pneumoniae (Chlamydophila pneumoniae),258,83558
+Q9Z6M7,AAXB_CHLPN,reviewed,Pyruvoyl-dependent arginine decarboxylase AaxB (PvlArgDC) (EC 4.1.1.19) (Biodegradative arginine decarboxylase) [Cleaved into: Pyruvoyl-dependent arginine decarboxylase subunit beta; Pyruvoyl-dependent arginine decarboxylase subunit alpha],Chlamydia pneumoniae (Chlamydophila pneumoniae),195,83558
+Q9Z6M8,AAXC_CHLPN,reviewed,Arginine/agmatine antiporter,Chlamydia pneumoniae (Chlamydophila pneumoniae),485,83558
+Q9Z8P3,ACP_CHLPN,reviewed,Acyl carrier protein (ACP),Chlamydia pneumoniae (Chlamydophila pneumoniae),79,83558
+Q9Z8M5,ACPS_CHLPN,reviewed,Holo-[acyl-carrier-protein] synthase (Holo-ACP synthase) (EC 2.7.8.7) (4'-phosphopantetheinyl transferase AcpS),Chlamydia pneumoniae (Chlamydophila pneumoniae),122,83558
+Q9Z8F8,AMPA_CHLPN,reviewed,Probable cytosol aminopeptidase (EC 3.4.11.1) (Leucine aminopeptidase) (LAP) (EC 3.4.11.10) (Leucyl aminopeptidase),Chlamydia pneumoniae (Chlamydophila pneumoniae),499,83558
+Q9Z6L0,AK_CHLPN,reviewed,Aspartokinase (EC 2.7.2.4) (Aspartate kinase),Chlamydia pneumoniae (Chlamydophila pneumoniae),440,83558
+Q9Z8Q7,ALF1_CHLPN,reviewed,Probable fructose-bisphosphate aldolase class 1 (EC 4.1.2.13) (Probable fructose-bisphosphate aldolase class I) (FBP aldolase),Chlamydia pneumoniae (Chlamydophila pneumoniae),349,83558
+Q9Z6M0,AROA_CHLPN,reviewed,3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS),Chlamydia pneumoniae (Chlamydophila pneumoniae),445,83558
+Q9Z8K2,APBE_CHLPN,reviewed,FAD:protein FMN transferase (EC 2.7.1.180) (Flavin transferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),314,83558
+Q9Z6M2,AROC_CHLPN,reviewed,Chorismate synthase (CS) (EC 4.2.3.5) (5-enolpyruvylshikimate-3-phosphate phospholyase),Chlamydia pneumoniae (Chlamydophila pneumoniae),359,83558
+Q9Z8Z1,ARGR_CHLPN,reviewed,Arginine repressor,Chlamydia pneumoniae (Chlamydophila pneumoniae),147,83558
+Q9Z6M3,AROB_CHLPN,reviewed,3-dehydroquinate synthase (EC 4.2.3.4),Chlamydia pneumoniae (Chlamydophila pneumoniae),380,83558
+Q9Z869,ARTJ_CHLPN,reviewed,Probable ABC transporter arginine-binding protein ArtJ,Chlamydia pneumoniae (Chlamydophila pneumoniae),259,83558
+Q9Z6M1,AROK_CHLPN,reviewed,Shikimate kinase (SK) (EC 2.7.1.71),Chlamydia pneumoniae (Chlamydophila pneumoniae),176,83558
+Q9Z6M4,ARODE_CHLPN,reviewed,Shikimate biosynthesis protein AroDE [Includes: 3-dehydroquinate dehydratase (3-dehydroquinase) (EC 4.2.1.10) (Type I DHQase) (Type I dehydroquinase) (DHQ1); Shikimate dehydrogenase (NADP(+)) (SDH) (EC 1.1.1.25)],Chlamydia pneumoniae (Chlamydophila pneumoniae),477,83558
+Q9Z6L5,BIOB_CHLPN,reviewed,Biotin synthase (EC 2.8.1.6),Chlamydia pneumoniae (Chlamydophila pneumoniae),331,83558
+Q9Z8V7,BDBC_CHLPN,reviewed,Probable disulfide formation protein (Disulfide oxidoreductase) (Thiol-disulfide oxidoreductase),Chlamydia pneumoniae (Chlamydophila pneumoniae),136,83558
+Q9Z8L0,BSDC_CHLPN,reviewed,4-hydroxybenzoate decarboxylase subunit C (4-hydroxybenzoate DC) (HBDC) (EC 4.1.1.61),Chlamydia pneumoniae (Chlamydophila pneumoniae),584,83558
+Q9Z6L7,BIOD_CHLPN,reviewed,ATP-dependent dethiobiotin synthetase BioD (EC 6.3.3.3) (DTB synthetase) (DTBS) (Dethiobiotin synthase),Chlamydia pneumoniae (Chlamydophila pneumoniae),219,83558
+Q9Z901,BCCP_CHLPN,reviewed,Biotin carboxyl carrier protein of acetyl-CoA carboxylase (BCCP),Chlamydia pneumoniae (Chlamydophila pneumoniae),167,83558
+Q9Z7Y6,CDSA_CHLPN,reviewed,Phosphatidate cytidylyltransferase (EC 2.7.7.41) (CDP-DAG synthase) (CDP-DG synthase) (CDP-diacylglycerol synthase) (CDS) (CDP-diglyceride pyrophosphorylase) (CDP-diglyceride synthase) (CTP:phosphatidate cytidylyltransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),308,83558
+P31682,CH10_CHLPN,reviewed,10 kDa chaperonin (GroES protein) (Protein Cpn10),Chlamydia pneumoniae (Chlamydophila pneumoniae),102,83558
+Q9Z7C9,CH602_CHLPN,reviewed,60 kDa chaperonin 2 (GroEL protein 2) (Protein Cpn60 2),Chlamydia pneumoniae (Chlamydophila pneumoniae),526,83558
+Q9Z8A6,CLPC_CHLPN,reviewed,Probable ATP-dependent Clp protease ATP-binding subunit,Chlamydia pneumoniae (Chlamydophila pneumoniae),845,83558
+P31681,CH60_CHLPN,reviewed,60 kDa chaperonin (GroEL protein) (Protein Cpn60),Chlamydia pneumoniae (Chlamydophila pneumoniae),544,83558
+Q7AJA9,CLPB_CHLPN,reviewed,Chaperone protein ClpB,Chlamydia pneumoniae (Chlamydophila pneumoniae),866,83558
+Q9Z832,CLPP1_CHLPN,reviewed,ATP-dependent Clp protease proteolytic subunit 1 (EC 3.4.21.92) (Endopeptidase Clp 1),Chlamydia pneumoniae (Chlamydophila pneumoniae),191,83558
+Q9Z7U3,COAE_CHLPN,reviewed,Dephospho-CoA kinase (EC 2.7.1.24) (Dephosphocoenzyme A kinase),Chlamydia pneumoniae (Chlamydophila pneumoniae),202,83558
+Q9Z760,CLPX_CHLPN,reviewed,ATP-dependent Clp protease ATP-binding subunit ClpX,Chlamydia pneumoniae (Chlamydophila pneumoniae),421,83558
+Q9Z759,CLPP2_CHLPN,reviewed,ATP-dependent Clp protease proteolytic subunit 2 (EC 3.4.21.92) (Endopeptidase Clp 2),Chlamydia pneumoniae (Chlamydophila pneumoniae),203,83558
+Q9Z7L5,CSD_CHLPN,reviewed,Probable cysteine desulfurase (EC 2.8.1.7),Chlamydia pneumoniae (Chlamydophila pneumoniae),406,83558
+Q9Z6K9,DAPA_CHLPN,reviewed,4-hydroxy-tetrahydrodipicolinate synthase (HTPA synthase) (EC 4.3.3.7),Chlamydia pneumoniae (Chlamydophila pneumoniae),291,83558
+Q9Z6L2,DAPB_CHLPN,reviewed,4-hydroxy-tetrahydrodipicolinate reductase (HTPA reductase) (EC 1.17.1.8),Chlamydia pneumoniae (Chlamydophila pneumoniae),264,83558
+Q9Z856,DAPAT_CHLPN,reviewed,LL-diaminopimelate aminotransferase (DAP-AT) (DAP-aminotransferase) (LL-DAP-aminotransferase) (EC 2.6.1.83),Chlamydia pneumoniae (Chlamydophila pneumoniae),397,83558
+Q9Z833,DAPF_CHLPN,reviewed,Diaminopimelate epimerase (DAP epimerase) (EC 5.1.1.7) (PLP-independent amino acid racemase),Chlamydia pneumoniae (Chlamydophila pneumoniae),257,83558
+Q9Z8B9,DNAA2_CHLPN,reviewed,Chromosomal replication initiator protein DnaA 2,Chlamydia pneumoniae (Chlamydophila pneumoniae),450,83558
+Q9Z716,DCUP_CHLPN,reviewed,Uroporphyrinogen decarboxylase (UPD) (URO-D) (EC 4.1.1.37),Chlamydia pneumoniae (Chlamydophila pneumoniae),329,83558
+Q9Z6J2,DEF_CHLPN,reviewed,Peptide deformylase (PDF) (EC 3.5.1.88) (Polypeptide deformylase),Chlamydia pneumoniae (Chlamydophila pneumoniae),186,83558
+Q9Z6T0,DEGPL_CHLPN,reviewed,Probable periplasmic serine endoprotease DegP-like (EC 3.4.21.107) (Protease Do),Chlamydia pneumoniae (Chlamydophila pneumoniae),488,83558
+Q9Z8F1,DCD_CHLPN,reviewed,dCTP deaminase (EC 3.5.4.13) (Deoxycytidine triphosphate deaminase),Chlamydia pneumoniae (Chlamydophila pneumoniae),190,83558
+Q9Z773,DLDH_CHLPN,reviewed,Dihydrolipoyl dehydrogenase (EC 1.8.1.4) (Dihydrolipoamide dehydrogenase) (E3 component of 2-oxoglutarate dehydrogenase complex),Chlamydia pneumoniae (Chlamydophila pneumoniae),461,83558
+Q9Z8C7,DBH_CHLPN,reviewed,Probable DNA-binding protein HU,Chlamydia pneumoniae (Chlamydophila pneumoniae),100,83558
+Q9Z8M9,DNAA1_CHLPN,reviewed,Chromosomal replication initiator protein DnaA 1,Chlamydia pneumoniae (Chlamydophila pneumoniae),460,83558
+Q9Z7N8,DPO3A_CHLPN,reviewed,DNA polymerase III subunit alpha (EC 2.7.7.7),Chlamydia pneumoniae (Chlamydophila pneumoniae),1240,83558
+Q9Z8K0,DPO3B_CHLPN,reviewed,DNA polymerase III subunit beta (EC 2.7.7.7),Chlamydia pneumoniae (Chlamydophila pneumoniae),366,83558
+Q9Z762,DER_CHLPN,reviewed,GTPase Der (GTP-binding protein EngA),Chlamydia pneumoniae (Chlamydophila pneumoniae),487,83558
+Q9Z9E9,DNAJ_CHLPN,reviewed,Chaperone protein DnaJ,Chlamydia pneumoniae (Chlamydophila pneumoniae),392,83558
+Q9Z6W4,DNAG_CHLPN,reviewed,DNA primase (EC 2.7.7.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),590,83558
+Q9Z6X3,DSBJ_CHLPN,reviewed,Thioredoxin-related protein DsbJ,Chlamydia pneumoniae (Chlamydophila pneumoniae),348,83558
+P27542,DNAK_CHLPN,reviewed,Chaperone protein DnaK (75 kDa membrane protein) (HSP70) (Heat shock 70 kDa protein) (Heat shock protein 70),Chlamydia pneumoniae (Chlamydophila pneumoniae),660,83558
+Q9Z9C2,DUT_CHLPN,reviewed,Deoxyuridine 5'-triphosphate nucleotidohydrolase (dUTPase) (EC 3.6.1.23) (dUTP pyrophosphatase),Chlamydia pneumoniae (Chlamydophila pneumoniae),145,83558
+Q9Z8J8,DXR_CHLPN,reviewed,1-deoxy-D-xylulose 5-phosphate reductoisomerase (DXP reductoisomerase) (EC 1.1.1.267) (1-deoxyxylulose-5-phosphate reductoisomerase) (2-C-methyl-D-erythritol 4-phosphate synthase),Chlamydia pneumoniae (Chlamydophila pneumoniae),379,83558
+Q9Z934,DNLJ_CHLPN,reviewed,DNA ligase (EC 6.5.1.2) (Polydeoxyribonucleotide synthase [NAD(+)]),Chlamydia pneumoniae (Chlamydophila pneumoniae),662,83558
+Q9Z6Y0,DSBH_CHLPN,reviewed,Disulfide bond reductase DsbH (Disulfide reductase) (EC 1.8.-.-) (Protein-disulfide reductase),Chlamydia pneumoniae (Chlamydophila pneumoniae),166,83558
+Q9Z6J9,DXS_CHLPN,reviewed,1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7) (1-deoxyxylulose-5-phosphate synthase) (DXP synthase) (DXPS),Chlamydia pneumoniae (Chlamydophila pneumoniae),644,83558
+Q9Z802,EFG_CHLPN,reviewed,Elongation factor G (EF-G),Chlamydia pneumoniae (Chlamydophila pneumoniae),694,83558
+Q9Z711,EFP2_CHLPN,reviewed,Elongation factor P 2 (EF-P 2),Chlamydia pneumoniae (Chlamydophila pneumoniae),190,83558
+Q9Z9A7,EFTU_CHLPN,reviewed,Elongation factor Tu (EF-Tu),Chlamydia pneumoniae (Chlamydophila pneumoniae),394,83558
+Q9Z7A6,ENO_CHLPN,reviewed,Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase),Chlamydia pneumoniae (Chlamydophila pneumoniae),428,83558
+Q9Z7H3,END4_CHLPN,reviewed,Probable endonuclease 4 (EC 3.1.21.2) (Endodeoxyribonuclease IV) (Endonuclease IV),Chlamydia pneumoniae (Chlamydophila pneumoniae),293,83558
+Q9Z849,GRPE_CHLPN,reviewed,Protein GrpE (HSP-70 cofactor),Chlamydia pneumoniae (Chlamydophila pneumoniae),184,83558
+Q9Z751,GPDA_CHLPN,reviewed,Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94) (NAD(P)H-dependent glycerol-3-phosphate dehydrogenase),Chlamydia pneumoniae (Chlamydophila pneumoniae),334,83558
+Q9Z913,GUAA_CHLPN,reviewed,Putative GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2) (GMP synthetase) (Glutamine amidotransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),429,83558
+Q9Z7A2,GP6R_CHLPN,reviewed,Virulence plasmid protein pGP6-D-related protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),250,83558
+Q9JRW9,GSA_CHLPN,reviewed,"Glutamate-1-semialdehyde 2,1-aminomutase (GSA) (EC 5.4.3.8) (Glutamate-1-semialdehyde aminotransferase) (GSA-AT)",Chlamydia pneumoniae (Chlamydophila pneumoniae),440,83558
+Q9Z8R4,GYRA_CHLPN,reviewed,DNA gyrase subunit A (EC 5.99.1.3),Chlamydia pneumoniae (Chlamydophila pneumoniae),834,83558
+Q9Z7G1,HEM2_CHLPN,reviewed,Delta-aminolevulinic acid dehydratase (ALAD) (ALADH) (EC 4.2.1.24) (Porphobilinogen synthase),Chlamydia pneumoniae (Chlamydophila pneumoniae),332,83558
+Q9Z7V1,HEMH_CHLPN,reviewed,Ferrochelatase (EC 4.99.1.1) (Heme synthase) (Protoheme ferro-lyase),Chlamydia pneumoniae (Chlamydophila pneumoniae),327,83558
+Q9Z720,HCT1_CHLPN,reviewed,Histone H1-like protein HC1,Chlamydia pneumoniae (Chlamydophila pneumoniae),123,83558
+Q9Z8R3,GYRB_CHLPN,reviewed,DNA gyrase subunit B (EC 5.99.1.3),Chlamydia pneumoniae (Chlamydophila pneumoniae),805,83558
+Q9Z900,EFP1_CHLPN,reviewed,Elongation factor P 1 (EF-P 1),Chlamydia pneumoniae (Chlamydophila pneumoniae),185,83558
+Q9Z7K8,EFTS_CHLPN,reviewed,Elongation factor Ts (EF-Ts),Chlamydia pneumoniae (Chlamydophila pneumoniae),282,83558
+Q9Z8P2,FABG_CHLPN,reviewed,3-oxoacyl-[acyl-carrier-protein] reductase FabG (EC 1.1.1.100) (3-ketoacyl-acyl carrier protein reductase) (Beta-Ketoacyl-acyl carrier protein reductase) (Beta-ketoacyl-ACP reductase),Chlamydia pneumoniae (Chlamydophila pneumoniae),248,83558
+Q9K1Y4,EX7S_CHLPN,reviewed,Exodeoxyribonuclease 7 small subunit (EC 3.1.11.6) (Exodeoxyribonuclease VII small subunit) (Exonuclease VII small subunit),Chlamydia pneumoniae (Chlamydophila pneumoniae),75,83558
+Q9Z6J7,EX7L_CHLPN,reviewed,Exodeoxyribonuclease 7 large subunit (EC 3.1.11.6) (Exodeoxyribonuclease VII large subunit) (Exonuclease VII large subunit),Chlamydia pneumoniae (Chlamydophila pneumoniae),554,83558
+Q9Z8P0,FABH_CHLPN,reviewed,3-oxoacyl-[acyl-carrier-protein] synthase 3 (EC 2.3.1.180) (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III) (KAS III),Chlamydia pneumoniae (Chlamydophila pneumoniae),335,83558
+Q9Z7Q3,FABZ_CHLPN,reviewed,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ (EC 4.2.1.59) ((3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase) ((3R)-hydroxymyristoyl-ACP dehydrase) (Beta-hydroxyacyl-ACP dehydratase),Chlamydia pneumoniae (Chlamydophila pneumoniae),153,83558
+Q9Z7Q5,FMT_CHLPN,reviewed,Methionyl-tRNA formyltransferase (EC 2.1.2.9),Chlamydia pneumoniae (Chlamydophila pneumoniae),321,83558
+Q9Z7T0,G3P_CHLPN,reviewed,Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (EC 1.2.1.12) (NAD-dependent glyceraldehyde-3-phosphate dehydrogenase),Chlamydia pneumoniae (Chlamydophila pneumoniae),335,83558
+Q9Z7E8,FOLKP_CHLPN,reviewed,"Folate synthesis bifunctional protein [Includes: 6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase (HPPK) (EC 2.7.6.3) (2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase) (7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase) (PPPK); Dihydropteroate synthase (DHPS) (EC 2.5.1.15) (Dihydropteroate pyrophosphorylase)]",Chlamydia pneumoniae (Chlamydophila pneumoniae),450,83558
+Q9Z8K3,FOLD_CHLPN,reviewed,Bifunctional protein FolD [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)],Chlamydia pneumoniae (Chlamydophila pneumoniae),286,83558
+Q9Z6P6,FUMC_CHLPN,reviewed,Fumarate hydratase class II (Fumarase C) (EC 4.2.1.2) (Aerobic fumarase) (Iron-independent fumarase),Chlamydia pneumoniae (Chlamydophila pneumoniae),460,83558
+Q9Z726,FTSK_CHLPN,reviewed,DNA translocase FtsK,Chlamydia pneumoniae (Chlamydophila pneumoniae),806,83558
+Q9Z6T7,FTSY_CHLPN,reviewed,Signal recognition particle receptor FtsY (SRP receptor),Chlamydia pneumoniae (Chlamydophila pneumoniae),290,83558
+Q9Z7E9,FOLB_CHLPN,reviewed,"Probable dihydroneopterin aldolase (DHNA) (EC 4.1.2.25) (7,8-dihydroneopterin aldolase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),134,83558
+Q9Z6N4,G6PI_CHLPN,reviewed,Glucose-6-phosphate isomerase (GPI) (EC 5.3.1.9) (Phosphoglucose isomerase) (PGI) (Phosphohexose isomerase) (PHI),Chlamydia pneumoniae (Chlamydophila pneumoniae),526,83558
+Q9Z8U6,G6PD_CHLPN,reviewed,Glucose-6-phosphate 1-dehydrogenase (G6PD) (EC 1.1.1.49),Chlamydia pneumoniae (Chlamydophila pneumoniae),512,83558
+Q9Z9G6,GATB_CHLPN,reviewed,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (Asp/Glu-ADT subunit B) (EC 6.3.5.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),488,83558
+Q9Z946,GCH1L_CHLPN,reviewed,GTP cyclohydrolase 1 type 2 homolog,Chlamydia pneumoniae (Chlamydophila pneumoniae),251,83558
+Q9Z8B0,GCSHL_CHLPN,reviewed,Glycine cleavage system H-like protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),115,83558
+Q9Z9G8,GATC_CHLPN,reviewed,Glutamyl-tRNA(Gln) amidotransferase subunit C (Glu-ADT subunit C) (EC 6.3.5.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),101,83558
+Q9Z831,GLYA_CHLPN,reviewed,Serine hydroxymethyltransferase (SHMT) (Serine methylase) (EC 2.1.2.1),Chlamydia pneumoniae (Chlamydophila pneumoniae),497,83558
+Q9Z876,GLGB_CHLPN,reviewed,"1,4-alpha-glucan branching enzyme GlgB (EC 2.4.1.18) (1,4-alpha-D-glucan:1,4-alpha-D-glucan 6-glucosyl-transferase) (Alpha-(1->4)-glucan branching enzyme) (Glycogen branching enzyme) (BE)",Chlamydia pneumoniae (Chlamydophila pneumoniae),720,83558
+Q9Z6V8,GLGA_CHLPN,reviewed,Glycogen synthase (EC 2.4.1.21) (Starch [bacterial glycogen] synthase),Chlamydia pneumoniae (Chlamydophila pneumoniae),476,83558
+Q9Z9G7,GATA_CHLPN,reviewed,Glutamyl-tRNA(Gln) amidotransferase subunit A (Glu-ADT subunit A) (EC 6.3.5.7),Chlamydia pneumoniae (Chlamydophila pneumoniae),492,83558
+Q9Z6U0,GLMS_CHLPN,reviewed,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16) (D-fructose-6-phosphate amidotransferase) (GFAT) (Glucosamine-6-phosphate synthase) (Hexosephosphate aminotransferase) (L-glutamine--D-fructose-6-phosphate amidotransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),609,83558
+Q9Z743,GPMA_CHLPN,reviewed,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (BPG-dependent PGAM) (PGAM) (Phosphoglyceromutase) (dPGM) (EC 5.4.2.11)",Chlamydia pneumoniae (Chlamydophila pneumoniae),228,83558
+Q9Z7G4,GREA_CHLPN,reviewed,Transcription elongation factor GreA (Transcript cleavage factor GreA),Chlamydia pneumoniae (Chlamydophila pneumoniae),722,83558
+Q9Z6U1,GLMM_CHLPN,reviewed,Phosphoglucosamine mutase (EC 5.4.2.10),Chlamydia pneumoniae (Chlamydophila pneumoniae),458,83558
+Q9Z873,HFLX_CHLPN,reviewed,GTPase HflX (GTP-binding protein HflX),Chlamydia pneumoniae (Chlamydophila pneumoniae),472,83558
+Q9Z8F9,HCT2_CHLPN,reviewed,Histone H1-like protein HC2 (HC2 nucleoprotein),Chlamydia pneumoniae (Chlamydophila pneumoniae),172,83558
+Q9Z7J1,HEM1_CHLPN,reviewed,Glutamyl-tRNA reductase (GluTR) (EC 1.2.1.70),Chlamydia pneumoniae (Chlamydophila pneumoniae),339,83558
+Q9Z9C9,HEM3_CHLPN,reviewed,Probable porphobilinogen deaminase (PBG) (EC 2.5.1.61) (Hydroxymethylbilane synthase) (HMBS) (Pre-uroporphyrinogen synthase),Chlamydia pneumoniae (Chlamydophila pneumoniae),234,83558
+Q9Z850,HRCA_CHLPN,reviewed,Heat-inducible transcription repressor HrcA,Chlamydia pneumoniae (Chlamydophila pneumoniae),398,83558
+Q9Z6R9,IF3_CHLPN,reviewed,Translation initiation factor IF-3,Chlamydia pneumoniae (Chlamydophila pneumoniae),186,83558
+Q9Z8M1,IF2_CHLPN,reviewed,Translation initiation factor IF-2,Chlamydia pneumoniae (Chlamydophila pneumoniae),890,83558
+Q9Z9A8,IF1_CHLPN,reviewed,Translation initiation factor IF-1,Chlamydia pneumoniae (Chlamydophila pneumoniae),73,83558
+Q9Z7X5,ISPD_CHLPN,reviewed,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) (4-diphosphocytidyl-2C-methyl-D-erythritol synthase) (MEP cytidylyltransferase) (MCT),Chlamydia pneumoniae (Chlamydophila pneumoniae),211,83558
+Q9Z805,ISPF_CHLPN,reviewed,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (MECDP-synthase) (MECPP-synthase) (MECPS) (EC 4.6.1.12)",Chlamydia pneumoniae (Chlamydophila pneumoniae),176,83558
+Q9Z6Y8,IPYR_CHLPN,reviewed,Inorganic pyrophosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase) (PPase),Chlamydia pneumoniae (Chlamydophila pneumoniae),215,83558
+Q46222,KDTA_CHLPN,reviewed,3-deoxy-D-manno-octulosonic acid transferase (Kdo transferase) (EC 2.4.99.12) (EC 2.4.99.13) (EC 2.4.99.14) (Kdo(2)-lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase) (Kdo-lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase) (Lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase) (Trifunctional Kdo transferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),437,83558
+Q9Z7T5,NDK_CHLPN,reviewed,Nucleoside diphosphate kinase (NDK) (NDP kinase) (EC 2.7.4.6) (Nucleoside-2-P kinase),Chlamydia pneumoniae (Chlamydophila pneumoniae),144,83558
+Q9Z6V6,PTH_CHLPN,reviewed,Peptidyl-tRNA hydrolase (PTH) (EC 3.1.1.29),Chlamydia pneumoniae (Chlamydophila pneumoniae),180,83558
+Q9Z7E5,PQQCL_CHLPN,reviewed,PqqC-like protein (Chlamydia protein associating with death domains) (CADD),Chlamydia pneumoniae (Chlamydophila pneumoniae),224,83558
+Q9Z767,PSD_CHLPN,reviewed,Phosphatidylserine decarboxylase proenzyme (EC 4.1.1.65) [Cleaved into: Phosphatidylserine decarboxylase alpha chain; Phosphatidylserine decarboxylase beta chain],Chlamydia pneumoniae (Chlamydophila pneumoniae),301,83558
+Q9Z9E3,PT1_CHLPN,reviewed,"Phosphoenolpyruvate-protein phosphotransferase (EC 2.7.3.9) (Phosphotransferase system, enzyme I)",Chlamydia pneumoniae (Chlamydophila pneumoniae),571,83558
+Q9Z7U6,PYRE_CHLPN,reviewed,Orotate phosphoribosyltransferase (OPRT) (OPRTase) (EC 2.4.2.10),Chlamydia pneumoniae (Chlamydophila pneumoniae),210,83558
+Q9Z9E4,PTHP_CHLPN,reviewed,Phosphocarrier protein HPr (EC 2.7.11.-) (Histidine-containing protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),108,83558
+Q9Z7R0,RL2_CHLPN,reviewed,50S ribosomal protein L2,Chlamydia pneumoniae (Chlamydophila pneumoniae),284,83558
+Q9Z8T4,RL33_CHLPN,reviewed,50S ribosomal protein L33,Chlamydia pneumoniae (Chlamydophila pneumoniae),52,83558
+Q9Z6X1,RL34_CHLPN,reviewed,50S ribosomal protein L34,Chlamydia pneumoniae (Chlamydophila pneumoniae),45,83558
+Q9Z6R8,RL35_CHLPN,reviewed,50S ribosomal protein L35,Chlamydia pneumoniae (Chlamydophila pneumoniae),64,83558
+Q9Z6V3,RL9_CHLPN,reviewed,50S ribosomal protein L9,Chlamydia pneumoniae (Chlamydophila pneumoniae),169,83558
+Q9Z962,RNH2_CHLPN,reviewed,Ribonuclease HII (RNase HII) (EC 3.1.26.4),Chlamydia pneumoniae (Chlamydophila pneumoniae),214,83558
+Q9Z969,RL31B_CHLPN,reviewed,50S ribosomal protein L31 type B,Chlamydia pneumoniae (Chlamydophila pneumoniae),109,83558
+Q9Z7Q8,RL4_CHLPN,reviewed,50S ribosomal protein L4,Chlamydia pneumoniae (Chlamydophila pneumoniae),224,83558
+Q9Z7S1,RL6_CHLPN,reviewed,50S ribosomal protein L6,Chlamydia pneumoniae (Chlamydophila pneumoniae),183,83558
+Q9Z9A1,RL7_CHLPN,reviewed,50S ribosomal protein L7/L12,Chlamydia pneumoniae (Chlamydophila pneumoniae),129,83558
+Q9Z7Q7,RL3_CHLPN,reviewed,50S ribosomal protein L3,Chlamydia pneumoniae (Chlamydophila pneumoniae),219,83558
+Q9Z9F6,RNZ_CHLPN,reviewed,Ribonuclease Z (RNase Z) (EC 3.1.26.11) (tRNA 3 endonuclease) (tRNase Z),Chlamydia pneumoniae (Chlamydophila pneumoniae),307,83558
+Q9Z9C7,RNC_CHLPN,reviewed,Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III),Chlamydia pneumoniae (Chlamydophila pneumoniae),237,83558
+Q9Z6X2,RNPA_CHLPN,reviewed,Ribonuclease P protein component (RNase P protein) (RNaseP protein) (EC 3.1.26.5) (Protein C5),Chlamydia pneumoniae (Chlamydophila pneumoniae),139,83558
+Q9Z848,RNR_CHLPN,reviewed,Ribonuclease R (RNase R) (EC 3.1.13.1) (VacB protein homolog),Chlamydia pneumoniae (Chlamydophila pneumoniae),676,83558
+Q9Z9A0,RPOB_CHLPN,reviewed,DNA-directed RNA polymerase subunit beta (RNAP subunit beta) (EC 2.7.7.6) (RNA polymerase subunit beta) (Transcriptase subunit beta),Chlamydia pneumoniae (Chlamydophila pneumoniae),1252,83558
+Q9Z999,RPOC_CHLPN,reviewed,DNA-directed RNA polymerase subunit beta' (RNAP subunit beta') (EC 2.7.7.6) (RNA polymerase subunit beta') (Transcriptase subunit beta'),Chlamydia pneumoniae (Chlamydophila pneumoniae),1393,83558
+Q9Z942,RPIA_CHLPN,reviewed,Ribose-5-phosphate isomerase A (EC 5.3.1.6) (Phosphoriboisomerase A) (PRI),Chlamydia pneumoniae (Chlamydophila pneumoniae),231,83558
+Q9Z7S8,RPOA_CHLPN,reviewed,DNA-directed RNA polymerase subunit alpha (RNAP subunit alpha) (EC 2.7.7.6) (RNA polymerase subunit alpha) (Transcriptase subunit alpha),Chlamydia pneumoniae (Chlamydophila pneumoniae),374,83558
+Q9Z6S7,RMUC_CHLPN,reviewed,DNA recombination protein RmuC homolog,Chlamydia pneumoniae (Chlamydophila pneumoniae),411,83558
+Q9Z8Z9,RPE_CHLPN,reviewed,Ribulose-phosphate 3-epimerase (EC 5.1.3.1) (Pentose-5-phosphate 3-epimerase) (PPE) (R5P3E),Chlamydia pneumoniae (Chlamydophila pneumoniae),229,83558
+Q9Z6J1,RNH3_CHLPN,reviewed,Ribonuclease HIII (RNase HIII) (EC 3.1.26.4),Chlamydia pneumoniae (Chlamydophila pneumoniae),298,83558
+Q9Z803,RS10_CHLPN,reviewed,30S ribosomal protein S10,Chlamydia pneumoniae (Chlamydophila pneumoniae),105,83558
+Q9Z7K6,RRF_CHLPN,reviewed,Ribosome-recycling factor (RRF) (Ribosome-releasing factor),Chlamydia pneumoniae (Chlamydophila pneumoniae),180,83558
+Q9Z6Q9,RS15_CHLPN,reviewed,30S ribosomal protein S15,Chlamydia pneumoniae (Chlamydophila pneumoniae),89,83558
+Q9Z7S6,RS13_CHLPN,reviewed,30S ribosomal protein S13,Chlamydia pneumoniae (Chlamydophila pneumoniae),122,83558
+Q9Z965,RS16_CHLPN,reviewed,30S ribosomal protein S16,Chlamydia pneumoniae (Chlamydophila pneumoniae),119,83558
+Q9Z7S7,RS11_CHLPN,reviewed,30S ribosomal protein S11,Chlamydia pneumoniae (Chlamydophila pneumoniae),133,83558
+Q9Z800,RS12_CHLPN,reviewed,30S ribosomal protein S12,Chlamydia pneumoniae (Chlamydophila pneumoniae),123,83558
+Q9Z7R1,RS19_CHLPN,reviewed,30S ribosomal protein S19,Chlamydia pneumoniae (Chlamydophila pneumoniae),88,83558
+Q9Z7S0,RS8_CHLPN,reviewed,30S ribosomal protein S8,Chlamydia pneumoniae (Chlamydophila pneumoniae),133,83558
+Q9Z6K0,RSMA_CHLPN,reviewed,"Ribosomal RNA small subunit methyltransferase A (EC 2.1.1.182) (16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase) (16S rRNA dimethyladenosine transferase) (16S rRNA dimethylase) (S-adenosylmethionine-6-N', N'-adenosyl(rRNA) dimethyltransferase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),277,83558
+Q9Z6V5,RS6_CHLPN,reviewed,30S ribosomal protein S6,Chlamydia pneumoniae (Chlamydophila pneumoniae),112,83558
+Q9Z8C2,RSMH_CHLPN,reviewed,Ribosomal RNA small subunit methyltransferase H (EC 2.1.1.199) (16S rRNA m(4)C1402 methyltransferase) (rRNA (cytosine-N(4)-)-methyltransferase RsmH),Chlamydia pneumoniae (Chlamydophila pneumoniae),297,83558
+Q9Z801,RS7_CHLPN,reviewed,30S ribosomal protein S7,Chlamydia pneumoniae (Chlamydophila pneumoniae),157,83558
+Q9Z8T8,RS9_CHLPN,reviewed,30S ribosomal protein S9,Chlamydia pneumoniae (Chlamydophila pneumoniae),134,83558
+Q9Z8F3,RUVB_CHLPN,reviewed,Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12),Chlamydia pneumoniae (Chlamydophila pneumoniae),337,83558
+Q9Z7T3,RUVC_CHLPN,reviewed,Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4) (Holliday junction nuclease RuvC) (Holliday junction resolvase RuvC),Chlamydia pneumoniae (Chlamydophila pneumoniae),168,83558
+Q9Z7T4,RUVA_CHLPN,reviewed,Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12),Chlamydia pneumoniae (Chlamydophila pneumoniae),207,83558
+Q9Z7S5,SECY_CHLPN,reviewed,Protein translocase subunit SecY,Chlamydia pneumoniae (Chlamydophila pneumoniae),457,83558
+Q9Z765,SECA_CHLPN,reviewed,Protein translocase subunit SecA,Chlamydia pneumoniae (Chlamydophila pneumoniae),970,83558
+Q9Z7F0,SIGA_CHLPN,reviewed,RNA polymerase sigma factor SigA (Sigma-66) (Sigma-70) (Sigma-A),Chlamydia pneumoniae (Chlamydophila pneumoniae),572,83558
+Q9Z714,SYA_CHLPN,reviewed,Alanine--tRNA ligase (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),872,83558
+Q9Z7P2,SYDND_CHLPN,reviewed,Aspartate--tRNA(Asp/Asn) ligase (EC 6.1.1.23) (Aspartyl-tRNA synthetase) (AspRS) (Non-discriminating aspartyl-tRNA synthetase) (ND-AspRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),584,83558
+Q9Z8F7,SSB_CHLPN,reviewed,Single-stranded DNA-binding protein (SSB),Chlamydia pneumoniae (Chlamydophila pneumoniae),160,83558
+Q9Z8S6,SURE_CHLPN,reviewed,5'-nucleotidase SurE (EC 3.1.3.5) (Nucleoside 5'-monophosphate phosphohydrolase),Chlamydia pneumoniae (Chlamydophila pneumoniae),281,83558
+Q9Z8K1,SSRP_CHLPN,reviewed,SsrA-binding protein (Small protein B),Chlamydia pneumoniae (Chlamydophila pneumoniae),151,83558
+Q9Z7C4,TOLB_CHLPN,reviewed,Protein TolB,Chlamydia pneumoniae (Chlamydophila pneumoniae),431,83558
+Q9Z7U0,TLC2_CHLPN,reviewed,"ADP,ATP carrier protein 2 (ADP/ATP translocase 2)",Chlamydia pneumoniae (Chlamydophila pneumoniae),540,83558
+Q9Z6J6,TPIS_CHLPN,reviewed,Triosephosphate isomerase (TIM) (TPI) (EC 5.3.1.1) (Triose-phosphate isomerase),Chlamydia pneumoniae (Chlamydophila pneumoniae),254,83558
+Q9Z6R2,TILS_CHLPN,reviewed,tRNA(Ile)-lysidine synthase (EC 6.3.4.19) (tRNA(Ile)-2-lysyl-cytidine synthase) (tRNA(Ile)-lysidine synthetase),Chlamydia pneumoniae (Chlamydophila pneumoniae),319,83558
+Q9Z964,TRMD_CHLPN,reviewed,tRNA (guanine-N(1)-)-methyltransferase (EC 2.1.1.228) (M1G-methyltransferase) (tRNA [GM37] methyltransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),361,83558
+Q9Z6S3,TRMB_CHLPN,reviewed,tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33) (tRNA (guanine(46)-N(7))-methyltransferase) (tRNA(m7G46)-methyltransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),224,83558
+Q9Z8Z0,TSAD_CHLPN,reviewed,tRNA N6-adenosine threonylcarbamoyltransferase (EC 2.3.1.234) (N6-L-threonylcarbamoyladenine synthase) (t(6)A synthase) (t(6)A37 threonylcarbamoyladenosine biosynthesis protein TsaD) (tRNA threonylcarbamoyladenosine biosynthesis protein TsaD),Chlamydia pneumoniae (Chlamydophila pneumoniae),344,83558
+Q9Z8M4,TRXB_CHLPN,reviewed,Thioredoxin reductase (TRXR) (EC 1.8.1.9),Chlamydia pneumoniae (Chlamydophila pneumoniae),311,83558
+Q9Z7X4,TRUA_CHLPN,reviewed,tRNA pseudouridine synthase A (EC 5.4.99.12) (tRNA pseudouridine(38-40) synthase) (tRNA pseudouridylate synthase I) (tRNA-uridine isomerase I),Chlamydia pneumoniae (Chlamydophila pneumoniae),267,83558
+Q9Z8L9,TRUB_CHLPN,reviewed,tRNA pseudouridine synthase B (EC 5.4.99.25) (tRNA pseudouridine(55) synthase) (Psi55 synthase) (tRNA pseudouridylate synthase) (tRNA-uridine isomerase),Chlamydia pneumoniae (Chlamydophila pneumoniae),235,83558
+Q9Z7H0,URK_CHLPN,reviewed,Uridine kinase (EC 2.7.1.48) (Cytidine monophosphokinase) (Uridine monophosphokinase),Chlamydia pneumoniae (Chlamydophila pneumoniae),222,83558
+Q9Z992,VATB_CHLPN,reviewed,V-type ATP synthase beta chain (V-ATPase subunit B),Chlamydia pneumoniae (Chlamydophila pneumoniae),438,83558
+Q9Z991,VATD_CHLPN,reviewed,V-type ATP synthase subunit D (V-ATPase subunit D),Chlamydia pneumoniae (Chlamydophila pneumoniae),209,83558
+Q9Z6N5,XERD_CHLPN,reviewed,Tyrosine recombinase XerD,Chlamydia pneumoniae (Chlamydophila pneumoniae),301,83558
+Q9Z960,Y121_CHLPN,reviewed,Uncharacterized protein CPn_0121/CP_0652/CPj0121/CpB0122,Chlamydia pneumoniae (Chlamydophila pneumoniae),97,83558
+Q9Z9B6,Y065_CHLPN,reviewed,Uncharacterized protein CPn_0065/CP_0709/CPj0065/CpB0066,Chlamydia pneumoniae (Chlamydophila pneumoniae),576,83558
+Q9Z994,Y087_CHLPN,reviewed,Uncharacterized protein CPn_0087/CP_0687/CPj0087/CpB0087,Chlamydia pneumoniae (Chlamydophila pneumoniae),266,83558
+Q9Z9F9,Y022_CHLPN,reviewed,Maf-like protein CPn_0022/CP_0754/CPj0022/CpB0026,Chlamydia pneumoniae (Chlamydophila pneumoniae),196,83558
+Q9Z944,Y139_CHLPN,reviewed,UPF0301 protein CPn_0139/CP_0633/CPj0139/CpB0140,Chlamydia pneumoniae (Chlamydophila pneumoniae),188,83558
+Q9Z9F7,XERC_CHLPN,reviewed,Tyrosine recombinase XerC,Chlamydia pneumoniae (Chlamydophila pneumoniae),312,83558
+Q9Z9E2,Y039_CHLPN,reviewed,Nucleoid-associated protein CPn_0039/CP_0736/CPj0039/CpB0043,Chlamydia pneumoniae (Chlamydophila pneumoniae),96,83558
+Q9Z6P9,Y1010_CHLPN,reviewed,UPF0056 membrane protein CPn_1010/CP_0843/CPj1010/CpB1048,Chlamydia pneumoniae (Chlamydophila pneumoniae),202,83558
+Q9Z6K1,Y1058_CHLPN,reviewed,Protein CPn_1058/CP_0792/CPj1058/CpB1100,Chlamydia pneumoniae (Chlamydophila pneumoniae),363,83558
+Q9Z6P3,Y1016_CHLPN,reviewed,Protein CPn_1016/CP_0837/CPj1016/CpB1054,Chlamydia pneumoniae (Chlamydophila pneumoniae),619,83558
+Q9Z904,Y180_CHLPN,reviewed,Uncharacterized protein CPn_0180/CP_0588/CPj0180/CpB0183,Chlamydia pneumoniae (Chlamydophila pneumoniae),184,83558
+Q9Z8Z4,Y190_CHLPN,reviewed,Uncharacterized protein CPn_0190/CP_0577/CPj0190/CpB0193,Chlamydia pneumoniae (Chlamydophila pneumoniae),452,83558
+Q9Z8J6,Y347_CHLPN,reviewed,Probable metal transport system membrane protein CPn_0347/CP_0413/CPj0347/CpB0354,Chlamydia pneumoniae (Chlamydophila pneumoniae),448,83558
+Q9Z9D4,Y047_CHLPN,reviewed,Uncharacterized protein CPn_0047/CP_0727/CPj0047/CpB0048,Chlamydia pneumoniae (Chlamydophila pneumoniae),66,83558
+Q9Z8X8,Y206_CHLPN,reviewed,Uncharacterized protein CPn_0206/CP_0561/CPj0206/CpB0210,Chlamydia pneumoniae (Chlamydophila pneumoniae),251,83558
+Q9JRX2,Y129_CHLPN,reviewed,Uncharacterized protein CPn_0129/CPn_0130/CP_0642/CPj0130/CpB0131,Chlamydia pneumoniae (Chlamydophila pneumoniae),394,83558
+Q9Z949,Y132_CHLPN,reviewed,Uncharacterized protein CPn_0132/CP_0640/CPj0132/CpB0133,Chlamydia pneumoniae (Chlamydophila pneumoniae),325,83558
+Q9Z8A3,Y440_CHLPN,reviewed,Uncharacterized protein CPn_0440/CP_0313/CPj0440/CpB0456,Chlamydia pneumoniae (Chlamydophila pneumoniae),212,83558
+Q9Z8A2,Y441_CHLPN,reviewed,Uncharacterized protein CPn_0441/CP_0312/CPj0441/CpB0457,Chlamydia pneumoniae (Chlamydophila pneumoniae),316,83558
+Q9Z953,Y128_CHLPN,reviewed,Uncharacterized protein CPn_0128/CP_0643/CPj0128/CpB0130,Chlamydia pneumoniae (Chlamydophila pneumoniae),259,83558
+Q9K275,Y344_CHLPN,reviewed,Putative zinc metalloprotease CPn_0344/CP_0416/CPj0344/CpB0350 (EC 3.4.24.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),621,83558
+Q9Z854,Y497_CHLPN,reviewed,UPF0235 protein CPn_0497/CP_0257/CPj0497/CpB0517,Chlamydia pneumoniae (Chlamydophila pneumoniae),90,83558
+Q9Z852,Y499_CHLPN,reviewed,Uncharacterized protein CPn_0499/CP_0255/CPj0499/CpB0519,Chlamydia pneumoniae (Chlamydophila pneumoniae),385,83558
+Q9Z7X6,Y578_CHLPN,reviewed,Uncharacterized metallophosphoesterase CPn_0578/CP_0170/CPj0578/CpB0602 (EC 3.1.-.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),320,83558
+Q9Z843,YBEY_CHLPN,reviewed,Endoribonuclease YbeY (EC 3.1.-.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),158,83558
+Q9Z862,Y489_CHLPN,reviewed,UPF0160 protein CPn_0489/CP_0265/CPj0489/CpB0509,Chlamydia pneumoniae (Chlamydophila pneumoniae),290,83558
+Q9Z7M9,Y675_CHLPN,reviewed,Uncharacterized protein CPn_0675/CP_0072/CPj0675/CpB0702,Chlamydia pneumoniae (Chlamydophila pneumoniae),384,83558
+Q9Z834,Y518_CHLPN,reviewed,UPF0158 protein CPn_0518/CP_0235/CPj0518/CpB0539,Chlamydia pneumoniae (Chlamydophila pneumoniae),324,83558
+Q9Z7W1,Y593_CHLPN,reviewed,Uncharacterized protein CPn_0593/CP_0155/CPj0593/CpB0616,Chlamydia pneumoniae (Chlamydophila pneumoniae),362,83558
+Q9Z7M4,Y680_CHLPN,reviewed,Putative phosphate permease CPn_0680/CP_0067/CPj0680/CpB0707,Chlamydia pneumoniae (Chlamydophila pneumoniae),426,83558
+Q9Z7F1,Y755_CHLPN,reviewed,UPF0242 protein CPn_0755/CP_1117/CPj0755/CpB0783,Chlamydia pneumoniae (Chlamydophila pneumoniae),401,83558
+Q9Z729,Y877_CHLPN,reviewed,UPF0098 protein CPn_0877/CP_0992/CPj0877/CpB0906,Chlamydia pneumoniae (Chlamydophila pneumoniae),150,83558
+Q9Z8J5,Y348_CHLPN,reviewed,Probable metal transport system ATP-binding protein CPn_0348/CP_0412/CPj0348/CpB0355,Chlamydia pneumoniae (Chlamydophila pneumoniae),259,83558
+Q9Z7Y0,Y573_CHLPN,reviewed,Probable transcriptional regulatory protein CPn_0573/CP_0176/CPj0573/CpB0595,Chlamydia pneumoniae (Chlamydophila pneumoniae),238,83558
+Q9Z7T1,Y623_CHLPN,reviewed,Uncharacterized protein CPn_0623/CP_0124/CPj0623/CpB0649,Chlamydia pneumoniae (Chlamydophila pneumoniae),277,83558
+Q9Z7H1,Y734_CHLPN,reviewed,UPF0176 protein CPn_0734/CP_0012/CPj0734/CpB0762,Chlamydia pneumoniae (Chlamydophila pneumoniae),324,83558
+Q9Z8J4,Y349_CHLPN,reviewed,Uncharacterized metal-binding lipoprotein CPn_0349/CP_0411/CPj0349/CpB0356,Chlamydia pneumoniae (Chlamydophila pneumoniae),327,83558
+Q9Z798,Y808_CHLPN,reviewed,Protein CPn_0808/CP_1063/CPj0808/CpB0837,Chlamydia pneumoniae (Chlamydophila pneumoniae),444,83558
+Q9Z809,Y543_CHLPN,reviewed,Probable metal transport system membrane protein CPn_0543/CP_0209/CPj0543/CpB0565,Chlamydia pneumoniae (Chlamydophila pneumoniae),293,83558
+Q9Z7P6,Y658_CHLPN,reviewed,Protein CPn_0658/CP_0089/CPj0658/CpB0684,Chlamydia pneumoniae (Chlamydophila pneumoniae),238,83558
+Q9Z7K0,Y705_CHLPN,reviewed,Uncharacterized protein CPn_0705/CP_0041/CPj0705/CpB0732,Chlamydia pneumoniae (Chlamydophila pneumoniae),280,83558
+Q9Z731,Y875_CHLPN,reviewed,Probable lipoprotein CPn_0875/CP_0994/CPj0875/CpB0904,Chlamydia pneumoniae (Chlamydophila pneumoniae),217,83558
+Q9Z8J7,Y346_CHLPN,reviewed,Probable metal transport system membrane protein CPn_0346/CP_0414/CPj0346/CpB0353,Chlamydia pneumoniae (Chlamydophila pneumoniae),324,83558
+Q9Z8C1,Y422_CHLPN,reviewed,Uncharacterized protein CPn_0422/CP_0331/CPj0422/CpB0438,Chlamydia pneumoniae (Chlamydophila pneumoniae),181,83558
+Q9Z8A0,Y443_CHLPN,reviewed,Uncharacterized protein CPn_0443/CP_0310/CPj0443/CpB0459,Chlamydia pneumoniae (Chlamydophila pneumoniae),417,83558
+Q9Z7J4,Y711_CHLPN,reviewed,Uncharacterized protein CPn_0711/CP_0035/CPj0711/CpB0738,Chlamydia pneumoniae (Chlamydophila pneumoniae),82,83558
+Q9Z8A1,Y442_CHLPN,reviewed,Uncharacterized protein CPn_0442/CP_0311/CPj0442/CpB0458,Chlamydia pneumoniae (Chlamydophila pneumoniae),172,83558
+Q9Z7Y1,Y572_CHLPN,reviewed,Uncharacterized protein CPn_0572/CP_0177/CPj0572/CpB0594,Chlamydia pneumoniae (Chlamydophila pneumoniae),755,83558
+Q9Z7A3,Y803_CHLPN,reviewed,Protein CPn_0803/CP_1068/CPj0803/CpB0832,Chlamydia pneumoniae (Chlamydophila pneumoniae),184,83558
+Q9Z7Z2,Y561_CHLPN,reviewed,Uncharacterized protein CPn_0561/CP_0189/CPj0561/CpB0583 (EUO),Chlamydia pneumoniae (Chlamydophila pneumoniae),178,83558
+Q9Z8F4,Y389_CHLPN,reviewed,Uncharacterized protein CPn_0389/CP_0366/CPj0389/CpB0400,Chlamydia pneumoniae (Chlamydophila pneumoniae),272,83558
+Q9Z7G3,Y742_CHLPN,reviewed,Protein CPn_0742/CP_0003/CPj0742/CpB0770,Chlamydia pneumoniae (Chlamydophila pneumoniae),142,83558
+Q9Z826,Y526_CHLPN,reviewed,Uncharacterized protein CPn_0526/CP_0226/CPj0526/CpB0547,Chlamydia pneumoniae (Chlamydophila pneumoniae),329,83558
+Q9Z810,Y542_CHLPN,reviewed,Probable metal transport system ATP-binding protein CPn_0542/CP_0210/CPj0542/CpB0563,Chlamydia pneumoniae (Chlamydophila pneumoniae),245,83558
+Q9Z7I5,Y720_CHLPN,reviewed,UPF0109 protein CPn_0720/CP_0026/CPj0720/CpB0748,Chlamydia pneumoniae (Chlamydophila pneumoniae),78,83558
+Q9Z7F9,Y746_CHLPN,reviewed,UPF0159 protein CPn_0746/CP_1126/CPj0746/CpB0774,Chlamydia pneumoniae (Chlamydophila pneumoniae),531,83558
+Q9Z868,Y483_CHLPN,reviewed,Uncharacterized protein CPn_0483/CP_0271/CPj0483/CpB0503,Chlamydia pneumoniae (Chlamydophila pneumoniae),1043,83558
+Q9Z840,Y512_CHLPN,reviewed,Uncharacterized protein CPn_0512/CP_0242/CPj0512/CpB0533,Chlamydia pneumoniae (Chlamydophila pneumoniae),620,83558
+Q9Z811,Y541_CHLPN,reviewed,Uncharacterized periplasmic metal-binding protein CPn_0541/CP_0211/CPj0541/CpB0562,Chlamydia pneumoniae (Chlamydophila pneumoniae),278,83558
+Q9Z7J5,Y710_CHLPN,reviewed,Uncharacterized protein CPn_0710/CP_0036/CPj0710/CpB0737,Chlamydia pneumoniae (Chlamydophila pneumoniae),84,83558
+Q9Z722,Y884_CHLPN,reviewed,UPF0092 membrane protein CPn_0884/CP_0982/CPj0884/CpB0913,Chlamydia pneumoniae (Chlamydophila pneumoniae),117,83558
+Q9Z721,Y885_CHLPN,reviewed,Uncharacterized RNA methyltransferase CPn_0885/CP_0981/CPj0885/CpB0914 (EC 2.1.1.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),401,83558
+Q9Z8U7,YQGF_CHLPN,reviewed,Putative pre-16S rRNA nuclease (EC 3.1.-.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),151,83558
+Q9Z8H0,ISPG_CHLPN,reviewed,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin) (EC 1.17.7.3) (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase),Chlamydia pneumoniae (Chlamydophila pneumoniae),613,83558
+Q9Z7Y7,ISPT_CHLPN,reviewed,Isoprenyl transferase (EC 2.5.1.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),250,83558
+Q9Z7D1,IXTPA_CHLPN,reviewed,dITP/XTP pyrophosphatase (EC 3.6.1.66) (Non-canonical purine NTP pyrophosphatase) (Non-standard purine NTP pyrophosphatase) (Nucleoside-triphosphate diphosphatase) (Nucleoside-triphosphate pyrophosphatase) (NTPase),Chlamydia pneumoniae (Chlamydophila pneumoniae),206,83558
+Q9Z7Y5,KCY_CHLPN,reviewed,Cytidylate kinase (CK) (EC 2.7.4.25) (Cytidine monophosphate kinase) (CMP kinase),Chlamydia pneumoniae (Chlamydophila pneumoniae),216,83558
+Q9Z7I4,KDSA_CHLPN,reviewed,2-dehydro-3-deoxyphosphooctonate aldolase (EC 2.5.1.55) (3-deoxy-D-manno-octulosonic acid 8-phosphate synthase) (KDO-8-phosphate synthase) (KDO 8-P synthase) (KDOPS) (Phospho-2-dehydro-3-deoxyoctonate aldolase),Chlamydia pneumoniae (Chlamydophila pneumoniae),269,83558
+Q9Z6P2,ISPH_CHLPN,reviewed,4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4),Chlamydia pneumoniae (Chlamydophila pneumoniae),310,83558
+Q9Z8U0,KAD_CHLPN,reviewed,Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase),Chlamydia pneumoniae (Chlamydophila pneumoniae),213,83558
+Q9Z8U9,KDSB_CHLPN,reviewed,3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38) (CMP-2-keto-3-deoxyoctulosonic acid synthase) (CKS) (CMP-KDO synthase),Chlamydia pneumoniae (Chlamydophila pneumoniae),254,83558
+Q9Z8R5,KTHY_CHLPN,reviewed,Thymidylate kinase (EC 2.7.4.9) (dTMP kinase),Chlamydia pneumoniae (Chlamydophila pneumoniae),206,83558
+Q9Z961,KGUA_CHLPN,reviewed,Guanylate kinase (EC 2.7.4.8) (GMP kinase),Chlamydia pneumoniae (Chlamydophila pneumoniae),205,83558
+Q9Z984,KPYK_CHLPN,reviewed,Pyruvate kinase (PK) (EC 2.7.1.40),Chlamydia pneumoniae (Chlamydophila pneumoniae),484,83558
+Q9Z9F4,LON_CHLPN,reviewed,Lon protease (EC 3.4.21.53) (ATP-dependent protease La),Chlamydia pneumoniae (Chlamydophila pneumoniae),819,83558
+Q9Z8I4,LEPA_CHLPN,reviewed,Elongation factor 4 (EF-4) (EC 3.6.5.n1) (Ribosomal back-translocase LepA),Chlamydia pneumoniae (Chlamydophila pneumoniae),602,83558
+Q9Z8N6,LPXD_CHLPN,reviewed,UDP-3-O-acylglucosamine N-acyltransferase (EC 2.3.1.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),360,83558
+Q9Z7Q2,LPXC_CHLPN,reviewed,UDP-3-O-acyl-N-acetylglucosamine deacetylase (UDP-3-O-acyl-GlcNAc deacetylase) (EC 3.5.1.108) (UDP-3-O-[R-3-hydroxymyristoyl]-N-acetylglucosamine deacetylase),Chlamydia pneumoniae (Chlamydophila pneumoniae),282,83558
+Q9Z774,LIPA_CHLPN,reviewed,Lipoyl synthase (EC 2.8.1.8) (Lip-syn) (LS) (Lipoate synthase) (Lipoic acid synthase) (Sulfur insertion protein LipA),Chlamydia pneumoniae (Chlamydophila pneumoniae),307,83558
+Q9Z7Q4,LPXA_CHLPN,reviewed,Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (UDP-N-acetylglucosamine acyltransferase) (EC 2.3.1.129),Chlamydia pneumoniae (Chlamydophila pneumoniae),279,83558
+Q9K266,LGT_CHLPN,reviewed,Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),288,83558
+Q9Z7Q1,LNT_CHLPN,reviewed,Apolipoprotein N-acyltransferase (ALP N-acyltransferase) (EC 2.3.1.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),541,83558
+Q9Z8K5,LTUB_CHLPN,reviewed,Late transcription unit B protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),97,83558
+Q9Z823,LPXK_CHLPN,reviewed,Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130) (Lipid A 4'-kinase),Chlamydia pneumoniae (Chlamydophila pneumoniae),365,83558
+Q9Z6Q0,MAP1_CHLPN,reviewed,Methionine aminopeptidase (MAP) (MetAP) (EC 3.4.11.18) (Peptidase M),Chlamydia pneumoniae (Chlamydophila pneumoniae),291,83558
+Q9Z6U3,LPXB_CHLPN,reviewed,Lipid-A-disaccharide synthase (EC 2.4.1.182),Chlamydia pneumoniae (Chlamydophila pneumoniae),604,83558
+Q9Z8L2,MALQ_CHLPN,reviewed,4-alpha-glucanotransferase (EC 2.4.1.25) (Amylomaltase) (Disproportionating enzyme) (D-enzyme),Chlamydia pneumoniae (Chlamydophila pneumoniae),526,83558
+Q9Z817,LSPA_CHLPN,reviewed,Lipoprotein signal peptidase (EC 3.4.23.36) (Prolipoprotein signal peptidase) (Signal peptidase II) (SPase II),Chlamydia pneumoniae (Chlamydophila pneumoniae),168,83558
+Q9Z6N3,LTUA_CHLPN,reviewed,Late transcription unit A protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),47,83558
+Q9Z7P3,MIP_CHLPN,reviewed,Peptidyl-prolyl cis-trans isomerase Mip (PPIase) (EC 5.2.1.8) (Rotamase),Chlamydia pneumoniae (Chlamydophila pneumoniae),258,83558
+Q9Z7K4,MCSB_CHLPN,reviewed,Protein-arginine kinase (EC 2.7.14.1),Chlamydia pneumoniae (Chlamydophila pneumoniae),358,83558
+Q9Z6N1,MDH_CHLPN,reviewed,Malate dehydrogenase (EC 1.1.1.37),Chlamydia pneumoniae (Chlamydophila pneumoniae),328,83558
+Q9Z8Q8,METN_CHLPN,reviewed,Methionine import ATP-binding protein MetN (EC 3.6.3.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),341,83558
+Q9K2B6,MENG_CHLPN,reviewed,Demethylmenaquinone methyltransferase (EC 2.1.1.163),Chlamydia pneumoniae (Chlamydophila pneumoniae),230,83558
+Q9Z6Z6,MIAA_CHLPN,reviewed,tRNA dimethylallyltransferase (EC 2.5.1.75) (Dimethylallyl diphosphate:tRNA dimethylallyltransferase) (DMAPP:tRNA dimethylallyltransferase) (DMATase) (Isopentenyl-diphosphate:tRNA isopentenyltransferase) (IPP transferase) (IPPT) (IPTase),Chlamydia pneumoniae (Chlamydophila pneumoniae),342,83558
+Q9Z768,MNME_CHLPN,reviewed,tRNA modification GTPase MnmE (EC 3.6.-.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),442,83558
+Q9Z7T7,MNMG_CHLPN,reviewed,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG (Glucose-inhibited division protein A),Chlamydia pneumoniae (Chlamydophila pneumoniae),611,83558
+Q9Z6S1,MURB_CHLPN,reviewed,UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98) (UDP-N-acetylmuramate dehydrogenase),Chlamydia pneumoniae (Chlamydophila pneumoniae),304,83558
+Q9Z8A5,MNMA_CHLPN,reviewed,tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13),Chlamydia pneumoniae (Chlamydophila pneumoniae),361,83558
+Q9Z706,MRAY_CHLPN,reviewed,Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) (UDP-MurNAc-pentapeptide phosphotransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),349,83558
+P27455,MOMP_CHLPN,reviewed,Major outer membrane porin (MOMP),Chlamydia pneumoniae (Chlamydophila pneumoniae),389,83558
+Q9Z874,MTAB_CHLPN,reviewed,Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB (EC 2.8.4.5) (tRNA-t(6)A37 methylthiotransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),421,83558
+Q9Z7Y2,MURA_CHLPN,reviewed,UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7) (Enoylpyruvate transferase) (UDP-N-acetylglucosamine enolpyruvyl transferase) (EPT),Chlamydia pneumoniae (Chlamydophila pneumoniae),458,83558
+Q9Z7H5,MURJ_CHLPN,reviewed,Probable lipid II flippase MurJ,Chlamydia pneumoniae (Chlamydophila pneumoniae),547,83558
+Q9Z6W5,MUTS_CHLPN,reviewed,DNA mismatch repair protein MutS,Chlamydia pneumoniae (Chlamydophila pneumoniae),828,83558
+Q9Z701,MUDD_CHLPN,reviewed,Bifunctional enzyme MurC/Ddl [Includes: UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8) (UDP-N-acetylmuramoyl-L-alanine synthetase); D-alanine--D-alanine ligase (EC 6.3.2.4) (D-Ala-D-Ala ligase) (D-alanylalanine synthetase)],Chlamydia pneumoniae (Chlamydophila pneumoniae),809,83558
+Q9Z705,MURD_CHLPN,reviewed,UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9) (D-glutamic acid-adding enzyme) (UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase),Chlamydia pneumoniae (Chlamydophila pneumoniae),417,83558
+Q9Z702,MURG_CHLPN,reviewed,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227) (Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),357,83558
+Q9Z794,MUTL_CHLPN,reviewed,DNA mismatch repair protein MutL,Chlamydia pneumoniae (Chlamydophila pneumoniae),580,83558
+Q9Z8C5,MURE_CHLPN,reviewed,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13) (Meso-A2pm-adding enzyme) (Meso-diaminopimelate-adding enzyme) (UDP-MurNAc-L-Ala-D-Glu:meso-diaminopimelate ligase) (UDP-MurNAc-tripeptide synthetase) (UDP-N-acetylmuramyl-tripeptide synthetase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),483,83558
+Q9Z723,NQRF_CHLPN,reviewed,Na(+)-translocating NADH-quinone reductase subunit F (Na(+)-NQR subunit F) (Na(+)-translocating NQR subunit F) (EC 1.6.5.8) (NQR complex subunit F) (NQR-1 subunit F),Chlamydia pneumoniae (Chlamydophila pneumoniae),431,83558
+Q9Z819,NRDR_CHLPN,reviewed,Transcriptional repressor NrdR,Chlamydia pneumoniae (Chlamydophila pneumoniae),152,83558
+Q9Z8B3,NQRE_CHLPN,reviewed,Na(+)-translocating NADH-quinone reductase subunit E (Na(+)-NQR subunit E) (Na(+)-translocating NQR subunit E) (EC 1.6.5.8) (NQR complex subunit E) (NQR-1 subunit E),Chlamydia pneumoniae (Chlamydophila pneumoniae),256,83558
+Q9Z8B5,NQRC_CHLPN,reviewed,Na(+)-translocating NADH-quinone reductase subunit C (Na(+)-NQR subunit C) (Na(+)-translocating NQR subunit C) (EC 1.6.5.8) (NQR complex subunit C) (NQR-1 subunit C),Chlamydia pneumoniae (Chlamydophila pneumoniae),320,83558
+Q9Z8B4,NQRD_CHLPN,reviewed,Na(+)-translocating NADH-quinone reductase subunit D (Na(+)-NQR subunit D) (Na(+)-translocating NQR subunit D) (EC 1.6.5.8) (NQR complex subunit D) (NQR-1 subunit D),Chlamydia pneumoniae (Chlamydophila pneumoniae),213,83558
+Q9Z7G2,NQRA_CHLPN,reviewed,Na(+)-translocating NADH-quinone reductase subunit A (Na(+)-NQR subunit A) (Na(+)-translocating NQR subunit A) (EC 1.6.5.8) (NQR complex subunit A) (NQR-1 subunit A),Chlamydia pneumoniae (Chlamydophila pneumoniae),467,83558
+Q9Z8B6,NQRB_CHLPN,reviewed,Na(+)-translocating NADH-quinone reductase subunit B (Na(+)-NQR subunit B) (Na(+)-translocating NQR subunit B) (EC 1.6.5.8) (NQR complex subunit B) (NQR-1 subunit B),Chlamydia pneumoniae (Chlamydophila pneumoniae),503,83558
+Q9Z9A5,NUSG_CHLPN,reviewed,Transcription termination/antitermination protein NusG,Chlamydia pneumoniae (Chlamydophila pneumoniae),182,83558
+P23700,OMCB_CHLPN,reviewed,Large cysteine-rich periplasmic protein OmcB (Large-CRP) (60 kDa cysteine-rich OMP) (60 kDa CRP) (60 kDa outer membrane protein) (Cysteine-rich outer membrane protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),556,83558
+Q9Z6I6,OMPZ_CHLPN,reviewed,Putative outer membrane protein CPn_1073/CP_0776/CPj1073/CpB1118,Chlamydia pneumoniae (Chlamydophila pneumoniae),274,83558
+Q9Z7Z5,OMCA_CHLPN,reviewed,Small cysteine-rich outer membrane protein OmcA (Small-CRP) (9 kDa cysteine-rich lipoprotein) (9KD-CRP),Chlamydia pneumoniae (Chlamydophila pneumoniae),90,83558
+Q9Z788,OMPX_CHLPN,reviewed,Putative outer membrane protein CPn_0818/CP_1053/CPj0818/CpB0847,Chlamydia pneumoniae (Chlamydophila pneumoniae),123,83558
+Q9Z6S0,NUSB_CHLPN,reviewed,N utilization substance protein B homolog (Protein NusB),Chlamydia pneumoniae (Chlamydophila pneumoniae),160,83558
+Q9Z808,OBG_CHLPN,reviewed,GTPase Obg (EC 3.6.5.-) (GTP-binding protein Obg),Chlamydia pneumoniae (Chlamydophila pneumoniae),335,83558
+Q9Z6M5,OMPY_CHLPN,reviewed,Putative outer membrane protein CPn_1034/CP_0818/CPj1034/CpB1074,Chlamydia pneumoniae (Chlamydophila pneumoniae),262,83558
+Q9Z752,OMP2_CHLPN,reviewed,Outer membrane protein B,Chlamydia pneumoniae (Chlamydophila pneumoniae),344,83558
+Q9Z7A1,PARA_CHLPN,reviewed,ParA family protein CPn_0805/CP_1066/CPj0805/CpB0834,Chlamydia pneumoniae (Chlamydophila pneumoniae),255,83558
+Q9Z755,PCKG_CHLPN,reviewed,Phosphoenolpyruvate carboxykinase [GTP] (PEP carboxykinase) (PEPCK) (EC 4.1.1.32),Chlamydia pneumoniae (Chlamydophila pneumoniae),600,83558
+Q9Z7M0,PARB_CHLPN,reviewed,Probable chromosome-partitioning protein ParB,Chlamydia pneumoniae (Chlamydophila pneumoniae),286,83558
+Q7AJA5,PKN1_CHLPN,reviewed,Serine/threonine-protein kinase pkn1 (EC 2.7.11.1),Chlamydia pneumoniae (Chlamydophila pneumoniae),619,83558
+O86164,PMP11_CHLPN,reviewed,Probable outer membrane protein pmp11 (Outer membrane protein 4) (Polymorphic membrane protein 11),Chlamydia pneumoniae (Chlamydophila pneumoniae),928,83558
+Q9Z8N1,PHSG_CHLPN,reviewed,Glycogen phosphorylase (EC 2.4.1.1),Chlamydia pneumoniae (Chlamydophila pneumoniae),824,83558
+Q9Z882,PMP16_CHLPN,reviewed,Probable outer membrane protein pmp16 (Polymorphic membrane protein 16),Chlamydia pneumoniae (Chlamydophila pneumoniae),952,83558
+Q9Z986,PKND_CHLPN,reviewed,Serine/threonine-protein kinase PknD (EC 2.7.11.1),Chlamydia pneumoniae (Chlamydophila pneumoniae),932,83558
+Q9Z883,PMP15_CHLPN,reviewed,Probable outer membrane protein pmp15 (Polymorphic membrane protein 15),Chlamydia pneumoniae (Chlamydophila pneumoniae),938,83558
+Q9Z899,PMP6_CHLPN,reviewed,Probable outer membrane protein pmp6 (Polymorphic membrane protein 6),Chlamydia pneumoniae (Chlamydophila pneumoniae),1276,83558
+Q9Z7M5,PGK_CHLPN,reviewed,Phosphoglycerate kinase (EC 2.7.2.3),Chlamydia pneumoniae (Chlamydophila pneumoniae),402,83558
+Q9Z3D6,PMP12_CHLPN,reviewed,Probable outer membrane protein pmp12 (Outer membrane protein 13) (Polymorphic membrane protein 12),Chlamydia pneumoniae (Chlamydophila pneumoniae),514,83558
+Q9Z880,PMP18_CHLPN,reviewed,Probable outer membrane protein pmp18 (Polymorphic membrane protein 18),Chlamydia pneumoniae (Chlamydophila pneumoniae),946,83558
+Q9Z898,PMP7_CHLPN,reviewed,Probable outer membrane protein pmp7 (Outer membrane protein 12) (Polymorphic membrane protein 7),Chlamydia pneumoniae (Chlamydophila pneumoniae),936,83558
+Q9Z895,PMP14_CHLPN,reviewed,Probable outer membrane protein pmp14 (Polymorphic membrane protein 14),Chlamydia pneumoniae (Chlamydophila pneumoniae),978,83558
+Q9Z813,PMP19_CHLPN,reviewed,Probable outer membrane protein pmp19 (Polymorphic membrane protein 19),Chlamydia pneumoniae (Chlamydophila pneumoniae),947,83558
+Q9Z3A1,PMP2_CHLPN,reviewed,Probable outer membrane protein pmp2 (Outer membrane protein 7) (Polymorphic membrane protein 2),Chlamydia pneumoniae (Chlamydophila pneumoniae),841,83558
+Q9Z6Y2,PRIA_CHLPN,reviewed,Primosomal protein N' (EC 3.6.4.-) (ATP-dependent helicase PriA),Chlamydia pneumoniae (Chlamydophila pneumoniae),749,83558
+Q9Z896,PMP13_CHLPN,reviewed,Probable outer membrane protein pmp13 (Outer membrane protein 14) (Polymorphic membrane protein 13),Chlamydia pneumoniae (Chlamydophila pneumoniae),973,83558
+Q9Z9G5,PMP1_CHLPN,reviewed,Probable outer membrane protein pmp1 (Outer membrane protein 6) (Polymorphic membrane protein 1),Chlamydia pneumoniae (Chlamydophila pneumoniae),922,83558
+Q9Z6R0,PNP_CHLPN,reviewed,Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) (Polynucleotide phosphorylase) (PNPase),Chlamydia pneumoniae (Chlamydophila pneumoniae),694,83558
+Q9Z6U5,PMP21_CHLPN,reviewed,Probable outer membrane protein pmp21 (Polymorphic membrane protein 21),Chlamydia pneumoniae (Chlamydophila pneumoniae),1609,83558
+Q9Z393,PMP8_CHLPN,reviewed,Probable outer membrane protein pmp8 (Outer membrane protein 11) (Polymorphic membrane protein 8),Chlamydia pneumoniae (Chlamydophila pneumoniae),930,83558
+Q9Z6U6,PLSX_CHLPN,reviewed,Phosphate acyltransferase (EC 2.3.1.n2) (Acyl-ACP phosphotransacylase) (Acyl-[acyl-carrier-protein]--phosphate acyltransferase) (Phosphate-acyl-ACP acyltransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),320,83558
+Q9Z812,PMP20_CHLPN,reviewed,Probable outer membrane protein pmp20 (Polymorphic membrane protein 20),Chlamydia pneumoniae (Chlamydophila pneumoniae),1723,83558
+Q9Z398,PMP9_CHLPN,reviewed,Probable outer membrane protein pmp9 (Outer membrane protein 10) (Polymorphic membrane protein 9),Chlamydia pneumoniae (Chlamydophila pneumoniae),928,83558
+Q9Z8U8,PYRG_CHLPN,reviewed,CTP synthase (EC 6.3.4.2) (Cytidine 5'-triphosphate synthase) (Cytidine triphosphate synthetase) (CTP synthetase) (CTPS) (UTP--ammonia ligase),Chlamydia pneumoniae (Chlamydophila pneumoniae),537,83558
+Q9Z7K7,PYRH_CHLPN,reviewed,Uridylate kinase (UK) (EC 2.7.4.22) (Uridine monophosphate kinase) (UMP kinase) (UMPK),Chlamydia pneumoniae (Chlamydophila pneumoniae),248,83558
+Q9Z7G7,RECB_CHLPN,reviewed,RecBCD enzyme subunit RecB (EC 3.1.11.5) (Exonuclease V subunit RecB) (ExoV subunit RecB) (Helicase/nuclease RecBCD subunit RecB),Chlamydia pneumoniae (Chlamydophila pneumoniae),1050,83558
+Q9Z7W5,RECO_CHLPN,reviewed,DNA repair protein RecO (Recombination protein O),Chlamydia pneumoniae (Chlamydophila pneumoniae),252,83558
+Q9Z8N9,RECR_CHLPN,reviewed,Recombination protein RecR,Chlamydia pneumoniae (Chlamydophila pneumoniae),200,83558
+Q9Z968,RF1_CHLPN,reviewed,Peptide chain release factor 1 (RF-1),Chlamydia pneumoniae (Chlamydophila pneumoniae),357,83558
+Q9Z9C8,RADA_CHLPN,reviewed,DNA repair protein RadA (EC 3.6.4.-) (Branch migration protein RadA),Chlamydia pneumoniae (Chlamydophila pneumoniae),453,83558
+Q9Z7E4,RECA_CHLPN,reviewed,Protein RecA (Recombinase A),Chlamydia pneumoniae (Chlamydophila pneumoniae),353,83558
+Q9Z8M0,RBFA_CHLPN,reviewed,Ribosome-binding factor A,Chlamydia pneumoniae (Chlamydophila pneumoniae),120,83558
+P56906,RF2_CHLPN,reviewed,Peptide chain release factor 2 (RF-2),Chlamydia pneumoniae (Chlamydophila pneumoniae),369,83558
+Q9Z734,RIBBA_CHLPN,reviewed,"Riboflavin biosynthesis protein RibBA [Includes: 3,4-dihydroxy-2-butanone 4-phosphate synthase (DHBP synthase) (EC 4.1.99.12); GTP cyclohydrolase-2 (EC 3.5.4.25) (GTP cyclohydrolase II)]",Chlamydia pneumoniae (Chlamydophila pneumoniae),418,83558
+Q9Z735,RIBD_CHLPN,reviewed,Riboflavin biosynthesis protein RibD [Includes: Diaminohydroxyphosphoribosylaminopyrimidine deaminase (DRAP deaminase) (EC 3.5.4.26) (Riboflavin-specific deaminase); 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193) (HTP reductase)],Chlamydia pneumoniae (Chlamydophila pneumoniae),376,83558
+Q9Z7S4,RL15_CHLPN,reviewed,50S ribosomal protein L15,Chlamydia pneumoniae (Chlamydophila pneumoniae),144,83558
+Q9Z8T7,RL13_CHLPN,reviewed,50S ribosomal protein L13,Chlamydia pneumoniae (Chlamydophila pneumoniae),149,83558
+Q9Z963,RL19_CHLPN,reviewed,50S ribosomal protein L19,Chlamydia pneumoniae (Chlamydophila pneumoniae),121,83558
+Q9Z733,RISB_CHLPN,reviewed,"6,7-dimethyl-8-ribityllumazine synthase (DMRL synthase) (LS) (Lumazine synthase) (EC 2.5.1.78)",Chlamydia pneumoniae (Chlamydophila pneumoniae),154,83558
+Q9Z7R7,RL14_CHLPN,reviewed,50S ribosomal protein L14,Chlamydia pneumoniae (Chlamydophila pneumoniae),122,83558
+Q9Z6S4,RIR2_CHLPN,reviewed,Ribonucleoside-diphosphate reductase subunit beta (EC 1.17.4.1) (Ribonucleotide reductase small subunit),Chlamydia pneumoniae (Chlamydophila pneumoniae),346,83558
+Q9Z820,RISA_CHLPN,reviewed,Riboflavin synthase (RS) (EC 2.5.1.9),Chlamydia pneumoniae (Chlamydophila pneumoniae),200,83558
+Q9Z8T3,RIMO_CHLPN,reviewed,Ribosomal protein S12 methylthiotransferase RimO (S12 MTTase) (S12 methylthiotransferase) (EC 2.8.4.4) (Ribosomal protein S12 (aspartate-C(3))-methylthiotransferase) (Ribosome maturation factor RimO),Chlamydia pneumoniae (Chlamydophila pneumoniae),468,83558
+Q9Z6S5,RIR1_CHLPN,reviewed,Ribonucleoside-diphosphate reductase subunit alpha (EC 1.17.4.1) (Ribonucleotide reductase),Chlamydia pneumoniae (Chlamydophila pneumoniae),1044,83558
+Q9Z9A2,RL10_CHLPN,reviewed,50S ribosomal protein L10,Chlamydia pneumoniae (Chlamydophila pneumoniae),170,83558
+Q9Z9A4,RL11_CHLPN,reviewed,50S ribosomal protein L11,Chlamydia pneumoniae (Chlamydophila pneumoniae),141,83558
+Q9Z7R4,RL16_CHLPN,reviewed,50S ribosomal protein L16,Chlamydia pneumoniae (Chlamydophila pneumoniae),138,83558
+Q9Z9A3,RL1_CHLPN,reviewed,50S ribosomal protein L1,Chlamydia pneumoniae (Chlamydophila pneumoniae),232,83558
+Q9Z6U7,RL32_CHLPN,reviewed,50S ribosomal protein L32,Chlamydia pneumoniae (Chlamydophila pneumoniae),60,83558
+Q9Z6X0,RL36_CHLPN,reviewed,50S ribosomal protein L36,Chlamydia pneumoniae (Chlamydophila pneumoniae),45,83558
+Q9Z7R9,RL5_CHLPN,reviewed,50S ribosomal protein L5,Chlamydia pneumoniae (Chlamydophila pneumoniae),180,83558
+Q9Z806,RL21_CHLPN,reviewed,50S ribosomal protein L21,Chlamydia pneumoniae (Chlamydophila pneumoniae),106,83558
+Q9Z7Q9,RL23_CHLPN,reviewed,50S ribosomal protein L23,Chlamydia pneumoniae (Chlamydophila pneumoniae),111,83558
+Q9Z807,RL27_CHLPN,reviewed,50S ribosomal protein L27,Chlamydia pneumoniae (Chlamydophila pneumoniae),84,83558
+Q9Z8L1,RL28_CHLPN,reviewed,50S ribosomal protein L28,Chlamydia pneumoniae (Chlamydophila pneumoniae),89,83558
+Q9Z6R7,RL20_CHLPN,reviewed,50S ribosomal protein L20,Chlamydia pneumoniae (Chlamydophila pneumoniae),121,83558
+Q9Z7S9,RL17_CHLPN,reviewed,50S ribosomal protein L17,Chlamydia pneumoniae (Chlamydophila pneumoniae),142,83558
+Q9Z7S2,RL18_CHLPN,reviewed,50S ribosomal protein L18,Chlamydia pneumoniae (Chlamydophila pneumoniae),123,83558
+Q9Z6V7,RL25_CHLPN,reviewed,50S ribosomal protein L25 (General stress protein CTC),Chlamydia pneumoniae (Chlamydophila pneumoniae),185,83558
+Q9Z7R5,RL29_CHLPN,reviewed,50S ribosomal protein L29,Chlamydia pneumoniae (Chlamydophila pneumoniae),72,83558
+Q9Z7R2,RL22_CHLPN,reviewed,50S ribosomal protein L22,Chlamydia pneumoniae (Chlamydophila pneumoniae),111,83558
+Q9Z7R8,RL24_CHLPN,reviewed,50S ribosomal protein L24,Chlamydia pneumoniae (Chlamydophila pneumoniae),111,83558
+Q9Z9F0,RS21_CHLPN,reviewed,30S ribosomal protein S21,Chlamydia pneumoniae (Chlamydophila pneumoniae),58,83558
+Q9Z6V4,RS18_CHLPN,reviewed,30S ribosomal protein S18,Chlamydia pneumoniae (Chlamydophila pneumoniae),82,83558
+Q9Z7S3,RS5_CHLPN,reviewed,30S ribosomal protein S5,Chlamydia pneumoniae (Chlamydophila pneumoniae),165,83558
+Q9Z6W9,RS14_CHLPN,reviewed,30S ribosomal protein S14,Chlamydia pneumoniae (Chlamydophila pneumoniae),101,83558
+Q9Z7R6,RS17_CHLPN,reviewed,30S ribosomal protein S17,Chlamydia pneumoniae (Chlamydophila pneumoniae),86,83558
+Q9Z7R3,RS3_CHLPN,reviewed,30S ribosomal protein S3,Chlamydia pneumoniae (Chlamydophila pneumoniae),223,83558
+Q9Z7H2,RS4_CHLPN,reviewed,30S ribosomal protein S4,Chlamydia pneumoniae (Chlamydophila pneumoniae),209,83558
+Q9Z7F2,RS20_CHLPN,reviewed,30S ribosomal protein S20,Chlamydia pneumoniae (Chlamydophila pneumoniae),99,83558
+Q9Z7K9,RS2_CHLPN,reviewed,30S ribosomal protein S2,Chlamydia pneumoniae (Chlamydophila pneumoniae),277,83558
+Q9Z8M3,RS1_CHLPN,reviewed,30S ribosomal protein S1,Chlamydia pneumoniae (Chlamydophila pneumoniae),580,83558
+Q9Z7Z6,SRP_CHLPN,reviewed,Sulfur-rich protein (Cysteine-rich protein A),Chlamydia pneumoniae (Chlamydophila pneumoniae),196,83558
+Q9Z8N7,SKPL_CHLPN,reviewed,Skp-like protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),171,83558
+Q9Z9C4,SODM_CHLPN,reviewed,Superoxide dismutase [Mn] (EC 1.15.1.1),Chlamydia pneumoniae (Chlamydophila pneumoniae),207,83558
+Q9Z6R6,SYFA_CHLPN,reviewed,Phenylalanine--tRNA ligase alpha subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase alpha subunit) (PheRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),339,83558
+Q9Z7P1,SYH_CHLPN,reviewed,Histidine--tRNA ligase (EC 6.1.1.21) (Histidyl-tRNA synthetase) (HisRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),430,83558
+Q9Z972,SYI_CHLPN,reviewed,Isoleucine--tRNA ligase (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (IleRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),1043,83558
+Q9Z6T6,SUCC_CHLPN,reviewed,Succinate--CoA ligase [ADP-forming] subunit beta (EC 6.2.1.5) (Succinyl-CoA synthetase subunit beta) (SCS-beta),Chlamydia pneumoniae (Chlamydophila pneumoniae),386,83558
+Q9Z6X4,SYC_CHLPN,reviewed,Cysteine--tRNA ligase (EC 6.1.1.16) (Cysteinyl-tRNA synthetase) (CysRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),474,83558
+Q9Z930,SYL_CHLPN,reviewed,Leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase) (LeuRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),820,83558
+Q9Z7Z3,SYE_CHLPN,reviewed,Glutamate--tRNA ligase (EC 6.1.1.17) (Glutamyl-tRNA synthetase) (GluRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),505,83558
+Q9Z6X5,SYK_CHLPN,reviewed,Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),527,83558
+Q9Z6W0,SYG_CHLPN,reviewed,Glycine--tRNA ligase (Glycyl-tRNA synthetase) (GlyRS) (EC 6.1.1.14) [Includes: Glycine--tRNA ligase alpha subunit (Glycyl-tRNA synthetase alpha subunit); Glycine--tRNA ligase beta subunit (Glycyl-tRNA synthetase beta subunit)],Chlamydia pneumoniae (Chlamydophila pneumoniae),1010,83558
+Q9Z7W0,SYFB_CHLPN,reviewed,Phenylalanine--tRNA ligase beta subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase beta subunit) (PheRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),792,83558
+Q9Z959,SYM_CHLPN,reviewed,Methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),551,83558
+Q9Z7Y3,SYR_CHLPN,reviewed,Arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),561,83558
+Q9Z736,SYS_CHLPN,reviewed,Serine--tRNA ligase (EC 6.1.1.11) (Seryl-tRNA synthetase) (SerRS) (Seryl-tRNA(Ser/Sec) synthetase),Chlamydia pneumoniae (Chlamydophila pneumoniae),427,83558
+Q9Z851,SYP_CHLPN,reviewed,Proline--tRNA ligase (EC 6.1.1.15) (Prolyl-tRNA synthetase) (ProRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),568,83558
+Q9Z987,SYV_CHLPN,reviewed,Valine--tRNA ligase (EC 6.1.1.9) (Valyl-tRNA synthetase) (ValRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),940,83558
+Q9Z7A4,SYW_CHLPN,reviewed,Tryptophan--tRNA ligase (EC 6.1.1.2) (Tryptophanyl-tRNA synthetase) (TrpRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),344,83558
+Q9Z8I2,SYY_CHLPN,reviewed,Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase) (TyrRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),412,83558
+Q9Z8W5,TGT_CHLPN,reviewed,Queuine tRNA-ribosyltransferase (EC 2.4.2.29) (Guanine insertion enzyme) (tRNA-guanine transglycosylase),Chlamydia pneumoniae (Chlamydophila pneumoniae),372,83558
+Q9Z998,TAL_CHLPN,reviewed,Transaldolase (EC 2.2.1.2),Chlamydia pneumoniae (Chlamydophila pneumoniae),327,83558
+Q9Z7A0,SYT_CHLPN,reviewed,Threonine--tRNA ligase (EC 6.1.1.3) (Threonyl-tRNA synthetase) (ThrRS),Chlamydia pneumoniae (Chlamydophila pneumoniae),635,83558
+Q9Z7P5,THIO_CHLPN,reviewed,Thioredoxin (Trx),Chlamydia pneumoniae (Chlamydophila pneumoniae),102,83558
+Q9Z8J2,TLC1_CHLPN,reviewed,"ADP,ATP carrier protein 1 (ADP/ATP translocase 1)",Chlamydia pneumoniae (Chlamydophila pneumoniae),515,83558
+Q9Z758,TIG_CHLPN,reviewed,Trigger factor (TF) (EC 5.2.1.8) (PPIase),Chlamydia pneumoniae (Chlamydophila pneumoniae),442,83558
+Q9Z7A5,UVRB_CHLPN,reviewed,UvrABC system protein B (Protein UvrB) (Excinuclease ABC subunit B),Chlamydia pneumoniae (Chlamydophila pneumoniae),657,83558
+Q9Z993,VATA_CHLPN,reviewed,V-type ATP synthase alpha chain (EC 3.6.3.14) (V-ATPase subunit A),Chlamydia pneumoniae (Chlamydophila pneumoniae),591,83558
+Q9Z7D3,UNG_CHLPN,reviewed,Uracil-DNA glycosylase (UDG) (EC 3.2.2.27),Chlamydia pneumoniae (Chlamydophila pneumoniae),236,83558
+Q9Z990,VATI_CHLPN,reviewed,V-type ATP synthase subunit I (V-ATPase subunit I),Chlamydia pneumoniae (Chlamydophila pneumoniae),660,83558
+Q9Z7N9,UHPT_CHLPN,reviewed,Probable hexose phosphate transport protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),455,83558
+Q9Z6W6,UVRC_CHLPN,reviewed,UvrABC system protein C (Protein UvrC) (Excinuclease ABC subunit C),Chlamydia pneumoniae (Chlamydophila pneumoniae),603,83558
+Q9Z995,VATE_CHLPN,reviewed,V-type ATP synthase subunit E (V-ATPase subunit E),Chlamydia pneumoniae (Chlamydophila pneumoniae),208,83558
+Q9Z985,UVRA_CHLPN,reviewed,UvrABC system protein A (UvrA protein) (Excinuclease ABC subunit A),Chlamydia pneumoniae (Chlamydophila pneumoniae),1826,83558
+Q9Z8S4,UBIX_CHLPN,reviewed,Flavin prenyltransferase UbiX (EC 2.5.1.129),Chlamydia pneumoniae (Chlamydophila pneumoniae),192,83558
+Q7VQ46,YIDC_CHLPN,reviewed,Membrane protein insertase YidC (Foldase YidC) (Membrane integrase YidC) (Membrane protein YidC),Chlamydia pneumoniae (Chlamydophila pneumoniae),795,83558
+Q9Z7W2,YIDD_CHLPN,reviewed,Putative membrane protein insertion efficiency factor,Chlamydia pneumoniae (Chlamydophila pneumoniae),103,83558
+Q9Z863,YHIT_CHLPN,reviewed,HIT-like protein CPn_0488/CP_0266/CPj0488/CpB0508,Chlamydia pneumoniae (Chlamydophila pneumoniae),110,83558
+Q9Z7Q0,Y654_CHLPN,reviewed,Uncharacterized acyl-CoA thioester hydrolase CPn_0654/CP_0093/CPj0654/CpB0680 (EC 3.1.2.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),155,83558
+Q9Z7M3,Y681_CHLPN,reviewed,UPF0111 protein CPn_0681/CP_0066/CPj0681/CpB0708,Chlamydia pneumoniae (Chlamydophila pneumoniae),224,83558
+Q9Z7J2,Y713_CHLPN,reviewed,Protein CPn_0713/CP_0033/CPj0713/CpB0740,Chlamydia pneumoniae (Chlamydophila pneumoniae),130,83558
+Q9Z6N9,Q9Z6N9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),510,83558
+A0A0F7XGF8,A0A0F7XGF8_CHLPN,unreviewed,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10),Chlamydia pneumoniae (Chlamydophila pneumoniae),447,83558
+Q9Z906,Q9Z906_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),88,83558
+Q9Z8Y9,Q9Z8Y9_CHLPN,unreviewed,"Oligopeptide ABC transport system substrate-binding protein oppA (Oligopeptide Binding Protein) (Peptide ABC transporter, periplasmic peptide-binding protein, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),532,83558
+A0A0F7XIC0,A0A0F7XIC0_CHLPN,unreviewed,Na-dependent Transporter (Transporter),Chlamydia pneumoniae (Chlamydophila pneumoniae),494,83558
+Q9Z785,Q9Z785_CHLPN,unreviewed,Putative uncharacterized protein CPn0821 homolog,Chlamydia pneumoniae (Chlamydophila pneumoniae),334,83558
+Q9Z8Z8,Q9Z8Z8_CHLPN,unreviewed,CPj0186 protein (Similarity to CT119 IncA),Chlamydia pneumoniae (Chlamydophila pneumoniae),390,83558
+Q9Z8P6,Q9Z8P6_CHLPN,unreviewed,Inclusion Membrane Protein C,Chlamydia pneumoniae (Chlamydophila pneumoniae),203,83558
+Q9Z974,Q9Z974_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),257,83558
+Q9Z7E1,Q9Z7E1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),194,83558
+Q9Z6S8,Q9Z6S8_CHLPN,unreviewed,"Metalloprotease, insulinase family (Zinc Metalloprotease (Insulinase family))",Chlamydia pneumoniae (Chlamydophila pneumoniae),974,83558
+Q9Z7F8,Q9Z7F8_CHLPN,unreviewed,"Geranyl Transtransferase (Geranylgeranyl pyrophosphate synthase, putative) (Heterodimeric geranylgeranyl pyrophosphate synthase large subunit 2) (EC 2.5.1.-) (EC 2.5.1.1) (EC 2.5.1.10) (EC 2.5.1.29)",Chlamydia pneumoniae (Chlamydophila pneumoniae),289,83558
+A0A0F7X0I2,A0A0F7X0I2_CHLPN,unreviewed,Lipid A export ATP-binding/permease protein MsbA (EC 3.6.3.-) (Transport ATP Binding Protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),659,83558
+Q9Z7N3,Q9Z7N3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),142,83558
+Q9Z778,Q9Z778_CHLPN,unreviewed,Secretion protein (Type III secretion protein SctJ) (Yop proteins translocation lipoprotein J) (Yop translocation J),Chlamydia pneumoniae (Chlamydophila pneumoniae),335,83558
+Q9Z8C3,Q9Z8C3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),95,83558
+Q9Z741,Q9Z741_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),175,83558
+A0A0F7WYJ6,A0A0F7WYJ6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),339,83558
+Q9Z7K5,Q9Z7K5_CHLPN,unreviewed,UVR domain protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),171,83558
+Q9Z8X3,Q9Z8X3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),98,83558
+Q9Z6W2,Q9Z6W2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),162,83558
+Q9Z936,Q9Z936_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),149,83558
+Q9Z925,Q9Z925_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),102,83558
+Q9Z937,Q9Z937_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),161,83558
+Q9Z8T1,Q9Z8T1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),279,83558
+Q9Z8U3,Q9Z8U3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),384,83558
+Q9Z7D5,Q9Z7D5_CHLPN,unreviewed,"RNA Polymerase Sigma-54 (RNA polymerase sigma factor, sigma-54 family)",Chlamydia pneumoniae (Chlamydophila pneumoniae),440,83558
+Q9Z8G9,Q9Z8G9_CHLPN,unreviewed,Laccase domain protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),248,83558
+Q9Z9F3,Q9Z9F3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),261,83558
+Q9Z8Z2,Q9Z8Z2_CHLPN,unreviewed,"ABC Amino Acid Transporter Permease (Amino acid ABC transporter, permease protein) (Inner membrane amino-acid ABC transporter permease protein YecS)",Chlamydia pneumoniae (Chlamydophila pneumoniae),217,83558
+Q9Z7V7,Q9Z7V7_CHLPN,unreviewed,"Oligopeptide ABC transporter permease protein (Oligopeptide Permease) (Peptide ABC transporter, permease protein, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),579,83558
+Q9Z8D4,Q9Z8D4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),161,83558
+A0A0F7XT28,A0A0F7XT28_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),270,83558
+Q9Z750,Q9Z750_CHLPN,unreviewed,"UDP-Glucose Pyrophosphorylase (UDP-N-acetylglucosamine diphosphorylase 1) (EC 2.7.7.23) (EC 2.7.7.83) (UDP-N-acetylglucosamine pyrophosphorylase, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),461,83558
+Q9Z978,Q9Z978_CHLPN,unreviewed,"Cytochrome D ubiquinol oxidase, subunit II (Cytochrome Oxidase Subunit II)",Chlamydia pneumoniae (Chlamydophila pneumoniae),344,83558
+A0A0F7WKY3,A0A0F7WKY3_CHLPN,unreviewed,ATPase (Uncharacterized protein YlaK),Chlamydia pneumoniae (Chlamydophila pneumoniae),428,83558
+Q9Z9D2,Q9Z9D2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),160,83558
+Q9Z7C1,Q9Z7C1_CHLPN,unreviewed,ExbB (Macromolecule transporter) (MotA/TolQ/ExbB proton channel family protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),232,83558
+Q9Z8D6,Q9Z8D6_CHLPN,unreviewed,HAD superfamily hydrolase/phosphatase,Chlamydia pneumoniae (Chlamydophila pneumoniae),295,83558
+Q9Z7H8,Q9Z7H8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),872,83558
+Q9Z7W3,Q9Z7W3_CHLPN,unreviewed,YagE family,Chlamydia pneumoniae (Chlamydophila pneumoniae),216,83558
+Q9Z923,Q9Z923_CHLPN,unreviewed,Acyltransferase family (Dienelactone hydrolase family protein) (Predicted acyltransferase family),Chlamydia pneumoniae (Chlamydophila pneumoniae),275,83558
+Q9Z6K2,Q9Z6K2_CHLPN,unreviewed,Uncharacterized protein YyaL,Chlamydia pneumoniae (Chlamydophila pneumoniae),700,83558
+Q9Z7I1,Q9Z7I1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),274,83558
+A0A0F7XN16,A0A0F7XN16_CHLPN,unreviewed,Efflux Protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),565,83558
+Q9Z6W1,Q9Z6W1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),197,83558
+Q9Z9B4,Q9Z9B4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),367,83558
+Q9Z7G5,Q9Z7G5_CHLPN,unreviewed,"Amino acid biosynthesis aminotransferase, class I (Aromatic AA Aminotransferase) (Aspartate aminotransferase) (EC 2.6.1.1)",Chlamydia pneumoniae (Chlamydophila pneumoniae),395,83558
+Q9Z996,Q9Z996_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),247,83558
+Q9Z746,Q9Z746_CHLPN,unreviewed,Flagellar M-Ring Protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),341,83558
+Q9Z8Y0,Q9Z8Y0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),62,83558
+Q9Z8E9,Q9Z8E9_CHLPN,unreviewed,Hemolysin (Hemolysin-like protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),411,83558
+Q9Z9C3,Q9Z9C3_CHLPN,unreviewed,Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta (ACCase subunit beta) (Acetyl-CoA carboxylase carboxyltransferase subunit beta) (EC 6.4.1.2),Chlamydia pneumoniae (Chlamydophila pneumoniae),308,83558
+Q9Z6S9,Q9Z6S9_CHLPN,unreviewed,"Peptidase, M20/M25/M40 family",Chlamydia pneumoniae (Chlamydophila pneumoniae),493,83558
+A0A0F7X901,A0A0F7X901_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),105,83558
+Q9Z7N2,Q9Z7N2_CHLPN,unreviewed,D-Ala-D-Ala Carboxypeptidase (D-alanyl-D-alanine carboxypeptidase),Chlamydia pneumoniae (Chlamydophila pneumoniae),436,83558
+Q9Z997,Q9Z997_CHLPN,unreviewed,Ferredoxin (Predicted ferredoxin),Chlamydia pneumoniae (Chlamydophila pneumoniae),130,83558
+Q9Z771,Q9Z771_CHLPN,unreviewed,"Helicase, Snf2/Rad54 family (SWI/SNF family helicase_1)",Chlamydia pneumoniae (Chlamydophila pneumoniae),1215,83558
+Q9Z725,Q9Z725_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),181,83558
+Q9Z6Q5,Q9Z6Q5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),173,83558
+Q9Z8E3,Q9Z8E3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),257,83558
+Q9Z6T5,Q9Z6T5_CHLPN,unreviewed,Succinate--CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha),Chlamydia pneumoniae (Chlamydophila pneumoniae),293,83558
+Q9Z7W9,Q9Z7W9_CHLPN,unreviewed,CPj0585 protein (Similarity to CHLPS IncA),Chlamydia pneumoniae (Chlamydophila pneumoniae),651,83558
+Q9Z958,Q9Z958_CHLPN,unreviewed,ATP-dependent RecD-like DNA helicase (EC 3.6.4.12),Chlamydia pneumoniae (Chlamydophila pneumoniae),732,83558
+Q9Z7E0,Q9Z7E0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),463,83558
+A0A0F7XU46,A0A0F7XU46_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),262,83558
+Q9Z6Q7,Q9Z6Q7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),76,83558
+Q9Z8X4,Q9Z8X4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),315,83558
+Q9Z6I8,Q9Z6I8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),480,83558
+Q9Z7B7,Q9Z7B7_CHLPN,unreviewed,"Succinate Dehydrogenase (Succinate dehydrogenase flavoprotein subunit) (EC 1.3.5.1) (Succinate dehydrogenase, flavoprotein subunit)",Chlamydia pneumoniae (Chlamydophila pneumoniae),626,83558
+A0A0F7WEL6,A0A0F7WEL6_CHLPN,unreviewed,UPF0056 inner membrane protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),135,83558
+Q9Z782,Q9Z782_CHLPN,unreviewed,Type III secretion inner membrane protein SctS (Yop proteins translocation protein S) (YopS translocation protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),95,83558
+Q9Z3B1,Q9Z3B1_CHLPN,unreviewed,HB4 protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),297,83558
+Q9Z8A7,Q9Z8A7_CHLPN,unreviewed,Lipoate Protein Ligase-Like Protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),239,83558
+Q9Z7J0,Q9Z7J0_CHLPN,unreviewed,DNA topoisomerase (ATP-hydrolyzing) (EC 5.99.1.3),Chlamydia pneumoniae (Chlamydophila pneumoniae),602,83558
+Q9Z7G6,Q9Z7G6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),337,83558
+Q9Z7T9,Q9Z7T9_CHLPN,unreviewed,"CDP-alcohol phosphatidyltransferase family protein (CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase protein, putative) (Glycerol-3-P Phosphatidyltransferase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),168,83558
+Q9Z915,Q9Z915_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),264,83558
+Q9Z7M1,Q9Z7M1_CHLPN,unreviewed,"ABC ATPase Dipeptide Transport (Dipeptide transport ATP-binding protein DppF) (Peptide ABC transporter, ATP-binding protein)",Chlamydia pneumoniae (Chlamydophila pneumoniae),324,83558
+Q9Z7L8,Q9Z7L8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),62,83558
+Q9Z916,Q9Z916_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),75,83558
+Q9Z7I9,Q9Z7I9_CHLPN,unreviewed,"DNA Gyrase Subunit A (DNA gyrase, subunit A) (DNA topoisomerase 4 subunit A) (EC 5.99.1.3)",Chlamydia pneumoniae (Chlamydophila pneumoniae),478,83558
+Q9Z8G5,Q9Z8G5_CHLPN,unreviewed,"2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2) (2-oxoglutarate dehydrogenase, E1 component) (Oxoglutarate Dehydrogenase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),908,83558
+A0A0F7X4Q0,A0A0F7X4Q0_CHLPN,unreviewed,SET Domain protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),221,83558
+Q9Z7J8,Q9Z7J8_CHLPN,unreviewed,Probable ATP synthase YscN (EC 3.6.3.14) (Type III secretion cytoplasmic ATPase SctN) (Yop N) (Yops secretion ATPase),Chlamydia pneumoniae (Chlamydophila pneumoniae),442,83558
+A0A0F7XAU0,A0A0F7XAU0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),449,83558
+A0A0F7WKZ4,A0A0F7WKZ4_CHLPN,unreviewed,6-phosphofructokinase (EC 2.7.1.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),555,83558
+Q9Z8W2,Q9Z8W2_CHLPN,unreviewed,CPj0222 protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),113,83558
+Q9Z8P7,Q9Z8P7_CHLPN,unreviewed,Inclusion Membrane Protein B (Inclusion membrane protein B),Chlamydia pneumoniae (Chlamydophila pneumoniae),176,83558
+Q9Z7E3,Q9Z7E3_CHLPN,unreviewed,5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2),Chlamydia pneumoniae (Chlamydophila pneumoniae),180,83558
+Q9Z753,Q9Z753_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),389,83558
+Q9Z8G7,Q9Z8G7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),147,83558
+A0A0F7XSR7,A0A0F7XSR7_CHLPN,unreviewed,Oligopeptide Transport ATPase (Oligopeptide transport ATP-binding protein OppD),Chlamydia pneumoniae (Chlamydophila pneumoniae),284,83558
+Q9Z6Q3,Q9Z6Q3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),161,83558
+Q9Z6N8,Q9Z6N8_CHLPN,unreviewed,Low Calcium Response Protein H (Putative type III secretion low calcium response chaperone LcrH/SycD) (Type III secretion chaperone),Chlamydia pneumoniae (Chlamydophila pneumoniae),172,83558
+Q9Z8M6,Q9Z8M6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),151,83558
+Q9Z8V1,Q9Z8V1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),59,83558
+A0A0F7WNI3,A0A0F7WNI3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),322,83558
+Q9Z7J6,Q9Z7J6_CHLPN,unreviewed,Putative uncharacterized protein CPn0709 Homolog (Tetratricopeptide domain protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),149,83558
+Q9Z9B8,Q9Z9B8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),52,83558
+A0A0F7X030,A0A0F7X030_CHLPN,unreviewed,Flagellum-specific ATP Synthase (Flagellum-specific ATP synthase) (EC 3.6.3.14),Chlamydia pneumoniae (Chlamydophila pneumoniae),433,83558
+Q9Z816,Q9Z816_CHLPN,unreviewed,Alanine/glycine transporter protein (D-Ala/Gly Permease) (Sodium/alanine symporter family protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),449,83558
+Q9Z6Y6,Q9Z6Y6_CHLPN,unreviewed,"3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7) (Sulfite Synthesis/biphosphate phosphatase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),325,83558
+Q9Z7H6,Q9Z7H6_CHLPN,unreviewed,CHLPN 76 kDa-like protein 2 (CT623),Chlamydia pneumoniae (Chlamydophila pneumoniae),422,83558
+A0A0F7X5J0,A0A0F7X5J0_CHLPN,unreviewed,PP2C phosphatase family (Protein phosphatase PrpC) (EC 3.1.3.16),Chlamydia pneumoniae (Chlamydophila pneumoniae),245,83558
+Q9Z841,Q9Z841_CHLPN,unreviewed,Anti-sigma factor antagonist,Chlamydia pneumoniae (Chlamydophila pneumoniae),116,83558
+Q9Z6V0,Q9Z6V0_CHLPN,unreviewed,"Glycerol-3-P Acyltransferase (Glycerol-3-phosphate acyltransferase, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),331,83558
+Q9Z955,Q9Z955_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),759,83558
+Q9Z6L9,Q9Z6L9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),223,83558
+A0A0F7X3D0,A0A0F7X3D0_CHLPN,unreviewed,"Omp85 Analog (Outer membrane protein, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),790,83558
+A0A0F7WQS7,A0A0F7WQS7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),811,83558
+Q9Z9E1,Q9Z9E1_CHLPN,unreviewed,"DNA Polymerase III Gamma and Tau (DNA polymerase III, gamma subunit)",Chlamydia pneumoniae (Chlamydophila pneumoniae),442,83558
+Q9Z791,Q9Z791_CHLPN,unreviewed,General Secretion Protein D (General secretion pathway protein D),Chlamydia pneumoniae (Chlamydophila pneumoniae),754,83558
+Q9Z7L6,Q9Z7L6_CHLPN,unreviewed,Polysaccharide deacetylase domain protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),252,83558
+Q9Z7L4,Q9Z7L4_CHLPN,unreviewed,ABC Transporter Membrane Protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),415,83558
+Q9Z8S9,Q9Z8S9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),287,83558
+Q9Z6I9,Q9Z6I9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),456,83558
+Q9Z6J8,Q9Z6J8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),85,83558
+Q9Z789,Q9Z789_CHLPN,unreviewed,General Secretion Protein F (General secretion pathway protein F),Chlamydia pneumoniae (Chlamydophila pneumoniae),391,83558
+Q9Z8R0,Q9Z8R0_CHLPN,unreviewed,"Conserved outer membrane lipoprotein protein (Lipoprotein, putative) (Methionine-binding lipoprotein MetQ)",Chlamydia pneumoniae (Chlamydophila pneumoniae),272,83558
+Q9Z907,Q9Z907_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),284,83558
+Q9Z761,Q9Z761_CHLPN,unreviewed,Poly A Polymerase (Poly(A) polymerase family protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),410,83558
+Q9Z8B8,Q9Z8B8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),195,83558
+Q9Z8D9,Q9Z8D9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),339,83558
+Q9Z6K7,Q9Z6K7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),251,83558
+Q9Z8Y2,Q9Z8Y2_CHLPN,unreviewed,"Oligopeptide Transport ATPase (Oligopeptide transport ATP-binding protein OppF) (Peptide ABC transporter, ATP-binding protein)",Chlamydia pneumoniae (Chlamydophila pneumoniae),262,83558
+A0A0F7WI43,A0A0F7WI43_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),419,83558
+Q9Z769,Q9Z769_CHLPN,unreviewed,Endonuclease III (EC 4.2.99.18) (DNA-(apurinic or apyrimidinic site) lyase),Chlamydia pneumoniae (Chlamydophila pneumoniae),209,83558
+Q9Z6Z7,Q9Z6Z7_CHLPN,unreviewed,Anti-sigma factor antagonist,Chlamydia pneumoniae (Chlamydophila pneumoniae),110,83558
+Q9Z757,Q9Z757_CHLPN,unreviewed,"Helicase, Snf2 family (SWI/SNF family helicase_2)",Chlamydia pneumoniae (Chlamydophila pneumoniae),1166,83558
+Q9Z8R6,Q9Z8R6_CHLPN,unreviewed,"DNA Polymerase III Gamma and Tau (DNA polymerase III, tau subunit, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),298,83558
+A0A0F7XUU6,A0A0F7XUU6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),486,83558
+A0A0F7WJY6,A0A0F7WJY6_CHLPN,unreviewed,Protoporphyrinogen Oxidase,Chlamydia pneumoniae (Chlamydophila pneumoniae),435,83558
+Q9Z7Y9,Q9Z7Y9_CHLPN,unreviewed,"Protein export (SecD/SecF fusion protein) (SecDF protein, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),1402,83558
+Q9Z917,Q9Z917_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),110,83558
+Q9Z8L4,Q9Z8L4_CHLPN,unreviewed,Low Calcium Response E (Low calcium response E) (Type III secreted protein SctW) (Type III secretion regulator YopN/LcrE/InvE/MxiC),Chlamydia pneumoniae (Chlamydophila pneumoniae),399,83558
+Q9Z6R1,Q9Z6R1_CHLPN,unreviewed,ATP-dependent zinc metalloprotease FtsH (EC 3.4.24.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),910,83558
+A0A0F7X5V4,A0A0F7X5V4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),318,83558
+Q9Z7M6,Q9Z7M6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),213,83558
+A0A0F7WJ64,A0A0F7WJ64_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),297,83558
+Q9Z7D9,Q9Z7D9_CHLPN,unreviewed,YGGT family protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),98,83558
+Q9Z8W9,Q9Z8W9_CHLPN,unreviewed,Mammalian coiled coil synaptonemal complex protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),419,83558
+A0A0F7X8N0,A0A0F7X8N0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),168,83558
+Q9Z877,Q9Z877_CHLPN,unreviewed,Putative membrane protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),589,83558
+Q9Z943,Q9Z943_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),146,83558
+A0A0F7WI89,A0A0F7WI89_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),1537,83558
+Q9Z730,Q9Z730_CHLPN,unreviewed,D-Alanine/Glycine Permease (Sodium/alanine symporter family protein) (Sodium:alanine symporter family protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),458,83558
+Q9Z7V2,Q9Z7V2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),334,83558
+Q9Z7L3,Q9Z7L3_CHLPN,unreviewed,"ABC Transporter ATPase (ABC transporter, ATP-binding protein) (Probable ATP-dependent transporter ycf16)",Chlamydia pneumoniae (Chlamydophila pneumoniae),256,83558
+Q9Z8W4,Q9Z8W4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),181,83558
+Q9Z6Y3,Q9Z6Y3_CHLPN,unreviewed,"8-amino-7-oxononanoate synthase, putative (Oxononanoate Synthase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),370,83558
+Q9Z8H9,Q9Z8H9_CHLPN,unreviewed,Ferredoxin (Ferredoxin IV) (Ferredoxin-4),Chlamydia pneumoniae (Chlamydophila pneumoniae),91,83558
+Q9Z8I1,Q9Z8I1_CHLPN,unreviewed,"RNA polymerase sigma factor WhiG (RNA polymerase sigma factor, sigma-70 family) (Sigma-28/WhiG Family)",Chlamydia pneumoniae (Chlamydophila pneumoniae),257,83558
+Q9Z7U5,Q9Z7U5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),94,83558
+Q9Z979,Q9Z979_CHLPN,unreviewed,"Cytochrome D ubiquinol oxidase, subunit I (Cytochrome Oxidase Subunit I) (Cytochrome bd ubiquinol oxidase subunit 1) (EC 1.10.3.-)",Chlamydia pneumoniae (Chlamydophila pneumoniae),448,83558
+Q9Z8A9,Q9Z8A9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),729,83558
+A0A0F7X8R8,A0A0F7X8R8_CHLPN,unreviewed,CT326 similarity,Chlamydia pneumoniae (Chlamydophila pneumoniae),591,83558
+Q9Z7H7,Q9Z7H7_CHLPN,unreviewed,CHLPN 76 kDa homolog_1 (CT622) (CHLPN 76 kDa-like protein 1 (CT622)),Chlamydia pneumoniae (Chlamydophila pneumoniae),651,83558
+Q9Z8L8,Q9Z8L8_CHLPN,unreviewed,Riboflavin biosynthesis protein (EC 2.7.1.26) (EC 2.7.7.2),Chlamydia pneumoniae (Chlamydophila pneumoniae),308,83558
+A0A0F7WDN7,A0A0F7WDN7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),116,83558
+Q9Z7B3,Q9Z7B3_CHLPN,unreviewed,"Regulatory protein, putative (Sigma regulatory family protein-PP2C phosphatase (RsbW antagonist))",Chlamydia pneumoniae (Chlamydophila pneumoniae),635,83558
+A0A0F7WU86,A0A0F7WU86_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),344,83558
+Q9Z8X2,Q9Z8X2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),393,83558
+Q9Z9A6,Q9Z9A6_CHLPN,unreviewed,Protein translocase subunit SecE,Chlamydia pneumoniae (Chlamydophila pneumoniae),83,83558
+Q9Z8A4,Q9Z8A4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),175,83558
+Q9Z6N6,Q9Z6N6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),99,83558
+Q9Z7D4,Q9Z7D4_CHLPN,unreviewed,DNA helicase (EC 3.6.4.12),Chlamydia pneumoniae (Chlamydophila pneumoniae),639,83558
+Q9Z732,Q9Z732_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),453,83558
+Q9Z9C1,Q9Z9C1_CHLPN,unreviewed,"PTS IIA Protein (PTS system, IIA component)",Chlamydia pneumoniae (Chlamydophila pneumoniae),158,83558
+Q9Z8E2,Q9Z8E2_CHLPN,unreviewed,"Beta-lactamase regulatory protein homolog (MazG protein, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),130,83558
+Q9Z909,Q9Z909_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),126,83558
+Q9Z7T2,Q9Z7T2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),320,83558
+Q9Z8K8,Q9Z8K8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),158,83558
+Q9Z6R5,Q9Z6R5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),681,83558
+Q9Z772,Q9Z772_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),154,83558
+Q9Z914,Q9Z914_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),334,83558
+A0A0F7X0U0,A0A0F7X0U0_CHLPN,unreviewed,Omp (Predicted OMP),Chlamydia pneumoniae (Chlamydophila pneumoniae),695,83558
+Q9Z8C6,Q9Z8C6_CHLPN,unreviewed,"N-Acetylmuramoyl Alanine Amidase (N-acetylmuramoyl-L-alanine amidase, putative) (Uncharacterized protein YqiI)",Chlamydia pneumoniae (Chlamydophila pneumoniae),264,83558
+Q9Z7N0,Q9Z7N0_CHLPN,unreviewed,Fmu methyltransferase (Nol1/Nop2/Sun family protein) (RNA Methyltransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),364,83558
+Q9Z8S2,Q9Z8S2_CHLPN,unreviewed,HB6 protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),231,83558
+Q9Z7X9,Q9Z7X9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),184,83558
+Q9Z8L7,Q9Z8L7_CHLPN,unreviewed,Ribosome-binding ATPase YchF,Chlamydia pneumoniae (Chlamydophila pneumoniae),364,83558
+Q9Z8A8,Q9Z8A8_CHLPN,unreviewed,Phospholipase D family protein (Phospholipase D superfamily),Chlamydia pneumoniae (Chlamydophila pneumoniae),476,83558
+Q9Z7B8,Q9Z7B8_CHLPN,unreviewed,"Succinate Dehydrogenase (Succinate dehydrogenase, cytochrome b558 subunit, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),297,83558
+Q9Z8T9,Q9Z8T9_CHLPN,unreviewed,NLP/P60 family protein (Polysaccharide Hydrolase-Invasin Repeat Family),Chlamydia pneumoniae (Chlamydophila pneumoniae),285,83558
+A0A0F7X2Y1,A0A0F7X2Y1_CHLPN,unreviewed,Monooxygenase,Chlamydia pneumoniae (Chlamydophila pneumoniae),506,83558
+A0A0F7XEB8,A0A0F7XEB8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),288,83558
+A0A0F7WNJ4,A0A0F7WNJ4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),617,83558
+Q9Z737,Q9Z737_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),248,83558
+Q9Z8Z7,Q9Z8Z7_CHLPN,unreviewed,Predicted methylase,Chlamydia pneumoniae (Chlamydophila pneumoniae),266,83558
+A0A0F7WL27,A0A0F7WL27_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),402,83558
+A0A0F7WRH6,A0A0F7WRH6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),527,83558
+A0A0F7X2I4,A0A0F7X2I4_CHLPN,unreviewed,Hypothetical proline permease,Chlamydia pneumoniae (Chlamydophila pneumoniae),460,83558
+Q9Z6L6,Q9Z6L6_CHLPN,unreviewed,8-amino-7-oxononanoate synthase (EC 2.3.1.47) (Oxononanoate Synthase),Chlamydia pneumoniae (Chlamydophila pneumoniae),382,83558
+Q9Z887,Q9Z887_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),672,83558
+Q9Z929,Q9Z929_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),68,83558
+Q9Z827,Q9Z827_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),254,83558
+Q9Z6S6,Q9Z6S6_CHLPN,unreviewed,"CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8) (CDP-diacylglycerol--serine O-phosphatidyltransferase, putative) (Glycerol-Serine Phosphatidyltransferase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),265,83558
+Q9Z715,Q9Z715_CHLPN,unreviewed,Transcription-repair-coupling factor (TRCF) (EC 3.6.4.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),1085,83558
+Q9Z7C2,Q9Z7C2_CHLPN,unreviewed,Biopolymer Transport Protein (ExbD/TolR family protein) (TolR protein-like protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),135,83558
+Q9Z7U2,Q9Z7U2_CHLPN,unreviewed,DNA Polymerase I (DNA polymerase I) (EC 2.7.7.7),Chlamydia pneumoniae (Chlamydophila pneumoniae),870,83558
+A0A0F7WMX9,A0A0F7WMX9_CHLPN,unreviewed,CHLTR possible phosphoprotein,Chlamydia pneumoniae (Chlamydophila pneumoniae),822,83558
+A0A0F7XER0,A0A0F7XER0_CHLPN,unreviewed,CHLPS 43 kDa protein homolog_3 (CHLPS 43 kDa-like protein 3),Chlamydia pneumoniae (Chlamydophila pneumoniae),375,83558
+Q9Z7J7,Q9Z7J7_CHLPN,unreviewed,Putative uncharacterized protein CPn0708 Homolog,Chlamydia pneumoniae (Chlamydophila pneumoniae),224,83558
+Q9Z7X8,Q9Z7X8_CHLPN,unreviewed,"Acetyltransferase, GNAT family (Amino Group Acetyl Transferase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),171,83558
+Q9Z7B2,Q9Z7B2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),277,83558
+Q9Z967,Q9Z967_CHLPN,unreviewed,"A/G specific methylase (Modification methylase, HemK family)",Chlamydia pneumoniae (Chlamydophila pneumoniae),288,83558
+Q9Z8H3,Q9Z8H3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),371,83558
+Q9Z7D0,Q9Z7D0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),414,83558
+Q9Z7L1,Q9Z7L1_CHLPN,unreviewed,"Type III secretion chaperone, putative",Chlamydia pneumoniae (Chlamydophila pneumoniae),339,83558
+A0A0F7WHW5,A0A0F7WHW5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),265,83558
+Q9Z777,Q9Z777_CHLPN,unreviewed,Putative uncharacterized protein CPn0829,Chlamydia pneumoniae (Chlamydophila pneumoniae),185,83558
+A0A0F7WP41,A0A0F7WP41_CHLPN,unreviewed,Pfs protein (Similarity to 5'-Methylthioadenosine Nucleosidase),Chlamydia pneumoniae (Chlamydophila pneumoniae),297,83558
+A0A0F7WTK4,A0A0F7WTK4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),316,83558
+Q9Z700,Q9Z700_CHLPN,unreviewed,UPF0109 protein CP_0960,Chlamydia pneumoniae (Chlamydophila pneumoniae),142,83558
+Q9Z6I7,Q9Z6I7_CHLPN,unreviewed,Putative outer membrane protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),289,83558
+A0A0F7XB08,A0A0F7XB08_CHLPN,unreviewed,Acyltransferase,Chlamydia pneumoniae (Chlamydophila pneumoniae),467,83558
+A0A0F7WSE7,A0A0F7WSE7_CHLPN,unreviewed,CPj0334 protein (CT079 similarity),Chlamydia pneumoniae (Chlamydophila pneumoniae),171,83558
+Q9Z709,Q9Z709_CHLPN,unreviewed,"3,5'-cyclic-nucleotide phosphodiesterase (Predicted phosphohydrolase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),295,83558
+Q9Z989,Q9Z989_CHLPN,unreviewed,"ATP Synthase Subunit K (ATP synthase, subunit K)",Chlamydia pneumoniae (Chlamydophila pneumoniae),141,83558
+Q9Z6X6,Q9Z6X6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),158,83558
+Q9Z6Z5,Q9Z6Z5_CHLPN,unreviewed,Cyclic dehypoxanthine futalosine synthase (Cyclic DHFL synthase) (EC 1.21.98.1) (Dehypoxanthine futalosine cyclase) (DHFL cyclase) (Menaquinone biosynthetic enzyme MqnC),Chlamydia pneumoniae (Chlamydophila pneumoniae),353,83558
+A0A0F7WZI0,A0A0F7WZI0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),340,83558
+Q9Z971,Q9Z971_CHLPN,unreviewed,Signal peptidase I (EC 3.4.21.89),Chlamydia pneumoniae (Chlamydophila pneumoniae),636,83558
+A0A0F7X947,A0A0F7X947_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),420,83558
+Q9Z795,Q9Z795_CHLPN,unreviewed,Low Calcium Response Protein H (Type III secretion chaperone SycD) (Type III secretion low calcium response chaperone LcrH/SycD),Chlamydia pneumoniae (Chlamydophila pneumoniae),231,83558
+Q9Z3A2,Q9Z3A2_CHLPN,unreviewed,Mtr/TnaB/TyrO permease family protein (Tyrosine Transport),Chlamydia pneumoniae (Chlamydophila pneumoniae),396,83558
+Q9Z7D2,Q9Z7D2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),77,83558
+A0A0F7X3R4,A0A0F7X3R4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),56,83558
+Q9Z7Y4,Q9Z7Y4_CHLPN,unreviewed,"1-acyl-sn-glycerol-3-phosphate acyltransferase, putative (Glycerol-3-P Acyltransferase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),212,83558
+Q9Z8G0,Q9Z8G0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),315,83558
+Q9Z9E8,Q9Z9E8_CHLPN,unreviewed,"(Pyruvate) Oxoisovalerate Dehydrogenase Alpha/Beta Fusion (2-oxoisovalerate dehydrogenase, E1 component, alpha and beta subunit)",Chlamydia pneumoniae (Chlamydophila pneumoniae),678,83558
+Q9Z6P7,Q9Z6P7_CHLPN,unreviewed,"ABC transporter permease (ABC transporter, permease protein, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),591,83558
+Q9Z7L2,Q9Z7L2_CHLPN,unreviewed,ABC Transporter (UPF0051 protein slr0074),Chlamydia pneumoniae (Chlamydophila pneumoniae),484,83558
+Q9Z8I5,Q9Z8I5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),58,83558
+Q9Z8S5,Q9Z8S5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),296,83558
+A0A0F7X5H0,A0A0F7X5H0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),775,83558
+Q9Z796,Q9Z796_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),120,83558
+Q9Z7X2,Q9Z7X2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),225,83558
+A0A0F7WSU6,A0A0F7WSU6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),114,83558
+Q9Z822,Q9Z822_CHLPN,unreviewed,SpoU rRNA methylase family protein (rRNA Methylase),Chlamydia pneumoniae (Chlamydophila pneumoniae),265,83558
+Q9Z6V2,Q9Z6V2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),450,83558
+Q9Z956,Q9Z956_CHLPN,unreviewed,HB7 protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),170,83558
+Q9Z918,Q9Z918_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),111,83558
+Q9Z814,Q9Z814_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),100,83558
+Q9Z8Q3,Q9Z8Q3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),515,83558
+Q9Z7V6,Q9Z7V6_CHLPN,unreviewed,"Dipeptide transport system permease protein (Oligopeptide Permease) (Peptide ABC transporter, permease protein, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),493,83558
+Q9Z779,Q9Z779_CHLPN,unreviewed,Putative uncharacterized protein CPn0827 Homolog,Chlamydia pneumoniae (Chlamydophila pneumoniae),277,83558
+Q9Z8W3,Q9Z8W3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),136,83558
+Q9Z717,Q9Z717_CHLPN,unreviewed,Coproporphyrinogen-III oxidase (EC 1.3.98.3),Chlamydia pneumoniae (Chlamydophila pneumoniae),458,83558
+A0A0F7WNJ2,A0A0F7WNJ2_CHLPN,unreviewed,Amino acid transporter,Chlamydia pneumoniae (Chlamydophila pneumoniae),925,83558
+Q9Z780,Q9Z780_CHLPN,unreviewed,Translocation protein L (Type III secretion translocase sctL) (Yop proteins translocation protein L) (Yop translocation L),Chlamydia pneumoniae (Chlamydophila pneumoniae),233,83558
+A0A0F7XBQ7,A0A0F7XBQ7_CHLPN,unreviewed,Poly(A) polymerase I (PAP I) (EC 2.7.7.19),Chlamydia pneumoniae (Chlamydophila pneumoniae),430,83558
+Q9Z6X9,Q9Z6X9_CHLPN,unreviewed,CHLPS 43 kDa protein homolog_2 (CHLPS 43 kDa-like protein 2),Chlamydia pneumoniae (Chlamydophila pneumoniae),380,83558
+Q9Z6J5,Q9Z6J5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),59,83558
+Q9Z8H7,Q9Z8H7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),155,83558
+Q9Z8F5,Q9Z8F5_CHLPN,unreviewed,"Glycogen Hydrolase (Debranching) (Glycosyl hydrolase family protein) (Isoamylase 3, chloroplastic) (EC 3.2.1.68)",Chlamydia pneumoniae (Chlamydophila pneumoniae),664,83558
+Q9Z8Q6,Q9Z8Q6_CHLPN,unreviewed,Amino Acid Transporter (Amino acid antiporter) (Uncharacterized transporter lpg1691),Chlamydia pneumoniae (Chlamydophila pneumoniae),468,83558
+A0A0F7XJA2,A0A0F7XJA2_CHLPN,unreviewed,"Exodeoxyribonuclease V, Gamma",Chlamydia pneumoniae (Chlamydophila pneumoniae),1024,83558
+Q9Z7I0,Q9Z7I0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),75,83558
+A0A0F7X9F1,A0A0F7X9F1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),411,83558
+Q9Z7M7,Q9Z7M7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),382,83558
+A0A0F7X2R8,A0A0F7X2R8_CHLPN,unreviewed,Signal Recognition Particle GTPase (Signal recognition particle protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),448,83558
+Q9Z7I7,Q9Z7I7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),106,83558
+Q9Z8T0,Q9Z8T0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),289,83558
+Q9Z6Y9,Q9Z6Y9_CHLPN,unreviewed,Diadenosine hexaphosphate hydrolase (EC 3.6.1.61) (Hydrolase/phosphatase homolog) (MutT/Nudix family protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),150,83558
+Q9Z6Z3,Q9Z6Z3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),62,83558
+Q9Z940,Q9Z940_CHLPN,unreviewed,Uncharacterized protein YxjG,Chlamydia pneumoniae (Chlamydophila pneumoniae),374,83558
+Q9Z844,Q9Z844_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),53,83558
+A0A0F7XD47,A0A0F7XD47_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),245,83558
+Q9Z8R8,Q9Z8R8_CHLPN,unreviewed,SuA5 Superfamily-related Protein (Sua5/YciO/YrdC family protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),286,83558
+Q9Z7V4,Q9Z7V4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),107,83558
+A0A0F7WUM2,A0A0F7WUM2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),279,83558
+Q9Z7C7,Q9Z7C7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),129,83558
+Q9Z6T8,Q9Z6T8_CHLPN,unreviewed,Transport Permease (Uncharacterized protein TC_0206),Chlamydia pneumoniae (Chlamydophila pneumoniae),238,83558
+Q9Z6Z9,Q9Z6Z9_CHLPN,unreviewed,Divalent-cation tolerance protein CutA (Periplasmic Divalent Cation Tolerance Protein) (Periplasmic divalent cation tolerance protein CutA1),Chlamydia pneumoniae (Chlamydophila pneumoniae),112,83558
+Q9Z8E7,Q9Z8E7_CHLPN,unreviewed,"Cysteine desulfurase (EC 2.8.1.7) (NifS protein, putative) (NifS-related aminotransferase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),371,83558
+Q9Z7I6,Q9Z7I6_CHLPN,unreviewed,Pseudouridine synthase (EC 5.4.99.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),325,83558
+A0A0F7WL39,A0A0F7WL39_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),79,83558
+Q9Z7V5,Q9Z7V5_CHLPN,unreviewed,"Oligopeptide Binding Lipoprotein (Peptide ABC transporter, periplasmic peptide-binding protein, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),707,83558
+Q9Z7V9,Q9Z7V9_CHLPN,unreviewed,Putative lipoprotein,Chlamydia pneumoniae (Chlamydophila pneumoniae),323,83558
+Q9Z7P9,Q9Z7P9_CHLPN,unreviewed,"DNA Polymerase III Epsilon Chain (DNA polymerase III, epsilon subunit, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),249,83558
+Q9Z8I7,Q9Z8I7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),117,83558
+Q9Z8P1,Q9Z8P1_CHLPN,unreviewed,Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39),Chlamydia pneumoniae (Chlamydophila pneumoniae),308,83558
+A0A0F7XJI4,A0A0F7XJI4_CHLPN,unreviewed,Putative sigma regulatory factor-histidine kinase (Sigma regulatory factor-histidine kinase),Chlamydia pneumoniae (Chlamydophila pneumoniae),144,83558
+Q9Z8Y8,Q9Z8Y8_CHLPN,unreviewed,"Oligopeptide Binding Protein (Peptide ABC transporter, periplasmic peptide-binding protein, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),527,83558
+Q9Z784,Q9Z784_CHLPN,unreviewed,Putative uncharacterized protein CPn0822 homolog,Chlamydia pneumoniae (Chlamydophila pneumoniae),158,83558
+Q9Z9D3,Q9Z9D3_CHLPN,unreviewed,Conserved hypothetical inner membrane protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),705,83558
+Q9Z8R9,Q9Z8R9_CHLPN,unreviewed,"Dipeptidase (Dipeptidase, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),325,83558
+Q9Z889,Q9Z889_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),283,83558
+Q9Z857,Q9Z857_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),73,83558
+Q9Z6Y1,Q9Z6Y1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),225,83558
+A0A0F7XL85,A0A0F7XL85_CHLPN,unreviewed,CT131 homolog-(Possible Transmembrane Protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),1142,83558
+Q9Z9F1,Q9Z9F1_CHLPN,unreviewed,O-Sialoglycoprotein Endopeptidase,Chlamydia pneumoniae (Chlamydophila pneumoniae),213,83558
+A0A0F7X7S9,A0A0F7X7S9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),158,83558
+Q9Z8G6,Q9Z8G6_CHLPN,unreviewed,"2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase (Dihydrolipoamide Succinyltransferase) (Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex) (EC 2.3.1.61)",Chlamydia pneumoniae (Chlamydophila pneumoniae),364,83558
+Q9Z7A7,Q9Z7A7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),349,83558
+Q9Z8L5,Q9Z8L5_CHLPN,unreviewed,Low Calcium Response D (Low calcium response D) (Low calcium response locus protein D) (Type III secretion inner membrane protein SctV),Chlamydia pneumoniae (Chlamydophila pneumoniae),710,83558
+Q9Z8U1,Q9Z8U1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),141,83558
+Q9Z9D9,Q9Z9D9_CHLPN,unreviewed,HB5 protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),260,83558
+Q9Z6Z0,Q9Z6Z0_CHLPN,unreviewed,3-oxoacyl-[acyl-carrier-protein] synthase 2 (EC 2.3.1.179),Chlamydia pneumoniae (Chlamydophila pneumoniae),416,83558
+A0A0F7WVB0,A0A0F7WVB0_CHLPN,unreviewed,Neutral Amino Acid (Glutamate) Transporter,Chlamydia pneumoniae (Chlamydophila pneumoniae),395,83558
+Q9Z7I8,Q9Z7I8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),99,83558
+Q9Z703,Q9Z703_CHLPN,unreviewed,Cell Division Protein FtsW (Cell division protein FtsW) (Putative lipid II flippase FtsW),Chlamydia pneumoniae (Chlamydophila pneumoniae),385,83558
+A0A0F7WLR6,A0A0F7WLR6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),520,83558
+A0A0F7XP21,A0A0F7XP21_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),172,83558
+Q9Z8H1,Q9Z8H1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),105,83558
+A0A0F7X5N8,A0A0F7X5N8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),485,83558
+Q9Z872,Q9Z872_CHLPN,unreviewed,"Metal Dependent Hydrolase (Metal-dependent hydrolase, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),270,83558
+Q9Z790,Q9Z790_CHLPN,unreviewed,General secretion pathway protein E (Genral Secretion Protein E) (Type II secretion system protein E),Chlamydia pneumoniae (Chlamydophila pneumoniae),496,83558
+Q9Z8N0,Q9Z8N0_CHLPN,unreviewed,CPj0308 protein (Similarity to CT249),Chlamydia pneumoniae (Chlamydophila pneumoniae),121,83558
+Q9Z8V8,Q9Z8V8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),134,83558
+Q9Z7K1,Q9Z7K1_CHLPN,unreviewed,Flagellar Motor Switch Domain/YscQ family (Flagellar motor switch domain/YscQ family) (Type III secretion translocase SctQ),Chlamydia pneumoniae (Chlamydophila pneumoniae),371,83558
+A0A0F7X4U4,A0A0F7X4U4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),544,83558
+Q9Z8R7,Q9Z8R7_CHLPN,unreviewed,"Esterase (Lysophospholipase esterase) (Serine esterase, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),243,83558
+Q9Z8W1,Q9Z8W1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),126,83558
+Q9Z6V9,Q9Z6V9_CHLPN,unreviewed,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5) (Glycerol-3-P Phosphatydyltransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),206,83558
+Q9Z8D3,Q9Z8D3_CHLPN,unreviewed,"DNA Polymerase III Epsilon Chain (DNA polymerase III, epsilon subunit, putative) (Exonuclease, DNA polymerase III, epsilon subunit family)",Chlamydia pneumoniae (Chlamydophila pneumoniae),237,83558
+Q9Z948,Q9Z948_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),257,83558
+Q9Z8H2,Q9Z8H2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),119,83558
+Q9Z8Q4,Q9Z8Q4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),165,83558
+Q9Z793,Q9Z793_CHLPN,unreviewed,Aminopeptidase P (Proline dipeptidase),Chlamydia pneumoniae (Chlamydophila pneumoniae),355,83558
+A0A0F7WDZ9,A0A0F7WDZ9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),447,83558
+Q9Z6W3,Q9Z6W3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),87,83558
+Q9Z8R1,Q9Z8R1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),169,83558
+Q9Z977,Q9Z977_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),400,83558
+Q9Z712,Q9Z712_CHLPN,unreviewed,AMP Nucleosidase (AMP nucleosidase-related protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),293,83558
+Q9Z9F8,Q9Z9F8_CHLPN,unreviewed,"ABC Transporter Protein ATPase (ABC transporter, ATP-binding protein)",Chlamydia pneumoniae (Chlamydophila pneumoniae),530,83558
+Q9Z708,Q9Z708_CHLPN,unreviewed,60 kDa chaperonin,Chlamydia pneumoniae (Chlamydophila pneumoniae),519,83558
+A0A0F7WT45,A0A0F7WT45_CHLPN,unreviewed,NifU-related protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),266,83558
+Q9Z7M2,Q9Z7M2_CHLPN,unreviewed,"ABC ATPase Dipeptide Transport (Peptide ABC transporter, ATP-binding protein)",Chlamydia pneumoniae (Chlamydophila pneumoniae),324,83558
+Q9Z7E7,Q9Z7E7_CHLPN,unreviewed,Dihydrofolate reductase (EC 1.5.1.3),Chlamydia pneumoniae (Chlamydophila pneumoniae),170,83558
+Q9Z8X9,Q9Z8X9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),65,83558
+Q9Z7W4,Q9Z7W4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),199,83558
+A0A0F7X9A9,A0A0F7X9A9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),531,83558
+Q9Z8V5,Q9Z8V5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),411,83558
+Q9Z6K8,Q9Z6K8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),103,83558
+Q9Z7N5,Q9Z7N5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),199,83558
+A0A0F7WNQ2,A0A0F7WNQ2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),433,83558
+A0A0F7XXA0,A0A0F7XXA0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),359,83558
+A0A0F7XKV5,A0A0F7XKV5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),642,83558
+Q9Z7H4,Q9Z7H4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),58,83558
+A0A0F7XLK0,A0A0F7XLK0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),508,83558
+A0A0F7XAU2,A0A0F7XAU2_CHLPN,unreviewed,PTS IIA Protein + HTH DNA-Binding Domain,Chlamydia pneumoniae (Chlamydophila pneumoniae),225,83558
+Q9Z740,Q9Z740_CHLPN,unreviewed,Biotin Synthetase (BirA-related protein) (Putative biotin-[acetyl-CoA-carboxylase] ligase),Chlamydia pneumoniae (Chlamydophila pneumoniae),192,83558
+Q9Z8D5,Q9Z8D5_CHLPN,unreviewed,Flagellar protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),159,83558
+A0A0F7WVW0,A0A0F7WVW0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),695,83558
+Q9Z7K2,Q9Z7K2_CHLPN,unreviewed,S/T Protein Kinase (Serine/threonine protein kinase) (Serine/threonine-protein kinase),Chlamydia pneumoniae (Chlamydophila pneumoniae),502,83558
+Q9Z8G4,Q9Z8G4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),148,83558
+A0A0F7XFT0,A0A0F7XFT0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),133,83558
+Q9Z7Z7,Q9Z7Z7_CHLPN,unreviewed,"Tail-Specific Protease (Tail-specific protease, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),648,83558
+Q9Z8Y4,Q9Z8Y4_CHLPN,unreviewed,"Oligopeptide Permease (Oligopeptide transport system permease protein OppC) (Peptide ABC transporter, permease protein)",Chlamydia pneumoniae (Chlamydophila pneumoniae),284,83558
+Q9Z8N4,Q9Z8N4_CHLPN,unreviewed,"Pyruvate Dehydrogenase Alpha (Pyruvate dehydrogenase E1 component subunit alpha) (EC 1.2.4.1) (Pyruvate dehydrogenase, E1 component, alpha subunit)",Chlamydia pneumoniae (Chlamydophila pneumoniae),342,83558
+A0A0F7WS23,A0A0F7WS23_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),228,83558
+Q9Z8E5,Q9Z8E5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),56,83558
+A0A0F7X554,A0A0F7X554_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),582,83558
+A0A0F7XSQ2,A0A0F7XSQ2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),226,83558
+A0A0F7X686,A0A0F7X686_CHLPN,unreviewed,"Exodeoxyribonuclease V, Alpha",Chlamydia pneumoniae (Chlamydophila pneumoniae),493,83558
+Q9Z976,Q9Z976_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),273,83558
+Q9Z8F2,Q9Z8F2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),61,83558
+A0A0F7WL04,A0A0F7WL04_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),156,83558
+Q9Z6Q8,Q9Z6Q8_CHLPN,unreviewed,tRNA-specific adenosine deaminase (EC 3.5.4.33),Chlamydia pneumoniae (Chlamydophila pneumoniae),155,83558
+A0A0F7WKL0,A0A0F7WKL0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),379,83558
+Q9Z8Y7,Q9Z8Y7_CHLPN,unreviewed,"Oligopeptide ABC transport system substrate-binding protein oppA (Oligopeptide Binding Protein) (Peptide ABC transporter, periplasmic peptide-binding protein, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),435,83558
+Q9Z9D7,Q9Z9D7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),120,83558
+Q9Z8B7,Q9Z8B7_CHLPN,unreviewed,CPj0426 protein (CT277 similarity),Chlamydia pneumoniae (Chlamydophila pneumoniae),192,83558
+Q9Z821,Q9Z821_CHLPN,unreviewed,Putative SAM dependent methyltransferase (SAM dependent methyltransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),275,83558
+Q9Z6K4,Q9Z6K4_CHLPN,unreviewed,Hb4,Chlamydia pneumoniae (Chlamydophila pneumoniae),276,83558
+Q9Z7Z8,Q9Z7Z8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),96,83558
+A0A0F7WKN4,A0A0F7WKN4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),416,83558
+Q9Z8Y5,Q9Z8Y5_CHLPN,unreviewed,"Oligopeptide Permease (Oligopeptide transport system permease protein OppB) (Peptide ABC transporter, permease protein)",Chlamydia pneumoniae (Chlamydophila pneumoniae),314,83558
+Q9Z903,Q9Z903_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),133,83558
+Q9Z8S0,Q9Z8S0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),128,83558
+A0A0F7WKY1,A0A0F7WKY1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),244,83558
+Q9Z7B1,Q9Z7B1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),356,83558
+Q9Z7Y8,Q9Z7Y8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),366,83558
+Q9Z8F6,Q9Z8F6_CHLPN,unreviewed,"Type III secretion chaperone, CesT family",Chlamydia pneumoniae (Chlamydophila pneumoniae),166,83558
+Q9Z9B7,Q9Z9B7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),77,83558
+Q9Z7Z9,Q9Z7Z9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),312,83558
+Q9Z7X7,Q9Z7X7_CHLPN,unreviewed,SWIB (YM74) complex protein (SWIB/MDM2 domain protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),87,83558
+Q9Z8F0,Q9Z8F0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),115,83558
+Q9Z8E1,Q9Z8E1_CHLPN,unreviewed,A/G-specific adenine glycosylase (Adenine Glycosylase) (Probable A/G-specific adenine glycosylase YfhQ) (EC 3.2.2.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),369,83558
+Q9Z7W6,Q9Z7W6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),181,83558
+Q9Z866,Q9Z866_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),64,83558
+A0A0F7WTS0,A0A0F7WTS0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),365,83558
+Q9Z7P0,Q9Z7P0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),67,83558
+Q9Z8V3,Q9Z8V3_CHLPN,unreviewed,"ABC Transport ATPase (Nitrate/Fe) (ABC transporter, ATP-binding protein)",Chlamydia pneumoniae (Chlamydophila pneumoniae),235,83558
+Q9Z7I3,Q9Z7I3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),162,83558
+Q9Z6Q6,Q9Z6Q6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),235,83558
+A0A0F7XAX5,A0A0F7XAX5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),50,83558
+Q9Z8T2,Q9Z8T2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),268,83558
+Q9Z8J0,Q9Z8J0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),81,83558
+Q9Z6V1,Q9Z6V1_CHLPN,unreviewed,"Insulinase family/Protease III (Metalloprotease, insulinase family)",Chlamydia pneumoniae (Chlamydophila pneumoniae),942,83558
+Q9Z7I2,Q9Z7I2_CHLPN,unreviewed,"ABC Transporter ATPase (ABC transporter, ATP-binding protein) (Lipopolysaccharide export system ATP-binding protein LptB) (EC 3.6.3.-)",Chlamydia pneumoniae (Chlamydophila pneumoniae),240,83558
+Q9Z7U8,Q9Z7U8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),246,83558
+Q9Z8I6,Q9Z8I6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),283,83558
+Q9Z890,Q9Z890_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),129,83558
+A0A0F7XBY3,A0A0F7XBY3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),536,83558
+Q9Z886,Q9Z886_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),389,83558
+Q9Z911,Q9Z911_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),91,83558
+Q9Z7N7,Q9Z7N7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),294,83558
+Q9Z830,Q9Z830_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),223,83558
+Q9Z8X6,Q9Z8X6_CHLPN,unreviewed,Probable ATP-dependent 6-phosphofructokinase (ATP-PFK) (Phosphofructokinase) (EC 2.7.1.11) (Phosphohexokinase),Chlamydia pneumoniae (Chlamydophila pneumoniae),550,83558
+Q9Z7C5,Q9Z7C5_CHLPN,unreviewed,Peptidoglycan-Associated Lipoprotein (Peptidoglycan-associated lipoprotein),Chlamydia pneumoniae (Chlamydophila pneumoniae),192,83558
+Q9Z8C4,Q9Z8C4_CHLPN,unreviewed,Penicillin-binding protein (Transglycolase/transpeptidase),Chlamydia pneumoniae (Chlamydophila pneumoniae),653,83558
+Q9Z7D8,Q9Z7D8_CHLPN,unreviewed,tRNA-dihydrouridine synthase (EC 1.3.1.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),335,83558
+Q9Z766,Q9Z766_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),441,83558
+Q9Z9B3,Q9Z9B3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),191,83558
+Q9Z7V3,Q9Z7V3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),106,83558
+Q9Z8Q1,Q9Z8Q1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),711,83558
+Q9Z804,Q9Z804_CHLPN,unreviewed,Oxidoreductase (Sulfite Reductase),Chlamydia pneumoniae (Chlamydophila pneumoniae),347,83558
+Q9Z7K3,Q9Z7K3_CHLPN,unreviewed,Outer membrane secretion protein Q (Probable Yop proteins translocation protein C/general secretion pathway protein) (Type III secretion protein SctC) (YopC/Gen secretion protein D),Chlamydia pneumoniae (Chlamydophila pneumoniae),919,83558
+Q9Z6W7,Q9Z6W7_CHLPN,unreviewed,N5-(1-carboxyethyl)-L-ornithine synthase,Chlamydia pneumoniae (Chlamydophila pneumoniae),156,83558
+Q9Z8D8,Q9Z8D8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),258,83558
+A0A0F7WPJ6,A0A0F7WPJ6_CHLPN,unreviewed,Predicted pseudouridine synthetase family (Pseudouridine synthase) (EC 5.4.99.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),232,83558
+Q9Z8H4,Q9Z8H4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),404,83558
+Q9Z3C0,Q9Z3C0_CHLPN,unreviewed,HB3 protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),435,83558
+Q9Z747,Q9Z747_CHLPN,unreviewed,FliH protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),178,83558
+A0A0F7XC16,A0A0F7XC16_CHLPN,unreviewed,Competence locus E-like protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),487,83558
+Q9Z7N1,Q9Z7N1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),59,83558
+Q9Z6K6,Q9Z6K6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),183,83558
+Q9Z8D1,Q9Z8D1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),219,83558
+Q9Z3C8,Q9Z3C8_CHLPN,unreviewed,HB1 protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),964,83558
+Q9Z8L3,Q9Z8L3_CHLPN,unreviewed,Scc1 (Secretion Chaperone) (Secretion chaperone) (Type III secretion chaperone),Chlamydia pneumoniae (Chlamydophila pneumoniae),147,83558
+Q9Z704,Q9Z704_CHLPN,unreviewed,Cell wall hydrolase (Muramidase (Invasin repeat family)),Chlamydia pneumoniae (Chlamydophila pneumoniae),233,83558
+Q9Z8W8,Q9Z8W8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),145,83558
+Q9Z922,Q9Z922_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),342,83558
+Q9Z8R2,Q9Z8R2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),115,83558
+A0A0F7X196,A0A0F7X196_CHLPN,unreviewed,PBP2-transglycolase/transpeptidase,Chlamydia pneumoniae (Chlamydophila pneumoniae),1090,83558
+A0A0F7X3S3,A0A0F7X3S3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),265,83558
+Q9Z6M9,Q9Z6M9_CHLPN,unreviewed,"D-amino acid dehydrogenase (Oxidoreductase, DadA family) (Predicted D-amino acid dehyrogenase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),348,83558
+Q9Z781,Q9Z781_CHLPN,unreviewed,Pathogenicity-related ORF2 (Type III secretion inner membrane protein SctR) (Yop proteins translocation protein R) (Yop translocation R),Chlamydia pneumoniae (Chlamydophila pneumoniae),306,83558
+A0A0F7WHU6,A0A0F7WHU6_CHLPN,unreviewed,YihY family protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),430,83558
+Q9Z8T6,Q9Z8T6_CHLPN,unreviewed,"ABC Transporter ATPase (ABC transporter, ATP-binding protein) (Lipoprotein-releasing system ATP-binding protein LolD) (EC 3.6.3.-)",Chlamydia pneumoniae (Chlamydophila pneumoniae),226,83558
+Q9Z6S2,Q9Z6S2_CHLPN,unreviewed,Putative rRNA methylase YtqB (EC 2.1.1.-) (YtgB-like predicted rRNA methylase),Chlamydia pneumoniae (Chlamydophila pneumoniae),200,83558
+Q9Z919,Q9Z919_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),195,83558
+Q9Z8B1,Q9Z8B1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),101,83558
+Q9Z763,Q9Z763_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),66,83558
+Q9Z8N2,Q9Z8N2_CHLPN,unreviewed,Acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12),Chlamydia pneumoniae (Chlamydophila pneumoniae),429,83558
+Q9Z885,Q9Z885_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),159,83558
+Q9Z744,Q9Z744_CHLPN,unreviewed,"NifS protein, putative (NifS-related Aminotransferase)",Chlamydia pneumoniae (Chlamydophila pneumoniae),384,83558
+Q9Z8L6,Q9Z8L6_CHLPN,unreviewed,Type III secretion inner membrane protein SctU (Yop proteins translocation protein U) (Yop translocation protein U),Chlamydia pneumoniae (Chlamydophila pneumoniae),360,83558
+Q9Z853,Q9Z853_CHLPN,unreviewed,Putative lipoprotein,Chlamydia pneumoniae (Chlamydophila pneumoniae),317,83558
+Q9Z7D6,Q9Z7D6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),264,83558
+A0A0F7WKW0,A0A0F7WKW0_CHLPN,unreviewed,Dicarboxylase Translocator (Putative malate transporter YflS),Chlamydia pneumoniae (Chlamydophila pneumoniae),470,83558
+Q9Z6R4,Q9Z6R4_CHLPN,unreviewed,"Putative permease, YjgP/YjgQ family",Chlamydia pneumoniae (Chlamydophila pneumoniae),366,83558
+Q9Z382,Q9Z382_CHLPN,unreviewed,HB6 protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),241,83558
+Q9Z8U2,Q9Z8U2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),144,83558
+Q9Z8T5,Q9Z8T5_CHLPN,unreviewed,"ABC transporter, permease protein",Chlamydia pneumoniae (Chlamydophila pneumoniae),503,83558
+Q9Z8E8,Q9Z8E8_CHLPN,unreviewed,Hemolysin,Chlamydia pneumoniae (Chlamydophila pneumoniae),404,83558
+Q9Z6U9,Q9Z6U9_CHLPN,unreviewed,Axial Filament Protein (Ribonuclease G) (EC 3.1.26.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),515,83558
+A0A0F7WXD2,A0A0F7WXD2_CHLPN,unreviewed,Conserved hypothetical bacterial membrane protein (Uncharacterized protein YpdP),Chlamydia pneumoniae (Chlamydophila pneumoniae),230,83558
+Q9Z864,Q9Z864_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),543,83558
+Q9Z9G2,Q9Z9G2_CHLPN,unreviewed,HB7 protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),523,83558
+Q9Z8H5,Q9Z8H5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),106,83558
+Q9Z8W0,Q9Z8W0_CHLPN,unreviewed,Major adhesion protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),80,83558
+A0A0F7WQ13,A0A0F7WQ13_CHLPN,unreviewed,Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),393,83558
+Q9Z8S3,Q9Z8S3_CHLPN,unreviewed,4-hydroxybenzoate octaprenyltransferase (Benzoate Octaphenyltransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),297,83558
+Q9Z927,Q9Z927_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),142,83558
+Q9Z867,Q9Z867_CHLPN,unreviewed,"Deoxyheptonate Aldolase (Phospho-2-dehydro-3-deoxyheptonate aldolase) (EC 2.5.1.54) (Phospho-2-dehydro-3-deoxyheptonate aldolase, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),285,83558
+A0A0F7WXJ6,A0A0F7WXJ6_CHLPN,unreviewed,"Na+/H+ antiporter, putative",Chlamydia pneumoniae (Chlamydophila pneumoniae),420,83558
+Q9Z6R3,Q9Z6R3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),357,83558
+Q9Z875,Q9Z875_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),329,83558
+Q9Z7T6,Q9Z7T6_CHLPN,unreviewed,Lipoate--protein ligase A (Lipoate-Protein Ligase A) (Lipoate-protein ligase-related protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),235,83558
+Q9Z6Q4,Q9Z6Q4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),173,83558
+Q9Z7G0,Q9Z7G0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),54,83558
+Q9Z8P4,Q9Z8P4_CHLPN,unreviewed,Cyclic nucleotide-binding domain protein (Cyclic nucleotide-binding protein) (cAMP-Dependent Protein Kinase Regulatory Subunit),Chlamydia pneumoniae (Chlamydophila pneumoniae),137,83558
+Q9Z9G9,Q9Z9G9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),93,83558
+Q9Z8B2,Q9Z8B2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),111,83558
+Q9Z6W8,Q9Z6W8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),158,83558
+Q9Z954,Q9Z954_CHLPN,unreviewed,Cationic Amino Acid Transporter,Chlamydia pneumoniae (Chlamydophila pneumoniae),338,83558
+Q9Z6J3,Q9Z6J3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),118,83558
+Q9Z6L1,Q9Z6L1_CHLPN,unreviewed,Aspartate Dehydrogenase (Aspartate-semialdehyde dehydrogenase) (EC 1.2.1.11),Chlamydia pneumoniae (Chlamydophila pneumoniae),333,83558
+Q9Z8M2,Q9Z8M2_CHLPN,unreviewed,Transcription termination/antitermination protein NusA,Chlamydia pneumoniae (Chlamydophila pneumoniae),434,83558
+Q9Z754,Q9Z754_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),766,83558
+Q9Z6Z1,Q9Z6Z1_CHLPN,unreviewed,Ribosomal silencing factor RsfS,Chlamydia pneumoniae (Chlamydophila pneumoniae),119,83558
+Q9Z861,Q9Z861_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),685,83558
+Q9Z947,Q9Z947_CHLPN,unreviewed,Oligoendopeptidase F (Oligoendopeptidase F homolog) (EC 3.4.24.-) (Oligopeptidase),Chlamydia pneumoniae (Chlamydophila pneumoniae),611,83558
+A0A0F7WRR5,A0A0F7WRR5_CHLPN,unreviewed,Ribosomal RNA small subunit methyltransferase I (EC 2.1.1.198) (SAM-Dependent Methytransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),238,83558
+Q9Z9B9,Q9Z9B9_CHLPN,unreviewed,Sperm tail-specific-like protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),461,83558
+A0A0F7X663,A0A0F7X663_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),831,83558
+Q9Z9G0,Q9Z9G0_CHLPN,unreviewed,Omp (Predicted OMP),Chlamydia pneumoniae (Chlamydophila pneumoniae),568,83558
+Q9Z897,Q9Z897_CHLPN,unreviewed,Uncharacterized protein YxjG,Chlamydia pneumoniae (Chlamydophila pneumoniae),371,83558
+A0A0F7WMH4,A0A0F7WMH4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),609,83558
+Q9Z8D2,Q9Z8D2_CHLPN,unreviewed,"1,4-dihydroxy-6-naphtoate synthase (EC 4.1.-.-)",Chlamydia pneumoniae (Chlamydophila pneumoniae),259,83558
+A0A0F7XV54,A0A0F7XV54_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),93,83558
+A0A0F7XFL4,A0A0F7XFL4_CHLPN,unreviewed,Pseudouridine synthase (EC 5.4.99.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),235,83558
+Q9Z7P7,Q9Z7P7_CHLPN,unreviewed,tRNA threonylcarbamoyladenosine biosynthesis protein TsaE,Chlamydia pneumoniae (Chlamydophila pneumoniae),141,83558
+Q9Z973,Q9Z973_CHLPN,unreviewed,CPj0108 protein (Similarity to CT018),Chlamydia pneumoniae (Chlamydophila pneumoniae),185,83558
+A0A0F7X5U3,A0A0F7X5U3_CHLPN,unreviewed,Biotin Carboxylase (Biotin carboxylase 1) (EC 6.3.4.14) (EC 6.4.1.2),Chlamydia pneumoniae (Chlamydophila pneumoniae),454,83558
+Q9Z7V0,Q9Z7V0_CHLPN,unreviewed,"Amino acid ABC transporter, periplasmic amino acid-binding protein (Glutamine Binding Protein)",Chlamydia pneumoniae (Chlamydophila pneumoniae),250,83558
+Q9Z7B5,Q9Z7B5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),980,83558
+Q9Z8Q9,Q9Z8Q9_CHLPN,unreviewed,"ABC transporter, permease protein (D-methionine transport system permease protein MetI) (Possible ABC Transporter Permease Protein)",Chlamydia pneumoniae (Chlamydophila pneumoniae),221,83558
+A0A0F7XDU6,A0A0F7XDU6_CHLPN,unreviewed,CHLPS 43 kDa-like protein 4,Chlamydia pneumoniae (Chlamydophila pneumoniae),369,83558
+Q9Z8Y1,Q9Z8Y1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),265,83558
+Q9Z8V0,Q9Z8V0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),231,83558
+A0A0F7WD86,A0A0F7WD86_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),122,83558
+A0A0F7WGT7,A0A0F7WGT7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),574,83558
+Q9Z9C6,Q9Z9C6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),154,83558
+Q9Z6Y7,Q9Z6Y7_CHLPN,unreviewed,Glu/Leu/Phe/Val dehydrogenase family protein (Leucine Dehydrogenase) (Leucine dehydrogenase) (EC 1.4.1.9),Chlamydia pneumoniae (Chlamydophila pneumoniae),351,83558
+A0A0F7XHQ7,A0A0F7XHQ7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),335,83558
+Q9Z6P0,Q9Z6P0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),497,83558
+Q9Z8G8,Q9Z8G8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),165,83558
+Q9Z8I0,Q9Z8I0_CHLPN,unreviewed,"Flagellar Secretion Protein (Protein export protein, FHIPEP family)",Chlamydia pneumoniae (Chlamydophila pneumoniae),582,83558
+Q9Z7U9,Q9Z7U9_CHLPN,unreviewed,Predicted Methylase (Putative rRNA methyltransferase YlbH) (EC 2.1.1.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),186,83558
+Q9Z727,Q9Z727_CHLPN,unreviewed,Metal dependent hydrolase (Putative metallo-hydrolase YycJ) (EC 3.-.-.-),Chlamydia pneumoniae (Chlamydophila pneumoniae),265,83558
+Q9Z7U4,Q9Z7U4_CHLPN,unreviewed,Transcription termination factor Rho (EC 3.6.4.-) (ATP-dependent helicase Rho),Chlamydia pneumoniae (Chlamydophila pneumoniae),464,83558
+Q9Z7B4,Q9Z7B4_CHLPN,unreviewed,Putative sigma regulatory protein-pp2c phosphatase,Chlamydia pneumoniae (Chlamydophila pneumoniae),604,83558
+Q9Z871,Q9Z871_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),218,83558
+Q9Z8D7,Q9Z8D7_CHLPN,unreviewed,"Enoyl-(Acyl-carrier protein) reductase (Enoyl-Acyl-Carrier Protein Reductase) (Enoyl-[acyl-carrier-protein] reductase [NADH], chloroplastic) (EC 1.3.1.9)",Chlamydia pneumoniae (Chlamydophila pneumoniae),299,83558
+Q9Z775,Q9Z775_CHLPN,unreviewed,Putative uncharacterized protein CPn0831,Chlamydia pneumoniae (Chlamydophila pneumoniae),56,83558
+Q9Z6T1,Q9Z6T1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),343,83558
+Q9Z8K7,Q9Z8K7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),579,83558
+Q9Z783,Q9Z783_CHLPN,unreviewed,Type III secretion inner membrane protein SctT (Yop proteins translocation protein T) (YopT tranlocation protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),289,83558
+Q9Z839,Q9Z839_CHLPN,unreviewed,Fe-S oxidoreductase,Chlamydia pneumoniae (Chlamydophila pneumoniae),369,83558
+Q9Z6U4,Q9Z6U4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),486,83558
+Q9Z6Y4,Q9Z6Y4_CHLPN,unreviewed,"Aas bifunctional protein, putative (Acylglycerophosphoethanolamine Acyltransferase) (Bifunctional protein Aas) (EC 2.3.1.40) (EC 6.2.1.20)",Chlamydia pneumoniae (Chlamydophila pneumoniae),538,83558
+Q9Z8Q2,Q9Z8Q2_CHLPN,unreviewed,Magnesium transporter MgtE,Chlamydia pneumoniae (Chlamydophila pneumoniae),470,83558
+A0A0F7XJI2,A0A0F7XJI2_CHLPN,unreviewed,Rod Shape Protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),415,83558
+Q9Z7U1,Q9Z7U1_CHLPN,unreviewed,"Protease (Protease IV, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),333,83558
+Q9Z8C0,Q9Z8C0_CHLPN,unreviewed,"Tetratricopeptide repeat protein (Type III secretion chaperone, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),142,83558
+Q9Z8N3,Q9Z8N3_CHLPN,unreviewed,"Pyruvate Dehydrogenase Beta (Pyruvate dehydrogenase E1 component subunit beta, mitochondrial) (EC 1.2.4.1) (Pyruvate dehydrogenase, E1 component, beta subunit)",Chlamydia pneumoniae (Chlamydophila pneumoniae),328,83558
+Q9Z7J9,Q9Z7J9_CHLPN,unreviewed,Putative uncharacterized protein CPn0706 Homolog,Chlamydia pneumoniae (Chlamydophila pneumoniae),168,83558
+Q9Z858,Q9Z858_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),50,83558
+Q9Z8V6,Q9Z8V6_CHLPN,unreviewed,Disulfide Bond Chaperone,Chlamydia pneumoniae (Chlamydophila pneumoniae),233,83558
+Q9Z926,Q9Z926_CHLPN,unreviewed,"KDO-transferase (KDO-transferase 2, putative)",Chlamydia pneumoniae (Chlamydophila pneumoniae),179,83558
+A0A0F7XE33,A0A0F7XE33_CHLPN,unreviewed,Phopholipase D Superfamily,Chlamydia pneumoniae (Chlamydophila pneumoniae),353,83558
+Q9Z7Z4,Q9Z7Z4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),62,83558
+Q9Z7P4,Q9Z7P4_CHLPN,unreviewed,Putative tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207) (tRNA (cytidine/uridine-2'-O-)-methyltransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),156,83558
+Q9Z7C6,Q9Z7C6_CHLPN,unreviewed,N-Acetylmuramoyl-L-Ala Amidase (Putative endopeptidase lyte),Chlamydia pneumoniae (Chlamydophila pneumoniae),205,83558
+A0A0F7WEN4,A0A0F7WEN4_CHLPN,unreviewed,Chorismate dehydratase (EC 4.2.1.151) (Menaquinone biosynthetic enzyme MqnA),Chlamydia pneumoniae (Chlamydophila pneumoniae),264,83558
+Q9Z8S1,Q9Z8S1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),263,83558
+Q9Z859,Q9Z859_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),51,83558
+A0A0F7XDS2,A0A0F7XDS2_CHLPN,unreviewed,Transketolase (EC 2.2.1.1),Chlamydia pneumoniae (Chlamydophila pneumoniae),665,83558
+A0A0F7WJX7,A0A0F7WJX7_CHLPN,unreviewed,Phosphoglucomutase (EC 5.4.2.2) (Phosphomannomutase),Chlamydia pneumoniae (Chlamydophila pneumoniae),598,83558
+Q9Z824,Q9Z824_CHLPN,unreviewed,Glutamate Symport (Sodium:dicarboxylate symporter family protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),414,83558
+Q9Z8Z3,Q9Z8Z3_CHLPN,unreviewed,"ABC Amino Acid Transporter ATPase (Amino acid ABC transporter, ATP-binding protein) (Arginine transport ATP-binding protein ArtM)",Chlamydia pneumoniae (Chlamydophila pneumoniae),226,83558
+Q9Z7U7,Q9Z7U7_CHLPN,unreviewed,Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27),Chlamydia pneumoniae (Chlamydophila pneumoniae),441,83558
+Q9Z980,Q9Z980_CHLPN,unreviewed,Diadenylate cyclase (DAC) (EC 2.7.7.85) (Cyclic-di-AMP synthase) (c-di-AMP synthase),Chlamydia pneumoniae (Chlamydophila pneumoniae),264,83558
+Q9Z7W7,Q9Z7W7_CHLPN,unreviewed,Ribosomal protein S30AE,Chlamydia pneumoniae (Chlamydophila pneumoniae),228,83558
+Q9Z7V8,Q9Z7V8_CHLPN,unreviewed,DNA methyltransferase (Methyltransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),173,83558
+Q9Z7X1,Q9Z7X1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),106,83558
+Q9Z8E4,Q9Z8E4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),215,83558
+Q9Z7Q6,Q9Z7Q6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),333,83558
+Q9Z749,Q9Z749_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),122,83558
+Q9Z8Q0,Q9Z8Q0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),382,83558
+A0A0F7YXH0,A0A0F7YXH0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),123,83558
+Q9Z7J3,Q9Z7J3_CHLPN,unreviewed,Adenylate cyclase-like protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),845,83558
+Q9Z6Y5,Q9Z6Y5_CHLPN,unreviewed,2-acylglycerophosphoethanolamine acyl transferase/acyl carrier (SnGlycerol-3-P Acyltransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),253,83558
+A0A0F7YVQ3,A0A0F7YVQ3_CHLPN,unreviewed,UDP-GlcNAc Pyrophosphorylase,Chlamydia pneumoniae (Chlamydophila pneumoniae),208,83558
+Q9Z8X0,Q9Z8X0_CHLPN,unreviewed,Transport protein USO1,Chlamydia pneumoniae (Chlamydophila pneumoniae),404,83558
+Q9Z7F6,Q9Z7F6_CHLPN,unreviewed,HTH Transcriptional Regulatory Protein/Receiver Doman (Transcriptional regulator),Chlamydia pneumoniae (Chlamydophila pneumoniae),235,83558
+Q9Z7E2,Q9Z7E2_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),428,83558
+Q9Z7Z0,Q9Z7Z0_CHLPN,unreviewed,Single-stranded-DNA-specific exonuclease RecJ (SsDNA Exonuclease),Chlamydia pneumoniae (Chlamydophila pneumoniae),588,83558
+Q9Z829,Q9Z829_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),110,83558
+Q9Z7F3,Q9Z7F3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),282,83558
+Q9Z815,Q9Z815_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),119,83558
+Q9Z7L7,Q9Z7L7_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),217,83558
+Q9Z8S7,Q9Z8S7_CHLPN,unreviewed,PP-Loop Superfamily ATPase,Chlamydia pneumoniae (Chlamydophila pneumoniae),244,83558
+Q9Z8V9,Q9Z8V9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),223,83558
+A0A0F7XSM0,A0A0F7XSM0_CHLPN,unreviewed,GuaB gene for inosine 5-monophosphase dehydrogenase subunit (Inosine 5'-monophosphase dehydrogenase),Chlamydia pneumoniae (Chlamydophila pneumoniae),246,83558
+Q9Z756,Q9Z756_CHLPN,unreviewed,Cell shape-determining protein MreB (Rod Shape Protein-Sugar Kinase) (Rod shape-determining protein MreB),Chlamydia pneumoniae (Chlamydophila pneumoniae),366,83558
+Q9Z6L8,Q9Z6L8_CHLPN,unreviewed,Adenosylmethionine-8-Amino-7-Oxononanoate Aminotransferase (Adenosylmethionine-8-amino-7-oxononanoate aminotransferase),Chlamydia pneumoniae (Chlamydophila pneumoniae),423,83558
+Q9Z970,Q9Z970_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),251,83558
+Q9Z842,Q9Z842_CHLPN,unreviewed,"CBS/transporter associated domain protein (Hemolysin, putative) (Hemolysin-like protein)",Chlamydia pneumoniae (Chlamydophila pneumoniae),387,83558
+Q9Z6P5,Q9Z6P5_CHLPN,unreviewed,Putative sulfate transporter YvdB (Sulfate Transporter) (Sulfate transporter family protein),Chlamydia pneumoniae (Chlamydophila pneumoniae),565,83558
+Q9Z7A8,Q9Z7A8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),337,83558
+A0A0F7X5A5,A0A0F7X5A5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),346,83558
+Q9Z9B5,Q9Z9B5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),577,83558
+Q9Z7D7,Q9Z7D7_CHLPN,unreviewed,DNA topoisomerase 1 (EC 5.99.1.2) (DNA topoisomerase I),Chlamydia pneumoniae (Chlamydophila pneumoniae),871,83558
+A0A0F7YSR1,A0A0F7YSR1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),76,83558
+Q9Z6J0,Q9Z6J0_CHLPN,unreviewed,HTH Transcriptional Regulator,Chlamydia pneumoniae (Chlamydophila pneumoniae),143,83558
+Q9Z905,Q9Z905_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),116,83558
+Q9Z7B9,Q9Z7B9_CHLPN,unreviewed,"MttC protein, putative (PHP superfamily (Urease/pyrimidinase) hydrolase) (Uncharacterized deoxyribonuclease YabD) (EC 3.1.21.-)",Chlamydia pneumoniae (Chlamydophila pneumoniae),261,83558
+Q9Z7M8,Q9Z7M8_CHLPN,unreviewed,CPj0676 protein (Similarity to CT695),Chlamydia pneumoniae (Chlamydophila pneumoniae),389,83558
+A0A0F7XHZ3,A0A0F7XHZ3_CHLPN,unreviewed,CHLPS 43 kDa-like protein 1,Chlamydia pneumoniae (Chlamydophila pneumoniae),373,83558
+A0A0H2UMK9,A0A0H2UMK9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),178,83558
+A0A0H2UML1,A0A0H2UML1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),368,83558
+A0A0H2ULI8,A0A0H2ULI8_CHLPN,unreviewed,CHLTR T2 Protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),40,83558
+A0A0H2UL07,A0A0H2UL07_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),51,83558
+A0A0H2ULC3,A0A0H2ULC3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),51,83558
+A0A0H2UMF7,A0A0H2UMF7_CHLPN,unreviewed,Metal Transport P-type ATPase,Chlamydia pneumoniae (Chlamydophila pneumoniae),658,83558
+A0A0H2ULE1,A0A0H2ULE1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),388,83558
+A0A0H2UMA8,A0A0H2UMA8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),180,83558
+A0A0H2ULC8,A0A0H2ULC8_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),159,83558
+A0A0H2UMA0,A0A0H2UMA0_CHLPN,unreviewed,Thio:disulfide Interchange Protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),703,83558
+A0A0H2UM77,A0A0H2UM77_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),246,83558
+A0A0H2UL58,A0A0H2UL58_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),169,83558
+A0A0H2ULN4,A0A0H2ULN4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),426,83558
+A0A0H2UM98,A0A0H2UM98_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),303,83558
+A0A0H2UME2,A0A0H2UME2_CHLPN,unreviewed,Amino Acid (Branched) Transport,Chlamydia pneumoniae (Chlamydophila pneumoniae),386,83558
+A0A0H2UMN5,A0A0H2UMN5_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),344,83558
+A0A0H2ULS4,A0A0H2ULS4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),54,83558
+A0A0F7WNR4,A0A0F7WNR4_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),149,83558
+A0A0H2UM89,A0A0H2UM89_CHLPN,unreviewed,Succinate Dehydrogenase,Chlamydia pneumoniae (Chlamydophila pneumoniae),258,83558
+A0A0H2UMN9,A0A0H2UMN9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),279,83558
+A0A0H2UMU9,A0A0H2UMU9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),73,83558
+A0A0H2UL75,A0A0H2UL75_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),92,83558
+A0A0H2ULY7,A0A0H2ULY7_CHLPN,unreviewed,Phosphoglycolate Phosphatase,Chlamydia pneumoniae (Chlamydophila pneumoniae),230,83558
+A0A0H2ULZ2,A0A0H2ULZ2_CHLPN,unreviewed,2-Component Regulator,Chlamydia pneumoniae (Chlamydophila pneumoniae),386,83558
+A0A0H2UL11,A0A0H2UL11_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),237,83558
+A0A0H2ULH2,A0A0H2ULH2_CHLPN,unreviewed,Protein Translocase Subunit,Chlamydia pneumoniae (Chlamydophila pneumoniae),166,83558
+A0A0H2UMC9,A0A0H2UMC9_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),148,83558
+A0A0H2UM01,A0A0H2UM01_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),59,83558
+A0A0H2UMN1,A0A0H2UMN1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),432,83558
+A0A0H2UMA3,A0A0H2UMA3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),417,83558
+A0A0H2ULV7,A0A0H2ULV7_CHLPN,unreviewed,DnaK Suppressor,Chlamydia pneumoniae (Chlamydophila pneumoniae),124,83558
+A0A0H2ULQ3,A0A0H2ULQ3_CHLPN,unreviewed,Polymorphic Outer Membrane Protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),392,83558
+A0A0H2UMX1,A0A0H2UMX1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),234,83558
+A0A0H2ULY8,A0A0H2ULY8_CHLPN,unreviewed,2-Component Sensor,Chlamydia pneumoniae (Chlamydophila pneumoniae),364,83558
+A0A0H2ULT3,A0A0H2ULT3_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),339,83558
+A0A0H2UL13,A0A0H2UL13_CHLPN,unreviewed,Frame-shift with CPn0010,Chlamydia pneumoniae (Chlamydophila pneumoniae),456,83558
+A0A0H2ULW5,A0A0H2ULW5_CHLPN,unreviewed,Coproporphyrinogen III Oxidase,Chlamydia pneumoniae (Chlamydophila pneumoniae),373,83558
+A0A0H2ULW1,A0A0H2ULW1_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),223,83558
+A0A0H2UL83,A0A0H2UL83_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),167,83558
+A0A0H2UMB6,A0A0H2UMB6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),493,83558
+A0A0H2UMA2,A0A0H2UMA2_CHLPN,unreviewed,Thio-specific Antioxidant (TSA) Peroxidase,Chlamydia pneumoniae (Chlamydophila pneumoniae),196,83558
+A0A0H2UMB0,A0A0H2UMB0_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),680,83558
+A0A0H2ULZ6,A0A0H2ULZ6_CHLPN,unreviewed,Replicative DNA helicase (EC 3.6.4.12),Chlamydia pneumoniae (Chlamydophila pneumoniae),449,83558
+A0A0H2ULD1,A0A0H2ULD1_CHLPN,unreviewed,Oligopeptide Binding Protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),526,83558
+A0A0H2UMK5,A0A0H2UMK5_CHLPN,unreviewed,Transport Permease (Truncated),Chlamydia pneumoniae (Chlamydophila pneumoniae),106,83558
+A0A0H2UL44,A0A0H2UL44_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),91,83558
+A0A0H2UL51,A0A0H2UL51_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),57,83558
+A0A0H2UMM6,A0A0H2UMM6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),113,83558
+A0A0H2UMI6,A0A0H2UMI6_CHLPN,unreviewed,Uncharacterized protein,Chlamydia pneumoniae (Chlamydophila pneumoniae),58,83558

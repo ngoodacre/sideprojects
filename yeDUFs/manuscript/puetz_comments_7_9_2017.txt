@@ -1,0 +1,11 @@
+* heatmap comments, Uetz 7/9/2017
+* add labels to tree things
+* add labels to pfams
+* any phenotypes shared among multiple domains?
+
+* redo numbers for 68 yedufs
+* ask if Endnote, put references in Endnote
+* find an example of a yeDUF that is in a single-domain protein
+* find an example of a yeDUF that is in a multi-domain protein
+* "" that is conserved in bacteria
+* "" that is different between the two strains of yeast

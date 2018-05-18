@@ -1,0 +1,1006 @@
+Entry,Entry name,Status,Protein names,Organism,Length,Organism ID
+Q822F3,AAXB_CHLCV,reviewed,Pyruvoyl-dependent arginine decarboxylase AaxB (PvlArgDC) (EC 4.1.1.19) (Biodegradative arginine decarboxylase) [Cleaved into: Pyruvoyl-dependent arginine decarboxylase subunit beta; Pyruvoyl-dependent arginine decarboxylase subunit alpha],Chlamydophila caviae (strain GPIC),195,227941
+Q820E7,ACPS_CHLCV,reviewed,Holo-[acyl-carrier-protein] synthase (Holo-ACP synthase) (EC 2.7.8.7) (4'-phosphopantetheinyl transferase AcpS),Chlamydophila caviae (strain GPIC),122,227941
+Q824B4,3MGH_CHLCV,reviewed,Putative 3-methyladenine DNA glycosylase (EC 3.2.2.-),Chlamydophila caviae (strain GPIC),190,227941
+Q822F4,AAXA_CHLCV,reviewed,Porin AaxA (Outer membrane protein AaxA),Chlamydophila caviae (strain GPIC),451,227941
+Q822F2,AAXC_CHLCV,reviewed,Arginine/agmatine antiporter,Chlamydophila caviae (strain GPIC),486,227941
+Q823M8,ACCA_CHLCV,reviewed,Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha (ACCase subunit alpha) (Acetyl-CoA carboxylase carboxyltransferase subunit alpha) (EC 6.4.1.2),Chlamydophila caviae (strain GPIC),324,227941
+Q823D5,ACP_CHLCV,reviewed,Acyl carrier protein (ACP),Chlamydophila caviae (strain GPIC),77,227941
+Q823J9,AMPA_CHLCV,reviewed,Probable cytosol aminopeptidase (EC 3.4.11.1) (Leucine aminopeptidase) (LAP) (EC 3.4.11.10) (Leucyl aminopeptidase),Chlamydophila caviae (strain GPIC),499,227941
+Q822G0,AROA_CHLCV,reviewed,3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS),Chlamydophila caviae (strain GPIC),446,227941
+Q822Y3,ARGR_CHLCV,reviewed,Arginine repressor,Chlamydophila caviae (strain GPIC),147,227941
+Q822F7,AROB_CHLCV,reviewed,3-dehydroquinate synthase (EC 4.2.3.4),Chlamydophila caviae (strain GPIC),379,227941
+Q822F8,AROC_CHLCV,reviewed,Chorismate synthase (CS) (EC 4.2.3.5) (5-enolpyruvylshikimate-3-phosphate phospholyase),Chlamydophila caviae (strain GPIC),359,227941
+Q822U2,BDBC_CHLCV,reviewed,Probable disulfide formation protein (Disulfide oxidoreductase) (Thiol-disulfide oxidoreductase),Chlamydophila caviae (strain GPIC),136,227941
+P15598,CH10_CHLCV,reviewed,10 kDa chaperonin (11.2 kDa stress response protein) (GroES protein) (Protein Cpn10),Chlamydophila caviae (strain GPIC),102,227941
+P15599,CH601_CHLCV,reviewed,60 kDa chaperonin 1 (57 kDa chlamydial hypersensitivity antigen) (GroEL protein 1) (Protein Cpn60 1),Chlamydophila caviae (strain GPIC),544,227941
+P59698,CH602_CHLCV,reviewed,60 kDa chaperonin 2 (GroEL protein 2) (Protein Cpn60 2),Chlamydophila caviae (strain GPIC),536,227941
+Q824C7,CLPP1_CHLCV,reviewed,ATP-dependent Clp protease proteolytic subunit 1 (EC 3.4.21.92) (Endopeptidase Clp 1),Chlamydophila caviae (strain GPIC),191,227941
+Q821M0,CLPP2_CHLCV,reviewed,ATP-dependent Clp protease proteolytic subunit 2 (EC 3.4.21.92) (Endopeptidase Clp 2),Chlamydophila caviae (strain GPIC),203,227941
+Q824L6,COAE_CHLCV,reviewed,Dephospho-CoA kinase (EC 2.7.1.24) (Dephosphocoenzyme A kinase),Chlamydophila caviae (strain GPIC),202,227941
+Q822Q4,CLPB_CHLCV,reviewed,Chaperone protein ClpB,Chlamydophila caviae (strain GPIC),864,227941
+Q821L9,CLPX_CHLCV,reviewed,ATP-dependent Clp protease ATP-binding subunit ClpX,Chlamydophila caviae (strain GPIC),421,227941
+Q822H0,DAPA_CHLCV,reviewed,4-hydroxy-tetrahydrodipicolinate synthase (HTPA synthase) (EC 4.3.3.7),Chlamydophila caviae (strain GPIC),289,227941
+Q823K6,DCD_CHLCV,reviewed,dCTP deaminase (EC 3.5.4.13) (Deoxycytidine triphosphate deaminase),Chlamydophila caviae (strain GPIC),190,227941
+Q824A4,DAPAT_CHLCV,reviewed,LL-diaminopimelate aminotransferase (DAP-AT) (DAP-aminotransferase) (LL-DAP-aminotransferase) (EC 2.6.1.83),Chlamydophila caviae (strain GPIC),395,227941
+Q822G7,DAPB_CHLCV,reviewed,4-hydroxy-tetrahydrodipicolinate reductase (HTPA reductase) (EC 1.17.1.8),Chlamydophila caviae (strain GPIC),246,227941
+Q821R0,DCUP_CHLCV,reviewed,Uroporphyrinogen decarboxylase (UPD) (URO-D) (EC 4.1.1.37),Chlamydophila caviae (strain GPIC),333,227941
+Q823U4,DEF_CHLCV,reviewed,Peptide deformylase (PDF) (EC 3.5.1.88) (Polypeptide deformylase),Chlamydophila caviae (strain GPIC),186,227941
+Q821L7,DER_CHLCV,reviewed,GTPase Der (GTP-binding protein EngA),Chlamydophila caviae (strain GPIC),474,227941
+Q823E6,DNAA2_CHLCV,reviewed,Chromosomal replication initiator protein DnaA 2,Chlamydophila caviae (strain GPIC),460,227941
+Q823T2,DNAJ_CHLCV,reviewed,Chaperone protein DnaJ,Chlamydophila caviae (strain GPIC),392,227941
+Q823P0,DNAA1_CHLCV,reviewed,Chromosomal replication initiator protein DnaA 1,Chlamydophila caviae (strain GPIC),450,227941
+Q822R2,DNLJ_CHLCV,reviewed,DNA ligase (EC 6.5.1.2) (Polydeoxyribonucleotide synthase [NAD(+)]),Chlamydophila caviae (strain GPIC),662,227941
+Q824B2,DNAK_CHLCV,reviewed,Chaperone protein DnaK (HSP70) (Heat shock 70 kDa protein) (Heat shock protein 70),Chlamydophila caviae (strain GPIC),664,227941
+Q823V1,DXS_CHLCV,reviewed,1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7) (1-deoxyxylulose-5-phosphate synthase) (DXP synthase) (DXPS),Chlamydophila caviae (strain GPIC),644,227941
+Q822X6,EFP1_CHLCV,reviewed,Elongation factor P 1 (EF-P 1),Chlamydophila caviae (strain GPIC),185,227941
+Q823Q9,DUT_CHLCV,reviewed,Deoxyuridine 5'-triphosphate nucleotidohydrolase (dUTPase) (EC 3.6.1.23) (dUTP pyrophosphatase),Chlamydophila caviae (strain GPIC),147,227941
+Q824U4,EFTS_CHLCV,reviewed,Elongation factor Ts (EF-Ts),Chlamydophila caviae (strain GPIC),282,227941
+Q823G9,DXR_CHLCV,reviewed,1-deoxy-D-xylulose 5-phosphate reductoisomerase (DXP reductoisomerase) (EC 1.1.1.267) (1-deoxyxylulose-5-phosphate reductoisomerase) (2-C-methyl-D-erythritol 4-phosphate synthase),Chlamydophila caviae (strain GPIC),379,227941
+Q821R5,EFP2_CHLCV,reviewed,Elongation factor P 2 (EF-P 2),Chlamydophila caviae (strain GPIC),190,227941
+Q822I4,EFTU_CHLCV,reviewed,Elongation factor Tu (EF-Tu),Chlamydophila caviae (strain GPIC),394,227941
+Q824G0,EFG_CHLCV,reviewed,Elongation factor G (EF-G),Chlamydophila caviae (strain GPIC),694,227941
+Q824B1,GRPE_CHLCV,reviewed,Protein GrpE (HSP-70 cofactor),Chlamydophila caviae (strain GPIC),187,227941
+Q821N6,GPMA_CHLCV,reviewed,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (BPG-dependent PGAM) (PGAM) (Phosphoglyceromutase) (dPGM) (EC 5.4.2.11)",Chlamydophila caviae (strain GPIC),227,227941
+Q822Q0,GSA_CHLCV,reviewed,"Glutamate-1-semialdehyde 2,1-aminomutase (GSA) (EC 5.4.3.8) (Glutamate-1-semialdehyde aminotransferase) (GSA-AT)",Chlamydophila caviae (strain GPIC),437,227941
+Q822V6,GUAA_CHLCV,reviewed,GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2) (GMP synthetase) (Glutamine amidotransferase),Chlamydophila caviae (strain GPIC),512,227941
+Q824K8,HEMH_CHLCV,reviewed,Ferrochelatase (EC 4.99.1.1) (Heme synthase) (Protoheme ferro-lyase),Chlamydophila caviae (strain GPIC),318,227941
+Q821M8,GPDA_CHLCV,reviewed,Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94) (NAD(P)H-dependent glycerol-3-phosphate dehydrogenase),Chlamydophila caviae (strain GPIC),334,227941
+Q824W1,HEM1_CHLCV,reviewed,Glutamyl-tRNA reductase (GluTR) (EC 1.2.1.70),Chlamydophila caviae (strain GPIC),338,227941
+Q821H7,ENO_CHLCV,reviewed,Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase),Chlamydophila caviae (strain GPIC),424,227941
+Q824X6,END4_CHLCV,reviewed,Probable endonuclease 4 (EC 3.1.21.2) (Endodeoxyribonuclease IV) (Endonuclease IV),Chlamydophila caviae (strain GPIC),289,227941
+Q823U9,EX7S_CHLCV,reviewed,Exodeoxyribonuclease 7 small subunit (EC 3.1.11.6) (Exodeoxyribonuclease VII small subunit) (Exonuclease VII small subunit),Chlamydophila caviae (strain GPIC),75,227941
+P94661,EUO_CHLCV,reviewed,Early upstream open reading frame (EUO),Chlamydophila caviae (strain GPIC),181,227941
+Q823U8,EX7L_CHLCV,reviewed,Exodeoxyribonuclease 7 large subunit (EC 3.1.11.6) (Exodeoxyribonuclease VII large subunit) (Exonuclease VII large subunit),Chlamydophila caviae (strain GPIC),555,227941
+Q820E6,FABH_CHLCV,reviewed,3-oxoacyl-[acyl-carrier-protein] synthase 3 (EC 2.3.1.180) (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III) (KAS III),Chlamydophila caviae (strain GPIC),335,227941
+Q824Q3,FMT_CHLCV,reviewed,Methionyl-tRNA formyltransferase (EC 2.1.2.9),Chlamydophila caviae (strain GPIC),321,227941
+Q823G2,FOLD_CHLCV,reviewed,Bifunctional protein FolD [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)],Chlamydophila caviae (strain GPIC),287,227941
+Q820F1,FABZ_CHLCV,reviewed,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ (EC 4.2.1.59) ((3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase) ((3R)-hydroxymyristoyl-ACP dehydrase) (Beta-hydroxyacyl-ACP dehydratase),Chlamydophila caviae (strain GPIC),154,227941
+Q821E2,FOLKP_CHLCV,reviewed,"Folate synthesis bifunctional protein [Includes: 6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase (HPPK) (EC 2.7.6.3) (2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase) (7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase) (PPPK); Dihydropteroate synthase (DHPS) (EC 2.5.1.15) (Dihydropteroate pyrophosphorylase)]",Chlamydophila caviae (strain GPIC),447,227941
+Q822D5,FUMC_CHLCV,reviewed,Fumarate hydratase class II (Fumarase C) (EC 4.2.1.2) (Aerobic fumarase) (Iron-independent fumarase),Chlamydophila caviae (strain GPIC),460,227941
+Q822E7,G6PI_CHLCV,reviewed,Glucose-6-phosphate isomerase (GPI) (EC 5.3.1.9) (Phosphoglucose isomerase) (PGI) (Phosphohexose isomerase) (PHI),Chlamydophila caviae (strain GPIC),527,227941
+Q821Z6,GLMM_CHLCV,reviewed,Phosphoglucosamine mutase (EC 5.4.2.10),Chlamydophila caviae (strain GPIC),458,227941
+Q823Y5,GLGB_CHLCV,reviewed,"1,4-alpha-glucan branching enzyme GlgB (EC 2.4.1.18) (1,4-alpha-D-glucan:1,4-alpha-D-glucan 6-glucosyl-transferase) (Alpha-(1->4)-glucan branching enzyme) (Glycogen branching enzyme) (BE)",Chlamydophila caviae (strain GPIC),719,227941
+Q824C8,GLYA_CHLCV,reviewed,Serine hydroxymethyltransferase (SHMT) (Serine methylase) (EC 2.1.2.1),Chlamydophila caviae (strain GPIC),497,227941
+Q821Z7,GLMS_CHLCV,reviewed,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16) (D-fructose-6-phosphate amidotransferase) (GFAT) (Glucosamine-6-phosphate synthase) (Hexosephosphate aminotransferase) (L-glutamine--D-fructose-6-phosphate amidotransferase),Chlamydophila caviae (strain GPIC),609,227941
+Q823W6,GATB_CHLCV,reviewed,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (Asp/Glu-ADT subunit B) (EC 6.3.5.-),Chlamydophila caviae (strain GPIC),487,227941
+Q821W4,GLGA_CHLCV,reviewed,Glycogen synthase (EC 2.4.1.21) (Starch [bacterial glycogen] synthase),Chlamydophila caviae (strain GPIC),475,227941
+Q824B0,HRCA_CHLCV,reviewed,Heat-inducible transcription repressor HrcA,Chlamydophila caviae (strain GPIC),386,227941
+Q822B2,IF3_CHLCV,reviewed,Translation initiation factor IF-3,Chlamydophila caviae (strain GPIC),186,227941
+Q822I3,IF1_CHLCV,reviewed,Translation initiation factor IF-1,Chlamydophila caviae (strain GPIC),73,227941
+Q823F2,IF2_CHLCV,reviewed,Translation initiation factor IF-2,Chlamydophila caviae (strain GPIC),887,227941
+Q823I7,ISPG_CHLCV,reviewed,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin) (EC 1.17.7.3) (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase),Chlamydophila caviae (strain GPIC),606,227941
+Q822D9,ISPH_CHLCV,reviewed,4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4),Chlamydophila caviae (strain GPIC),309,227941
+Q821V6,MUTS_CHLCV,reviewed,DNA mismatch repair protein MutS,Chlamydophila caviae (strain GPIC),826,227941
+Q823N2,MURE_CHLCV,reviewed,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13) (Meso-A2pm-adding enzyme) (Meso-diaminopimelate-adding enzyme) (UDP-MurNAc-L-Ala-D-Glu:meso-diaminopimelate ligase) (UDP-MurNAc-tripeptide synthetase) (UDP-N-acetylmuramyl-tripeptide synthetase)",Chlamydophila caviae (strain GPIC),483,227941
+Q824M4,NDK_CHLCV,reviewed,Nucleoside diphosphate kinase (NDK) (NDP kinase) (EC 2.7.4.6) (Nucleoside-2-P kinase),Chlamydophila caviae (strain GPIC),141,227941
+Q824Y6,NQRA_CHLCV,reviewed,Na(+)-translocating NADH-quinone reductase subunit A (Na(+)-NQR subunit A) (Na(+)-translocating NQR subunit A) (EC 1.6.5.8) (NQR complex subunit A) (NQR-1 subunit A),Chlamydophila caviae (strain GPIC),470,227941
+Q821L3,PSD_CHLCV,reviewed,Phosphatidylserine decarboxylase proenzyme (EC 4.1.1.65) [Cleaved into: Phosphatidylserine decarboxylase alpha chain; Phosphatidylserine decarboxylase beta chain],Chlamydophila caviae (strain GPIC),299,227941
+Q824U5,PYRH_CHLCV,reviewed,Uridylate kinase (UK) (EC 2.7.4.22) (Uridine monophosphate kinase) (UMP kinase) (UMPK),Chlamydophila caviae (strain GPIC),240,227941
+Q824L3,PYRE_CHLCV,reviewed,Orotate phosphoribosyltransferase (OPRT) (OPRTase) (EC 2.4.2.10),Chlamydophila caviae (strain GPIC),206,227941
+Q821W6,PTH_CHLCV,reviewed,Peptidyl-tRNA hydrolase (PTH) (EC 3.1.1.29),Chlamydophila caviae (strain GPIC),183,227941
+Q822B3,RL35_CHLCV,reviewed,50S ribosomal protein L35,Chlamydophila caviae (strain GPIC),64,227941
+Q822M1,RL31B_CHLCV,reviewed,50S ribosomal protein L31 type B,Chlamydophila caviae (strain GPIC),108,227941
+Q822J0,RL7_CHLCV,reviewed,50S ribosomal protein L7/L12,Chlamydophila caviae (strain GPIC),130,227941
+Q821W9,RL9_CHLCV,reviewed,50S ribosomal protein L9,Chlamydophila caviae (strain GPIC),172,227941
+Q823T8,RNZ_CHLCV,reviewed,Ribonuclease Z (RNase Z) (EC 3.1.26.11) (tRNA 3 endonuclease) (tRNase Z),Chlamydophila caviae (strain GPIC),306,227941
+Q821V1,RL36_CHLCV,reviewed,50S ribosomal protein L36,Chlamydophila caviae (strain GPIC),45,227941
+Q824Q0,RL4_CHLCV,reviewed,50S ribosomal protein L4,Chlamydophila caviae (strain GPIC),224,227941
+Q824N9,RL5_CHLCV,reviewed,50S ribosomal protein L5,Chlamydophila caviae (strain GPIC),180,227941
+Q824N7,RL6_CHLCV,reviewed,50S ribosomal protein L6,Chlamydophila caviae (strain GPIC),183,227941
+Q822J1,RPOB_CHLCV,reviewed,DNA-directed RNA polymerase subunit beta (RNAP subunit beta) (EC 2.7.7.6) (RNA polymerase subunit beta) (Transcriptase subunit beta),Chlamydophila caviae (strain GPIC),1252,227941
+Q821V0,RNPA_CHLCV,reviewed,Ribonuclease P protein component (RNase P protein) (RNaseP protein) (EC 3.1.26.5) (Protein C5),Chlamydophila caviae (strain GPIC),139,227941
+Q823R4,RNC_CHLCV,reviewed,Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III),Chlamydophila caviae (strain GPIC),237,227941
+Q824N1,RPOA_CHLCV,reviewed,DNA-directed RNA polymerase subunit alpha (RNAP subunit alpha) (EC 2.7.7.6) (RNA polymerase subunit alpha) (Transcriptase subunit alpha),Chlamydophila caviae (strain GPIC),376,227941
+Q822J2,RPOC_CHLCV,reviewed,DNA-directed RNA polymerase subunit beta' (RNAP subunit beta') (EC 2.7.7.6) (RNA polymerase subunit beta') (Transcriptase subunit beta'),Chlamydophila caviae (strain GPIC),1393,227941
+Q822M7,RNH2_CHLCV,reviewed,Ribonuclease HII (RNase HII) (EC 3.1.26.4),Chlamydophila caviae (strain GPIC),212,227941
+Q823W2,RNH3_CHLCV,reviewed,Ribonuclease HIII (RNase HIII) (EC 3.1.26.4),Chlamydophila caviae (strain GPIC),300,227941
+Q822P7,RPIA_CHLCV,reviewed,Ribose-5-phosphate isomerase A (EC 5.3.1.6) (Phosphoriboisomerase A) (PRI),Chlamydophila caviae (strain GPIC),233,227941
+Q824G2,RS12_CHLCV,reviewed,30S ribosomal protein S12,Chlamydophila caviae (strain GPIC),123,227941
+Q824U6,RRF_CHLCV,reviewed,Ribosome-recycling factor (RRF) (Ribosome-releasing factor),Chlamydophila caviae (strain GPIC),180,227941
+Q824F9,RS10_CHLCV,reviewed,30S ribosomal protein S10,Chlamydophila caviae (strain GPIC),105,227941
+Q821W8,RS18_CHLCV,reviewed,30S ribosomal protein S18,Chlamydophila caviae (strain GPIC),82,227941
+Q824P7,RS19_CHLCV,reviewed,30S ribosomal protein S19,Chlamydophila caviae (strain GPIC),88,227941
+P59752,RS13_CHLCV,reviewed,30S ribosomal protein S13,Chlamydophila caviae (strain GPIC),122,227941
+Q821D9,RS20_CHLCV,reviewed,30S ribosomal protein S20,Chlamydophila caviae (strain GPIC),98,227941
+Q824U3,RS2_CHLCV,reviewed,30S ribosomal protein S2,Chlamydophila caviae (strain GPIC),276,227941
+Q824N8,RS8_CHLCV,reviewed,30S ribosomal protein S8,Chlamydophila caviae (strain GPIC),133,227941
+Q821W7,RS6_CHLCV,reviewed,30S ribosomal protein S6,Chlamydophila caviae (strain GPIC),112,227941
+Q823N6,RSMH_CHLCV,reviewed,Ribosomal RNA small subunit methyltransferase H (EC 2.1.1.199) (16S rRNA m(4)C1402 methyltransferase) (rRNA (cytosine-N(4)-)-methyltransferase RsmH),Chlamydophila caviae (strain GPIC),297,227941
+Q824G1,RS7_CHLCV,reviewed,30S ribosomal protein S7,Chlamydophila caviae (strain GPIC),157,227941
+Q824M6,RUVC_CHLCV,reviewed,Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4) (Holliday junction nuclease RuvC) (Holliday junction resolvase RuvC),Chlamydophila caviae (strain GPIC),168,227941
+Q822Z3,RS9_CHLCV,reviewed,30S ribosomal protein S9,Chlamydophila caviae (strain GPIC),134,227941
+Q823K4,RUVB_CHLCV,reviewed,Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12),Chlamydophila caviae (strain GPIC),337,227941
+Q824M5,RUVA_CHLCV,reviewed,Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12),Chlamydophila caviae (strain GPIC),207,227941
+Q821L5,SECA_CHLCV,reviewed,Protein translocase subunit SecA,Chlamydophila caviae (strain GPIC),970,227941
+P94665,SRP_CHLCV,reviewed,Sulfur-rich protein,Chlamydophila caviae (strain GPIC),160,227941
+P59690,SYE_CHLCV,reviewed,Glutamate--tRNA ligase (EC 6.1.1.17) (Glutamyl-tRNA synthetase) (GluRS),Chlamydophila caviae (strain GPIC),505,227941
+Q822A1,SUCC_CHLCV,reviewed,Succinate--CoA ligase [ADP-forming] subunit beta (EC 6.2.1.5) (Succinyl-CoA synthetase subunit beta) (SCS-beta),Chlamydophila caviae (strain GPIC),388,227941
+Q823A7,SURE2_CHLCV,reviewed,5'-nucleotidase SurE 2 (EC 3.1.3.5) (Nucleoside 5'-monophosphate phosphohydrolase 2),Chlamydophila caviae (strain GPIC),283,227941
+Q824E8,THIM_CHLCV,reviewed,Hydroxyethylthiazole kinase (EC 2.7.1.50) (4-methyl-5-beta-hydroxyethylthiazole kinase) (TH kinase) (Thz kinase),Chlamydophila caviae (strain GPIC),262,227941
+P52227,THIO_CHLCV,reviewed,Thioredoxin (Trx),Chlamydophila caviae (strain GPIC),102,227941
+Q821G5,TOLB_CHLCV,reviewed,Protein TolB,Chlamydophila caviae (strain GPIC),427,227941
+Q822W7,TRPR_CHLCV,reviewed,Trp operon repressor homolog,Chlamydophila caviae (strain GPIC),101,227941
+Q823U7,TPIS_CHLCV,reviewed,Triosephosphate isomerase (TIM) (TPI) (EC 5.3.1.1) (Triose-phosphate isomerase),Chlamydophila caviae (strain GPIC),254,227941
+Q822Y4,TSAD_CHLCV,reviewed,tRNA N6-adenosine threonylcarbamoyltransferase (EC 2.3.1.234) (N6-L-threonylcarbamoyladenine synthase) (t(6)A synthase) (t(6)A37 threonylcarbamoyladenosine biosynthesis protein TsaD) (tRNA threonylcarbamoyladenosine biosynthesis protein TsaD),Chlamydophila caviae (strain GPIC),344,227941
+P59718,TRMB_CHLCV,reviewed,tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33) (tRNA (guanine(46)-N(7))-methyltransferase) (tRNA(m7G46)-methyltransferase),Chlamydophila caviae (strain GPIC),224,227941
+Q822W9,TRPB1_CHLCV,reviewed,Tryptophan synthase beta chain 1 (EC 4.2.1.20),Chlamydophila caviae (strain GPIC),412,227941
+Q820E4,TRMD_CHLCV,reviewed,tRNA (guanine-N(1)-)-methyltransferase (EC 2.1.1.228) (M1G-methyltransferase) (tRNA [GM37] methyltransferase),Chlamydophila caviae (strain GPIC),355,227941
+Q822W6,TRPD_CHLCV,reviewed,Anthranilate phosphoribosyltransferase (EC 2.4.2.18),Chlamydophila caviae (strain GPIC),343,227941
+Q822W4,TRPF_CHLCV,reviewed,N-(5'-phosphoribosyl)anthranilate isomerase (PRAI) (EC 5.3.1.24),Chlamydophila caviae (strain GPIC),206,227941
+Q822W3,TRPB2_CHLCV,reviewed,Tryptophan synthase beta chain 2 (EC 4.2.1.20),Chlamydophila caviae (strain GPIC),391,227941
+Q822W2,TRPA_CHLCV,reviewed,Tryptophan synthase alpha chain (EC 4.2.1.20),Chlamydophila caviae (strain GPIC),257,227941
+Q821F7,UNG_CHLCV,reviewed,Uracil-DNA glycosylase (UDG) (EC 3.2.2.27),Chlamydophila caviae (strain GPIC),229,227941
+Q822K0,VATD_CHLCV,reviewed,V-type ATP synthase subunit D (V-ATPase subunit D),Chlamydophila caviae (strain GPIC),208,227941
+Q822J9,VATB_CHLCV,reviewed,V-type ATP synthase beta chain (V-ATPase subunit B),Chlamydophila caviae (strain GPIC),438,227941
+Q823T9,XERC_CHLCV,reviewed,Tyrosine recombinase XerC,Chlamydophila caviae (strain GPIC),312,227941
+P59707,Y1002_CHLCV,reviewed,UPF0242 protein CCA_01002,Chlamydophila caviae (strain GPIC),401,227941
+Q824X8,Y010_CHLCV,reviewed,UPF0176 protein CCA_00010,Chlamydophila caviae (strain GPIC),331,227941
+Q824W6,Y022_CHLCV,reviewed,UPF0109 protein CCA_00022,Chlamydophila caviae (strain GPIC),78,227941
+Q824A6,Y247_CHLCV,reviewed,UPF0235 protein CCA_00247,Chlamydophila caviae (strain GPIC),92,227941
+Q824H7,Y169_CHLCV,reviewed,Probable transcriptional regulatory protein CCA_00169,Chlamydophila caviae (strain GPIC),238,227941
+Q823S6,Y330_CHLCV,reviewed,Nucleoid-associated protein CCA_00330,Chlamydophila caviae (strain GPIC),96,227941
+Q822P9,Y630_CHLCV,reviewed,UPF0301 protein CCA_00630,Chlamydophila caviae (strain GPIC),189,227941
+O34023,Y454_CHLCV,reviewed,Uncharacterized protein CCA_00454 (ORFF),Chlamydophila caviae (strain GPIC),581,227941
+Q823U1,Y314_CHLCV,reviewed,Maf-like protein CCA_00314,Chlamydophila caviae (strain GPIC),196,227941
+Q824B8,YBEY_CHLCV,reviewed,Endoribonuclease YbeY (EC 3.1.-.-),Chlamydophila caviae (strain GPIC),158,227941
+Q821Q5,Y883_CHLCV,reviewed,Uncharacterized RNA methyltransferase CCA_00883 (EC 2.1.1.-),Chlamydophila caviae (strain GPIC),401,227941
+Q822T1,YQGF_CHLCV,reviewed,Putative pre-16S rRNA nuclease (EC 3.1.-.-),Chlamydophila caviae (strain GPIC),163,227941
+Q821F9,IXTPA_CHLCV,reviewed,dITP/XTP pyrophosphatase (EC 3.6.1.66) (Non-canonical purine NTP pyrophosphatase) (Non-standard purine NTP pyrophosphatase) (Nucleoside-triphosphate diphosphatase) (Nucleoside-triphosphate pyrophosphatase) (NTPase),Chlamydophila caviae (strain GPIC),206,227941
+Q822Z1,KAD_CHLCV,reviewed,Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase),Chlamydophila caviae (strain GPIC),214,227941
+Q821T4,IPYR_CHLCV,reviewed,Inorganic pyrophosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase) (PPase),Chlamydophila caviae (strain GPIC),216,227941
+Q824I4,ISPD_CHLCV,reviewed,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) (4-diphosphocytidyl-2C-methyl-D-erythritol synthase) (MEP cytidylyltransferase) (MCT),Chlamydophila caviae (strain GPIC),212,227941
+Q821X0,ISPE_CHLCV,reviewed,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (CMK) (EC 2.7.1.148) (4-(cytidine-5'-diphospho)-2-C-methyl-D-erythritol kinase),Chlamydophila caviae (strain GPIC),291,227941
+Q824F7,ISPF_CHLCV,reviewed,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (MECDP-synthase) (MECPP-synthase) (MECPS) (EC 4.6.1.12)",Chlamydophila caviae (strain GPIC),176,227941
+Q824W7,KDSA_CHLCV,reviewed,2-dehydro-3-deoxyphosphooctonate aldolase (EC 2.5.1.55) (3-deoxy-D-manno-octulosonic acid 8-phosphate synthase) (KDO-8-phosphate synthase) (KDO 8-P synthase) (KDOPS) (Phospho-2-dehydro-3-deoxyoctonate aldolase),Chlamydophila caviae (strain GPIC),269,227941
+Q824H2,KCY_CHLCV,reviewed,Cytidylate kinase (CK) (EC 2.7.4.25) (Cytidine monophosphate kinase) (CMP kinase),Chlamydophila caviae (strain GPIC),216,227941
+Q823B7,KTHY_CHLCV,reviewed,Thymidylate kinase (EC 2.7.4.9) (dTMP kinase),Chlamydophila caviae (strain GPIC),207,227941
+Q822T3,KDSB_CHLCV,reviewed,3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38) (CMP-2-keto-3-deoxyoctulosonic acid synthase) (CKS) (CMP-KDO synthase),Chlamydophila caviae (strain GPIC),254,227941
+Q822M8,KGUA_CHLCV,reviewed,Guanylate kinase (EC 2.7.4.8) (GMP kinase),Chlamydophila caviae (strain GPIC),204,227941
+Q824H0,ISPT_CHLCV,reviewed,Isoprenyl transferase (EC 2.5.1.-),Chlamydophila caviae (strain GPIC),250,227941
+Q823H7,LEPA_CHLCV,reviewed,Elongation factor 4 (EF-4) (EC 3.6.5.n1) (Ribosomal back-translocase LepA),Chlamydophila caviae (strain GPIC),602,227941
+Q824Q4,LPXC_CHLCV,reviewed,UDP-3-O-acyl-N-acetylglucosamine deacetylase (UDP-3-O-acyl-GlcNAc deacetylase) (EC 3.5.1.108) (UDP-3-O-[R-3-hydroxymyristoyl]-N-acetylglucosamine deacetylase),Chlamydophila caviae (strain GPIC),280,227941
+Q823E0,LPXD_CHLCV,reviewed,UDP-3-O-acylglucosamine N-acyltransferase (EC 2.3.1.-),Chlamydophila caviae (strain GPIC),359,227941
+Q823E7,LGT_CHLCV,reviewed,Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-),Chlamydophila caviae (strain GPIC),296,227941
+Q820F0,LPXA_CHLCV,reviewed,Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (UDP-N-acetylglucosamine acyltransferase) (EC 2.3.1.129),Chlamydophila caviae (strain GPIC),279,227941
+Q821Z3,LPXB_CHLCV,reviewed,Lipid-A-disaccharide synthase (EC 2.4.1.182),Chlamydophila caviae (strain GPIC),626,227941
+Q821K6,LIPA_CHLCV,reviewed,Lipoyl synthase (EC 2.8.1.8) (Lip-syn) (LS) (Lipoate synthase) (Lipoic acid synthase) (Sulfur insertion protein LipA),Chlamydophila caviae (strain GPIC),312,227941
+Q824Q5,LNT_CHLCV,reviewed,Apolipoprotein N-acyltransferase (ALP N-acyltransferase) (EC 2.3.1.-),Chlamydophila caviae (strain GPIC),541,227941
+Q824E2,LSPA_CHLCV,reviewed,Lipoprotein signal peptidase (EC 3.4.23.36) (Prolipoprotein signal peptidase) (Signal peptidase II) (SPase II),Chlamydophila caviae (strain GPIC),165,227941
+Q824D6,LPXK_CHLCV,reviewed,Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130) (Lipid A 4'-kinase),Chlamydophila caviae (strain GPIC),367,227941
+Q822E9,MDH_CHLCV,reviewed,Malate dehydrogenase (EC 1.1.1.37),Chlamydophila caviae (strain GPIC),330,227941
+O34022,MALQ_CHLCV,reviewed,4-alpha-glucanotransferase (EC 2.4.1.25) (Amylomaltase) (Disproportionating enzyme) (D-enzyme),Chlamydophila caviae (strain GPIC),530,227941
+Q821L2,MNME_CHLCV,reviewed,tRNA modification GTPase MnmE (EC 3.6.-.-),Chlamydophila caviae (strain GPIC),443,227941
+Q81ZV1,MENG_CHLCV,reviewed,Demethylmenaquinone methyltransferase (EC 2.1.1.163),Chlamydophila caviae (strain GPIC),230,227941
+Q823C4,METN_CHLCV,reviewed,Methionine import ATP-binding protein MetN (EC 3.6.3.-),Chlamydophila caviae (strain GPIC),341,227941
+Q820E1,MIAA_CHLCV,reviewed,tRNA dimethylallyltransferase (EC 2.5.1.75) (Dimethylallyl diphosphate:tRNA dimethylallyltransferase) (DMAPP:tRNA dimethylallyltransferase) (DMATase) (Isopentenyl-diphosphate:tRNA isopentenyltransferase) (IPP transferase) (IPPT) (IPTase),Chlamydophila caviae (strain GPIC),342,227941
+Q820E9,MNMA_CHLCV,reviewed,tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13),Chlamydophila caviae (strain GPIC),360,227941
+Q824M2,MNMG_CHLCV,reviewed,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG (Glucose-inhibited division protein A),Chlamydophila caviae (strain GPIC),611,227941
+Q821S0,MRAY_CHLCV,reviewed,Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) (UDP-MurNAc-pentapeptide phosphotransferase),Chlamydophila caviae (strain GPIC),348,227941
+Q820E0,MURG_CHLCV,reviewed,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227) (Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase),Chlamydophila caviae (strain GPIC),358,227941
+Q821S1,MURD_CHLCV,reviewed,UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9) (D-glutamic acid-adding enzyme) (UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase),Chlamydophila caviae (strain GPIC),419,227941
+Q822B0,MURB_CHLCV,reviewed,UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98) (UDP-N-acetylmuramate dehydrogenase),Chlamydophila caviae (strain GPIC),296,227941
+Q821S4,MUDD_CHLCV,reviewed,Bifunctional enzyme MurC/Ddl [Includes: UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8) (UDP-N-acetylmuramoyl-L-alanine synthetase); D-alanine--D-alanine ligase (EC 6.3.2.4) (D-Ala-D-Ala ligase) (D-alanylalanine synthetase)],Chlamydophila caviae (strain GPIC),811,227941
+Q821I9,MUTL_CHLCV,reviewed,DNA mismatch repair protein MutL,Chlamydophila caviae (strain GPIC),580,227941
+Q823P3,NQRC_CHLCV,reviewed,Na(+)-translocating NADH-quinone reductase subunit C (Na(+)-NQR subunit C) (Na(+)-translocating NQR subunit C) (EC 1.6.5.8) (NQR complex subunit C) (NQR-1 subunit C),Chlamydophila caviae (strain GPIC),319,227941
+Q824E0,NRDR_CHLCV,reviewed,Transcriptional repressor NrdR,Chlamydophila caviae (strain GPIC),152,227941
+Q823P4,NQRD_CHLCV,reviewed,Na(+)-translocating NADH-quinone reductase subunit D (Na(+)-NQR subunit D) (Na(+)-translocating NQR subunit D) (EC 1.6.5.8) (NQR complex subunit D) (NQR-1 subunit D),Chlamydophila caviae (strain GPIC),213,227941
+Q823P2,NQRB_CHLCV,reviewed,Na(+)-translocating NADH-quinone reductase subunit B (Na(+)-NQR subunit B) (Na(+)-translocating NQR subunit B) (EC 1.6.5.8) (NQR complex subunit B) (NQR-1 subunit B),Chlamydophila caviae (strain GPIC),503,227941
+Q821M4,PCKG_CHLCV,reviewed,Phosphoenolpyruvate carboxykinase [GTP] (PEP carboxykinase) (PEPCK) (EC 4.1.1.32),Chlamydophila caviae (strain GPIC),600,227941
+Q824S8,PGK_CHLCV,reviewed,Phosphoglycerate kinase (EC 2.7.2.3),Chlamydophila caviae (strain GPIC),403,227941
+Q823P5,NQRE_CHLCV,reviewed,Na(+)-translocating NADH-quinone reductase subunit E (Na(+)-NQR subunit E) (Na(+)-translocating NQR subunit E) (EC 1.6.5.8) (NQR complex subunit E) (NQR-1 subunit E),Chlamydophila caviae (strain GPIC),264,227941
+Q821Q3,NQRF_CHLCV,reviewed,Na(+)-translocating NADH-quinone reductase subunit F (Na(+)-NQR subunit F) (Na(+)-translocating NQR subunit F) (EC 1.6.5.8) (NQR complex subunit F) (NQR-1 subunit F),Chlamydophila caviae (strain GPIC),431,227941
+Q824F3,OBG_CHLCV,reviewed,GTPase Obg (EC 3.6.5.-) (GTP-binding protein Obg),Chlamydophila caviae (strain GPIC),335,227941
+P94664,OMCB_CHLCV,reviewed,Large cysteine-rich periplasmic protein OmcB (Large-CRP) (60 kDa CRP) (60 kDa outer membrane protein) (Cysteine-rich outer membrane protein),Chlamydophila caviae (strain GPIC),558,227941
+Q822R1,PKN1_CHLCV,reviewed,Serine/threonine-protein kinase pkn1 (EC 2.7.11.1),Chlamydophila caviae (strain GPIC),618,227941
+Q821X8,PLSX_CHLCV,reviewed,Phosphate acyltransferase (EC 2.3.1.n2) (Acyl-ACP phosphotransacylase) (Acyl-[acyl-carrier-protein]--phosphate acyltransferase) (Phosphate-acyl-ACP acyltransferase),Chlamydophila caviae (strain GPIC),316,227941
+Q822C1,PNP_CHLCV,reviewed,Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) (Polynucleotide phosphorylase) (PNPase),Chlamydophila caviae (strain GPIC),694,227941
+Q822K5,PKND_CHLCV,reviewed,Serine/threonine-protein kinase PknD (EC 2.7.11.1),Chlamydophila caviae (strain GPIC),930,227941
+Q822T2,PYRG_CHLCV,reviewed,CTP synthase (EC 6.3.4.2) (Cytidine 5'-triphosphate synthase) (Cytidine triphosphate synthetase) (CTP synthetase) (CTPS) (UTP--ammonia ligase),Chlamydophila caviae (strain GPIC),537,227941
+Q823D7,RECR_CHLCV,reviewed,Recombination protein RecR,Chlamydophila caviae (strain GPIC),200,227941
+Q821E6,RECA_CHLCV,reviewed,Protein RecA (Recombinase A),Chlamydophila caviae (strain GPIC),350,227941
+Q823F3,RBFA_CHLCV,reviewed,Ribosome-binding factor A,Chlamydophila caviae (strain GPIC),120,227941
+Q823G6,RECF_CHLCV,reviewed,DNA replication and repair protein RecF,Chlamydophila caviae (strain GPIC),367,227941
+Q823A0,RIMO_CHLCV,reviewed,Ribosomal protein S12 methylthiotransferase RimO (S12 MTTase) (S12 methylthiotransferase) (EC 2.8.4.4) (Ribosomal protein S12 (aspartate-C(3))-methylthiotransferase) (Ribosome maturation factor RimO),Chlamydophila caviae (strain GPIC),460,227941
+Q822M2,RF1_CHLCV,reviewed,Peptide chain release factor 1 (RF-1),Chlamydophila caviae (strain GPIC),361,227941
+Q824F5,RL21_CHLCV,reviewed,50S ribosomal protein L21,Chlamydophila caviae (strain GPIC),106,227941
+Q824P0,RL24_CHLCV,reviewed,50S ribosomal protein L24,Chlamydophila caviae (strain GPIC),113,227941
+Q822I9,RL10_CHLCV,reviewed,50S ribosomal protein L10,Chlamydophila caviae (strain GPIC),170,227941
+Q822I7,RL11_CHLCV,reviewed,50S ribosomal protein L11,Chlamydophila caviae (strain GPIC),141,227941
+Q824N4,RL15_CHLCV,reviewed,50S ribosomal protein L15,Chlamydophila caviae (strain GPIC),144,227941
+Q824P3,RL29_CHLCV,reviewed,50S ribosomal protein L29,Chlamydophila caviae (strain GPIC),72,227941
+Q821P5,RISB_CHLCV,reviewed,"6,7-dimethyl-8-ribityllumazine synthase (DMRL synthase) (LS) (Lumazine synthase) (EC 2.5.1.78)",Chlamydophila caviae (strain GPIC),154,227941
+Q824N6,RL18_CHLCV,reviewed,50S ribosomal protein L18,Chlamydophila caviae (strain GPIC),123,227941
+Q822Z4,RL13_CHLCV,reviewed,50S ribosomal protein L13,Chlamydophila caviae (strain GPIC),150,227941
+Q824P1,RL14_CHLCV,reviewed,50S ribosomal protein L14,Chlamydophila caviae (strain GPIC),122,227941
+Q822M6,RL19_CHLCV,reviewed,50S ribosomal protein L19,Chlamydophila caviae (strain GPIC),121,227941
+Q822I8,RL1_CHLCV,reviewed,50S ribosomal protein L1,Chlamydophila caviae (strain GPIC),232,227941
+Q821X7,RL32_CHLCV,reviewed,50S ribosomal protein L32,Chlamydophila caviae (strain GPIC),60,227941
+Q824N0,RL17_CHLCV,reviewed,50S ribosomal protein L17,Chlamydophila caviae (strain GPIC),142,227941
+Q824F4,RL27_CHLCV,reviewed,50S ribosomal protein L27,Chlamydophila caviae (strain GPIC),82,227941
+Q824P9,RL23_CHLCV,reviewed,50S ribosomal protein L23,Chlamydophila caviae (strain GPIC),111,227941
+Q822Z9,RL33_CHLCV,reviewed,50S ribosomal protein L33,Chlamydophila caviae (strain GPIC),52,227941
+Q824Q1,RL3_CHLCV,reviewed,50S ribosomal protein L3,Chlamydophila caviae (strain GPIC),221,227941
+Q824P4,RL16_CHLCV,reviewed,50S ribosomal protein L16,Chlamydophila caviae (strain GPIC),138,227941
+Q821W5,RL25_CHLCV,reviewed,50S ribosomal protein L25 (General stress protein CTC),Chlamydophila caviae (strain GPIC),185,227941
+Q822B4,RL20_CHLCV,reviewed,50S ribosomal protein L20,Chlamydophila caviae (strain GPIC),121,227941
+Q824P6,RL22_CHLCV,reviewed,50S ribosomal protein L22,Chlamydophila caviae (strain GPIC),111,227941
+Q823F7,RL28_CHLCV,reviewed,50S ribosomal protein L28,Chlamydophila caviae (strain GPIC),89,227941
+Q824P8,RL2_CHLCV,reviewed,50S ribosomal protein L2,Chlamydophila caviae (strain GPIC),284,227941
+Q821V2,RS14_CHLCV,reviewed,30S ribosomal protein S14,Chlamydophila caviae (strain GPIC),101,227941
+Q824P2,RS17_CHLCV,reviewed,30S ribosomal protein S17,Chlamydophila caviae (strain GPIC),83,227941
+Q822M5,RS16_CHLCV,reviewed,30S ribosomal protein S16,Chlamydophila caviae (strain GPIC),119,227941
+Q823T3,RS21_CHLCV,reviewed,30S ribosomal protein S21,Chlamydophila caviae (strain GPIC),58,227941
+Q824X7,RS4_CHLCV,reviewed,30S ribosomal protein S4,Chlamydophila caviae (strain GPIC),209,227941
+Q822C2,RS15_CHLCV,reviewed,30S ribosomal protein S15,Chlamydophila caviae (strain GPIC),89,227941
+Q824N5,RS5_CHLCV,reviewed,30S ribosomal protein S5,Chlamydophila caviae (strain GPIC),165,227941
+Q824N2,RS11_CHLCV,reviewed,30S ribosomal protein S11,Chlamydophila caviae (strain GPIC),132,227941
+Q823V2,RSMA_CHLCV,reviewed,"Ribosomal RNA small subunit methyltransferase A (EC 2.1.1.182) (16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase) (16S rRNA dimethyladenosine transferase) (16S rRNA dimethylase) (S-adenosylmethionine-6-N', N'-adenosyl(rRNA) dimethyltransferase)",Chlamydophila caviae (strain GPIC),278,227941
+Q824P5,RS3_CHLCV,reviewed,30S ribosomal protein S3,Chlamydophila caviae (strain GPIC),223,227941
+Q823G4,SSRP_CHLCV,reviewed,SsrA-binding protein (Small protein B),Chlamydophila caviae (strain GPIC),150,227941
+Q823K0,SSB_CHLCV,reviewed,Single-stranded DNA-binding protein (SSB),Chlamydophila caviae (strain GPIC),161,227941
+Q821R2,SYA_CHLCV,reviewed,Alanine--tRNA ligase (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS),Chlamydophila caviae (strain GPIC),875,227941
+Q821U7,SYC_CHLCV,reviewed,Cysteine--tRNA ligase (EC 6.1.1.16) (Cysteinyl-tRNA synthetase) (CysRS),Chlamydophila caviae (strain GPIC),476,227941
+Q46175,SYDND_CHLCV,reviewed,Aspartate--tRNA(Asp/Asn) ligase (EC 6.1.1.23) (Aspartyl-tRNA synthetase) (AspRS) (Non-discriminating aspartyl-tRNA synthetase) (ND-AspRS),Chlamydophila caviae (strain GPIC),584,227941
+Q823A6,SURE1_CHLCV,reviewed,5'-nucleotidase SurE 1 (EC 3.1.3.5) (Nucleoside 5'-monophosphate phosphohydrolase 1),Chlamydophila caviae (strain GPIC),279,227941
+Q821U6,SYK_CHLCV,reviewed,Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS),Chlamydophila caviae (strain GPIC),525,227941
+Q822L8,SYI_CHLCV,reviewed,Isoleucine--tRNA ligase (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (IleRS),Chlamydophila caviae (strain GPIC),1043,227941
+Q822N0,SYM_CHLCV,reviewed,Methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS),Chlamydophila caviae (strain GPIC),550,227941
+Q822K4,SYV_CHLCV,reviewed,Valine--tRNA ligase (EC 6.1.1.9) (Valyl-tRNA synthetase) (ValRS),Chlamydophila caviae (strain GPIC),940,227941
+Q824J8,SYFB_CHLCV,reviewed,Phenylalanine--tRNA ligase beta subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase beta subunit) (PheRS),Chlamydophila caviae (strain GPIC),793,227941
+Q821I3,SYT_CHLCV,reviewed,Threonine--tRNA ligase (EC 6.1.1.3) (Threonyl-tRNA synthetase) (ThrRS),Chlamydophila caviae (strain GPIC),635,227941
+Q822R7,SYL_CHLCV,reviewed,Leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase) (LeuRS),Chlamydophila caviae (strain GPIC),820,227941
+Q824A9,SYP_CHLCV,reviewed,Proline--tRNA ligase (EC 6.1.1.15) (Prolyl-tRNA synthetase) (ProRS),Chlamydophila caviae (strain GPIC),577,227941
+Q822B5,SYFA_CHLCV,reviewed,Phenylalanine--tRNA ligase alpha subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase alpha subunit) (PheRS),Chlamydophila caviae (strain GPIC),341,227941
+Q824R3,SYH_CHLCV,reviewed,Histidine--tRNA ligase (EC 6.1.1.21) (Histidyl-tRNA synthetase) (HisRS),Chlamydophila caviae (strain GPIC),430,227941
+Q822J3,TAL_CHLCV,reviewed,Transaldolase (EC 2.2.1.2),Chlamydophila caviae (strain GPIC),327,227941
+Q821H9,SYW_CHLCV,reviewed,Tryptophan--tRNA ligase (EC 6.1.1.2) (Tryptophanyl-tRNA synthetase) (TrpRS),Chlamydophila caviae (strain GPIC),345,227941
+Q821P2,SYS_CHLCV,reviewed,Serine--tRNA ligase (EC 6.1.1.11) (Seryl-tRNA synthetase) (SerRS) (Seryl-tRNA(Ser/Sec) synthetase),Chlamydophila caviae (strain GPIC),426,227941
+Q822U8,TGT_CHLCV,reviewed,Queuine tRNA-ribosyltransferase (EC 2.4.2.29) (Guanine insertion enzyme) (tRNA-guanine transglycosylase),Chlamydophila caviae (strain GPIC),372,227941
+Q824H4,SYR_CHLCV,reviewed,Arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS),Chlamydophila caviae (strain GPIC),564,227941
+Q823H9,SYY_CHLCV,reviewed,Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase) (TyrRS),Chlamydophila caviae (strain GPIC),412,227941
+Q822B9,TILS_CHLCV,reviewed,tRNA(Ile)-lysidine synthase (EC 6.3.4.19) (tRNA(Ile)-2-lysyl-cytidine synthase) (tRNA(Ile)-lysidine synthetase),Chlamydophila caviae (strain GPIC),317,227941
+Q824E9,THIE_CHLCV,reviewed,Thiamine-phosphate synthase (TP synthase) (TPS) (EC 2.5.1.3) (Thiamine-phosphate pyrophosphorylase) (TMP pyrophosphorylase) (TMP-PPase),Chlamydophila caviae (strain GPIC),212,227941
+Q821V5,UVRC_CHLCV,reviewed,UvrABC system protein C (Protein UvrC) (Excinuclease ABC subunit C),Chlamydophila caviae (strain GPIC),605,227941
+Q822J6,VATE_CHLCV,reviewed,V-type ATP synthase subunit E (V-ATPase subunit E),Chlamydophila caviae (strain GPIC),208,227941
+Q821H8,UVRB_CHLCV,reviewed,UvrABC system protein B (Protein UvrB) (Excinuclease ABC subunit B),Chlamydophila caviae (strain GPIC),656,227941
+Q822J8,VATA_CHLCV,reviewed,V-type ATP synthase alpha chain (EC 3.6.3.14) (V-ATPase subunit A),Chlamydophila caviae (strain GPIC),591,227941
+Q824J6,YIDD_CHLCV,reviewed,Putative membrane protein insertion efficiency factor,Chlamydophila caviae (strain GPIC),103,227941
+P59809,YIDC_CHLCV,reviewed,Membrane protein insertase YidC (Foldase YidC) (Membrane integrase YidC) (Membrane protein YidC),Chlamydophila caviae (strain GPIC),794,227941
+Q823W0,Q823W0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),143,227941
+Q823D2,Q823D2_CHLCV,unreviewed,"Sodium-dependent transporter, putative",Chlamydophila caviae (strain GPIC),493,227941
+Q823C6,Q823C6_CHLCV,unreviewed,Fructose-bisphosphate aldolase class I,Chlamydophila caviae (strain GPIC),349,227941
+Q823B1,Q823B1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),379,227941
+Q822K7,Q822K7_CHLCV,unreviewed,Pyruvate kinase (EC 2.7.1.40),Chlamydophila caviae (strain GPIC),481,227941
+Q823B9,Q823B9_CHLCV,unreviewed,DNA gyrase subunit B (EC 5.99.1.3),Chlamydophila caviae (strain GPIC),806,227941
+Q822D4,Q822D4_CHLCV,unreviewed,"ABC transporter, permease protein, putative",Chlamydophila caviae (strain GPIC),610,227941
+Q823X3,Q823X3_CHLCV,unreviewed,"Polymorphic outer membrane protein G family protein/autotransporter, putative",Chlamydophila caviae (strain GPIC),843,227941
+Q824U7,Q824U7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),172,227941
+Q824U0,Q824U0_CHLCV,unreviewed,"Type III secretion chaperone, putative",Chlamydophila caviae (strain GPIC),335,227941
+Q824C4,Q824C4_CHLCV,unreviewed,Chorismate dehydratase (EC 4.2.1.151) (Menaquinone biosynthetic enzyme MqnA),Chlamydophila caviae (strain GPIC),260,227941
+H2VFU5,H2VFU5_CHLCV,unreviewed,Type III secretion chaperone,Chlamydophila caviae (strain GPIC),146,227941
+Q822H5,Q822H5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),621,227941
+Q823D9,Q823D9_CHLCV,unreviewed,"Cationic outer membrane protein OmpH, putative",Chlamydophila caviae (strain GPIC),179,227941
+Q824K3,Q824K3_CHLCV,unreviewed,"Peptide ABC transporter, periplasmic peptide-binding protein, putative",Chlamydophila caviae (strain GPIC),705,227941
+Q824K2,Q824K2_CHLCV,unreviewed,"Peptide ABC transporter, permease protein, putative",Chlamydophila caviae (strain GPIC),493,227941
+Q822X9,Q822X9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),1149,227941
+Q823A2,Q823A2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),287,227941
+Q822F0,Q822F0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),274,227941
+Q821R6,Q821R6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),73,227941
+Q822X5,Q822X5_CHLCV,unreviewed,"Acetyl-CoA carboxylase, biotin carboxyl carrier protein",Chlamydophila caviae (strain GPIC),166,227941
+Q823R6,Q823R6_CHLCV,unreviewed,Hydroxymethylbilane synthase (EC 2.5.1.61),Chlamydophila caviae (strain GPIC),242,227941
+Q824C5,Q824C5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),329,227941
+Q823X9,Q823X9_CHLCV,unreviewed,"Polymorphic outer membrane protein E/F family protein/autotransporter, putative",Chlamydophila caviae (strain GPIC),927,227941
+Q821I2,Q821I2_CHLCV,unreviewed,"Chromosome partitioning ATPase ParA, putative",Chlamydophila caviae (strain GPIC),255,227941
+Q822E0,Q822E0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),240,227941
+Q822D7,Q822D7_CHLCV,unreviewed,"Na+/H+ antiporter, putative",Chlamydophila caviae (strain GPIC),420,227941
+Q821P8,Q821P8_CHLCV,unreviewed,Sodium/alanine symporter family protein,Chlamydophila caviae (strain GPIC),457,227941
+Q822A4,Q822A4_CHLCV,unreviewed,"Metalloprotease, insulinase family",Chlamydophila caviae (strain GPIC),974,227941
+Q823R8,Q823R8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),138,227941
+Q822C4,Q822C4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),76,227941
+Q823J4,Q823J4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),435,227941
+Q824G5,Q824G5_CHLCV,unreviewed,"Tail-specific protease, putative",Chlamydophila caviae (strain GPIC),651,227941
+Q822J7,Q822J7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),266,227941
+Q824M9,Q824M9_CHLCV,unreviewed,Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.-),Chlamydophila caviae (strain GPIC),335,227941
+Q821E5,Q821E5_CHLCV,unreviewed,"Coenzyme pqq synthesis protein c, putative",Chlamydophila caviae (strain GPIC),242,227941
+Q823W8,Q823W8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),91,227941
+Q822Y9,Q822Y9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),140,227941
+Q823R5,Q823R5_CHLCV,unreviewed,DNA repair protein RadA,Chlamydophila caviae (strain GPIC),453,227941
+Q824R9,Q824R9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),199,227941
+Q822W0,Q822W0_CHLCV,unreviewed,Ribose-phosphate pyrophosphokinase,Chlamydophila caviae (strain GPIC),301,227941
+Q823C3,Q823C3_CHLCV,unreviewed,"ABC transporter, permease protein",Chlamydophila caviae (strain GPIC),221,227941
+Q823Z0,Q823Z0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),234,227941
+Q822A6,Q822A6_CHLCV,unreviewed,"Glycerol-serine phosphatidyltransferase, putative",Chlamydophila caviae (strain GPIC),268,227941
+Q821D3,Q821D3_CHLCV,unreviewed,Geranyltranstransferase,Chlamydophila caviae (strain GPIC),293,227941
+Q821Z9,Q821Z9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),238,227941
+Q821J0,Q821J0_CHLCV,unreviewed,Proline dipeptidase,Chlamydophila caviae (strain GPIC),356,227941
+Q821D4,Q821D4_CHLCV,unreviewed,"Putative transferase, LpxA family",Chlamydophila caviae (strain GPIC),204,227941
+Q824I6,Q824I6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),235,227941
+Q823N8,Q823N8_CHLCV,unreviewed,"Type III secretion chaperone, putative",Chlamydophila caviae (strain GPIC),143,227941
+Q822M4,Q822M4_CHLCV,unreviewed,Signal recognition particle,Chlamydophila caviae (strain GPIC),447,227941
+Q822V1,Q822V1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),280,227941
+Q821X2,Q821X2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),450,227941
+Q821N2,Q821N2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),183,227941
+Q821M9,Q821M9_CHLCV,unreviewed,UTP--glucose-1-phosphate uridylyltransferase family protein,Chlamydophila caviae (strain GPIC),460,227941
+Q823Z5,Q823Z5_CHLCV,unreviewed,"Sodium/pantothenate symporter, putative",Chlamydophila caviae (strain GPIC),444,227941
+Q823I5,Q823I5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),324,227941
+Q821E0,Q821E0_CHLCV,unreviewed,RNA polymerase sigma factor SigA,Chlamydophila caviae (strain GPIC),572,227941
+Q824R7,Q824R7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),294,227941
+Q823Q4,Q823Q4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),197,227941
+Q821M6,Q821M6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),388,227941
+Q823S0,Q823S0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),146,227941
+Q822C8,Q822C8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),167,227941
+Q824J7,Q824J7_CHLCV,unreviewed,LysM domain protein,Chlamydophila caviae (strain GPIC),363,227941
+Q823Y1,Q823Y1_CHLCV,unreviewed,"Polymorphic outer membrane protein E/F family protein/autotransporter, putative",Chlamydophila caviae (strain GPIC),941,227941
+Q821G4,Q821G4_CHLCV,unreviewed,Peptidoglycan-associated lipoprotein,Chlamydophila caviae (strain GPIC),191,227941
+Q823V7,Q823V7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),533,227941
+H2VFU4,H2VFU4_CHLCV,unreviewed,Type III secretion inner membrane protein SctV,Chlamydophila caviae (strain GPIC),709,227941
+Q823U3,Q823U3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),698,227941
+Q821T9,Q821T9_CHLCV,unreviewed,"8-amino-7-oxononanoate synthase, putative",Chlamydophila caviae (strain GPIC),364,227941
+Q824L9,Q824L9_CHLCV,unreviewed,"ADP,ATP carrier protein",Chlamydophila caviae (strain GPIC),546,227941
+Q821S5,Q821S5_CHLCV,unreviewed,UPF0109 protein CCA_00862,Chlamydophila caviae (strain GPIC),142,227941
+Q824R6,Q824R6_CHLCV,unreviewed,DNA-directed DNA polymerase (EC 2.7.7.7),Chlamydophila caviae (strain GPIC),1242,227941
+Q822R3,Q822R3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),1458,227941
+Q821L8,Q821L8_CHLCV,unreviewed,Poly(A) polymerase family protein,Chlamydophila caviae (strain GPIC),410,227941
+Q824T1,Q824T1_CHLCV,unreviewed,"Peptide ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),320,227941
+Q822G8,Q822G8_CHLCV,unreviewed,Aspartate-semialdehyde dehydrogenase,Chlamydophila caviae (strain GPIC),334,227941
+Q824E1,Q824E1_CHLCV,unreviewed,"Transcriptional regulator, putative",Chlamydophila caviae (strain GPIC),124,227941
+Q823Q2,Q823Q2_CHLCV,unreviewed,"ATP-dependent Clp protease, ATP-binding subunit",Chlamydophila caviae (strain GPIC),846,227941
+Q824Q7,Q824Q7_CHLCV,unreviewed,"DNA polymerase III, epsilon chain",Chlamydophila caviae (strain GPIC),249,227941
+Q824M8,Q824M8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),280,227941
+Q822P8,Q822P8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),146,227941
+Q823L7,Q823L7_CHLCV,unreviewed,"MazG protein, putative",Chlamydophila caviae (strain GPIC),128,227941
+Q824L2,Q824L2_CHLCV,unreviewed,Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27),Chlamydophila caviae (strain GPIC),442,227941
+H2VFT7,H2VFT7_CHLCV,unreviewed,"Methyltransferase, putative",Chlamydophila caviae (strain GPIC),270,227941
+Q822K1,Q822K1_CHLCV,unreviewed,"V-type sodium ATP synthase, subunit I",Chlamydophila caviae (strain GPIC),651,227941
+Q823M4,Q823M4_CHLCV,unreviewed,"DNA polymerase III, epsilon chain",Chlamydophila caviae (strain GPIC),228,227941
+Q822B8,Q822B8_CHLCV,unreviewed,YjgP/YjgQ family protein,Chlamydophila caviae (strain GPIC),357,227941
+Q824I9,Q824I9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),1006,227941
+Q821V4,Q821V4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),160,227941
+Q823M2,Q823M2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),168,227941
+Q824L5,Q824L5_CHLCV,unreviewed,Transcription termination factor Rho (EC 3.6.4.-) (ATP-dependent helicase Rho),Chlamydophila caviae (strain GPIC),464,227941
+Q823J8,Q823J8_CHLCV,unreviewed,Hc2 nucleoprotein,Chlamydophila caviae (strain GPIC),152,227941
+Q821F8,Q821F8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),77,227941
+Q822N8,Q822N8_CHLCV,unreviewed,Oligoendopeptidase F,Chlamydophila caviae (strain GPIC),609,227941
+Q821P4,Q821P4_CHLCV,unreviewed,"Riboflavin biosynthesis protein RibBA [Includes: 3,4-dihydroxy-2-butanone 4-phosphate synthase (DHBP synthase) (EC 4.1.99.12); GTP cyclohydrolase-2 (EC 3.5.4.25) (GTP cyclohydrolase II)]",Chlamydophila caviae (strain GPIC),419,227941
+Q821G7,Q821G7_CHLCV,unreviewed,ExbD/TolR family protein,Chlamydophila caviae (strain GPIC),135,227941
+Q822S9,Q822S9_CHLCV,unreviewed,"Peptide ABC transporter, periplasmic binding protein, putative",Chlamydophila caviae (strain GPIC),535,227941
+Q822L6,Q822L6_CHLCV,unreviewed,PhoH family protein,Chlamydophila caviae (strain GPIC),430,227941
+Q821E9,Q821E9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),194,227941
+Q823X6,Q823X6_CHLCV,unreviewed,Polymorphic outer membrane protein H family protein,Chlamydophila caviae (strain GPIC),981,227941
+Q823S3,Q823S3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),698,227941
+Q821J3,Q821J3_CHLCV,unreviewed,General secretion pathway protein E,Chlamydophila caviae (strain GPIC),497,227941
+Q823S5,Q823S5_CHLCV,unreviewed,"DNA polymerase III, gamma subunit",Chlamydophila caviae (strain GPIC),446,227941
+Q822S4,Q822S4_CHLCV,unreviewed,"Peptide ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),261,227941
+Q821Q7,Q821Q7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),833,227941
+Q822S1,Q822S1_CHLCV,unreviewed,Probable ATP-dependent 6-phosphofructokinase (ATP-PFK) (Phosphofructokinase) (EC 2.7.1.11) (Phosphohexokinase),Chlamydophila caviae (strain GPIC),551,227941
+Q821E4,Q821E4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),244,227941
+Q822T7,Q822T7_CHLCV,unreviewed,"ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),235,227941
+Q821N9,Q821N9_CHLCV,unreviewed,Cell shape-determining protein MrdB,Chlamydophila caviae (strain GPIC),379,227941
+Q821N4,Q821N4_CHLCV,unreviewed,"NifU protein, putative",Chlamydophila caviae (strain GPIC),273,227941
+Q824V6,Q824V6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),149,227941
+Q822T6,Q822T6_CHLCV,unreviewed,5'-methylthioadenosine nucleosidase-related protein,Chlamydophila caviae (strain GPIC),297,227941
+Q823K1,Q823K1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),168,227941
+Q821C8,Q821C8_CHLCV,unreviewed,Virulence plasmid integrase pGP7-D,Chlamydophila caviae (strain GPIC),307,227941
+Q823S2,Q823S2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),154,227941
+Q824V8,Q824V8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),83,227941
+Q823G5,Q823G5_CHLCV,unreviewed,DNA polymerase III subunit beta (EC 2.7.7.7),Chlamydophila caviae (strain GPIC),366,227941
+Q821Y4,Q821Y4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),328,227941
+Q822D3,Q822D3_CHLCV,unreviewed,UPF0056 inner membrane protein,Chlamydophila caviae (strain GPIC),202,227941
+Q823W5,Q823W5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),381,227941
+Q823L0,Q823L0_CHLCV,unreviewed,"NifS protein, putative",Chlamydophila caviae (strain GPIC),371,227941
+Q821H3,Q821H3_CHLCV,unreviewed,"Succinate dehydrogenase, iron-sulfur protein",Chlamydophila caviae (strain GPIC),263,227941
+Q824A3,Q824A3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),296,227941
+Q822N6,Q822N6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),132,227941
+Q823T1,Q823T1_CHLCV,unreviewed,"2-oxoisovalerate dehydrogenase, E1 component, alpha and beta subunit",Chlamydophila caviae (strain GPIC),678,227941
+Q821Q2,Q821Q2_CHLCV,unreviewed,"Cell division protein FtsK, putative",Chlamydophila caviae (strain GPIC),805,227941
+H2VFT5,H2VFT5_CHLCV,unreviewed,Inclusion membrane protein B,Chlamydophila caviae (strain GPIC),198,227941
+Q822Q5,Q822Q5_CHLCV,unreviewed,Polymorphic outer membrane protein G family protein/autotransporter,Chlamydophila caviae (strain GPIC),841,227941
+Q821C4,Q821C4_CHLCV,unreviewed,Virulence protein pGP3-D,Chlamydophila caviae (strain GPIC),264,227941
+Q821I5,Q821I5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),438,227941
+Q821M7,Q821M7_CHLCV,unreviewed,"Major outer membrane protein, putative",Chlamydophila caviae (strain GPIC),344,227941
+Q821T8,Q821T8_CHLCV,unreviewed,"Aas bifunctional protein, putative",Chlamydophila caviae (strain GPIC),539,227941
+Q823D1,Q823D1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),388,227941
+Q821N8,Q821N8_CHLCV,unreviewed,"Biotin--acetyl-CoA-carboxylase ligase, putative",Chlamydophila caviae (strain GPIC),196,227941
+Q824I5,Q824I5_CHLCV,unreviewed,"HAD-superfamily hydrolase, subfamily IA, variant 3",Chlamydophila caviae (strain GPIC),230,227941
+Q823M3,Q823M3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),157,227941
+Q822T8,Q822T8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),235,227941
+Q822P0,Q822P0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),556,227941
+Q823B2,Q823B2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),373,227941
+Q822W1,Q822W1_CHLCV,unreviewed,Kynureninase (EC 3.7.1.3) (L-kynurenine hydrolase),Chlamydophila caviae (strain GPIC),425,227941
+Q823G7,Q823G7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),326,227941
+Q824D2,Q824D2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),254,227941
+Q821C3,Q821C3_CHLCV,unreviewed,Virulence protein pGP4-D,Chlamydophila caviae (strain GPIC),102,227941
+Q824F1,Q824F1_CHLCV,unreviewed,"ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),239,227941
+Q824E6,Q824E6_CHLCV,unreviewed,"Polymorphic outer membrane protein A family protein/autotransporter, putative",Chlamydophila caviae (strain GPIC),934,227941
+Q823E2,Q823E2_CHLCV,unreviewed,"Pyruvate dehydrogenase, E1 component, beta subunit",Chlamydophila caviae (strain GPIC),328,227941
+Q822L7,Q822L7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),165,227941
+Q824S1,Q824S1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),140,227941
+Q824R2,Q824R2_CHLCV,unreviewed,Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8),Chlamydophila caviae (strain GPIC),255,227941
+Q823H5,Q823H5_CHLCV,unreviewed,"ADP,ATP carrier protein",Chlamydophila caviae (strain GPIC),533,227941
+Q821X3,Q821X3_CHLCV,unreviewed,"Metalloprotease, insulinase family",Chlamydophila caviae (strain GPIC),937,227941
+Q822R5,Q822R5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),315,227941
+Q823B3,Q823B3_CHLCV,unreviewed,"Dipeptidase, putative",Chlamydophila caviae (strain GPIC),324,227941
+Q824I3,Q824I3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),324,227941
+Q821P9,Q821P9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),150,227941
+Q823J3,Q823J3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),511,227941
+Q821L6,Q821L6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),176,227941
+Q821E3,Q821E3_CHLCV,unreviewed,Dihydrofolate reductase,Chlamydophila caviae (strain GPIC),162,227941
+Q821H1,Q821H1_CHLCV,unreviewed,"Succinate dehydrogenase, cytochrome b558 subunit, putative",Chlamydophila caviae (strain GPIC),297,227941
+Q824S7,Q824S7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),463,227941
+Q822R9,Q822R9_CHLCV,unreviewed,6-phosphofructokinase (EC 2.7.1.-),Chlamydophila caviae (strain GPIC),539,227941
+Q822A3,Q822A3_CHLCV,unreviewed,Peptidase M20/M25/M40 superfamily,Chlamydophila caviae (strain GPIC),454,227941
+Q824M7,Q824M7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),321,227941
+Q822S0,Q822S0_CHLCV,unreviewed,Dienelactone hydrolase family protein,Chlamydophila caviae (strain GPIC),270,227941
+Q821F0,Q821F0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),466,227941
+Q823R0,Q823R0_CHLCV,unreviewed,Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta (ACCase subunit beta) (Acetyl-CoA carboxylase carboxyltransferase subunit beta) (EC 6.4.1.2),Chlamydophila caviae (strain GPIC),308,227941
+Q824Q8,Q824Q8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),153,227941
+Q821J4,Q821J4_CHLCV,unreviewed,General secretion pathway protein F,Chlamydophila caviae (strain GPIC),391,227941
+Q821G1,Q821G1_CHLCV,unreviewed,"Antioxidant, AhpC/TSA family",Chlamydophila caviae (strain GPIC),196,227941
+Q823K2,Q823K2_CHLCV,unreviewed,Glycosyl hydrolase family protein,Chlamydophila caviae (strain GPIC),662,227941
+Q822L9,Q822L9_CHLCV,unreviewed,Signal peptidase I (EC 3.4.21.89),Chlamydophila caviae (strain GPIC),629,227941
+Q823U6,Q823U6_CHLCV,unreviewed,"Preprotein translocase, SecG subunit",Chlamydophila caviae (strain GPIC),104,227941
+Q821X9,Q821X9_CHLCV,unreviewed,Polymorphic outer membrane protein D family protein/autotransporter,Chlamydophila caviae (strain GPIC),1537,227941
+Q823G8,Q823G8_CHLCV,unreviewed,Zinc protease,Chlamydophila caviae (strain GPIC),622,227941
+Q822G3,Q822G3_CHLCV,unreviewed,"Short chain dehydrogenase, putative",Chlamydophila caviae (strain GPIC),282,227941
+Q821D1,Q821D1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),530,227941
+Q824H3,Q824H3_CHLCV,unreviewed,"1-acyl-sn-glycerol-3-phosphate acyltransferase, putative",Chlamydophila caviae (strain GPIC),215,227941
+Q821I0,Q821I0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),184,227941
+Q821P3,Q821P3_CHLCV,unreviewed,Riboflavin biosynthesis protein RibD,Chlamydophila caviae (strain GPIC),368,227941
+Q820E3,Q820E3_CHLCV,unreviewed,Succinate--CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha),Chlamydophila caviae (strain GPIC),291,227941
+Q820E2,Q820E2_CHLCV,unreviewed,3-oxoacyl-[acyl-carrier-protein] synthase 2 (EC 2.3.1.179),Chlamydophila caviae (strain GPIC),416,227941
+Q823L1,Q823L1_CHLCV,unreviewed,"Serine/threonine protein phosphatase, putative",Chlamydophila caviae (strain GPIC),249,227941
+Q821Y8,Q821Y8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),274,227941
+Q821S2,Q821S2_CHLCV,unreviewed,LysM domain protein,Chlamydophila caviae (strain GPIC),242,227941
+Q824V1,Q824V1_CHLCV,unreviewed,Type III secretion translocase SctQ,Chlamydophila caviae (strain GPIC),371,227941
+Q822F5,Q822F5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),263,227941
+Q822Z6,Q822Z6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),424,227941
+Q822S7,Q822S7_CHLCV,unreviewed,"Peptide ABC transporter, permease protein",Chlamydophila caviae (strain GPIC),327,227941
+Q822Y7,Q822Y7_CHLCV,unreviewed,6-phosphogluconolactonase,Chlamydophila caviae (strain GPIC),258,227941
+Q824X3,Q824X3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),636,227941
+Q823Q1,Q823Q1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),238,227941
+Q823J6,Q823J6_CHLCV,unreviewed,Tetrapyrrole methylase family protein,Chlamydophila caviae (strain GPIC),236,227941
+Q824H1,Q824H1_CHLCV,unreviewed,Phosphatidate cytidylyltransferase,Chlamydophila caviae (strain GPIC),306,227941
+Q824G6,Q824G6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),62,227941
+Q824I2,Q824I2_CHLCV,unreviewed,BAF60b domain protein,Chlamydophila caviae (strain GPIC),87,227941
+Q824Y3,Q824Y3_CHLCV,unreviewed,"Amino acid biosynthesis aminotransferase, class I",Chlamydophila caviae (strain GPIC),396,227941
+Q823E1,Q823E1_CHLCV,unreviewed,Pyruvate dehydrogenase E1 component subunit alpha (EC 1.2.4.1),Chlamydophila caviae (strain GPIC),341,227941
+Q824R5,Q824R5_CHLCV,unreviewed,Sugar phosphate sensor protein UhpC,Chlamydophila caviae (strain GPIC),455,227941
+Q823Y0,Q823Y0_CHLCV,unreviewed,"Polymorphic outer membrane protein E/F family protein/autotransporter, putative",Chlamydophila caviae (strain GPIC),930,227941
+Q821M3,Q821M3_CHLCV,unreviewed,Cell shape-determining protein MreB,Chlamydophila caviae (strain GPIC),366,227941
+Q821T5,Q821T5_CHLCV,unreviewed,Glu/Leu/Phe/Val dehydrogenase family protein,Chlamydophila caviae (strain GPIC),349,227941
+Q822D6,Q822D6_CHLCV,unreviewed,Sulfate transporter family protein,Chlamydophila caviae (strain GPIC),566,227941
+Q823X5,Q823X5_CHLCV,unreviewed,Polymorphic outer membrane protein G family protein/autotransporter,Chlamydophila caviae (strain GPIC),1011,227941
+Q821X1,Q821X1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),75,227941
+Q824E5,Q824E5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),100,227941
+Q822E8,Q822E8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),47,227941
+Q822A5,Q822A5_CHLCV,unreviewed,RmuC domain protein,Chlamydophila caviae (strain GPIC),412,227941
+Q823H2,Q823H2_CHLCV,unreviewed,"ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),259,227941
+Q821N5,Q821N5_CHLCV,unreviewed,"NifS protein, putative",Chlamydophila caviae (strain GPIC),385,227941
+Q821X6,Q821X6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),153,227941
+Q822D1,Q822D1_CHLCV,unreviewed,Methionine aminopeptidase (MAP) (MetAP) (EC 3.4.11.18) (Peptidase M),Chlamydophila caviae (strain GPIC),291,227941
+Q824K7,Q824K7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),335,227941
+Q823L6,Q823L6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),258,227941
+Q822Q2,Q822Q2_CHLCV,unreviewed,"ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),248,227941
+Q824E4,Q824E4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),117,227941
+Q824V9,Q824V9_CHLCV,unreviewed,FHA domain protein,Chlamydophila caviae (strain GPIC),825,227941
+Q824S4,Q824S4_CHLCV,unreviewed,Nol1/Nop2/Sun family protein,Chlamydophila caviae (strain GPIC),371,227941
+Q821Y1,Q821Y1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),921,227941
+Q823P6,Q823P6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),110,227941
+Q821E8,Q821E8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),425,227941
+Q823K7,Q823K7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),109,227941
+H2VFT6,H2VFT6_CHLCV,unreviewed,Sodium:dicarboxylate symporter family protein,Chlamydophila caviae (strain GPIC),406,227941
+Q823L8,Q823L8_CHLCV,unreviewed,Adenine glycosylase,Chlamydophila caviae (strain GPIC),369,227941
+Q822M9,Q822M9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),98,227941
+Q823C0,Q823C0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),116,227941
+Q822Z7,Q822Z7_CHLCV,unreviewed,"ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),223,227941
+Q824J9,Q824J9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),323,227941
+Q824M1,Q824M1_CHLCV,unreviewed,Replicative DNA helicase (EC 3.6.4.12),Chlamydophila caviae (strain GPIC),472,227941
+Q822D0,Q822D0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),425,227941
+Q823D6,Q823D6_CHLCV,unreviewed,Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39),Chlamydophila caviae (strain GPIC),308,227941
+Q821J2,Q821J2_CHLCV,unreviewed,General secretion pathway protein D,Chlamydophila caviae (strain GPIC),753,227941
+Q823E9,Q823E9_CHLCV,unreviewed,Thioredoxin reductase (EC 1.8.1.9),Chlamydophila caviae (strain GPIC),311,227941
+Q824D8,Q824D8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),274,227941
+H2VFU2,H2VFU2_CHLCV,unreviewed,OmcA,Chlamydophila caviae (strain GPIC),88,227941
+Q823J1,Q823J1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),148,227941
+Q824J0,Q824J0_CHLCV,unreviewed,Sigma-54 dependent response regulator,Chlamydophila caviae (strain GPIC),386,227941
+Q822E6,Q822E6_CHLCV,unreviewed,Tyrosine recombinase XerD,Chlamydophila caviae (strain GPIC),298,227941
+Q821U9,Q821U9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),348,227941
+Q824Y4,Q824Y4_CHLCV,unreviewed,Transcription elongation factor GreA,Chlamydophila caviae (strain GPIC),717,227941
+Q821Q8,Q821Q8_CHLCV,unreviewed,Protoporphyrinogen oxidase,Chlamydophila caviae (strain GPIC),422,227941
+Q821Z4,Q821Z4_CHLCV,unreviewed,Poly(A) polymerase I (PAP I) (EC 2.7.7.19),Chlamydophila caviae (strain GPIC),428,227941
+Q821N1,Q821N1_CHLCV,unreviewed,"Virulence factor transport ATPase, putative",Chlamydophila caviae (strain GPIC),434,227941
+Q821J8,Q821J8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),334,227941
+Q821G0,Q821G0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),410,227941
+Q822V0,Q822V0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),148,227941
+Q824G9,Q824G9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),367,227941
+Q822V9,Q822V9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),274,227941
+Q824U9,Q824U9_CHLCV,unreviewed,Type III secretion protein SctC,Chlamydophila caviae (strain GPIC),909,227941
+Q824F2,Q824F2_CHLCV,unreviewed,"Metal ABC transporter, permease protein",Chlamydophila caviae (strain GPIC),297,227941
+Q824L8,Q824L8_CHLCV,unreviewed,"Protease IV, putative",Chlamydophila caviae (strain GPIC),332,227941
+Q823G3,Q823G3_CHLCV,unreviewed,FAD:protein FMN transferase (EC 2.7.1.180) (Flavin transferase),Chlamydophila caviae (strain GPIC),315,227941
+Q823M6,Q823M6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),217,227941
+Q821Y6,Q821Y6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),872,227941
+Q823D4,Q823D4_CHLCV,unreviewed,Cyclic nucleotide-binding protein,Chlamydophila caviae (strain GPIC),139,227941
+Q822A7,Q822A7_CHLCV,unreviewed,Ribonucleoside-diphosphate reductase (EC 1.17.4.1),Chlamydophila caviae (strain GPIC),1044,227941
+Q823I8,Q823I8_CHLCV,unreviewed,Laccase domain protein,Chlamydophila caviae (strain GPIC),246,227941
+Q824U8,Q824U8_CHLCV,unreviewed,Arginine kinase-related protein,Chlamydophila caviae (strain GPIC),358,227941
+Q824C1,Q824C1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),620,227941
+Q824M3,Q824M3_CHLCV,unreviewed,Lipoate-protein ligase A-related protein,Chlamydophila caviae (strain GPIC),234,227941
+Q822S2,Q822S2_CHLCV,unreviewed,Sodium:sulfate symporter family protein,Chlamydophila caviae (strain GPIC),470,227941
+Q823P1,Q823P1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),196,227941
+Q823Y9,Q823Y9_CHLCV,unreviewed,"Metal-dependent hydrolase, putative",Chlamydophila caviae (strain GPIC),277,227941
+Q821H5,Q821H5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),607,227941
+Q823C7,Q823C7_CHLCV,unreviewed,Amino acid antiporter,Chlamydophila caviae (strain GPIC),466,227941
+Q822Y5,Q822Y5_CHLCV,unreviewed,"Peptide ABC transporter, periplasmic peptide-binding protein, putative",Chlamydophila caviae (strain GPIC),528,227941
+Q824F6,Q824F6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),150,227941
+Q823I6,Q823I6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),400,227941
+Q824H5,Q824H5_CHLCV,unreviewed,UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7) (Enoylpyruvate transferase) (UDP-N-acetylglucosamine enolpyruvyl transferase) (EPT),Chlamydophila caviae (strain GPIC),444,227941
+Q822E1,Q822E1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),494,227941
+Q822S5,Q822S5_CHLCV,unreviewed,"Peptide ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),288,227941
+Q823V4,Q823V4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),700,227941
+Q822W5,Q822W5_CHLCV,unreviewed,Indole-3-glycerol phosphate synthase,Chlamydophila caviae (strain GPIC),273,227941
+Q821I1,Q821I1_CHLCV,unreviewed,PGP6-D chromosomal paralog,Chlamydophila caviae (strain GPIC),250,227941
+Q821K1,Q821K1_CHLCV,unreviewed,Type III secretion inner membrane protein SctS,Chlamydophila caviae (strain GPIC),94,227941
+Q822Y2,Q822Y2_CHLCV,unreviewed,"Amino acid ABC transporter, permease protein",Chlamydophila caviae (strain GPIC),217,227941
+Q822V5,Q822V5_CHLCV,unreviewed,"Inosine-5'-monophosphate dehydrogenase, putative",Chlamydophila caviae (strain GPIC),357,227941
+Q823M5,Q823M5_CHLCV,unreviewed,"1,4-dihydroxy-6-naphtoate synthase (EC 4.1.-.-) (Menaquinone biosynthetic enzyme MqnD)",Chlamydophila caviae (strain GPIC),257,227941
+Q821V3,Q821V3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),167,227941
+Q822B7,Q822B7_CHLCV,unreviewed,YjgP/YjgQ family protein,Chlamydophila caviae (strain GPIC),367,227941
+Q823I4,Q823I4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),379,227941
+Q824G7,Q824G7_CHLCV,unreviewed,Single-stranded-DNA-specific exonuclease RecJ,Chlamydophila caviae (strain GPIC),590,227941
+Q823A3,Q823A3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),280,227941
+Q824C0,Q824C0_CHLCV,unreviewed,Anti-sigma factor antagonist,Chlamydophila caviae (strain GPIC),116,227941
+Q823Q3,Q823Q3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),186,227941
+Q823F6,Q823F6_CHLCV,unreviewed,"Type III secretion protein, hrpY/hrcU family",Chlamydophila caviae (strain GPIC),360,227941
+Q821S3,Q821S3_CHLCV,unreviewed,Cell division protein FtsW,Chlamydophila caviae (strain GPIC),384,227941
+Q823W9,Q823W9_CHLCV,unreviewed,Polymorphic outer membrane protein G family protein/autotransporter,Chlamydophila caviae (strain GPIC),926,227941
+Q822I2,Q822I2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),328,227941
+Q824I8,Q824I8_CHLCV,unreviewed,Sensor histidine kinase,Chlamydophila caviae (strain GPIC),352,227941
+Q824Y1,Q824Y1_CHLCV,unreviewed,"Exodeoxyribonuclease V, beta subunit",Chlamydophila caviae (strain GPIC),1045,227941
+Q822G9,Q822G9_CHLCV,unreviewed,Aspartokinase (EC 2.7.2.4),Chlamydophila caviae (strain GPIC),440,227941
+Q822N9,Q822N9_CHLCV,unreviewed,GTP cyclohydrolase 1 type 2 homolog,Chlamydophila caviae (strain GPIC),251,227941
+Q824A8,Q824A8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),404,227941
+Q821U3,Q821U3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),169,227941
+Q824A7,Q824A7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),313,227941
+Q822B6,Q822B6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),675,227941
+Q821M1,Q821M1_CHLCV,unreviewed,Trigger factor (TF) (EC 5.2.1.8) (PPIase),Chlamydophila caviae (strain GPIC),441,227941
+Q822F1,Q822F1_CHLCV,unreviewed,"Oxidoreductase, DadA family",Chlamydophila caviae (strain GPIC),346,227941
+Q824T5,Q824T5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),259,227941
+Q824V4,Q824V4_CHLCV,unreviewed,Type III secretion cytoplasmic ATPase SctN,Chlamydophila caviae (strain GPIC),442,227941
+Q822F6,Q822F6_CHLCV,unreviewed,3-dehydroquinate dehydratase/shikimate 5-dehydrogenase,Chlamydophila caviae (strain GPIC),477,227941
+Q822X1,Q822X1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),328,227941
+Q824D3,Q824D3_CHLCV,unreviewed,"Carbohydrate isomerase, KpsF/GutQ family",Chlamydophila caviae (strain GPIC),329,227941
+Q823X8,Q823X8_CHLCV,unreviewed,"Polymorphic outer membrane protein E/F family protein, putative",Chlamydophila caviae (strain GPIC),378,227941
+Q821F1,Q821F1_CHLCV,unreviewed,YGGT family protein,Chlamydophila caviae (strain GPIC),98,227941
+Q822L4,Q822L4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),409,227941
+Q823I3,Q823I3_CHLCV,unreviewed,Ferredoxin,Chlamydophila caviae (strain GPIC),91,227941
+Q823B0,Q823B0_CHLCV,unreviewed,"4-hydroxybenzoate polyprenyltransferase, putative",Chlamydophila caviae (strain GPIC),296,227941
+Q822E5,Q822E5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),95,227941
+Q821H0,Q821H0_CHLCV,unreviewed,"Deoxyribonuclease, TatD family",Chlamydophila caviae (strain GPIC),266,227941
+Q824F0,Q824F0_CHLCV,unreviewed,"ABC transporter, periplasmic solute-binding protein",Chlamydophila caviae (strain GPIC),278,227941
+Q824W9,Q824W9_CHLCV,unreviewed,"ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),240,227941
+Q824L1,Q824L1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),247,227941
+Q824U2,Q824U2_CHLCV,unreviewed,Major outer membrane porin (MOMP),Chlamydophila caviae (strain GPIC),389,227941
+Q824Q2,Q824Q2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),324,227941
+Q822N3,Q822N3_CHLCV,unreviewed,Biotin apo-protein ligase-related protein,Chlamydophila caviae (strain GPIC),257,227941
+Q823L5,Q823L5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),214,227941
+Q823K9,Q823K9_CHLCV,unreviewed,CBS domain protein,Chlamydophila caviae (strain GPIC),404,227941
+Q821X5,Q821X5_CHLCV,unreviewed,Ribonuclease G,Chlamydophila caviae (strain GPIC),510,227941
+Q823Q6,Q823Q6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),418,227941
+Q821P6,Q821P6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),455,227941
+Q821M5,Q821M5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),747,227941
+Q823F8,Q823F8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),161,227941
+Q822K6,Q822K6_CHLCV,unreviewed,UvrABC system protein A,Chlamydophila caviae (strain GPIC),1806,227941
+Q821Q9,Q821Q9_CHLCV,unreviewed,Coproporphyrinogen-III oxidase (EC 1.3.98.3),Chlamydophila caviae (strain GPIC),458,227941
+Q822Y8,Q822Y8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),373,227941
+Q821K7,Q821K7_CHLCV,unreviewed,Dihydrolipoyl dehydrogenase (EC 1.8.1.4),Chlamydophila caviae (strain GPIC),462,227941
+Q824W0,Q824W0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),134,227941
+Q823Y7,Q823Y7_CHLCV,unreviewed,MiaB-like tRNA modifying enzyme,Chlamydophila caviae (strain GPIC),421,227941
+Q824L7,Q824L7_CHLCV,unreviewed,DNA polymerase I,Chlamydophila caviae (strain GPIC),869,227941
+Q824X4,Q824X4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),422,227941
+Q823Q5,Q823Q5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),583,227941
+Q821L1,Q821L1_CHLCV,unreviewed,Endonuclease III (EC 4.2.99.18),Chlamydophila caviae (strain GPIC),214,227941
+Q822L1,Q822L1_CHLCV,unreviewed,Diadenylate cyclase (DAC) (EC 2.7.7.85) (Cyclic-di-AMP synthase) (c-di-AMP synthase),Chlamydophila caviae (strain GPIC),264,227941
+Q824T9,Q824T9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),484,227941
+Q821I8,Q821I8_CHLCV,unreviewed,Type III secretion chaperone SycD,Chlamydophila caviae (strain GPIC),227,227941
+Q823R1,Q823R1_CHLCV,unreviewed,Superoxide dismutase (EC 1.15.1.1),Chlamydophila caviae (strain GPIC),205,227941
+Q824M0,Q824M0_CHLCV,unreviewed,CDP-alcohol phosphatidyltransferase,Chlamydophila caviae (strain GPIC),168,227941
+Q822A9,Q822A9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),198,227941
+Q824H9,Q824H9_CHLCV,unreviewed,"Acetyltransferase, GNAT family",Chlamydophila caviae (strain GPIC),170,227941
+Q822N1,Q822N1_CHLCV,unreviewed,ATP-dependent RecD-like DNA helicase (EC 3.6.4.12),Chlamydophila caviae (strain GPIC),735,227941
+Q822D2,Q822D2_CHLCV,unreviewed,UPF0056 inner membrane protein,Chlamydophila caviae (strain GPIC),202,227941
+H2VFV1,H2VFV1_CHLCV,unreviewed,Inclusion membrane protein A,Chlamydophila caviae (strain GPIC),355,227941
+Q821Q0,Q821Q0_CHLCV,unreviewed,SET domain protein,Chlamydophila caviae (strain GPIC),220,227941
+Q821W3,Q821W3_CHLCV,unreviewed,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,Chlamydophila caviae (strain GPIC),202,227941
+Q823R9,Q823R9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),150,227941
+Q823V8,Q823V8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),445,227941
+Q822X0,Q822X0_CHLCV,unreviewed,Putative cytotoxin,Chlamydophila caviae (strain GPIC),3346,227941
+Q822D8,Q822D8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),593,227941
+Q823E3,Q823E3_CHLCV,unreviewed,Acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12),Chlamydophila caviae (strain GPIC),428,227941
+Q821D6,Q821D6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),614,227941
+Q823E8,Q823E8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),148,227941
+Q823M7,Q823M7_CHLCV,unreviewed,"ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),653,227941
+Q822I1,Q822I1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),149,227941
+Q823A9,Q823A9_CHLCV,unreviewed,Flavin prenyltransferase UbiX (EC 2.5.1.129),Chlamydophila caviae (strain GPIC),192,227941
+Q822R4,Q822R4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),506,227941
+Q823J2,Q823J2_CHLCV,unreviewed,"Oxygen-independent coproporphyrinogen III oxidase HemN, putative",Chlamydophila caviae (strain GPIC),375,227941
+Q824T3,Q824T3_CHLCV,unreviewed,"Chromosome partioning protein, ParB family",Chlamydophila caviae (strain GPIC),277,227941
+Q821F3,Q821F3_CHLCV,unreviewed,DNA topoisomerase 1 (EC 5.99.1.2) (DNA topoisomerase I),Chlamydophila caviae (strain GPIC),861,227941
+Q822Z8,Q822Z8_CHLCV,unreviewed,"Permease, putative",Chlamydophila caviae (strain GPIC),503,227941
+Q822T5,Q822T5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),74,227941
+Q822N7,Q822N7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),267,227941
+Q823J0,Q823J0_CHLCV,unreviewed,"2-oxoglutarate dehydrogenase, E1 component",Chlamydophila caviae (strain GPIC),908,227941
+H2VFT9,H2VFT9_CHLCV,unreviewed,Phospholipase D family protein,Chlamydophila caviae (strain GPIC),351,227941
+Q824R8,Q824R8_CHLCV,unreviewed,TPR domain protein,Chlamydophila caviae (strain GPIC),318,227941
+Q823H0,Q823H0_CHLCV,unreviewed,"ABC transporter, permease protein, putative",Chlamydophila caviae (strain GPIC),327,227941
+Q821G2,Q821G2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),132,227941
+Q822U7,Q822U7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),148,227941
+Q824S0,Q824S0_CHLCV,unreviewed,"RsbW protein, putative",Chlamydophila caviae (strain GPIC),152,227941
+Q824W8,Q824W8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),161,227941
+Q821W1,Q821W1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),148,227941
+Q823Q0,Q823Q0_CHLCV,unreviewed,Phospholipase D family protein,Chlamydophila caviae (strain GPIC),474,227941
+Q824R4,Q824R4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),72,227941
+Q821K5,Q821K5_CHLCV,unreviewed,Type III secretion protein SctJ,Chlamydophila caviae (strain GPIC),330,227941
+Q822H2,Q822H2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),176,227941
+Q821N0,Q821N0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),119,227941
+Q823Z7,Q823Z7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),545,227941
+Q822G5,Q822G5_CHLCV,unreviewed,Conserved hypothetical integral membrane protein TIGR00697,Chlamydophila caviae (strain GPIC),223,227941
+Q822A0,Q822A0_CHLCV,unreviewed,Signal recognition particle receptor FtsY (SRP receptor),Chlamydophila caviae (strain GPIC),285,227941
+Q822V8,Q822V8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),50,227941
+Q821G6,Q821G6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),253,227941
+Q823U5,Q823U5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),48,227941
+Q822T9,Q822T9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),408,227941
+Q823Z3,Q823Z3_CHLCV,unreviewed,Phospho-2-dehydro-3-deoxyheptonate aldolase,Chlamydophila caviae (strain GPIC),283,227941
+Q824R1,Q824R1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),32,227941
+Q823Z4,Q823Z4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),64,227941
+Q823N9,Q823N9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),54,227941
+Q822U4,Q822U4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),36,227941
+Q824A2,Q824A2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),32,227941
+Q824C2,Q824C2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),73,227941
+Q824K5,Q824K5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),68,227941
+Q824K4,Q824K4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),54,227941
+Q822Z0,Q822Z0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),374,227941
+Q821U4,Q821U4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),49,227941
+Q823I2,Q823I2_CHLCV,unreviewed,"Protein export protein, FHIPEP family",Chlamydophila caviae (strain GPIC),585,227941
+Q822K3,Q822K3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),162,227941
+Q822Q6,Q822Q6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),502,227941
+Q822K8,Q822K8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),109,227941
+Q822Q9,Q822Q9_CHLCV,unreviewed,Conserved domain protein,Chlamydophila caviae (strain GPIC),122,227941
+Q821Z5,Q821Z5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),56,227941
+Q823W4,Q823W4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),172,227941
+Q821J1,Q821J1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),437,227941
+Q824Y2,Q824Y2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),340,227941
+Q823X7,Q823X7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),31,227941
+Q822H9,Q822H9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),73,227941
+Q823R7,Q823R7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),154,227941
+Q821Z2,Q821Z2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),252,227941
+Q822V7,Q822V7_CHLCV,unreviewed,"Adenosine/AMP deaminase, putative",Chlamydophila caviae (strain GPIC),455,227941
+Q823J5,Q823J5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),77,227941
+Q821D0,Q821D0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),49,227941
+Q822H8,Q822H8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),59,227941
+Q822P6,Q822P6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),364,227941
+Q822V2,Q822V2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),30,227941
+Q823X2,Q823X2_CHLCV,unreviewed,"Polymorphic outer membrane protein G family protein/autotransporter, putative",Chlamydophila caviae (strain GPIC),843,227941
+Q822J4,Q822J4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),136,227941
+Q824I0,Q824I0_CHLCV,unreviewed,Peptide chain release factor 2,Chlamydophila caviae (strain GPIC),337,227941
+Q824X1,Q824X1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),838,227941
+Q824I1,Q824I1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),43,227941
+Q824B3,Q824B3_CHLCV,unreviewed,Ribonuclease R (RNase R) (EC 3.1.13.1),Chlamydophila caviae (strain GPIC),678,227941
+Q821K2,Q821K2_CHLCV,unreviewed,Type III secretion inner membrane protein SctR,Chlamydophila caviae (strain GPIC),303,227941
+Q823S4,Q823S4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),41,227941
+Q821Z1,Q821Z1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),373,227941
+Q822U0,Q822U0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),40,227941
+Q821C7,Q821C7_CHLCV,unreviewed,Virulence plasmid integrase pGP8-D,Chlamydophila caviae (strain GPIC),335,227941
+Q823L9,Q823L9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),898,227941
+Q821Y9,Q821Y9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),31,227941
+Q823W1,Q823W1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),41,227941
+Q822H4,Q822H4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),116,227941
+Q822P5,Q822P5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),416,227941
+Q824I7,Q824I7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),108,227941
+Q821D8,Q821D8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),306,227941
+Q822G1,Q822G1_CHLCV,unreviewed,Conserved domain protein,Chlamydophila caviae (strain GPIC),117,227941
+Q822H3,Q822H3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),556,227941
+Q823X4,Q823X4_CHLCV,unreviewed,Polymorphic outer membrane protein G family protein,Chlamydophila caviae (strain GPIC),868,227941
+Q821Y3,Q821Y3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),36,227941
+Q823S8,Q823S8_CHLCV,unreviewed,Phosphocarrier protein HPr,Chlamydophila caviae (strain GPIC),112,227941
+Q822N5,Q822N5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),39,227941
+Q821U8,Q821U8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),54,227941
+Q824S3,Q824S3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),129,227941
+Q822L5,Q822L5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),273,227941
+Q822P2,Q822P2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),40,227941
+Q823T5,Q823T5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),44,227941
+Q822R6,Q822R6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),41,227941
+Q822Z5,Q822Z5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),49,227941
+Q823Z9,Q823Z9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),292,227941
+Q821Y2,Q821Y2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),426,227941
+Q823C8,Q823C8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),471,227941
+Q824B6,Q824B6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),53,227941
+Q824F8,Q824F8_CHLCV,unreviewed,Oxidoreductase,Chlamydophila caviae (strain GPIC),351,227941
+Q823C1,Q823C1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),30,227941
+Q823T0,Q823T0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),345,227941
+Q822G4,Q822G4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),359,227941
+Q821U2,Q821U2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),35,227941
+Q822P4,Q822P4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),30,227941
+Q823L4,Q823L4_CHLCV,unreviewed,Conserved domain protein,Chlamydophila caviae (strain GPIC),43,227941
+Q821J6,Q821J6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),145,227941
+Q823S7,Q823S7_CHLCV,unreviewed,Phosphoenolpyruvate-protein phosphotransferase,Chlamydophila caviae (strain GPIC),566,227941
+Q823C5,Q823C5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),625,227941
+Q824T0,Q824T0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),224,227941
+Q823Z6,Q823Z6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),87,227941
+Q824V0,Q824V0_CHLCV,unreviewed,Serine/threonine-protein kinase,Chlamydophila caviae (strain GPIC),501,227941
+Q821R4,Q821R4_CHLCV,unreviewed,Phosphorylase,Chlamydophila caviae (strain GPIC),291,227941
+Q823V0,Q823V0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),83,227941
+Q823J7,Q823J7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),311,227941
+Q822E3,Q822E3_CHLCV,unreviewed,Type III secretion chaperone,Chlamydophila caviae (strain GPIC),172,227941
+Q822X8,Q822X8_CHLCV,unreviewed,Ribonuclease BN family protein,Chlamydophila caviae (strain GPIC),430,227941
+Q821T2,Q821T2_CHLCV,unreviewed,Ribosomal silencing factor RsfS,Chlamydophila caviae (strain GPIC),119,227941
+Q824H8,Q824H8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),184,227941
+Q824T2,Q824T2_CHLCV,unreviewed,"Peptide ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),322,227941
+Q824D1,Q824D1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),364,227941
+Q821Q1,Q821Q1_CHLCV,unreviewed,"Metal dependent hydrolase, putative",Chlamydophila caviae (strain GPIC),262,227941
+Q820E8,Q820E8_CHLCV,unreviewed,Enoyl-(Acyl-carrier protein) reductase,Chlamydophila caviae (strain GPIC),299,227941
+Q824K0,Q824K0_CHLCV,unreviewed,DNA methyltransferase,Chlamydophila caviae (strain GPIC),175,227941
+Q824S2,Q824S2_CHLCV,unreviewed,D-alanyl-D-alanine carboxypeptidase,Chlamydophila caviae (strain GPIC),433,227941
+Q823F5,Q823F5_CHLCV,unreviewed,Ribosome-binding ATPase YchF,Chlamydophila caviae (strain GPIC),364,227941
+Q822C9,Q822C9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),61,227941
+Q821Z0,Q821Z0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),243,227941
+Q821Z8,Q821Z8_CHLCV,unreviewed,Aromatic amino acid transport protein,Chlamydophila caviae (strain GPIC),395,227941
+Q823B4,Q823B4_CHLCV,unreviewed,Sua5/YciO/YrdC family protein,Chlamydophila caviae (strain GPIC),285,227941
+Q821K9,Q821K9_CHLCV,unreviewed,"Helicase, Snf2/Rad54 family",Chlamydophila caviae (strain GPIC),1205,227941
+Q821C9,Q821C9_CHLCV,unreviewed,Virulence protein pGP6-D,Chlamydophila caviae (strain GPIC),246,227941
+Q824T6,Q824T6_CHLCV,unreviewed,Cysteine desulfurase (EC 2.8.1.7),Chlamydophila caviae (strain GPIC),406,227941
+Q824J2,Q824J2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),191,227941
+Q823H6,Q823H6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),451,227941
+Q823U0,Q823U0_CHLCV,unreviewed,"ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),541,227941
+Q821T0,Q821T0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),554,227941
+Q823A5,Q823A5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),247,227941
+Q824A1,Q824A1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),413,227941
+Q824G8,Q824G8_CHLCV,unreviewed,"SecDF protein, putative",Chlamydophila caviae (strain GPIC),1404,227941
+Q821V7,Q821V7_CHLCV,unreviewed,DNA primase (EC 2.7.7.-),Chlamydophila caviae (strain GPIC),591,227941
+Q821Y5,Q821Y5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),355,227941
+Q824D7,Q824D7_CHLCV,unreviewed,SpoU rRNA methylase family protein,Chlamydophila caviae (strain GPIC),265,227941
+Q821E7,Q821E7_CHLCV,unreviewed,5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2),Chlamydophila caviae (strain GPIC),180,227941
+Q821F5,Q821F5_CHLCV,unreviewed,"RNA polymerase sigma factor, sigma-54 family",Chlamydophila caviae (strain GPIC),423,227941
+Q821T3,Q821T3_CHLCV,unreviewed,MutT/Nudix family protein,Chlamydophila caviae (strain GPIC),149,227941
+Q823Z2,Q823Z2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),1044,227941
+Q824L4,Q824L4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),86,227941
+Q822U5,Q822U5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),275,227941
+Q824K6,Q824K6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),113,227941
+Q823H4,Q823H4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),167,227941
+Q822V4,Q822V4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),294,227941
+Q823E4,Q823E4_CHLCV,unreviewed,"Alpha-1,4 glucan phosphorylase (EC 2.4.1.1)",Chlamydophila caviae (strain GPIC),816,227941
+Q824D5,Q824D5_CHLCV,unreviewed,Sodium:dicarboxylate symporter family protein,Chlamydophila caviae (strain GPIC),415,227941
+Q823R2,Q823R2_CHLCV,unreviewed,Phosphoglucomutase/phosphomannomutase family protein,Chlamydophila caviae (strain GPIC),600,227941
+Q823T4,Q823T4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),213,227941
+Q823V9,Q823V9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),448,227941
+Q821I6,Q821I6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),494,227941
+Q821P1,Q821P1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),247,227941
+Q823R3,Q823R3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),154,227941
+Q824B5,Q824B5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),220,227941
+Q822R8,Q822R8_CHLCV,unreviewed,3-deoxy-D-manno-2-octulosonic acid transferase,Chlamydophila caviae (strain GPIC),434,227941
+Q823P7,Q823P7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),97,227941
+Q824S5,Q824S5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),384,227941
+Q821J5,Q821J5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),125,227941
+Q824X2,Q824X2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),870,227941
+Q821M2,Q821M2_CHLCV,unreviewed,"Helicase, Snf2 family",Chlamydophila caviae (strain GPIC),1166,227941
+Q823B8,Q823B8_CHLCV,unreviewed,DNA gyrase subunit A (EC 5.99.1.3),Chlamydophila caviae (strain GPIC),830,227941
+Q822L0,Q822L0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),427,227941
+Q823E5,Q823E5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),131,227941
+Q823X0,Q823X0_CHLCV,unreviewed,Polymorphic outer membrane protein G family protein/autotransporter,Chlamydophila caviae (strain GPIC),866,227941
+Q822Y0,Q822Y0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),457,227941
+Q821R8,Q821R8_CHLCV,unreviewed,60 kDa chaperonin,Chlamydophila caviae (strain GPIC),506,227941
+Q823B6,Q823B6_CHLCV,unreviewed,"DNA polymerase III, tau subunit, putative",Chlamydophila caviae (strain GPIC),288,227941
+Q822U6,Q822U6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),155,227941
+Q824J3,Q824J3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),235,227941
+Q822G2,Q822G2_CHLCV,unreviewed,Conserved domain protein,Chlamydophila caviae (strain GPIC),129,227941
+Q821X4,Q821X4_CHLCV,unreviewed,"Glycerol-3-phosphate acyltransferase, putative",Chlamydophila caviae (strain GPIC),331,227941
+Q822F9,Q822F9_CHLCV,unreviewed,Shikimate kinase (SK) (EC 2.7.1.71),Chlamydophila caviae (strain GPIC),173,227941
+Q824E7,Q824E7_CHLCV,unreviewed,"Polymorphic outer membrane protein B/C family protein/autotransporter, putative",Chlamydophila caviae (strain GPIC),1795,227941
+Q822X3,Q822X3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),484,227941
+Q823G0,Q823G0_CHLCV,unreviewed,LtuB protein,Chlamydophila caviae (strain GPIC),96,227941
+Q823V3,Q823V3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),360,227941
+Q821J9,Q821J9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),149,227941
+Q821Y0,Q821Y0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),434,227941
+Q823P9,Q823P9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),689,227941
+Q822R0,Q822R0_CHLCV,unreviewed,Conserved domain protein,Chlamydophila caviae (strain GPIC),121,227941
+Q824H6,Q824H6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),880,227941
+Q823F0,Q823F0_CHLCV,unreviewed,Ribosomal protein S1,Chlamydophila caviae (strain GPIC),581,227941
+Q823F9,Q823F9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),579,227941
+Q821G9,Q821G9_CHLCV,unreviewed,Thiol:disulfide interchange protein DsbD,Chlamydophila caviae (strain GPIC),712,227941
+Q822C5,Q822C5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),235,227941
+Q822N4,Q822N4_CHLCV,unreviewed,Conserved domain protein,Chlamydophila caviae (strain GPIC),269,227941
+Q822J5,Q822J5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),252,227941
+Q822L2,Q822L2_CHLCV,unreviewed,"Cytochrome d oxidase, subunit I",Chlamydophila caviae (strain GPIC),446,227941
+Q821H4,Q821H4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),963,227941
+H2VFU1,H2VFU1_CHLCV,unreviewed,Inclusion membrane protein C,Chlamydophila caviae (strain GPIC),186,227941
+Q824S9,Q824S9_CHLCV,unreviewed,Phosphate transporter,Chlamydophila caviae (strain GPIC),426,227941
+Q821G8,Q821G8_CHLCV,unreviewed,MotA/TolQ/ExbB proton channel family protein,Chlamydophila caviae (strain GPIC),232,227941
+Q823Y3,Q823Y3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),781,227941
+Q823D3,Q823D3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),925,227941
+Q822K9,Q822K9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),448,227941
+Q821D7,Q821D7_CHLCV,unreviewed,"Exodeoxyribonuclease V, alpha subunit",Chlamydophila caviae (strain GPIC),501,227941
+Q824W2,Q824W2_CHLCV,unreviewed,DNA topoisomerase (ATP-hydrolyzing) (EC 5.99.1.3),Chlamydophila caviae (strain GPIC),602,227941
+Q824A0,Q824A0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),694,227941
+Q824Y5,Q824Y5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),144,227941
+Q821S6,Q821S6_CHLCV,unreviewed,Periplasmic divalent cation tolerance protein,Chlamydophila caviae (strain GPIC),110,227941
+Q824W4,Q824W4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),97,227941
+Q822C7,Q822C7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),172,227941
+Q823Y8,Q823Y8_CHLCV,unreviewed,GTPase HflX (GTP-binding protein HflX),Chlamydophila caviae (strain GPIC),458,227941
+Q823X1,Q823X1_CHLCV,unreviewed,"Polymorphic outer membrane protein G family protein/autotransporter, putative",Chlamydophila caviae (strain GPIC),942,227941
+Q823A4,Q823A4_CHLCV,unreviewed,"Protein translocase subunit, putative",Chlamydophila caviae (strain GPIC),161,227941
+Q824W3,Q824W3_CHLCV,unreviewed,"Topoisomerase, subunit A, putative",Chlamydophila caviae (strain GPIC),479,227941
+Q821G3,Q821G3_CHLCV,unreviewed,LysM domain protein,Chlamydophila caviae (strain GPIC),205,227941
+Q823I1,Q823I1_CHLCV,unreviewed,"RNA polymerase sigma factor, sigma-70 family",Chlamydophila caviae (strain GPIC),257,227941
+Q821C6,Q821C6_CHLCV,unreviewed,Virulence plasmid replicative DNA helicase pGP1-D,Chlamydophila caviae (strain GPIC),458,227941
+Q821K0,Q821K0_CHLCV,unreviewed,Type III secretion inner membrane protein SctT,Chlamydophila caviae (strain GPIC),289,227941
+H2VFU3,H2VFU3_CHLCV,unreviewed,CopN protein,Chlamydophila caviae (strain GPIC),397,227941
+Q823H3,Q823H3_CHLCV,unreviewed,"ABC transporter, periplasmic substrate-binding protein, putative",Chlamydophila caviae (strain GPIC),321,227941
+Q822W8,Q822W8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),573,227941
+Q823N4,Q823N4_CHLCV,unreviewed,Penicillin-binding protein,Chlamydophila caviae (strain GPIC),649,227941
+Q822K2,Q822K2_CHLCV,unreviewed,"ATP synthase, subunit K",Chlamydophila caviae (strain GPIC),141,227941
+Q821K8,Q821K8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),155,227941
+Q822Q3,Q822Q3_CHLCV,unreviewed,"ABC transporter, periplasmic substrate-binding protein, putative",Chlamydophila caviae (strain GPIC),266,227941
+Q822B1,Q822B1_CHLCV,unreviewed,"N utilization substance protein B, putative",Chlamydophila caviae (strain GPIC),165,227941
+Q823F1,Q823F1_CHLCV,unreviewed,Transcription termination/antitermination protein NusA,Chlamydophila caviae (strain GPIC),434,227941
+Q824T7,Q824T7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),424,227941
+Q821D5,Q821D5_CHLCV,unreviewed,Transcriptional regulator,Chlamydophila caviae (strain GPIC),233,227941
+Q823C9,Q823C9_CHLCV,unreviewed,Magnesium transporter MgtE,Chlamydophila caviae (strain GPIC),470,227941
+Q824Q6,Q824Q6_CHLCV,unreviewed,Cytosolic acyl-CoA thioester hydrolase family protein,Chlamydophila caviae (strain GPIC),156,227941
+Q822L3,Q822L3_CHLCV,unreviewed,"Cytochrome d oxidase, subunit II",Chlamydophila caviae (strain GPIC),353,227941
+Q821D2,Q821D2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),84,227941
+Q821S8,Q821S8_CHLCV,unreviewed,Anti-sigma factor antagonist,Chlamydophila caviae (strain GPIC),110,227941
+Q821S7,Q821S7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),262,227941
+Q823K3,Q823K3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),271,227941
+Q821C5,Q821C5_CHLCV,unreviewed,Virulence protein pGP2-D,Chlamydophila caviae (strain GPIC),347,227941
+Q822X2,Q822X2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),548,227941
+Q823T7,Q823T7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),233,227941
+Q821F6,Q821F6_CHLCV,unreviewed,DNA helicase (EC 3.6.4.12),Chlamydophila caviae (strain GPIC),637,227941
+Q822C0,Q822C0_CHLCV,unreviewed,ATP-dependent zinc metalloprotease FtsH (EC 3.4.24.-),Chlamydophila caviae (strain GPIC),913,227941
+Q824A5,Q824A5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),347,227941
+Q821T7,Q821T7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),253,227941
+Q822U1,Q822U1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),232,227941
+Q821E1,Q821E1_CHLCV,unreviewed,"7,8-dihydroneopterin aldolase (EC 4.1.2.25)",Chlamydophila caviae (strain GPIC),113,227941
+Q821S9,Q821S9_CHLCV,unreviewed,Cyclic dehypoxanthine futalosine synthase (Cyclic DHFL synthase) (EC 1.21.98.1) (Dehypoxanthine futalosine cyclase) (DHFL cyclase) (Menaquinone biosynthetic enzyme MqnC),Chlamydophila caviae (strain GPIC),353,227941
+Q821U1,Q821U1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),240,227941
+Q823N0,Q823N0_CHLCV,unreviewed,"Integration host factor beta-subunit, putative",Chlamydophila caviae (strain GPIC),100,227941
+Q821N3,Q821N3_CHLCV,unreviewed,"Secretory protein, YscJ/FliF family",Chlamydophila caviae (strain GPIC),337,227941
+Q821K3,Q821K3_CHLCV,unreviewed,Type III secretion translocase sctL,Chlamydophila caviae (strain GPIC),229,227941
+Q823V6,Q823V6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),288,227941
+Q822H1,Q822H1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),104,227941
+Q824X0,Q824X0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),76,227941
+Q821Q6,Q821Q6_CHLCV,unreviewed,Histone H1-like protein HC1,Chlamydophila caviae (strain GPIC),125,227941
+Q822M3,Q822M3_CHLCV,unreviewed,Release factor glutamine methyltransferase (RF MTase) (EC 2.1.1.297) (N5-glutamine methyltransferase PrmC) (Protein-(glutamine-N5) MTase PrmC) (Protein-glutamine N-methyltransferase PrmC),Chlamydophila caviae (strain GPIC),283,227941
+Q823W3,Q823W3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),316,227941
+Q821T1,Q821T1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),213,227941
+Q822S6,Q822S6_CHLCV,unreviewed,"Peptide ABC transporter, permease protein",Chlamydophila caviae (strain GPIC),302,227941
+Q823Y4,Q823Y4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),586,227941
+Q823L3,Q823L3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),121,227941
+Q821I4,Q821I4_CHLCV,unreviewed,"Membrane protein, putative",Chlamydophila caviae (strain GPIC),301,227941
+Q822Z2,Q822Z2_CHLCV,unreviewed,NLP/P60 family protein,Chlamydophila caviae (strain GPIC),283,227941
+Q821I7,Q821I7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),132,227941
+Q823I9,Q823I9_CHLCV,unreviewed,"2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase",Chlamydophila caviae (strain GPIC),365,227941
+Q821T6,Q821T6_CHLCV,unreviewed,"3'(2'),5'-biphosphate phosphatase nucleotidase",Chlamydophila caviae (strain GPIC),326,227941
+Q823H8,Q823H8_CHLCV,unreviewed,"6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)",Chlamydophila caviae (strain GPIC),481,227941
+Q822C6,Q822C6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),176,227941
+Q824X5,Q824X5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),547,227941
+Q822A8,Q822A8_CHLCV,unreviewed,Ribonucleoside-diphosphate reductase subunit beta (EC 1.17.4.1),Chlamydophila caviae (strain GPIC),346,227941
+Q823T6,Q823T6_CHLCV,unreviewed,Lon protease (EC 3.4.21.53) (ATP-dependent protease La),Chlamydophila caviae (strain GPIC),818,227941
+Q824V7,Q824V7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),86,227941
+Q823Y2,Q823Y2_CHLCV,unreviewed,"Polymorphic outer membrane protein E/F family protein/autotransporter, putative",Chlamydophila caviae (strain GPIC),936,227941
+Q823S1,Q823S1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),145,227941
+Q822T0,Q822T0_CHLCV,unreviewed,"Peptide ABC transporter, periplasmic binding protein",Chlamydophila caviae (strain GPIC),445,227941
+Q823C2,Q823C2_CHLCV,unreviewed,"Lipoprotein, YaeC family",Chlamydophila caviae (strain GPIC),267,227941
+Q822U9,Q822U9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),223,227941
+Q824S6,Q824S6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),405,227941
+Q824V3,Q824V3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),172,227941
+Q822P1,Q822P1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),93,227941
+Q824D9,Q824D9_CHLCV,unreviewed,"Riboflavin synthase, alpha subunit",Chlamydophila caviae (strain GPIC),201,227941
+Q821L0,Q821L0_CHLCV,unreviewed,Branched-chain amino acid transport system carrier protein BrnQ,Chlamydophila caviae (strain GPIC),409,227941
+Q822Y6,Q822Y6_CHLCV,unreviewed,Glucose-6-phosphate 1-dehydrogenase (G6PD) (EC 1.1.1.49),Chlamydophila caviae (strain GPIC),511,227941
+Q822M0,Q822M0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),249,227941
+Q821V8,Q821V8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),88,227941
+Q823K8,Q823K8_CHLCV,unreviewed,CBS domain protein,Chlamydophila caviae (strain GPIC),411,227941
+Q823M0,Q823M0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),726,227941
+Q821F4,Q821F4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),265,227941
+Q824K9,Q824K9_CHLCV,unreviewed,"Periplasmic amino acid-binding protein, putative",Chlamydophila caviae (strain GPIC),250,227941
+Q822U3,Q822U3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),183,227941
+Q822T4,Q822T4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),229,227941
+Q821R3,Q821R3_CHLCV,unreviewed,Transketolase,Chlamydophila caviae (strain GPIC),665,227941
+Q820E5,Q820E5_CHLCV,unreviewed,3-oxoacyl-(Acyl-carrier protein) reductase,Chlamydophila caviae (strain GPIC),248,227941
+Q823G1,Q823G1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),171,227941
+Q821V9,Q821V9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),169,227941
+Q824V2,Q824V2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),282,227941
+Q821K4,Q821K4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),277,227941
+Q821U0,Q821U0_CHLCV,unreviewed,Primosomal protein N' (EC 3.6.4.-) (ATP-dependent helicase PriA),Chlamydophila caviae (strain GPIC),749,227941
+Q823Y6,Q823Y6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),332,227941
+Q822Y1,Q822Y1_CHLCV,unreviewed,"Amino acid ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),226,227941
+Q823A8,Q823A8_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),297,227941
+Q824G4,Q824G4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),92,227941
+Q824C6,Q824C6_CHLCV,unreviewed,Diaminopimelate epimerase (EC 5.1.1.7),Chlamydophila caviae (strain GPIC),260,227941
+Q823Z8,Q823Z8_CHLCV,unreviewed,HIT family protein,Chlamydophila caviae (strain GPIC),110,227941
+Q824N3,Q824N3_CHLCV,unreviewed,Protein translocase subunit SecY,Chlamydophila caviae (strain GPIC),457,227941
+Q823S9,Q823S9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),263,227941
+Q822I6,Q822I6_CHLCV,unreviewed,Transcription termination/antitermination protein NusG,Chlamydophila caviae (strain GPIC),182,227941
+Q823Q7,Q823Q7_CHLCV,unreviewed,"DNA binding protein/PTS system, IIA component",Chlamydophila caviae (strain GPIC),226,227941
+Q822E2,Q822E2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),504,227941
+Q823B5,Q823B5_CHLCV,unreviewed,"Serine esterase, putative",Chlamydophila caviae (strain GPIC),240,227941
+Q823N7,Q823N7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),182,227941
+Q821H6,Q821H6_CHLCV,unreviewed,"Regulatory protein, putative",Chlamydophila caviae (strain GPIC),635,227941
+Q823A1,Q823A1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),267,227941
+Q823H1,Q823H1_CHLCV,unreviewed,"ABC transporter, permease protein, putative",Chlamydophila caviae (strain GPIC),449,227941
+Q823F4,Q823F4_CHLCV,unreviewed,Riboflavin biosynthesis protein (EC 2.7.1.26) (EC 2.7.7.2),Chlamydophila caviae (strain GPIC),304,227941
+Q824J1,Q824J1_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),227,227941
+Q822X7,Q822X7_CHLCV,unreviewed,Ribulose-phosphate 3-epimerase (EC 5.1.3.1),Chlamydophila caviae (strain GPIC),231,227941
+Q822H6,Q822H6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),199,227941
+Q821F2,Q821F2_CHLCV,unreviewed,tRNA-dihydrouridine synthase (EC 1.3.1.-),Chlamydophila caviae (strain GPIC),339,227941
+Q823D8,Q823D8_CHLCV,unreviewed,"Outer membrane protein, putative",Chlamydophila caviae (strain GPIC),790,227941
+Q822X4,Q822X4_CHLCV,unreviewed,"Acetyl-CoA carboxylase, biotin carboxylase",Chlamydophila caviae (strain GPIC),451,227941
+Q822N2,Q822N2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),338,227941
+Q824K1,Q824K1_CHLCV,unreviewed,"Peptide ABC transporter, permease protein, putative",Chlamydophila caviae (strain GPIC),577,227941
+Q821R1,Q821R1_CHLCV,unreviewed,Transcription-repair-coupling factor (TRCF) (EC 3.6.4.-),Chlamydophila caviae (strain GPIC),1085,227941
+Q824C9,Q824C9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),213,227941
+H2VFU0,H2VFU0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),384,227941
+Q824D4,Q824D4_CHLCV,unreviewed,Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.-),Chlamydophila caviae (strain GPIC),390,227941
+Q824B9,Q824B9_CHLCV,unreviewed,CBS domain protein,Chlamydophila caviae (strain GPIC),370,227941
+Q821R9,Q821R9_CHLCV,unreviewed,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10),Chlamydophila caviae (strain GPIC),448,227941
+Q824T4,Q824T4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),217,227941
+Q824T8,Q824T8_CHLCV,unreviewed,"ABC transporter, ATP-binding protein",Chlamydophila caviae (strain GPIC),255,227941
+Q822E4,Q822E4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),480,227941
+Q824L0,Q824L0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),189,227941
+Q822I5,Q822I5_CHLCV,unreviewed,Protein translocase subunit SecE,Chlamydophila caviae (strain GPIC),81,227941
+H2VFT8,H2VFT8_CHLCV,unreviewed,Putative tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207) (tRNA (cytidine/uridine-2'-O-)-methyltransferase),Chlamydophila caviae (strain GPIC),156,227941
+Q823N1,Q823N1_CHLCV,unreviewed,"N-acetylmuramoyl-L-alanine amidase, family 3",Chlamydophila caviae (strain GPIC),265,227941
+Q824V5,Q824V5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),222,227941
+Q821L4,Q821L4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),441,227941
+Q824Q9,Q824Q9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),238,227941
+Q823V5,Q823V5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),272,227941
+Q824U1,Q824U1_CHLCV,unreviewed,PBP2-transglycolase/transpeptidase,Chlamydophila caviae (strain GPIC),1091,227941
+Q823U2,Q823U2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),568,227941
+Q823D0,Q823D0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),710,227941
+Q821P0,Q821P0_CHLCV,unreviewed,Cadmium-translocating P-type ATPase,Chlamydophila caviae (strain GPIC),657,227941
+Q821R7,Q821R7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),293,227941
+Q823Z1,Q823Z1_CHLCV,unreviewed,"Amino acid ABC transporter, periplasmic amino acid-binding protein",Chlamydophila caviae (strain GPIC),259,227941
+Q824W5,Q824W5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),102,227941
+Q823Q8,Q823Q8_CHLCV,unreviewed,"PTS system,IIA component",Chlamydophila caviae (strain GPIC),158,227941
+Q823I0,Q823I0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),92,227941
+Q824J4,Q824J4_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),196,227941
+Q822Q8,Q822Q8_CHLCV,unreviewed,Conserved domain protein,Chlamydophila caviae (strain GPIC),108,227941
+Q823P8,Q823P8_CHLCV,unreviewed,Glycine cleavage system H protein,Chlamydophila caviae (strain GPIC),113,227941
+Q824Y0,Q824Y0_CHLCV,unreviewed,"Exodeoxyribonuclease V, gamma subunit",Chlamydophila caviae (strain GPIC),1021,227941
+Q824G3,Q824G3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),316,227941
+Q823M1,Q823M1_CHLCV,unreviewed,"Phosphatase, HAD family, putative",Chlamydophila caviae (strain GPIC),295,227941
+Q823N3,Q823N3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),147,227941
+Q821J7,Q821J7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),180,227941
+Q823W7,Q823W7_CHLCV,unreviewed,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C (Asp/Glu-ADT subunit C) (EC 6.3.5.-),Chlamydophila caviae (strain GPIC),100,227941
+Q823N5,Q823N5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),95,227941
+Q821W0,Q821W0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),171,227941
+Q822I0,Q822I0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),578,227941
+Q824J5,Q824J5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),264,227941
+Q823L2,Q823L2_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),376,227941
+Q821Q4,Q821Q4_CHLCV,unreviewed,"Preprotein translocase, YajC subunit",Chlamydophila caviae (strain GPIC),117,227941
+Q824E3,Q824E3_CHLCV,unreviewed,Sodium/alanine symporter family protein,Chlamydophila caviae (strain GPIC),451,227941
+Q822C3,Q822C3_CHLCV,unreviewed,tRNA-specific adenosine deaminase (EC 3.5.4.33),Chlamydophila caviae (strain GPIC),157,227941
+Q824Y7,Q824Y7_CHLCV,unreviewed,Delta-aminolevulinic acid dehydratase (EC 4.2.1.24),Chlamydophila caviae (strain GPIC),331,227941
+Q821H2,Q821H2_CHLCV,unreviewed,"Succinate dehydrogenase, flavoprotein subunit",Chlamydophila caviae (strain GPIC),627,227941
+Q824X9,Q824X9_CHLCV,unreviewed,"Efflux protein, putative",Chlamydophila caviae (strain GPIC),570,227941
+Q822A2,Q822A2_CHLCV,unreviewed,"Serine protease, HtrA/DegQ/DegS family",Chlamydophila caviae (strain GPIC),488,227941
+Q821P7,Q821P7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),214,227941
+Q822G6,Q822G6_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),277,227941
+Q821W2,Q821W2_CHLCV,unreviewed,"Glycyl-tRNA synthetase, tetrameric type, alpha/beta subunits",Chlamydophila caviae (strain GPIC),1006,227941
+Q824C3,Q824C3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),371,227941
+Q822Q1,Q822Q1_CHLCV,unreviewed,"ABC transporter, permease protein, putative",Chlamydophila caviae (strain GPIC),263,227941
+Q821Y7,Q821Y7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),31,227941
+Q824R0,Q824R0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),51,227941
+Q822P3,Q822P3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),411,227941
+Q823K5,Q823K5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),51,227941
+Q822H7,Q822H7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),49,227941
+Q824D0,Q824D0_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),123,227941
+Q823M9,Q823M9_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),393,227941
+Q821N7,Q821N7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),178,227941
+Q822Q7,Q822Q7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),143,227941
+Q822V3,Q822V3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),170,227941
+Q824B7,Q824B7_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),53,227941
+Q822S3,Q822S3_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),251,227941
+Q821U5,Q821U5_CHLCV,unreviewed,Uncharacterized protein,Chlamydophila caviae (strain GPIC),48,227941
+Q822S8,Q822S8_CHLCV,unreviewed,"Peptide ABC transporter, periplasmic binding protein",Chlamydophila caviae (strain GPIC),545,227941

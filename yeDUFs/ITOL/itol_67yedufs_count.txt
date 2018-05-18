@@ -1,0 +1,166 @@
+Pseudomonas putida	22
+Prochlorococcus marinus MIT9313	5
+Cyanidioschyzon merolae	51
+Clostridium perfringens	4
+Salmonella typhimurium	7
+Corynebacterium glutamicum 13032	12
+Streptococcus pyogenes SSI-1	4
+Eremothecium gossypii	78
+Xanthomonas campestris	15
+Bacillus anthracis	10
+Streptococcus pyogenes MGAS8232	4
+Yersinia pestis KIM	9
+Corynebacterium efficiens	12
+Photobacterium profundum	17
+Gloeobacter violaceus	7
+Clostridium tetani	7
+Methanopyrus kandleri	11
+Plasmodium falciparum	48
+Lactobacillus johnsonii	8
+Vibrio vulnificus CMCP6	17
+Corynebacterium glutamicum	12
+Yersinia pestis CO92	9
+Buchnera aphidicola APS	1
+Caenorhabditis elegans	131
+Yersinia pestis Medievalis	9
+Vibrio cholerae	14
+Sulfolobus tokodaii	15
+Neisseria meningitidis B	5
+Neisseria meningitidis A	5
+Pasteurella multocida	4
+Thermus thermophilus	15
+Rhizobium meliloti	23
+Streptococcus agalactiae III	3
+Listeria monocytogenes EGD	4
+Synechococcus sp. WH8102	7
+Thermoplasma acidophilum	10
+Staphylococcus aureus N315	6
+Solibacter usitatus	30
+Desulfovibrio vulgaris	7
+Porphyromonas gingivalis	8
+Borrelia burgdorferi	3
+Salmonella typhi	7
+Blochmannia floridanus	2
+Bordetella pertussis	12
+Anopheles gambiae	90
+Saccharomyces cerevisiae	47
+Wolinella succinogenes	10
+Mycoplasma mycoides	2
+Clostridium acetobutylicum	5
+Mycoplasma penetrans	2
+Campylobacter jejuni	10
+Rattus norvegicus	145
+Buchnera aphidicola Sg	1
+Archaeoglobus fulgidus	14
+Mycobacterium leprae	11
+Streptococcus pyogenes M1	4
+Danio rerio	192
+Bacillus cereus ATCC 10987	10
+Methanobacterium thermautotrophicum	11
+Mycoplasma pulmonis	1
+Nanoarchaeum equitans	6
+Haemophilus influenzae	4
+Haemophilus ducreyi	3
+Treponema pallidum	3
+Ralstonia solanacearum	21
+Thalassiosira pseudonana	68
+Methanosarcina acetivorans	18
+Agrobacterium tumefaciens WashU	11
+Arabidopsis thaliana	202
+Synechococcus elongatus	6
+Streptococcus pyogenes MGAS315	4
+Helicobacter pylori J99	4
+Escherichia coli K12	8
+Helicobacter pylori 26695	4
+Mus musculus	212
+Deinococcus radiodurans	11
+Photorhabdus luminescens	6
+Pan troglodytes	110
+Salmonella enterica	7
+Nitrosomonas europaea	9
+Bacillus halodurans	8
+Geobacter sulfurreducens	13
+Thermotoga maritima	6
+Vibrio parahaemolyticus	17
+Pyrobaculum aerophilum	12
+Rhodopseudomonas palustris	14
+Methanosarcina mazei	16
+Buchnera aphidicola Bp	1
+Oceanobacillus iheyensis	6
+Halobacterium sp. NRC-1	11
+Bacillus cereus ATCC 14579	10
+Streptomyces avermitilis	17
+Chlorobium tepidum	10
+Bifidobacterium longum	6
+Corynebacterium diphtheriae	9
+Streptococcus pneumoniae R6	4
+Escherichia coli O6	8
+Fusobacterium nucleatum	5
+Mycoplasma pneumoniae	1
+Mycoplasma mobile	1
+Xylella fastidiosa 9a5c	5
+Leishmania major	53
+Aeropyrum pernix	13
+Leptospira interrogans L1-130	18
+Listeria monocytogenes F2365	4
+Staphylococcus aureus MW2	6
+Helicobacter hepaticus	7
+Fibrobacter succinogenes	8
+Leptospira interrogans 56601	18
+Escherichia coli EDL933	8
+Prochlorococcus marinus CCMP1378	5
+Mycoplasma gallisepticum	1
+Ureaplasma parvum	1
+Chromobacterium violaceum	11
+Acidobacterium capsulatum	11
+Gallus gallus	89
+Takifugu rubripes	213
+Mycobacterium tuberculosis H37Rv	19
+Streptococcus pneumoniae TIGR4	4
+Giardia lamblia	35
+Chlamydia trachomatis	4
+Xylella fastidiosa 700964	5
+Staphylococcus epidermidis	3
+Schizosaccharomyces pombe	87
+Mycobacterium paratuberculosis	18
+Bacteroides thetaiotaomicron	10
+Tropheryma whipplei TW08/27	7
+Vibrio vulnificus YJ016	17
+Thermoanaerobacter tengcongensis	7
+Methanococcus jannaschii	12
+Methanococcus maripaludis	10
+Treponema denticola	4
+Wigglesworthia brevipalpis	3
+Streptomyces coelicolor	18
+Caulobacter crescentus	12
+Caenorhabditis briggsae	87
+Nostoc sp. PCC 7120	12
+Escherichia coli O157:H7	8
+Sulfolobus solfataricus	18
+Rhizobium loti	17
+Lactobacillus plantarum	5
+Mycobacterium tuberculosis CDC1551	19
+Aquifex aeolicus	9
+Bacillus subtilis	6
+Enterococcus faecalis	3
+Coxiella burnetii	8
+Pseudomonas syringae	15
+Streptococcus mutans	5
+Drosophila melanogaster	154
+Staphylococcus aureus Mu50	6
+Dictyostelium discoideum	79
+Homo sapiens	242
+Shewanella oneidensis	16
+Rickettsia prowazekii	4
+Pyrococcus furiosus	16
+Mycoplasma genitalium	1
+Tropheryma whipplei Twist	7
+Bdellovibrio bacteriovorus	8
+Synechocystis sp. PCC6803	7
+Pseudomonas aeruginosa	25
+Dehalococcoides ethenogenes	3
+Lactococcus lactis	3
+Phytoplasma Onion yellows	1
+Oryza sativa	159
+Prochlorococcus marinus SS120	5
+Streptococcus agalactiae V	3

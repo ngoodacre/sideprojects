@@ -1,0 +1,408 @@
+acidobacteria|204432|class
+acidobacterium capsulatum|33075|species
+actinobacteridae|1760|class
+actinobacteridae|1760|class
+actinomycetales|2037|order
+actinopterygii|7898|superclass
+aeropyrum pernix|56636|species
+agrobacterium tumefaciens cereon|UNKNOWN
+*agrobacterium tumefaciens|358|species
+agrobacterium tumefaciens washu|UNKNOWN
+*agrobacterium tumefaciens|358|species
+alphaproteobacteria|28211|class
+alphaproteobacteria|28211|class
+anopheles gambiae|7165|species
+apicomplexa|5794|phylum
+aquifex aeolicus|63363|species
+arabidopsis thaliana|3702|species
+archaea|2157|superkingdom
+archaea|2157|superkingdom
+archaeoglobus fulgidus|2234|species
+ascomycota|4890|phylum
+bacillaceae|186817|family
+bacillaceae|186817|family
+bacillales|1385|order
+bacillales|1385|order
+bacilli|91061|class
+bacillus|55087|genus
+bacillus|55087|genus
+bacillus|55087|genus
+bacillus anthracis|1392|species
+bacillus cereus atcc 10987|222523|no rank
+bacillus cereus atcc 14579|226900|no rank
+bacillus halodurans|86665|species
+bacillus subtilis|1423|species
+bacteria|629395|genus
+bacteria|629395|genus
+bacteria|629395|genus
+bacteria|629395|genus
+bacteria|629395|genus
+bacteria|629395|genus
+bacteria|629395|genus
+bacteria|629395|genus
+bacteria|629395|genus
+bacteria|629395|genus
+bacteria|629395|genus
+bacteria|629395|genus
+bacteria|629395|genus
+bacteria|629395|genus
+bacteria|629395|genus
+bacteroidales|171549|order
+bacteroides thetaiotaomicron|818|species
+bacteroidetes|200643|class
+bdellovibrio bacteriovorus|959|species
+betaproteobacteria|28216|class
+betaproteobacteria|28216|class
+bifidobacterium longum|216816|species
+blochmannia floridanus|203907|species
+bordetella|517|genus
+bordetella|517|genus
+bordetella bronchiseptica|518|species
+bordetella parapertussis|519|species
+bordetella pertussis|520|species
+borrelia burgdorferi|139|species
+bradyrhizobiaceae|41294|family
+bradyrhizobium japonicum|375|species
+brucella|234|genus
+brucella melitensis|29459|species
+brucella suis|29461|species
+buchnera|46073|genus
+buchnera|46073|genus
+buchnera aphidicola aps|UNKNOWN
+*buchnera aphidicola strain aps (acyrthosiphon pisum)|107806|no rank
+buchnera aphidicola bp|UNKNOWN
+*buchnera aphidicola str. bp (baizongia pistaciae)|224915|no rank
+buchnera aphidicola sg|UNKNOWN
+*buchnera aphidicola str. sg (schizaphis graminum)|198804|no rank
+burkholderiales|80840|order
+caenorhabditis|6237|genus
+caenorhabditis briggsae|6238|species
+caenorhabditis elegans|6239|species
+campylobacter jejuni|197|species
+campylobacterales|213849|order
+caulobacter crescentus|155892|species
+chlamydia|810|genus
+chlamydia muridarum|83560|species
+chlamydia pneumoniae ar39|115711|no rank
+chlamydia pneumoniae cwl029|115713|no rank
+chlamydia pneumoniae j138|UNKNOWN
+*chlamydia pneumoniae (strain j138)|138677|no rank
+chlamydia trachomatis|813|species
+chlamydiaceae|809|family
+chlamydophila|810|genus
+chlamydophila|810|genus
+chlamydophila|810|genus
+chlamydophila|810|genus
+chlamydophila caviae|83557|species
+chlamydophila pneumoniae tw183|182082|no rank
+chlorobi group|UNKNOWN
+*bacteroidetes/chlorobi group|68336|no rank
+chlorobium tepidum|1097|species
+chromobacterium violaceum|536|species
+clostridia|186801|class
+clostridium|1485|genus
+clostridium|1485|genus
+clostridium acetobutylicum|1488|species
+clostridium perfringens|1502|species
+clostridium tetani|1513|species
+corynebacterineae|85007|order
+corynebacterium|1716|genus
+corynebacterium|1716|genus
+corynebacterium|1716|genus
+corynebacterium diphtheriae|1717|species
+corynebacterium efficiens|152794|species
+corynebacterium glutamicum|1718|species
+corynebacterium glutamicum 13032|UNKNOWN
+*corynebacterium glutamicum atcc 13032|196627|no rank
+coxiella burnetii|777|species
+cryptosporidium hominis|237895|species
+cyanidioschyzon merolae|45157|species
+cyanobacteria|1117|phylum
+cyanobacteria|1117|phylum
+cyanobacteria|1117|phylum
+cyanobacteria|1117|phylum
+cyanobacteria|1117|phylum
+cyanobacteria|1117|phylum
+cyanobacteria|1117|phylum
+danio rerio|7955|species
+dehalococcoides ethenogenes|61435|species
+deinococci|188787|class
+deinococcus radiodurans|1299|species
+deltaproteobacteria|28221|class
+deltaproteobacteria|28221|class
+desulfovibrio vulgaris|881|species
+dictyostelium discoideum|44689|species
+diptera|7147|order
+drosophila melanogaster|7227|species
+enterobacteriaceae|543|family
+enterobacteriaceae|543|family
+enterobacteriaceae|543|family
+enterobacteriaceae|543|family
+enterobacteriaceae|543|family
+enterobacteriaceae|543|family
+enterobacteriaceae|543|family
+enterobacteriaceae|543|family
+enterococcus faecalis|1351|species
+eremothecium gossypii|33169|species
+escherichia|561|genus
+escherichia|561|genus
+escherichia coli edl933|UNKNOWN
+*escherichia coli 0157:h7 edl933|155864|no rank
+escherichia coli k12|83333|no rank
+escherichia coli o157 h7|UNKNOWN
+*escherichia coli 0157:h7|83334|no rank
+escherichia coli o6|217992|no rank
+euarchontoglires|314146|superorder
+eukaryota|2759|superkingdom
+eukaryota|2759|superkingdom
+eukaryota|2759|superkingdom
+eukaryota|2759|superkingdom
+eukaryota|2759|superkingdom
+eukaryota|2759|superkingdom
+eukaryota|2759|superkingdom
+eukaryota|2759|superkingdom
+euryarchaeota|28890|phylum
+euryarchaeota|28890|phylum
+euryarchaeota|28890|phylum
+euryarchaeota|28890|phylum
+euryarchaeota|28890|phylum
+euryarchaeota|28890|phylum
+euryarchaeota|28890|phylum
+fibrobacter succinogenes|833|species
+firmicutes|1239|phylum
+firmicutes|1239|phylum
+fusobacterium nucleatum|851|species
+gallus gallus|9031|species
+gammaproteobacteria|1236|class
+gammaproteobacteria|1236|class
+gammaproteobacteria|1236|class
+gammaproteobacteria|1236|class
+gammaproteobacteria|1236|class
+gammaproteobacteria|1236|class
+gemmata obscuriglobus|114|species
+geobacter sulfurreducens|35554|species
+giardia lamblia|5741|species
+gloeobacter violaceus|33072|species
+gnathostomata|35060|superorder
+gnathostomata|35060|superorder
+haemophilus ducreyi|730|species
+haemophilus influenzae|727|species
+halobacterium sp  nrc 1|2243|species
+helicobacter|209|genus
+helicobacter|209|genus
+helicobacter hepaticus|32025|species
+helicobacter pylori 26695|85962|no rank
+helicobacter pylori j99|85963|no rank
+helicobacteraceae|72293|family
+hominidae|9604|family
+homo sapiens|9606|species
+lactobacillales|186826|order
+lactobacillales|186826|order
+lactobacillus|1578|genus
+lactobacillus johnsonii|33959|species
+lactobacillus plantarum|1590|species
+lactococcus lactis|1358|species
+leishmania major|5664|species
+leptospira|171|genus
+leptospira interrogans 56601|UNKNOWN
+*leptospira interrogans serovar lai str. 56601|189518|no rank
+leptospira interrogans l1 130|UNKNOWN
+*leptospira interrogans serovar copenhageni strain fiocruz l1-130|267671|no rank
+listeria|1637|genus
+listeria|1637|genus
+listeria innocua|1642|species
+listeria monocytogenes egd|1334565|no rank
+listeria monocytogenes f2365|UNKNOWN
+*listeria monocytogenes serotype 4b strain f2365|265669|no rank
+metazoa|33208|kingdom
+metazoa|33208|kingdom
+methanobacterium thermautotrophicum|145262|species
+methanococcales|2182|order
+methanococcus jannaschii|2190|species
+methanococcus maripaludis|39152|species
+methanopyrus kandleri|2320|species
+methanosarcina|2207|genus
+methanosarcina acetivorans|2214|species
+methanosarcina mazei|2209|species
+mollicutes|31969|class
+murinae|39107|subfamily
+mus musculus|10090|species
+mycobacterium|1763|genus
+mycobacterium|1763|genus
+mycobacterium|1763|genus
+mycobacterium|1763|genus
+mycobacterium bovis|1765|species
+mycobacterium leprae|1769|species
+mycobacterium paratuberculosis|1770|subspecies
+mycobacterium tuberculosis cdc1551|83331|no rank
+mycobacterium tuberculosis h37rv|83332|no rank
+mycoplasma|2093|genus
+mycoplasma|2093|genus
+mycoplasma|2093|genus
+mycoplasma|2093|genus
+mycoplasma gallisepticum|2096|species
+mycoplasma genitalium|2097|species
+mycoplasma mobile|2118|species
+mycoplasma mycoides|2102|species
+mycoplasma penetrans|28227|species
+mycoplasma pneumoniae|2104|species
+mycoplasma pulmonis|2107|species
+mycoplasmataceae|2092|family
+mycoplasmataceae|2092|family
+mycoplasmataceae|2092|family
+nanoarchaeum equitans|160232|species
+neisseria|482|genus
+neisseria meningitidis a|UNKNOWN
+*neisseria meningitidis serogroup a|65699|no rank
+neisseria meningitidis b|UNKNOWN
+*neisseria meningitidis serogroup b|491|no rank
+neisseriaceae|481|family
+nitrosomonas europaea|915|species
+nostoc sp  pcc 7120|103690|species
+oceanobacillus iheyensis|182710|species
+oryza sativa|4530|species
+synechocystis sp  pcc6803|1148|species
+pan troglodytes|9598|species
+pasteurella multocida|747|species
+pasteurellaceae|712|family
+pasteurellaceae|712|family
+photobacterium profundum|74109|species
+photorhabdus luminescens|29488|species
+phytoplasma onion yellows|UNKNOWN
+*onion yellows phytoplasma|100379|species
+planctomycetaceae|126|family
+plasmodium falciparum|5833|species
+porphyromonas gingivalis|837|species
+prochlorococcus marinus ccmp1378|UNKNOWN
+*prochlorococcus marinus ccmp1377|244376|no rank
+prochlorococcus marinus mit9313|74547|no rank
+prochlorococcus marinus ss120|167539|no rank
+proteobacteria|1224|phylum
+proteobacteria|1224|phylum
+proteobacteria|1224|phylum
+pseudomonas|286|genus
+pseudomonas|286|genus
+pseudomonas aeruginosa|287|species
+pseudomonas putida|303|species
+pseudomonas syringae|317|species
+pyrobaculum aerophilum|13773|species
+pyrococcus|2260|genus
+pyrococcus|2260|genus
+pyrococcus abyssi|29292|species
+pyrococcus furiosus|2261|species
+pyrococcus horikoshii|53953|species
+ralstonia solanacearum|305|species
+rattus norvegicus|10116|species
+rhizobiales|356|order
+rhizobiales|356|order
+rhizobiales|356|order
+rhizobium loti|381|species
+rhizobium meliloti|382|species
+rhodopirellula baltica|265606|species
+rhodopseudomonas palustris|1076|species
+rickettsia|780|genus
+rickettsia conorii|781|species
+rickettsia prowazekii|782|species
+rickettsiaceae|775|family
+saccharomyces cerevisiae|4932|species
+saccharomycetaceae|4893|family
+salmonella|590|genus
+salmonella|590|genus
+salmonella enterica|28901|species
+salmonella typhi|90370|no rank
+salmonella typhimurium|90371|no rank
+schizosaccharomyces pombe|4896|species
+shewanella oneidensis|70863|species
+shigella|620|genus
+shigella flexneri 2a 2457t|UNKNOWN
+*shigella flexneri 2a str 2457t|198215|no rank
+shigella flexneri 2a 301|UNKNOWN
+*shigella flexneri 2a str 301|198214|no rank
+sinorhizobium|28105|genus
+solibacter usitatus|332163|species
+spirochaetaceae|137|family
+spirochaetales|136|order
+staphylococcus|1279|genus
+staphylococcus|1279|genus
+staphylococcus|1279|genus
+staphylococcus aureus mw2|1242971|no rank
+staphylococcus aureus mu50|UNKNOWN
+*staphylococcus aureus subsp. aureus mu50|158878|no rank
+staphylococcus aureus n315|UNKNOWN
+*staphylococcus aureus subsp. aureus n315|158879|no rank
+staphylococcus epidermidis|1282|species
+streptococcaceae|1300|family
+streptococcus|1301|genus
+streptococcus|1301|genus
+streptococcus|1301|genus
+streptococcus|1301|genus
+streptococcus|1301|genus
+streptococcus|1301|genus
+streptococcus|1301|genus
+streptococcus|1301|genus
+streptococcus agalactiae iii|UNKNOWN
+*streptococcus agalactiae serogroup iii|216495|no rank
+streptococcus agalactiae v|UNKNOWN
+*streptococcus agalactiae serogroup v|216466|no rank
+streptococcus mutans|1309|species
+streptococcus pneumoniae r6|171101|no rank
+streptococcus pneumoniae tigr4|170187|no rank
+streptococcus pyogenes m1|UNKNOWN
+*streptococcus pyogenes serotype m1|301447|no rank
+streptococcus pyogenes mgas315|198466|no rank
+streptococcus pyogenes mgas8232|186103|no rank
+streptococcus pyogenes ssi 1|UNKNOWN
+*streptococcus pyogenes ssi-1|193567|no rank
+streptomyces|1883|genus
+streptomyces avermitilis|33903|species
+streptomyces coelicolor|1902|species
+streptophyta|35493|phylum
+sulfolobus|2284|genus
+sulfolobus solfataricus|2287|species
+sulfolobus tokodaii|111955|species
+synechococcus elongatus|32046|species
+synechococcus sp  wh8102|84588|species
+takifugu rubripes|31033|species
+thalassiosira pseudonana|35128|species
+thermoanaerobacter tengcongensis|119072|subspecies
+thermoplasma|2302|genus
+thermoplasma acidophilum|2303|species
+thermoplasma volcanium|50339|species
+thermoprotei|183924|class
+thermoprotei|183924|class
+thermotoga maritima|2336|species
+thermus thermophilus|274|species
+treponema|157|genus
+treponema denticola|158|species
+treponema pallidum|160|species
+tropheryma|2038|genus
+tropheryma whipplei tw08|UNKNOWN
+*tropheryma whipplei tw08/27|218496|no rank
+tropheryma whipplei twist|203267|no rank
+ureaplasma parvum|134821|species
+vibrio|662|genus
+vibrio|662|genus
+vibrio|662|genus
+vibrio cholerae|666|species
+vibrio parahaemolyticus|670|species
+vibrio vulnificus cmcp6|216895|no rank
+vibrio vulnificus yj016|196600|no rank
+vibrionaceae|641|family
+wigglesworthia brevipalpis|36870|no rank
+wolbachia sp  wmel|UNKNOWN
+*wolbachia sp wmelh|66078|species
+wolinella succinogenes|844|species
+xanthomonadaceae|32033|family
+xanthomonas|338|genus
+xanthomonas axonopodis|53413|species
+xanthomonas campestris|339|species
+xylella|2370|genus
+xylella fastidiosa 700964|UNKNOWN
+*xylella fastidiosa temecula1|183190|no rank
+xylella fastidiosa 9a5c|160492|no rank
+yersinia|444888|genus
+yersinia|444888|genus
+yersinia pestis co92|214092|no rank
+yersinia pestis kim|187410|no rank
+yersinia pestis medievalis|UNKNOWN
+*yersinia pestis subsp. pestis bv. medievalis|1234662|no rank

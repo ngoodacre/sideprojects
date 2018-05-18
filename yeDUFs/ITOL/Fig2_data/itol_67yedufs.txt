@@ -1,0 +1,215 @@
+DATASET_GRADIENT
+#lines starting with a hash are comments and ignored during parsing
+#select the separator which is used to delimit the data below (TAB SPACE or COMMA).This separator must be used throught this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL	label1_gradient
+
+#dataset color (can be changed later)
+#COLOR #ff0000
+
+#optional settings
+
+#all other optional settings can be set or changed later in the web interface (under 'Datasets' tab)
+
+#width of the gradient strip
+#STRIP_WIDTH 25
+
+#left margin  used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
+#MARGIN 0
+
+#border width; if set above 0  a border of specified width (in pixels) will be drawn around the gradient strip
+#BORDER_WIDTH 0
+
+#border color; used whern BORDER_WIDTH is above 0
+#BORDER_COLOR #0000ff
+
+#define the gradient colors. Values in the dataset will be mapped onto the corresponding color gradient.
+#COLOR_MIN #ff0000
+#COLOR_MAX #0000ff
+
+#you can specify a gradient with three colors (e.g red to yellow to green) by setting 'USE_MID_COLOR' to 1  and specifying the midpoint color
+#USE_MID_COLOR 1
+#COLOR_MID #ffff00
+
+#In gradients  each ID is associated to a single numeric value which is converted to a colored box based on the gradient defined.
+#Internal tree nodes can be specified using IDs directly  or using the 'last common ancestor' method described in iTOL help pages
+#Actual data follows after the "DATA" keyword
+DATA
+#ID1 value1
+#ID2 value2
+#9606 10000
+#LEAF1|LEAF2 11000
+ 
+Schizosaccharomyces_pombe	87
+Eremothecium_gossypii	78
+Danio_rerio	192
+Arabidopsis_thaliana	202
+Drosophila_melanogaster	154
+Mus_musculus	212
+Homo_sapiens	242
+Oryza_sativa	159
+Dictyostelium_discoideum	79
+Rattus_norvegicus	145
+Pan_troglodytes	110
+Caenorhabditis_elegans	131
+Takifugu_rubripes	213
+Anopheles_gambiae	90
+Caenorhabditis_briggsae	87
+Gallus_gallus	89
+Saccharomyces_cerevisiae	47
+Thalassiosira_pseudonana	68
+Cyanidioschyzon_merolae	51
+Plasmodium_falciparum	48
+Leishmania_major	53
+Giardia_lamblia	35
+Pyrococcus_furiosus	16
+Aeropyrum_pernix	13
+Sulfolobus_tokodaii	15
+Pyrobaculum_aerophilum	12
+Sulfolobus_solfataricus	18
+Methanococcus_jannaschii	12
+Methanosarcina_acetivorans	18
+Archaeoglobus_fulgidus	14
+Methanopyrus_kandleri	11
+Leptospira_interrogans_56601	18
+Leptospira_interrogans_L1-130	18
+Thermus_thermophilus	15
+Methanococcus_maripaludis	10
+Methanosarcina_mazei	16
+Methanobacterium_thermautotrophicum	11
+Xanthomonas_campestris	15
+Halobacterium_sp._NRC-1	11
+Thermoplasma_acidophilum	10
+Mycobacterium_tuberculosis_H37Rv	19
+Synechocystis_sp._PCC6803	7
+Mycobacterium_tuberculosis_CDC1551	19
+Corynebacterium_glutamicum_13032	12
+Mycobacterium_paratuberculosis	18
+Pseudomonas_putida	22
+Pseudomonas_aeruginosa	25
+Chromobacterium_violaceum	11
+Bacillus_cereus_ATCC_10987	10
+Bacillus_cereus_ATCC_14579	10
+Nanoarchaeum_equitans	6
+Corynebacterium_efficiens	12
+Corynebacterium_glutamicum	12
+Solibacter_usitatus	30
+Streptomyces_avermitilis	17
+Nostoc_sp._PCC_7120	12
+Rhizobium_loti	17
+Rhizobium_meliloti	23
+Bacillus_subtilis	6
+Bacillus_halodurans	8
+Bacillus_anthracis	10
+Desulfovibrio_vulgaris	7
+Chlorobium_tepidum	10
+Pseudomonas_syringae	15
+Corynebacterium_diphtheriae	9
+Escherichia_coli_O157:H7	8
+Rhodopseudomonas_palustris	14
+Yersinia_pestis_Medievalis	9
+Vibrio_vulnificus_CMCP6	17
+Escherichia_coli_EDL933	8
+Escherichia_coli_O6	8
+Mycobacterium_leprae	11
+Ralstonia_solanacearum	21
+Streptomyces_coelicolor	18
+Shewanella_oneidensis	16
+Acidobacterium_capsulatum	11
+Photobacterium_profundum	17
+Gloeobacter_violaceus	7
+Yersinia_pestis_CO92	9
+Escherichia_coli_K12	8
+Aquifex_aeolicus	9
+Thermoanaerobacter_tengcongensis	7
+Caulobacter_crescentus	12
+Vibrio_vulnificus_YJ016	17
+Bdellovibrio_bacteriovorus	8
+Yersinia_pestis_KIM	9
+Deinococcus_radiodurans	11
+Geobacter_sulfurreducens	13
+Vibrio_parahaemolyticus	17
+Thermotoga_maritima	6
+Helicobacter_pylori_26695	4
+Vibrio_cholerae	14
+Staphylococcus_aureus_MW2	6
+Staphylococcus_aureus_N315	6
+Staphylococcus_aureus_Mu50	6
+Bacteroides_thetaiotaomicron	10
+Streptococcus_pyogenes_M1	4
+Streptococcus_mutans	5
+Nitrosomonas_europaea	9
+Helicobacter_hepaticus	7
+Streptococcus_pyogenes_SSI-1	4
+Helicobacter_pylori_J99	4
+Campylobacter_jejuni	10
+Salmonella_enterica	7
+Porphyromonas_gingivalis	8
+Bordetella_pertussis	12
+Listeria_monocytogenes_F2365	4
+Prochlorococcus_marinus_CCMP1378	5
+Wolinella_succinogenes	10
+Fusobacterium_nucleatum	5
+Listeria_monocytogenes_EGD	4
+Xylella_fastidiosa_9a5c	5
+Xylella_fastidiosa_700964	5
+Oceanobacillus_iheyensis	6
+Salmonella_typhi	7
+Salmonella_typhimurium	7
+Prochlorococcus_marinus_SS120	5
+Streptococcus_pyogenes_MGAS8232	4
+Tropheryma_whipplei_Twist	7
+Synechococcus_sp._WH8102	7
+Streptococcus_pyogenes_MGAS315	4
+Clostridium_tetani	7
+Agrobacterium_tumefaciens_WashU	11
+Tropheryma_whipplei_TW08/27	7
+Prochlorococcus_marinus_MIT9313	5
+Coxiella_burnetii	8
+Synechococcus_elongatus	6
+Bifidobacterium_longum	6
+Neisseria_meningitidis_B	5
+Streptococcus_pneumoniae_TIGR4	4
+Streptococcus_agalactiae_V	3
+Clostridium_acetobutylicum	5
+Lactobacillus_johnsonii	8
+Streptococcus_pneumoniae_R6	4
+Rickettsia_prowazekii	4
+Fibrobacter_succinogenes	8
+Neisseria_meningitidis_A	5
+Lactobacillus_plantarum	5
+Dehalococcoides_ethenogenes	3
+Haemophilus_influenzae	4
+Treponema_denticola	4
+Streptococcus_agalactiae_III	3
+Photorhabdus_luminescens	6
+Enterococcus_faecalis	3
+Staphylococcus_epidermidis	3
+Lactococcus_lactis	3
+Borrelia_burgdorferi	3
+Treponema_pallidum	3
+Chlamydia_trachomatis	4
+Blochmannia_floridanus	2
+Mycoplasma_penetrans	2
+Mycoplasma_mycoides	2
+Clostridium_perfringens	4
+Haemophilus_ducreyi	3
+Wigglesworthia_brevipalpis	3
+Pasteurella_multocida	4
+Ureaplasma_parvum	1
+Mycoplasma_genitalium	1
+Mycoplasma_gallisepticum	1
+Phytoplasma_Onion_yellows	1
+Buchnera_aphidicola_Bp	1
+Mycoplasma_mobile	1
+Mycoplasma_pulmonis	1
+Buchnera_aphidicola_APS	1
+Mycoplasma_pneumoniae	1
+Buchnera_aphidicola_Sg	1
+
+	 

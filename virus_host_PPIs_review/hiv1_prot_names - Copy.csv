@@ -1,0 +1,95 @@
+"gag, pr55gag, matrix, p17, capsid, p24, spacer peptide 1, sp1, p2, nucleocapsid, p7, nc, p1, spacer peptide 2, sp2, p1, p6",
+"envelope glycoprotein, gp160, env, gp120, transmembrane protein, gp41, tm, glycoprotein 41",
+"nef, negative factor, f protein",nef
+"rev, art, trs, anti repression transactivator, regulator of expression of viral proteins",rev
+"gag pro, p3, matrix, p19, p2a, p2b, p10, capsid, p27, nucleocapsid, p12, protease, p15, EC 3.4.23.-",
+"tax 1, x lor, px, trans activating transcriptional regulatory protein",tax 1
+"vpr, protein s, tat",tat
+"nef, negative factor, f protein, c terminal core",nef
+"rex, p27rex",rex 1
+tat,
+tax 2,tax 2
+"env, surface protein, su, glycoprotein 62, gp62, transmembrane protein, tm",
+"envelope glycoprotein gp63, env, surface protein, su, glycoprotein 46, gp46, transmembrane protein, glycoprotein 21, gp21",
+"non structural protein 1, ns1",ns1
+"nef, 3 orf, negative factor, f protein",nef
+"rev, art, trs, anti repression transactivator, regulator of expression of viral proteins",rev
+"nuclear export protein, nep, non structural protein 2",nep
+"rex, rev homolog, rex 2",rex 2
+"gag, pr65gag, core polyprotein, matrix, p15, ma, rna binding phosphoprotein p12, capsid ",
+"vif, sor, p17, p7",
+"tat, transactivating regulatory protein",tat
+"gag pro pol, matrix, p19, ma, capsid, p24, ca, nucleocapsid, p15, nc, protease, pr, ec 3 4 23, p1, reverse transcriptase, ribonuclease H, rt, ec 2 7 7 49, ec 2 7 7 7, ec 3 1 26 4, integrase, in, ec 2 7 7, ec 3 1",
+"gag, core polyprotein, matrix, p10, core phosphoprotein, pp24, p12, capsid, p27, nucleocapsid, p14, p4",
+"gag, pr53gag, matrix, p19, ma, capsid, p24, ca, nucleocapsid, p15, nc gag",
+"env, gp62, surface protein, su, glycoprotein 46, gp46, transmembrane protein, tm, glycoprotein 21, gp21",
+"gag, pr55gag, matrix, p17, capsid, p24, spacer peptide 1, sp1, p2, nucleocapsid, p7, nc, p1, spacer peptide 2, sp2, p1, p6",
+"env, surface protein, su, glycoprotein 62, gp62, transmembrane protein, tm",
+"gag, matrix, p15, ma, capsid, p26, ca, p1, nucleocapsid, p11, nc, p9",
+"gag, pr53gag, matrix, p19, ma, capsid, p24, ca, nucleocapsid, p15, nc gag",
+"vpx, viral protein x, x orf protein",vpx
+"vpx, viral protein x, x orf protein",vpx
+"retroviral cyclin, rv cyclin, orf a protein",rv cyclin
+orf b,
+"rev, 3 orf",rev
+"core protein p19, p19, gag protein p19",p19
+"env, surface protein, su, glycoprotein 62, gp62, transmembrane protein, tm",
+"gag, pr55gag, matrix, p17, capsid, p24, spacer peptide 1, sp1, p2, nucleocapsid, p7, nc, p1, spacer peptide 2, sp2, p1, p6",
+"tax 3, trans activating transcriptional regulatory protein",tax 3
+"nef, negative factor, f protein, c terminal core",nef
+"nef, negative factor, f protein",nef
+"nef, negative factor, f protein, c terminal core",nef
+"gag pol, pr160gag, matrix, p17, ma, capsid, p24, ca, spacer peptide 1, sp1, p2, nucleocapsid, p7, nc, transframe peptide, tf, p6, protease, ec 3 4 23 15, pr, retropepsin, reverse transcriptase, ribonuclease, ex 2 7 7 49, ec 2 7 7 7, ec 3 1 26 13, exoribonuclease, ec 3 1 13 2, p66, rt, p51, p15, integrase, ec 2 7 7, ec 3 1",
+,
+"virion infectivity factor, vif, sor, p17, p7",vif
+"virion infectivity factor, vif, sor, p17, p7",vif
+"virion infectivity factor, vif, sor, p17, p7",vif
+"virion infectivity factor, vif, sor, p17, p7",vif
+integrase,
+"v 1 protease, v 1",v 1
+gag,
+"gag pol, pr160gag, matrix, p17, ma, capsid, p24, ca, spacer peptide 1, sp1, p2, nucleocapsid, p7, nc, transframe peptide, tf, p6, protease, ec 3 4 23 15, pr, retropepsin, reverse transcriptase, ribonuclease, ex 2 7 7 49, ec 2 7 7 7, ec 3 1 26 13, exoribon",
+"gag, pr55gag, matrix, p17, capsid, p24, spacer peptide 1, sp1, p2, nucleocapsid, p7, nc, p1, spacer peptide 2, sp2, p1, p6",
+"gag, pr55gag, matrix, p17, capsid, p24, spacer peptide 1, sp1, p2, nucleocapsid, p7, nc, p1, spacer peptide 2, sp2, p1, p6",
+"vpu, u orf, viral protein u",vpu
+"vpr, r orf protein, viral protein r",vpr
+"vpr, r orf protein, viral protein r",vpr
+"virion infectivity factor, vif, sor, p17, p7",vif
+"vpu, u orf, viral protein u",vpu
+"tat, transactivating regulatory protein",tat
+tax,tax
+"tax 1, x lor, px, trans activating transcriptional regulatory protein",tax 1
+"gag pol, pr160gag, matrix, p17, ma, capsid, p24, ca, spacer peptide 1, sp1, p2, nucleocapsid, p7, nc, transframe peptide, tf, p6, protease, ec 3 4 23 15, pr, retropepsin, reverse transcriptase, ribonuclease, ex 2 7 7 49, ec 2 7 7 7, ec 3 1 26 13, exoribon",
+"vpr, r orf protein, viral protein r",vpr
+"vpu, u orf, viral protein u",vpu
+"env, gp160, surface protein gp120, su, transmembrane protein, gp41, tm, glycoprotein 41, gp41",
+"virion infectivity factor, vif, sor, p17, p7",vif
+"tyrosine protein kinase transforming protein, ec 2 7 10 2, src, pp60v, p60 src, v src",src
+"tyrosine protein kinase transforming protein, ec 2 7 10 2, src, pp60v, p60 src, v src",src
+nef,
+gag,
+tat,
+,
+"nef, 3 orf, negative factor, f protein",nef
+"gag, pr55gag, matrix, p17, capsid, p24, spacer peptide 1, sp1, p2, nucleocapsid, p7, nc, p1, spacer peptide 2, sp2, p1, p6",
+"gag pol, pr160gag, matrix, p17, ma, capsid, p24, ca, spacer peptide 1, sp1, p2, nucleocapsid, p7, nc, transframe peptide, tf, p6, protease, ec 3 4 23 15, pr, retropepsin, reverse transcriptase, ribonuclease, ex 2 7 7 49, ec 2 7 7 7, ec 3 1 26 13, exoribon",
+tat,
+"nef, 3 orf, negative factor, f protein",nef
+tat,
+"tyrosine protein kinase transforming protein, ec 2 7 10 2, src, pp60v, p60 src, v src",src
+"gag, pr55gag, matrix, p17, capsid, p24, spacer peptide 1, sp1, p2, nucleocapsid, p7, nc, p1, spacer peptide 2, sp2, p1, p6",
+"vpu, u orf, viral protein u",vpu
+"vpr, r orf protein, viral protein r",vpr
+,
+"reverse transcriptase, rnase h",rnase h
+gag,
+"vpu, u orf, viral protein u",vpu
+"virion infectivity factor, vif, sor, p17, p7",vif
+bzip,
+"tyrosine protein kinase transforming protein, ec 2 7 10 2, src, pp60v, p60 src, v src",src
+"nef, 3 orf, negative factor, f protein",nef
+"rev, art, trs, anti repression transactivator, regulator of expression of viral proteins",rev
+"vpu, u orf, viral protein u",vpu
+uncharacterized protein b,
+"rex, rev homolog, rex 1, p27rex",rex
+"vpr, r orf protein, viral protein r",vpr

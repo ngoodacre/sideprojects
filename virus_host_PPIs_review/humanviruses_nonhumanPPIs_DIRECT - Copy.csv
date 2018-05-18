@@ -1,0 +1,823 @@
+10299,herpes simplex virus (type 1 / strain 17),3702,arabidopsis thaliana,P06492_Q7XYY2,7
+10299,herpes simplex virus (type 1 / strain 17),559292,saccharomyces cerevisiae s288c,P04387_P06492,7
+10299,herpes simplex virus (type 1 / strain 17),559292,saccharomyces cerevisiae s288c,P06492_Q01939,7
+10299,herpes simplex virus (type 1 / strain 17),4932,saccharomyces cerevisiae,P04387_P06492,7
+10299,herpes simplex virus (type 1 / strain 17),4932,saccharomyces cerevisiae,P06492_Q01939,7
+10299,herpes simplex virus (type 1 / strain 17),9796,equus caballus,P10228_Q9XS82,7
+10299,herpes simplex virus (type 1 / strain 17),9823,sus scrofa,Q69091_Q9GL76,7
+10298,human alphaherpesvirus 1,10090,mus musculus,G8HBG2_Q6PGF3,5
+10298,human alphaherpesvirus 1,10090,mus musculus,A2AGH6_G8HBG2,5
+10298,human alphaherpesvirus 1,10090,mus musculus,G8HBG2_Q9CQ39,5
+10298,human alphaherpesvirus 1,10090,mus musculus,G8HBG2_Q8VCD5,5
+10298,human alphaherpesvirus 1,10090,mus musculus,G8HBF1_P70196,5
+132487,measles virus strain schwarz,9913,bos taurus,Q3T0F4_Q77M19,2
+132487,measles virus strain schwarz,10090,mus musculus,Q60680_Q77M19,2
+70698,m28 virus,559292,saccharomyces cerevisiae s288c,P17967_Q7LZU3,2
+70698,m28 virus,559292,saccharomyces cerevisiae s288c,P0CG63_Q7LZU3,2
+10345,suid alphaherpesvirus 1,10090,mus musculus,G3G926_P63085,3
+10345,suid alphaherpesvirus 1,9823,sus scrofa,G3G922_Q9GL76,3
+10345,suid alphaherpesvirus 1,9823,sus scrofa,C7EYC8_P01025,3
+10515,human adenovirus 2,559292,saccharomyces cerevisiae s288c,P53622_P68978,3
+10515,human adenovirus 2,284812,schizosaccharomyces pombe 972h-,P68978_Q96WV5,3
+10515,human adenovirus 2,10090,mus musculus,P03244_Q60520,3
+11873,avian musculoaponeurotic fibrosarcoma virus as42,9031,gallus gallus,P23091_P24343,1
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UQU1_E7DN73,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UR87_E7DNC2,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UP48_E7DNB1,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2URA0_E7DN96,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UQY5_E7DND6,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,E7DN80_Q97SR6,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UQR2_E7DN73,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,E7DN96_Q97SX0,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,E7DN96_Q97SR6,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,E7DNB5_P0CB76,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UQY5_E7DNC2,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2URK9_E7DN96,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UQ84_E7DN95,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,E7DN82_Q97PM1,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,E7DN96_P66854,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2US90_E7DNC4,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2URY4_E7DN78,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2USH2_E7DN98,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UR86_E7DNC2,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2USI3_E7DN73,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,E7DN73_Q97SR6,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,E7DNA8_Q97QZ2,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2USI3_E7DN76,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UR82_E7DNA8,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2USI3_E7DN95,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2URF8_E7DNB2,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2URW0_E7DN68,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UNL0_E7DN98,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UNL0_E7DNA8,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,E7DN97_Q97QW0,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,E7DN95_Q97SR6,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2USH2_E7DNA8,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2US80_E7DN93,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UQS7_E7DNA8,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2USI3_E7DNB2,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UQZ2_E7DNC2,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,E7DNA3_Q97SR6,38
+59241,streptococcus phage dp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UQU9_E7DNA8,38
+11113,hepatitis c virus isolate hc-j6,10090,mus musculus,P06240_P26660,1
+211044,influenza a virus (a/puerto rico/8/1934(h1n1)),9913,bos taurus,P03496_P23726,4
+211044,influenza a virus (a/puerto rico/8/1934(h1n1)),9615,canis lupus familiaris,P03485_Q6TEQ7,4
+211044,influenza a virus (a/puerto rico/8/1934(h1n1)),9615,canis lupus familiaris,P03485_Q7YQC6,4
+211044,influenza a virus (a/puerto rico/8/1934(h1n1)),9615,canis lupus familiaris,O18840_P03485,4
+229032,porcine epidemic diarrhea virus cv777,559292,saccharomyces cerevisiae s288c,P41811_Q91AV1,3
+229032,porcine epidemic diarrhea virus cv777,559292,saccharomyces cerevisiae s288c,P53622_Q91AV1,3
+229032,porcine epidemic diarrhea virus cv777,284812,schizosaccharomyces pombe 972h-,Q91AV1_Q96WV5,3
+11116,hepatitis c virus (isolate japanese),10116,rattus norvegicus,P26662_P97633,1
+10665,enterobacteria phage t4,83333,escherichia coli k-12,P0A8V2_P13338,5
+10665,enterobacteria phage t4,83333,escherichia coli k-12,P0A7Z4_P32267,5
+10665,enterobacteria phage t4,83333,escherichia coli k-12,P00579_P32267,5
+10665,enterobacteria phage t4,83333,escherichia coli k-12,P0A8V2_P32267,5
+10665,enterobacteria phage t4,208964,pseudomonas aeruginosa pao1,P26480_P32267,5
+11709,human immunodeficiency virus 2,9544,macaca mulatta,P62940_Q76929,1
+1891767,macaca mulatta polyomavirus 1,10116,rattus norvegicus,P03070_P20266,11
+1891767,macaca mulatta polyomavirus 1,559292,saccharomyces cerevisiae s288c,P00546_P03070,11
+1891767,macaca mulatta polyomavirus 1,10090,mus musculus,P03070_P16627,11
+1891767,macaca mulatta polyomavirus 1,10090,mus musculus,P03070_P45481,11
+1891767,macaca mulatta polyomavirus 1,10090,mus musculus,P03070_P52293,11
+1891767,macaca mulatta polyomavirus 1,10090,mus musculus,O56327_Q76MZ3,11
+1891767,macaca mulatta polyomavirus 1,10090,mus musculus,P03087_P11103,11
+1891767,macaca mulatta polyomavirus 1,10090,mus musculus,P03070_P13405,11
+1891767,macaca mulatta polyomavirus 1,10090,mus musculus,P02340_P03070,11
+1891767,macaca mulatta polyomavirus 1,10090,mus musculus,P03070_Q99LX0,11
+1891767,macaca mulatta polyomavirus 1,10090,mus musculus,P03070_P63017,11
+10747,streptococcus phage cp-1,170187,streptococcus pneumoniae tigr4,Q38002_Q97SR6,11
+10747,streptococcus phage cp-1,170187,streptococcus pneumoniae tigr4,A0A0H2USI3_Q38011,11
+10747,streptococcus phage cp-1,170187,streptococcus pneumoniae tigr4,P15057_P67413,11
+10747,streptococcus phage cp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UPN3_Q38011,11
+10747,streptococcus phage cp-1,170187,streptococcus pneumoniae tigr4,A0A0H2URP7_Q38011,11
+10747,streptococcus phage cp-1,170187,streptococcus pneumoniae tigr4,P0A471_Q37995,11
+10747,streptococcus phage cp-1,170187,streptococcus pneumoniae tigr4,P63640_Q37995,11
+10747,streptococcus phage cp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UPP8_Q38010,11
+10747,streptococcus phage cp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UQB9_Q38011,11
+10747,streptococcus phage cp-1,170187,streptococcus pneumoniae tigr4,P67318_Q37990,11
+10747,streptococcus phage cp-1,170187,streptococcus pneumoniae tigr4,A0A0H2UPP8_Q38003,11
+11706,hiv-1 m:b_hxb2r,10116,rattus norvegicus,O08565_P04578,6
+11706,hiv-1 m:b_hxb2r,9913,bos taurus,P04591_Q2NKZ1,6
+11706,hiv-1 m:b_hxb2r,9913,bos taurus,P04591_Q3MHL7,6
+11706,hiv-1 m:b_hxb2r,9913,bos taurus,P04591_Q3ZBH0,6
+11706,hiv-1 m:b_hxb2r,10090,mus musculus,P04591_P80318,6
+11706,hiv-1 m:b_hxb2r,10090,mus musculus,P04618_Q6P5F9,6
+31518,bovine herpesvirus type 1.1 (strain jura),9913,bos taurus,O02853_P29128,2
+31518,bovine herpesvirus type 1.1 (strain jura),9913,bos taurus,A8E4Q6_P29128,2
+10527,human adenovirus d9,10116,rattus norvegicus,P89079_Q62696,4
+10527,human adenovirus d9,10116,rattus norvegicus,O55164_P89079,4
+10527,human adenovirus d9,10116,rattus norvegicus,P89079_Q4L1J4,4
+10527,human adenovirus d9,10090,mus musculus,P89079_Q6RHR9,4
+33708,murid gammaherpesvirus 4,10090,mus musculus,O41932_Q9WUN2,2
+33708,murid gammaherpesvirus 4,10090,mus musculus,O41974_P63017,2
+10370,human herpesvirus 6 (strain uganda-1102),559292,saccharomyces cerevisiae s288c,P24448_P53267,1
+73475,chicken anemia virus cuxhaven-1/germany,10090,mus musculus,P26450_Q99152,1
+345184,cabbage leaf curl jamaica virus,3702,arabidopsis thaliana,O82175_Q96703,4
+345184,cabbage leaf curl jamaica virus,3702,arabidopsis thaliana,Q8GZB6_Q96703,4
+345184,cabbage leaf curl jamaica virus,3702,arabidopsis thaliana,O22781_Q96703,4
+345184,cabbage leaf curl jamaica virus,3702,arabidopsis thaliana,Q8VZ17_Q96703,4
+1223261,pseudomonas phage jbd5,208963,pseudomonas aeruginosa ucbpp-pa14,L7P7R7_Q02ML8,1
+1223260,pseudomonas phage jbd30,208963,pseudomonas aeruginosa ucbpp-pa14,L7P7M1_Q02MM2,3
+1223260,pseudomonas phage jbd30,208963,pseudomonas aeruginosa ucbpp-pa14,L7P7M1_Q02MM1,3
+1223260,pseudomonas phage jbd30,208963,pseudomonas aeruginosa ucbpp-pa14,L7P7M1_Q02ML9,3
+928296,borna disease virus-v,10116,rattus norvegicus,P0C799_P39951,3
+928296,borna disease virus-v,10116,rattus norvegicus,P0C797_P30277,3
+928296,borna disease virus-v,10116,rattus norvegicus,P0C797_P39951,3
+11878,avian sarcoma virus ct10,10090,mus musculus,P05433_Q61140,1
+10684,bacillus phage pbs2,83333,escherichia coli k-12,P12295_P14739,1
+11108,hepatitis c virus (isolate h),10090,mus musculus,P25118_P27958,7
+11108,hepatitis c virus (isolate h),10090,mus musculus,P06240_P27958,7
+11108,hepatitis c virus (isolate h),10090,mus musculus,P27958_Q9Z2B5,7
+11108,hepatitis c virus (isolate h),10090,mus musculus,P27958_P39429,7
+11108,hepatitis c virus (isolate h),9534,chlorocebus aethiops,H6U5Q1_P27958,7
+11108,hepatitis c virus (isolate h),10036,mesocricetus auratus,P27958_Q920L9,7
+11108,hepatitis c virus (isolate h),10036,mesocricetus auratus,P07823_P27958,7
+11676,human immunodeficiency virus 1,10090,mus musculus,A0A288CFT1_M1VPI1,11
+11676,human immunodeficiency virus 1,10090,mus musculus,P35585_Q90VU7,11
+11676,human immunodeficiency virus 1,10090,mus musculus,A0A288CG13_G3X8X6,11
+11676,human immunodeficiency virus 1,10090,mus musculus,P04608_P17047,11
+11676,human immunodeficiency virus 1,10090,mus musculus,A0A288CG30_B2RSC8,11
+11676,human immunodeficiency virus 1,7227,drosophila melanogaster,A0A0B4KHK1_Q9WB91,11
+11676,human immunodeficiency virus 1,3501,urtica dioica,P11218_Q75760,11
+11676,human immunodeficiency virus 1,373036,griffithsia sp. q66d336,P84801_Q75760,11
+11676,human immunodeficiency virus 1,9544,macaca mulatta,A0A288CG13_Q0PF16,11
+11676,human immunodeficiency virus 1,9544,macaca mulatta,P62940_Q72497,11
+11676,human immunodeficiency virus 1,237531,actinomycete k97-0003,Q75760_Q9KWN0,11
+11678,human immunodeficiency virus type 1 bh10,9534,chlorocebus aethiops,P03347_Q6SSD8,1
+11103,hepatitis c virus,10090,mus musculus,O89168_P11928,2
+11103,hepatitis c virus,10090,mus musculus,O93077_P61290,2
+11100,bovine viral diarrhea virus 1-nadl,9986,oryctolagus cuniculus,P19711_P68105,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q08D91,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q32PH0,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3MHH4,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q7YRW9,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_P68103,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q5E956,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_P79136,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,E1BBZ3_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q148H7,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q2TBG8,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q0VC92,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q0VBW6,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1N5V1_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3SYU2,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q56K14,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3ZBC8,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A6QNQ4_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,G3X7B3_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,E1BE11_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1MKS3_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,E1BK28_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3T142,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A7YY58_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3ZCH0,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q08DT1,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P10462_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q2NKZ1,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A6QNL5_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1MLG3_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3SZ62,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q9TU47,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q2KJC9,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_P52193,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A0JND0_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3ZBA4,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q95140,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3SZV5,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q1LZF9,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A5D7F4_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_P53619,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1ML06_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P07688_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A5PKA3_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P15690_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1N169_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1MPI4_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3ZBA5,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_P80457,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P00829_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q76LV1,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1MUM9_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_P39872,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,O77775_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3T169,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q5EA62,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A7Z057_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1MEB4_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P06394_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A4FV29_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A4IF88_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1MCK2_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q08DK3,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q9MYP6,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P13696_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P12763_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q9MYW0,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q5KR49,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1MZ14_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,E1BEK9_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3T0F2,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1N7I6_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A6QLZ0_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_P49951,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_P21752,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,E1BJI4_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,G3MZ70_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A5PKH0_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q29RV1,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3T056,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A8E4Q9_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A6QQP4_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3MHJ8,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q1RMX7,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q5EAE3,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q5XQN5,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q4JF28,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3SZ18,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A3KMW1_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3ZCL8,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q32LP2,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_P45478,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3SZ90,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q2TBQ5,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_P81282,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1MWD3_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q5E9X4,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q2HJ89,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q2KJ25,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q27971,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,G3MX91_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,E1BFG0_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q2KII4,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q5E997,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q95108,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q2TBN8,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A7YWS3_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q148H5,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,O97680_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3ZC07,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q17QC8,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q862I1,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3SZR8,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3SZR9,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A1L5B6_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q32P97,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A0JN70_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3ZBH0,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3MHY1,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3T0I2,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P00442_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A6QPG8_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_P35705,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,A5D9B6_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q865V0,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1N3L7_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q148G7,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3SZB4,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,P19711_Q3SZB5,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,F1MFJ6_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9913,bos taurus,E1BE32_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,72004,bos mutus,L8INJ9_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,F1S418_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,M3UZ49_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,F1RT83_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,I3LLZ3_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,O46427_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,I3LPL3_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,P19711_P41367,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,I3L6L7_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,F1SX59_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,F1RS71_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,F1RFI7_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,F1SQL5_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,P19711_Q45FY6,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,A1E295_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,A0A287A361_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,F1S7T5_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,I3LNA4_P19711,150
+11100,bovine viral diarrhea virus 1-nadl,9823,sus scrofa,M3VK34_P19711,150
+28344,porcine reproductive and respiratory syndrome virus,9823,sus scrofa,K7GS49_X5D6G5,2
+28344,porcine reproductive and respiratory syndrome virus,9823,sus scrofa,A6YQT5_K7GS49,2
+11104,hepatitis c virus (isolate 1),10090,mus musculus,P26664_Q91XE4,1
+11105,hepatitis c virus (isolate bk),10090,mus musculus,P26663_P52480,2
+11105,hepatitis c virus (isolate bk),10090,mus musculus,P26663_Q62245,2
+12305,cucumber mosaic virus,3702,arabidopsis thaliana,C1KKL7_Q42547,1
+12307,cucumber mosaic virus (strain fny),3702,arabidopsis thaliana,P0C783_Q42547,1
+12302,brome mosaic virus,559292,saccharomyces cerevisiae s288c,P03588_Q12402,6
+12302,brome mosaic virus,559292,saccharomyces cerevisiae s288c,P03588_Q04947,6
+12302,brome mosaic virus,559292,saccharomyces cerevisiae s288c,P03588_Q12443,6
+12302,brome mosaic virus,4932,saccharomyces cerevisiae,P03588_Q12402,6
+12302,brome mosaic virus,4932,saccharomyces cerevisiae,P03588_Q04947,6
+12302,brome mosaic virus,4932,saccharomyces cerevisiae,P03588_Q12443,6
+11908,human t-lymphotropic virus 1,10090,mus musculus,Q82235_Q9DBG9,1
+503404,tomato yellow leaf curl virus-mild [japan:atumi],4081,solanum lycopersicum,A5YVF1_Q764F6,1
+10530,murine adenovirus 1,10090,mus musculus,P12534_P13405,2
+10530,murine adenovirus 1,10090,mus musculus,P12534_Q64701,2
+10320,bovine alphaherpesvirus 1,9913,bos taurus,Q0VD32_Q89582,9
+10320,bovine alphaherpesvirus 1,9913,bos taurus,B0JYL6_Q4VW77,9
+10320,bovine alphaherpesvirus 1,9913,bos taurus,F1MQ85_Q89582,9
+10320,bovine alphaherpesvirus 1,9913,bos taurus,E1B705_Q89582,9
+10320,bovine alphaherpesvirus 1,9913,bos taurus,Q3ZBY5_Q89582,9
+10320,bovine alphaherpesvirus 1,9913,bos taurus,F6RA30_Q89582,9
+10320,bovine alphaherpesvirus 1,9913,bos taurus,A5PJP2_Q89582,9
+10320,bovine alphaherpesvirus 1,9913,bos taurus,E1BHE1_Q89582,9
+10320,bovine alphaherpesvirus 1,9534,chlorocebus aethiops,Q4R4G2_Q4VW77,9
+10323,bovine herpesvirus type 1.1 (strain cooper),10116,rattus norvegicus,P36372_Q77CE4,2
+10323,bovine herpesvirus type 1.1 (strain cooper),10116,rattus norvegicus,P36370_Q77CE4,2
+10324,bovine herpesvirus type 1.1 (strain p8-2),9913,bos taurus,A1A4K3_P30021,1
+82830,epstein-barr virus strain ag876,748671,lactobacillus crispatus st1,D5H2E2_Q1HVD3,2
+82830,epstein-barr virus strain ag876,375286,janthinobacterium sp. marseille,A6SZC0_P0CK48,2
+10326,equid alphaherpesvirus 1,9796,equus caballus,Q6F4H9_Q9XS82,1
+79889,bovine herpesvirus type 1.1,9913,bos taurus,E1B8D6_K4P3M7,3
+79889,bovine herpesvirus type 1.1,10090,mus musculus,Q01705_Q77CA8,3
+79889,bovine herpesvirus type 1.1,10090,mus musculus,Q61982_Q77CA8,3
+11801,moloney murine leukemia virus,10090,mus musculus,Q60953_Q8UN00,1
+142803,rice dwarf virus (isolate akita),4530,oryza sativa,O22544_Q85449,1
+992212,sfts virus hb29,10116,rattus norvegicus,F1BA49_Q62625,1
+11259,human respiratory syncytial virus a2,9534,chlorocebus aethiops,M1QCQ2_P03418,1
+11208,simian virus 5 (strain w3),9031,gallus gallus,D9N195_P11207,6
+11208,simian virus 5 (strain w3),9913,bos taurus,E1BJZ0_P11207,6
+11208,simian virus 5 (strain w3),10090,mus musculus,P11207_Q6Q899,6
+11208,simian virus 5 (strain w3),10090,mus musculus,P11207_Q8R5F7,6
+11208,simian virus 5 (strain w3),9823,sus scrofa,A7LCX1_P11207,6
+11208,simian virus 5 (strain w3),59729,taeniopygia guttata,H0Z993_P11207,6
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0QRU8_A8WA35,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0QXZ9_A8WA52,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0R684_A8WA42,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0QUX1_A8WA52,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0R3H8_A8WA52,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0QSD3_A8WA17,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0R0M8_A8WA22,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0QT01_A8WA05,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0R3X1_A8WA35,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0QTT2_A8WA53,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0QRI6_A8WA23,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0QTX7_A8WA17,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0R6W9_A8WA52,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0R0L7_A8WA42,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0QU44_A8WA19,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0QYW6_A8WA35,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0QYQ7_A8WA52,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A8WA42_I7FZH1,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0R6X2_A8WA53,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0QRX4_A8WA35,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0R4B7_A8WA05,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0R3S1_A8WA19,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0R1F2_A8WA44,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0R3Y7_A8WA53,25
+480808,mycobacterium phage giles,246196,mycobacterium smegmatis str. mc2 155,A0QZU6_A8WA52,25
+11685,hiv-1 m:b_arv2/sf2,10116,rattus norvegicus,P05952_Q05962,1
+11686,human immunodeficiency virus type 1 (bru isolate),9534,chlorocebus aethiops,P03348_Q6SSD8,1
+91753,cucurbit aphid-borne yellows virus,3702,arabidopsis thaliana,Q39255_Q65967,3
+91753,cucurbit aphid-borne yellows virus,3702,arabidopsis thaliana,Q65967_Q9FHW7,3
+91753,cucurbit aphid-borne yellows virus,3702,arabidopsis thaliana,Q65967_Q94AH6,3
+10879,pseudomonas phage phi6,264730,pseudomonas savastanoi pv. phaseolicola 1448a,P11126_Q48EH2,2
+10879,pseudomonas phage phi6,319,pseudomonas savastanoi pv. phaseolicola,P11126_Q48EH2,2
+356411,hepatitis c virus jfh-1,10116,rattus norvegicus,Q62625_Q99IB8,2
+356411,hepatitis c virus jfh-1,10090,mus musculus,Q99IB8_Q9Z2A7,2
+10872,pseudomonas phage pf3,83333,escherichia coli k-12,P03623_P25714,2
+10872,pseudomonas phage pf3,83333,escherichia coli k-12,P03623_P07019,2
+10708,pseudomonas phage d3112,208963,pseudomonas aeruginosa ucbpp-pa14,Q02MM0_Q6TM72,4
+10708,pseudomonas phage d3112,208963,pseudomonas aeruginosa ucbpp-pa14,Q02ML9_Q6TM72,4
+10708,pseudomonas phage d3112,208963,pseudomonas aeruginosa ucbpp-pa14,Q02MM1_Q6TM72,4
+10708,pseudomonas phage d3112,208963,pseudomonas aeruginosa ucbpp-pa14,Q02MM2_Q6TM72,4
+490133,hepatitis b virus ayw/france/tiollais/1979,10090,mus musculus,P03165_P31750,1
+12643,ectromelia virus,10090,mus musculus,O35903_O57300,7
+12643,ectromelia virus,10090,mus musculus,P40224_Q9JFT2,7
+12643,ectromelia virus,10090,mus musculus,O35903_Q9JFT2,7
+12643,ectromelia virus,10090,mus musculus,O35903_Q8JLJ0,7
+12643,ectromelia virus,10090,mus musculus,O55038_Q8JLJ0,7
+12643,ectromelia virus,10090,mus musculus,O55038_Q9JFT2,7
+12643,ectromelia virus,10090,mus musculus,P40224_Q8JLJ0,7
+11082,west nile virus,7159,aedes aegypti,P06935_Q16K62,2
+11082,west nile virus,7159,aedes aegypti,P06935_Q17NZ6,2
+12242,tobacco mosaic virus,3702,arabidopsis thaliana,A0A178URJ7_P03586,1
+12243,tobacco mosaic virus (vulgare),4100,nicotiana benthamiana,B2C7Y6_P03586,2
+12243,tobacco mosaic virus (vulgare),4097,nicotiana tabacum,P03586_Q75WV4,2
+1093672,pseudomonas phage jbd26,208963,pseudomonas aeruginosa ucbpp-pa14,H6V8P1_Q02MM2,1
+11759,mouse mammary tumor virus (strain c3h),10090,mus musculus,Q85646_Q9QUI1,1
+11691,human immunodeficiency virus type 1 (sf162 isolate),10090,mus musculus,P19554_P84091,2
+11691,human immunodeficiency virus type 1 (sf162 isolate),10090,mus musculus,P19554_P35585,2
+10760,enterobacteria phage t7,83333,escherichia coli k-12,P00581_P0AA25,1
+587200,variola virus human/india/ind3/1967,10116,rattus norvegicus,P16599_P34015,2
+587200,variola virus human/india/ind3/1967,10090,mus musculus,P06804_P34015,2
+450149,simian rotavirus a/sa11-h96,9534,chlorocebus aethiops,A2T3M4_P13481,1
+10637,mouse polyomavirus (strain crawford small-plaque),10090,mus musculus,P12908_P14733,1
+10636,murine polyomavirus strain a2,10090,mus musculus,P03096_P14733,2
+10636,murine polyomavirus strain a2,10090,mus musculus,P03096_P08113,2
+11096,classical swine fever virus,9825,sus scrofa domesticus,A0A0B8RVK9_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,F1SBS1_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,F1SBL0_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F2Z5H9_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F1SE73_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,I3L5D4_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,I3LSP1_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,Q5U8X5_Q864B5,59
+11096,classical swine fever virus,9823,sus scrofa,P02067_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F1SQL5_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F1S3W8_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,P63246_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,K7ZLA6_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F1S3J2_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,Q35915_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,D7PRN1_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,A0A286ZV95_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,F1SKJ2_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,P63246_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F1SF21_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F1RVY7_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,I3LPM1_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,B6VAQ2_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F2X8A1_I3L813,59
+11096,classical swine fever virus,9823,sus scrofa,Q5U8X5_Q6QAQ1,59
+11096,classical swine fever virus,9823,sus scrofa,B2XWS1_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,P49171_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F2X8A1_I3LEC2,59
+11096,classical swine fever virus,9823,sus scrofa,I3L928_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F1RUT0_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,I3LII3_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,A3EX84_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,K7GMX1_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,F1S1A8_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F1SID4_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,F2X8A1_P19130,59
+11096,classical swine fever virus,9823,sus scrofa,P00355_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,A0A0A7HF29_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,F1SNL7_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F1RRJ4_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,Q5U8X5_Q8MJ14,59
+11096,classical swine fever virus,9823,sus scrofa,Q2YHQ3_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F2X8A1_Q49I35,59
+11096,classical swine fever virus,9823,sus scrofa,Q5U8X5_Q9TSW1,59
+11096,classical swine fever virus,9823,sus scrofa,B1PVV8_Q04967,59
+11096,classical swine fever virus,9823,sus scrofa,F1RUZ6_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,P19620_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,P04246_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,A9YUB1_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,I3LK59_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,A7TX81_Q9YS30,59
+11096,classical swine fever virus,9823,sus scrofa,F1SB42_F2X8A1,59
+11096,classical swine fever virus,9823,sus scrofa,Q5U8X5_Q5W9D5,59
+11096,classical swine fever virus,9823,sus scrofa,I3LE95_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,P62197_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,B1PVV8_Q0PY11,59
+11096,classical swine fever virus,9823,sus scrofa,P62901_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F1SBS1_Q5U8X5,59
+11096,classical swine fever virus,9823,sus scrofa,F2X8A1_Q29328,59
+11097,hog cholera virus (strain alfort),9823,sus scrofa,P19620_P19712,3
+11097,hog cholera virus (strain alfort),9823,sus scrofa,F1S912_P19712,3
+11097,hog cholera virus (strain alfort),9823,sus scrofa,P19712_Q764M6,3
+648235,murine minute virus strain mvm prototype,10116,rattus norvegicus,P0DJZ2_Q80U96,6
+648235,murine minute virus strain mvm prototype,10090,mus musculus,P03134_P97801,6
+648235,murine minute virus strain mvm prototype,10090,mus musculus,A2AIM4_P03134,6
+648235,murine minute virus strain mvm prototype,10090,mus musculus,P03134_Q60737,6
+648235,murine minute virus strain mvm prototype,10090,mus musculus,P03134_P21107,6
+648235,murine minute virus strain mvm prototype,10090,mus musculus,P0DJZ2_Q6P5F9,6
+11098,classical swine fever virus - brescia,9913,bos taurus,E1BEK9_P21530,97
+11098,classical swine fever virus - brescia,9913,bos taurus,A7YWS3_P21530,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q2KII4,97
+11098,classical swine fever virus - brescia,9913,bos taurus,A5PKH0_P21530,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q9TU47,97
+11098,classical swine fever virus - brescia,9913,bos taurus,F1MLG3_P21530,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_P45478,97
+11098,classical swine fever virus - brescia,9913,bos taurus,F1MFJ6_P21530,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q3T142,97
+11098,classical swine fever virus - brescia,9913,bos taurus,E1BBZ3_P21530,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q5E997,97
+11098,classical swine fever virus - brescia,9913,bos taurus,E1BE11_P21530,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q0VC92,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q32P97,97
+11098,classical swine fever virus - brescia,9913,bos taurus,A5PKA3_P21530,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q5EA62,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q08DK3,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q2NKZ1,97
+11098,classical swine fever virus - brescia,9913,bos taurus,A7YY58_P21530,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P15690_P21530,97
+11098,classical swine fever virus - brescia,9913,bos taurus,O77775_P21530,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q17QC8,97
+11098,classical swine fever virus - brescia,9913,bos taurus,F1N169_P21530,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q148G7,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q865V0,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q3T0F2,97
+11098,classical swine fever virus - brescia,9913,bos taurus,A6QLZ0_P21530,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q3MHH4,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q2KJC9,97
+11098,classical swine fever virus - brescia,9913,bos taurus,P21530_Q95108,97
+11098,classical swine fever virus - brescia,9913,bos taurus,F1MZ14_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,K7GT69_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,P21530_Q45FY6,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,K7GQR1_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SHI5_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SKJ2_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1RFI7_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SHD7_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,P21530_Q08353,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,K9IWF9_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,I3L8I5_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,A0A287A1K8_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,I3LFC3_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SG35_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F2Z5H9_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1S405_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,D0G0C9_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,A0A287BSS3_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,A0A286ZKC7_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,I3LM99_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SD85_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,A0A286ZU83_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,A0A287A361_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,A1E295_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,M3TYW5_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,I3L6L7_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1RS71_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,M3UZ49_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SKD4_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,K7GPN9_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SAL9_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,A0A287BGL7_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1S729_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,P21530_Q2YHQ3,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1S418_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SQL5_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SRI0_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SQJ5_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,P21530_Q29221,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1STI6_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1S7T5_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,A7WLH8_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1RT83_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,D0G6S1_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,I3LJU0_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,I3LPL3_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1RKI3_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,I3LNA4_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,K7GRV5_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,P21530_Q7YRH7,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SD87_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,A0A287AYH9_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,I3LGV2_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,C0MHR2_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,I3LLZ3_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,M3VK34_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,P21530_P41367,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,I3LGM5_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,A0A287BFP7_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,I3LSM3_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SX59_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SQ44_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SFQ0_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,O46427_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SGD0_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1SLT8_P21530,97
+11098,classical swine fever virus - brescia,9823,sus scrofa,F1RKM1_P21530,97
+10258,orf virus,10090,mus musculus,Q2F862_Q9Z126,1
+10794,minute virus of mice,559292,saccharomyces cerevisiae s288c,P32835_Q1AE18,5
+10794,minute virus of mice,10090,mus musculus,Q6P5F9_Q83414,5
+10794,minute virus of mice,10090,mus musculus,P03134_P58774,5
+10794,minute virus of mice,10090,mus musculus,P03134_Q60737,5
+10794,minute virus of mice,10090,mus musculus,P03134_P21107,5
+121791,nipah henipavirus,10090,mus musculus,O35393_Q9IH62,2
+121791,nipah henipavirus,10090,mus musculus,O35393_Q4VCP5,2
+10254,vaccinia virus wr,10116,rattus norvegicus,P21605_P62752,11
+10254,vaccinia virus wr,10116,rattus norvegicus,P37285_P68619,11
+10254,vaccinia virus wr,10090,mus musculus,O88447_P68619,11
+10254,vaccinia virus wr,10090,mus musculus,P24766_P84443,11
+10254,vaccinia virus wr,10090,mus musculus,O88448_P68619,11
+10254,vaccinia virus wr,10090,mus musculus,P12850_P24766,11
+10254,vaccinia virus wr,10090,mus musculus,P21605_P63166,11
+10254,vaccinia virus wr,10090,mus musculus,O55038_P24766,11
+10254,vaccinia virus wr,10090,mus musculus,O88522_P24772,11
+10254,vaccinia virus wr,10090,mus musculus,O35903_P24766,11
+10254,vaccinia virus wr,10090,mus musculus,P24766_Q9JIL2,11
+10389,marek's disease herpesvirus type 1 strain md5,10090,mus musculus,P09450_Q9DGW5,4
+10389,marek's disease herpesvirus type 1 strain md5,9031,gallus gallus,P18870_Q9DGW5,4
+10389,marek's disease herpesvirus type 1 strain md5,9031,gallus gallus,Q5ZIZ6_Q9DGW5,4
+10389,marek's disease herpesvirus type 1 strain md5,9031,gallus gallus,P08106_Q9DGW5,4
+37114,human papillomavirus type 55,3702,arabidopsis thaliana,P14712_Q80936,1
+435895,human herpesvirus 8 type m,10090,mus musculus,P45481_P88946,1
+82831,equid herpesvirus type 2 strain 86/87,10090,mus musculus,Q66677_Q9Z0H7,1
+506350,influenza a virus (a/hong kong/1/1968(h3n2)),10090,mus musculus,Q910N6_Q9Z2V5,2
+506350,influenza a virus (a/hong kong/1/1968(h3n2)),10090,mus musculus,P22435_Q9Z2V5,2
+268305,bovine viral diarrhea virus 1-cp7,9913,bos taurus,P68103_Q96662,1
+10329,equine herpesvirus type 1 (strain kentucky a),9796,equus caballus,F6RKM7_P17473,1
+39803,escherichia virus qbeta,83333,escherichia coli k-12,P0A6P1_Q8LTE0,4
+39803,escherichia virus qbeta,83333,escherichia coli k-12,P0CE47_Q8LTE0,4
+39803,escherichia virus qbeta,83333,escherichia coli k-12,P0A6P1_P14647,4
+39803,escherichia virus qbeta,83333,escherichia coli k-12,P0CE47_P14647,4
+11624,lymphocytic choriomeningitis virus (strain armstrong),10090,mus musculus,P18541_P63073,1
+11628,machupo mammarenavirus,10090,mus musculus,P63073_Q6UY77,1
+12136,cricket paralysis virus,7227,drosophila melanogaster,Q9IJX4_Q9VUQ5,1
+358769,classical swine fever virus - alfort/187,9823,sus scrofa,F1RGL0_Q68871,3
+358769,classical swine fever virus - alfort/187,9823,sus scrofa,Q68871_Q764M6,3
+358769,classical swine fever virus - alfort/187,9823,sus scrofa,F1RK46_Q68871,3
+10407,hepatitis b virus,5855,plasmodium vivax,Q26195_Q8V1H6,3
+10407,hepatitis b virus,9913,bos taurus,P00514_Q6XGM8,3
+10407,hepatitis b virus,9913,bos taurus,P00515_Q6XGM8,3
+31531,vaccinia virus l-ipv,559292,saccharomyces cerevisiae s288c,Q03860_YKL003,6
+31531,vaccinia virus l-ipv,10090,mus musculus,P68451_Q91ZE9,6
+31531,vaccinia virus l-ipv,10090,mus musculus,P62816_P68451,6
+31531,vaccinia virus l-ipv,10090,mus musculus,O88597_P68451,6
+31531,vaccinia virus l-ipv,10090,mus musculus,P68451_Q4JG03,6
+31531,vaccinia virus l-ipv,266,paracoccus denitrificans,P22364_P29889,6
+420174,hepatitis c virus isolate hc-j4,10116,rattus norvegicus,O92972_P35213,3
+420174,hepatitis c virus isolate hc-j4,559292,saccharomyces cerevisiae s288c,O92972_P29311,3
+420174,hepatitis c virus isolate hc-j4,10090,mus musculus,O92972_P06240,3
+10643,cauliflower mosaic virus (strain bari 1),3702,arabidopsis thaliana,O49160_P16666,2
+10643,cauliflower mosaic virus (strain bari 1),3702,arabidopsis thaliana,P16666_Q9FR53,2
+10641,cauliflower mosaic virus,3702,arabidopsis thaliana,P84634_Q3HM11,2
+10641,cauliflower mosaic virus,39947,oryza sativa japonica group,Q3HM11_Q71VM4,2
+10390,gallid alphaherpesvirus 2,9031,gallus gallus,P18870_Q77Q71,3
+10390,gallid alphaherpesvirus 2,9031,gallus gallus,P08998_Q69283,3
+10390,gallid alphaherpesvirus 2,9031,gallus gallus,P10360_Q77Q71,3
+10560,bovine papillomavirus type 2,9913,bos taurus,Q0VC10_Q6XHB4,1
+194699,bordetella virus bpp1,257310,bordetella bronchiseptica rb50,Q03035_Q775D6,2
+194699,bordetella virus bpp1,518,bordetella bronchiseptica,Q03035_Q775D6,2
+10243,cowpox virus,10090,mus musculus,P40224_Q8QMN0,3
+10243,cowpox virus,10090,mus musculus,O55038_Q8QMN0,3
+10243,cowpox virus,10090,mus musculus,O35903_Q8QMN0,3
+11234,measles morbillivirus,9490,saguinus oedipus,E2RZS2_Q9GJT3,1
+1891730,mus musculus polyomavirus 1,10116,rattus norvegicus,P0DOJ9_P63331,6
+1891730,mus musculus polyomavirus 1,10116,rattus norvegicus,P0DOJ9_Q5M824,6
+1891730,mus musculus polyomavirus 1,10116,rattus norvegicus,P0DOJ9_Q4QQT4,6
+1891730,mus musculus polyomavirus 1,10090,mus musculus,P0DOJ9_P98083,6
+1891730,mus musculus polyomavirus 1,10090,mus musculus,P0DOJ6_P45481,6
+1891730,mus musculus polyomavirus 1,10090,mus musculus,P0DOJ9_P26450,6
+421879,hepatitis c virus isolate hcr6,10090,mus musculus,O88942_Q913V3,1
+11060,dengue virus 2,9598,pan troglodytes,H2R8B8_O92835,1
+333284,hepatitis c virus (isolate con1),10116,rattus norvegicus,P05182_Q9WMX2,2
+333284,hepatitis c virus (isolate con1),10090,mus musculus,P54116_Q9WMX2,2
+10714,corynephage omega,9823,sus scrofa,P00587_Q01580,1
+392809,influenza a virus (a/victoria/3/1975(h3n2)),10090,mus musculus,P31345_P52293,1
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03689_Q46855,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,J3JZZ6_P33602,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03689_P0A8N0,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03767_P0A9E2,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCZ0_P33369,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03767_P0AF59,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCU8_P0AFT8,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03734_P45577,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03047_P67910,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03767_P16433,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCZ0_P0AFT8,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCZ0_P76500,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03767_P37194,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03734_P64534,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03734_P0A6G7,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCX5_P64435,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCU8_P0AF59,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,J3JZZ6_P75824,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,Q38267_Q46855,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,J3JZZ6_P13445,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCX1_P0AE58,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03767_P69913,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,J3JZZ6_P0AFF6,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03734_P39405,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03047_Q46855,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCV8_P0AFW2,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03767_P0A734,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03767_P08244,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCY3_P0A734,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,J3JZZ6_P76270,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,J3JZZ6_P0A8N0,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03047_P76079,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03734_P39163,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCY3_P31574,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCU8_P0A734,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCV8_P0A7L8,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCV8_P0A8N0,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCV8_P02359,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03767_P45766,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCY3_P0AEJ8,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03700_P31062,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03767_P0A937,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCV8_P75960,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03708_P31062,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P00960_P03047,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03734_P0AAJ5,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03708_P31061,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,J3JZZ6_P18196,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03767_P76270,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCX6_P0AEE1,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,J3JZZ6_P0ACT2,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCX1_P39405,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03689_P19636,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCV8_P0A9E2,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03767_P07026,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,P03689_P0A6E6,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCY3_P76177,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCZ0_P33343,62
+10710,escherichia virus lambda,83333,escherichia coli k-12,C6ZCV8_P23862,62
+10710,escherichia virus lambda,562,escherichia coli,C6ZCZ0_J7QZ11,62
+10710,escherichia virus lambda,562,escherichia coli,C6ZCV8_J7QZ11,62
+10710,escherichia virus lambda,562,escherichia coli,J7QZ11_P03734,62
+11868,avian myelocytomatosis virus 29,9031,gallus gallus,P01110_P52162,1
+28285,human adenovirus 5,10116,rattus norvegicus,O08769_P03255,11
+28285,human adenovirus 5,10116,rattus norvegicus,F1M589_P03243,11
+28285,human adenovirus 5,10116,rattus norvegicus,O55164_P04489,11
+28285,human adenovirus 5,10116,rattus norvegicus,P03255_Q63470,11
+28285,human adenovirus 5,559292,saccharomyces cerevisiae s288c,P03255_P14680,11
+28285,human adenovirus 5,10090,mus musculus,P04489_Q6RHR9,11
+28285,human adenovirus 5,10090,mus musculus,P03255_P45481,11
+28285,human adenovirus 5,6239,caenorhabditis elegans,O01914_P03255,11
+28285,human adenovirus 5,6239,caenorhabditis elegans,P03255_Q20747,11
+28285,human adenovirus 5,7227,drosophila melanogaster,O46036_P03255,11
+28285,human adenovirus 5,7227,drosophila melanogaster,P03255_P47825,11
+10679,escherichia virus p2,83333,escherichia coli k-12,P07696_P0ACB0,1
+10678,escherichia virus p1,83333,escherichia coli k-12,P0CE47_Q06259,1
+28282,human adenovirus 12,10116,rattus norvegicus,O08769_P03259,3
+28282,human adenovirus 12,10116,rattus norvegicus,O55164_P36709,3
+28282,human adenovirus 12,10090,mus musculus,P36709_Q6RHR9,3
+31525,human herpesvirus 4 strain cao,375286,janthinobacterium sp. marseille,A6SZC0_P29362,1
+381517,influenza a virus (a/udorn/307/1972(h3n2)),9913,bos taurus,P03495_P23726,1
+10367,murine cytomegalovirus (strain smith),10090,mus musculus,Q06A28_Q62172,1
+10366,murid betaherpesvirus 1,10090,mus musculus,Q06A28_Q62172,1
+10571,bovine papillomavirus,10090,mus musculus,C5IAU5_P05622,1
+11484,influenza a virus (a/whale/maine/1/84(h13n9)),10090,mus musculus,P01647_P05803,1
+12115,foot-and-mouth disease virus (strain a24 cruzeiro),9913,bos taurus,P03309_Q28141,1
+12118,foot-and-mouth disease virus - type o,9913,bos taurus,Q4A1L4_Q8UZC1,3
+12118,foot-and-mouth disease virus - type o,9913,bos taurus,P48616_Q8UZC1,3
+12118,foot-and-mouth disease virus - type o,9913,bos taurus,Q3ZBH9_Q8UZC1,3
+46930,human adenovirus 28,10116,rattus norvegicus,C4P226_Q62918,1
+11077,kunjin virus,6728,procambarus clarkii,P45521_Q91CG6,1
+10310,human alphaherpesvirus 2,10090,mus musculus,F6SEU4_G9I261,1
+1980476,laguna negra orthohantavirus,3055,chlamydomonas reinhardtii,O12369_P05434,1
+11723,simian immunodeficiency virus,9031,gallus gallus,Q02842_Q5ZJL9,1
+10832,tomato yellow leaf curl virus,4081,solanum lycopersicum,A5YVF1_Q764F6,1
+31634,dengue virus 2 thailand/16681/84,9913,bos taurus,P00974_P29990,1
+53369,staphylococcus phage 80alpha,1280,staphylococcus aureus,A4ZF81_Q7X3P4,1
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,C7EMF0_Q4U3C3,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,Q1HQ70_Q4U3C0,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,Q1HPT9_Q4U3C3,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,Q4U3C3_Q9BMQ7,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,Q1HPK6_Q4U3C3,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,O01953_Q4U3C0,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,Q4U3C5_Q9BMQ7,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,H9BVM4_Q4U3C3,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,C4B7Z7_Q4U3C5,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,Q4U3C2_Q9BMQ7,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,C4B7Z7_Q4U3C3,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,Q4U3C3_Q9XY10,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,Q4U3C6_Q5UAN9,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,H9BVM5_Q4U3C3,15
+648412,bombyx mori densovirus 3 isolate vd1/vd2,7091,bombyx mori,Q4U3C2_Q5UAN9,15
+223341,tomato golden mosaic virus-yellow vein,3702,arabidopsis thaliana,O82175_P03562,6
+223341,tomato golden mosaic virus-yellow vein,3702,arabidopsis thaliana,P03562_Q8VZ17,6
+223341,tomato golden mosaic virus-yellow vein,3702,arabidopsis thaliana,O22781_P03562,6
+223341,tomato golden mosaic virus-yellow vein,3702,arabidopsis thaliana,P03567_Q5HZ38,6
+223341,tomato golden mosaic virus-yellow vein,3702,arabidopsis thaliana,P03562_Q8GZB6,6
+223341,tomato golden mosaic virus-yellow vein,3702,arabidopsis thaliana,P03567_Q93V58,6
+10315,human herpesvirus 2 strain hg52,284812,schizosaccharomyces pombe 972h-,P68336_P87310,2
+10315,human herpesvirus 2 strain hg52,284812,schizosaccharomyces pombe 972h-,P68336_P87306,2
+12042,beet western yellows virus,3702,arabidopsis thaliana,Q8JZ12_Q94AH6,1
+11045,rubella virus strain therien,9534,chlorocebus aethiops,P07566_Q9MZE0,1
+11044,rubella virus vaccine strain ra27/3,9534,chlorocebus aethiops,O40955_Q9MZE0,1
+10376,human gammaherpesvirus 4,748671,lactobacillus crispatus st1,D5H2E2_M1FZY5,11
+10376,human gammaherpesvirus 4,748671,lactobacillus crispatus st1,D5H2E2_P0C738,11
+10376,human gammaherpesvirus 4,748671,lactobacillus crispatus st1,D5H2E2_G3E2M5,11
+10376,human gammaherpesvirus 4,10090,mus musculus,P03203_P31266,11
+10376,human gammaherpesvirus 4,10090,mus musculus,P31266_Q69138,11
+10376,human gammaherpesvirus 4,10090,mus musculus,P31266_Q69139,11
+10376,human gammaherpesvirus 4,375286,janthinobacterium sp. marseille,A6SZC0_Q3KSR7,11
+10376,human gammaherpesvirus 4,375286,janthinobacterium sp. marseille,A6SZC0_P0C738,11
+10376,human gammaherpesvirus 4,375286,janthinobacterium sp. marseille,A6SZC0_Q3KSS3,11
+10376,human gammaherpesvirus 4,375286,janthinobacterium sp. marseille,A6SZC0_Q3KSQ7,11
+10376,human gammaherpesvirus 4,375286,janthinobacterium sp. marseille,A6SZC0_P0C736,11
+10377,human herpesvirus 4 strain b95-8,748671,lactobacillus crispatus st1,D5H2E2_P03219,10
+10377,human herpesvirus 4 strain b95-8,748671,lactobacillus crispatus st1,D5H2E2_P03199,10
+10377,human herpesvirus 4 strain b95-8,10090,mus musculus,P03228_P07141,10
+10377,human herpesvirus 4 strain b95-8,10090,mus musculus,Q8AZK7_Q9JLV1,10
+10377,human herpesvirus 4 strain b95-8,10090,mus musculus,P03228_P09581,10
+10377,human herpesvirus 4 strain b95-8,10090,mus musculus,O54918_P03182,10
+10377,human herpesvirus 4 strain b95-8,6239,caenorhabditis elegans,P12978_Q20747,10
+10377,human herpesvirus 4 strain b95-8,6239,caenorhabditis elegans,O01914_P12978,10
+10377,human herpesvirus 4 strain b95-8,375286,janthinobacterium sp. marseille,A6SZC0_P03192,10
+10377,human herpesvirus 4 strain b95-8,375286,janthinobacterium sp. marseille,A6SZC0_Q8AZK7,10
+928306,moloney murine leukemia virus isolate shinnick,10090,mus musculus,P03332_Q9QZK7,5
+928306,moloney murine leukemia virus isolate shinnick,10090,mus musculus,P03332_P63037,5
+928306,moloney murine leukemia virus isolate shinnick,10090,mus musculus,P03332_Q9JKF1,5
+928306,moloney murine leukemia virus isolate shinnick,10090,mus musculus,P03332_P40142,5
+928306,moloney murine leukemia virus isolate shinnick,10090,mus musculus,P03332_P27870,5
+928300,cricket paralysis virus teleogryllus commodus/australia/crpvvic/1968,7227,drosophila melanogaster,Q9IJX4_Q9VUQ5,1
+928302,hepatitis b virus c/ayr human/japan/okamoto,10090,mus musculus,Q69027_Q8VCF0,4
+928302,hepatitis b virus c/ayr human/japan/okamoto,10090,mus musculus,Q69027_Q8C165,4
+928302,hepatitis b virus c/ayr human/japan/okamoto,10090,mus musculus,G5E8K5_Q69027,4
+928302,hepatitis b virus c/ayr human/japan/okamoto,10090,mus musculus,A2AS03_Q69027,4
+333760,human papillomavirus type 16,9031,gallus gallus,P03126_P49024,7
+333760,human papillomavirus type 16,9913,bos taurus,O19137_P03120,7
+333760,human papillomavirus type 16,9913,bos taurus,P03120_P79101,7
+333760,human papillomavirus type 16,9913,bos taurus,P03120_Q10569,7
+333760,human papillomavirus type 16,9913,bos taurus,P03120_Q10568,7
+333760,human papillomavirus type 16,10090,mus musculus,O08696_P03129,7
+333760,human papillomavirus type 16,10090,mus musculus,P03126_Q6RHR9,7
+333761,human papillomavirus type 18,10116,rattus norvegicus,O55164_P06463,3
+333761,human papillomavirus type 18,10090,mus musculus,P06463_Q811D0,3
+333761,human papillomavirus type 18,10090,mus musculus,P06463_Q6RHR9,3
+12360,staphylococcus phage 11,1280,staphylococcus aureus,Q8SDV3_Q9F0J8,1
+1605972,cricetid gammaherpesvirus 2,10090,mus musculus,E9M5R0_P10855,2
+1605972,cricetid gammaherpesvirus 2,10090,mus musculus,E9M5R0_P10148,2
+337052,deltapapillomavirus 4,559292,saccharomyces cerevisiae s288c,P03122_P29055,6
+337052,deltapapillomavirus 4,9913,bos taurus,P06931_Q9TS83,6
+337052,deltapapillomavirus 4,10090,mus musculus,P03122_Q9ESU6,6
+337052,deltapapillomavirus 4,10090,mus musculus,P06931_Q08879,6
+337052,deltapapillomavirus 4,10090,mus musculus,A2AN08_P06933,6
+337052,deltapapillomavirus 4,9031,gallus gallus,P06931_P49024,6

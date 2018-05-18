@@ -1,0 +1,5 @@
+NagB - 1FS5:A (activator bound, open, R conformation); 1FS6:A (no activator bound, closed, T conformation)
+NagE - NanE_Ecoli.pdb, SMR model for Uniprot ID P0A761
+Hpr - 3CCD:A 
+U-PII - 5L9N:A (uridylated PII)
+PII - 2PII:A (non-uridylated PII)

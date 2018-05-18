@@ -1,0 +1,56 @@
+salmonella enterica serovar typhi|90370	
+salmonella typhimurium lt2|99287	
+francisella novicida u112|401614	
+sphingomonas wittichii rw1|392499	
+mycoplasma genitalium g37|243273	
+escherichia coli mg1655 ii|UNKNOWN
+*escherichia coli str k12 substr mg1655star|879462|no rank
+arabidopsis thaliana|3702	
+saccharomyces cerevisiae|4932	
+streptococcus pyogenes mgas5448|UNKNOWN
+*streptococcus pyogenes|1314|species
+caulobacter crescentus|155892	
+vibrio cholerae n16961|UNKNOWN
+*vibrio cholerae o1 biovar el tor str n16961|243277|no rank
+pseudomonas aeruginosa ucbpp-pa14|208963	
+mycoplasma pulmonis uab ctip|272635	
+bacillus subtilis 168|224308	
+staphylococcus aureus n315|UNKNOWN
+*staphylococcus aureus subsp. aureus n315|158879|no rank
+mycobacterium tuberculosis h37rv ii|UNKNOWN
+*mycobacterium tuberculosis h37rv|83332|no rank
+danio rerio|7955	
+porphyromonas gingivalis atcc 33277|431947	
+escherichia coli mg1655 i|UNKNOWN
+*escherichia coli str k12 substr mg1655|511145|no rank
+salmonella enterica serovar typhi ty2|UNKNOWN
+*salmonella enterica subsp enterica serovar typhi strain ty2|209261|no rank
+methanococcus maripaludis s2|267377	
+campylobacter jejuni subsp. jejuni nctc 11168 = atcc 700819|192222	
+aspergillus fumigatus|746128	
+salmonella enterica serovar typhimurium sl1344|UNKNOWN
+*salmonella enterica subsp enterica serovar typhimurium str sl1344|216597|no rank
+homo sapiens i|UNKNOWN
+*homo sapiens|9606|species
+shewanella oneidensis mr-1|211586	
+drosophila melanogaster|7227	
+salmonella enterica subsp. enterica serovar typhimurium str. 14028s|588858	
+haemophilus influenzae rd kw20|71421	
+bacteroides fragilis 638r|862962	
+homo sapiens|9606	
+staphylococcus aureus nctc 8325|93061	
+caenorhabditis elegans|6239	
+acinetobacter baylyi adp1|62977	
+burkholderia thailandensis e264|271848	
+mycobacterium tuberculosis h37rv iii|UNKNOWN
+*mycobacterium tuberculosis h37rv|83332|no rank
+helicobacter pylori 26695|85962	
+mus musculus|10090	
+streptococcus sanguinis|1305	
+mycobacterium tuberculosis h37rv|83332	
+streptococcus pyogenes nz131|471876	
+streptococcus pneumoniae|1313	
+burkholderia pseudomallei k96243|272560	
+pseudomonas aeruginosa pao1|208964	
+schizosaccharomyces pombe 972h-|284812	
+bacteroides thetaiotaomicron vpi-5482|226186	

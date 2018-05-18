@@ -1,0 +1,7 @@
+Escherichia_coli_EDL933
+Chlamydia_pneumoniae_J138
+Bacillus_cereus_ATCC_10987
+Streptococcus_pneumoniae_TIGR4
+Methanococcus_maripaludis
+Mycobacterium_tuberculosis_CDC1551
+Buchnera_aphidicola_Bp
